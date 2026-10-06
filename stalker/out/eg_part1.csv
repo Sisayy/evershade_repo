@@ -1,0 +1,54 @@
+id,decision,pl_fixed
+1,FIX,"Niniejsza broszura zawiera informacje oraz zasady do wszystkich rozszerzeń odblokowanych podczas kampanii na Kickstarterze (frakcja Ciemności, Imperatryca Otchłani, Pierwocień, minidodatek „Ukryte Cele”, minidodatek „Artefakty”) oraz dodatkowe minikampanie (Ciemność, Dzwoniec, Imperatryca Otchłani, Ostatnie Miasto)."
+4,DROP,
+5,DROP,
+6,DROP,
+10,DROP,
+14,DROP,
+15,DROP,
+26,FIX,"Dodatek ten zawiera również kampanię solo, która została poświęcona zmaganiom z wszechogarniającą Ciemnością."
+39,DROP,
+43,FIX,W kroku 15 umieść 3 punkty mroku ( ) w puli Ciemności.
+46,FIX,W kroku 16 nie dociągaj 3 startowych kart akcji dla Ciemności (Ciemność dociąga i rozpatruje karty akcji w inny sposób).
+49,DROP,
+62,DROP,
+68,FIX,"Frakcja Ciemność może zmieniać tryb oddziałów, które nie mają modeli na planszy. Może również przywracać żetony wytrzymałości takich oddziałów."
+69,DROP,
+95,FIX,"Jeśli nie jest to możliwe (wszystkie heksy przylegające do Cieńwrót są zajęte), model wystawiany jest na dowolnych pustych heksach z dowolnym wrogim modelem."
+97,DROP,
+104,FIX,"ZAKOŃCZ SWÓJ RUCH Z WROGIM MODELEM O NAJNIŻSZEJ INI W ZASIĘGU RUCHU • Jeśli w zasięgu ruchu nie ma żadnych wrogich modeli, przemieść model Ciemności maksymalną ilość pól w kierunku najbliższego modelu przeciwnika."
+111,FIX,Modele Ciemności nigdy nie zainicjują sekwencji Walki przeciw modelom z żetonem Kryształowa Tarcza Demonów.
+135,DROP,
+153,FIX,"Jeśli talia kart akcji Ciemności skończy się przed upływem 3 tur Ciemności, przetasuj stos kart odrzuconych Ciemności i dodaj odpowiednią ilość kart do talii."
+154,DROP,
+173,DROP,
+176,DROP,
+177,DROP,
+193,DROP,
+201,FIX,"Za każdym razem, gdy jakiś model zostanie zraniony, zabity lub poświęcony, gracz Ciemności umieszcza 1 z puli neutralnej na planszy, na jednym z heksów z modelem (gracz Ciemności wybiera heks)."
+208,DROP,
+230,DROP,
+231,DROP,
+232,DROP,
+235,FIX,"To jest potężna umiejętność, która pozwala Bezlicym nie pozostawać martwymi na długo."
+241,DROP,
+256,DROP,
+285,DROP,
+291,FIX,Efekt: 1 rana.
+299,FIX,Reszta zasad dotyczących odpychania działa normalnie.
+300,DROP,
+309,DROP,
+311,DROP,
+316,DROP,
+317,DROP,
+319,DROP,
+324,DROP,
+325,DROP,
+329,FIX,KARTA WDROŻENIA Wywiert – możesz odpychać wrogie modele przy wystawianiu.
+333,DROP,
+337,FIX,KARTA WDROŻENIA Poczwarka – Anatema zaczyna z 2 żetonami ANATEMY.
+343,DROP,
+349,DROP,
+357,DROP,
+360,DROP,
+361,DROP,
