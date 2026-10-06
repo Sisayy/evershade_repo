@@ -1,0 +1,38 @@
+id,decision,pl_fixed
+350,FIX,"Za każdy uzyskany wynik dobierz kartę z talii Wrogów i dołącz ją (umieść ją w miejscu opisanym jako „Karta Wroga” na swojej Planszy Gracza, po lewej stronie stosu dołączonych Wrogów)."
+353,DROP,
+354,DROP,
+370,DROP,
+373,DROP,
+403,DROP,
+404,DROP,
+426,DROP,
+427,DROP,
+437,DROP,
+449,DROP,
+450,DROP,
+463,FIX,"W czasie Walki Wróg próbuje obniżyć twoją Integralność ( ) do 0, by zmusić cię do resetu, podczas gdy twoim celem jest pokonanie przeciwnika poprzez sprowadzenie jego Integralności ( ) do 0."
+492,FIX,"Jeżeli na jego karcie znajdowała się kość numeryczna, przesuń ją na kolejną kartę po prawej stronie."
+522,DROP,
+524,FIX,"Mogą one być bardzo różne, od zebrania się w jednym miejscu, przez wykonanie Testu, zrzucenie żetonów lub odrzucenie żetonów Ascendu z mapy, aż po ostateczne pokonanie Bossa."
+526,FIX,"2. Krok Działania świata: podczas tego kroku Gracze rozgrywają sekcję „Działania świata” aktywnej karty Scenariusza, która opisuje upływ czasu bądź reakcje świata gry na działania Graczy."
+532,FIX,Poniżej przedstawiamy kilka głównych zasad rozpatrywania Działania świata: I.
+537,DROP,
+546,DROP,
+556,DROP,
+557,FIX,5. Teraz nadchodzi pora rozpatrzenia efektu Wroga: 5a.
+584,DROP,
+587,DROP,
+593,DROP,
+607,DROP,
+608,DROP,
+614,DROP,
+617,DROP,
+626,FIX,"Strach zmusił wielu do opuszczenia domów; część z tych, którzy zostali, zginęła."
+630,FIX,"Wasza zaciętość podnosi morale Cywili, a część z nich, ku waszemu zdumieniu, opuszcza kryjówkę, aby przygotować zasadzkę."
+635,FIX,"ODWRÓĆ TĘ KARTĘ Przykład karty Fabuły Scenariusza (z lewej: strona Fabuły, z prawej: strona Rozgrywki)."
+648,DROP,
+649,DROP,
+669,DROP,
+686,DROP,
+689,FIX,"Pusta ścianka: Jeżeli to możliwe, umieść 1 ze swoich żetonów Blokady na dowolnym Podświetlonym polu Danych, które nie znajduje się w skrajnej prawej kolumnie Konsoli."
