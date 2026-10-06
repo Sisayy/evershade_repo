@@ -1,0 +1,48 @@
+id,decision,pl_fixed
+3941,FIX,Od teraz żetony Sztolni Bullgrima będą używać wszystkich kart Akcji Bossa (zamiast używać tylko Wierzchniej karty).
+3945,DROP,
+3952,DROP,
+3974,FIX,"ZASADY SPECJALNE: Po tym jak Wierzchnia karta zostanie odrzucona, Uulsot nie ląduje na planszy."
+3978,FIX,"Podczas gry gracz nie rozpatruje górnych części kart Uulsota, których akcje i efekty pasywne odnoszą się do żetonów Toksyn."
+4001,FIX,"PRZYGOTOWANIE: Gracz nie może zdobywać ani wydawać Punktów Zwycięstwa, tor jest używany do specjalnej mechaniki."
+4002,FIX,Przygotuj grę według normalnych zasad.
+4003,DROP,
+4006,FIX,KONIEC GRY: Gdy znacznik zwycięstwa osiągnie ostatnie pole Toru Zwycięstwa lub Tytan Przeznaczenia zostanie pokonany.
+4007,FIX,"Jeśli na planszy wciąż jest przynajmniej 1 model gracza, gracz wygrywa."
+4009,FIX,"W tym nowym trybie gracz kontra gracz zarówno ty, jak i twój przeciwnik będziecie dowodzić swoim Bossem."
+4012,DROP,
+4017,DROP,
+4028,FIX,Liczba dodatkowych kryształów jest zależna od Bossa.
+4037,FIX,DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: Żetony ROZŁADOWANIA dają Golemowi Wojennemu wielką przewagę na polu bitwy.
+4040,DROP,
+4041,DROP,
+4042,DROP,
+4045,DROP,
+4046,DROP,
+4048,FIX,"DEMONY: ISH ISH DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: Nie musisz aktywować Ish, by użyć jej Ulepszenia, staraj się więc położyć jak najwięcej żetonów KONTROLI na oddziałach przeciwnika."
+4049,FIX,"Ish jest przeciętną wojowniczką, ale jej wysoka INI zwykle pozwala jej na pierwszy cios."
+4051,DROP,
+4061,DROP,
+4063,FIX,Dodaj +1 do rzutu za każdy żeton KONTROLI na karcie oddziału celu.
+4067,DROP,
+4069,DROP,
+4073,DROP,
+4083,DROP,
+4085,DROP,
+4088,DROP,
+4089,DROP,
+4099,DROP,
+4103,DROP,
+4112,DROP,
+4117,DROP,
+4129,DROP,
+4131,FIX,"DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: Jeśli obawiasz się utraty Uulsota, użyj karty Smoczy by usunąć go z planszy."
+4138,DROP,
+4142,DROP,
+4146,DROP,
+4149,DROP,
+4154,DROP,
+4155,DROP,
+4158,DROP,
+4164,FIX,"TYTAN PRZEZNACZENIA REAKTOR Na koniec twojej Aktywnej tury naładuj jedno wybrane ulepszenie o 1, jeśli w puli kryształów masz przynajmniej 2 niewykorzystane."
+4168,DROP,
