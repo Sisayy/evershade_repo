@@ -1,0 +1,90 @@
+id,decision,pl_fixed
+814,DROP,
+815,FIX,"Jeśli w dowolnym momencie Ruchu Cel znajdzie się w LW Wroga lub jeśli ten Wróg miał już LW do Celu, dany Wróg kończy swój Ruch (np. jeśli Wróg powinien się Poruszyć, ale ma już Cel w LW, nawet się nie obróci)."
+820,DROP,
+822,FIX,"Żeton Uwagi niebieskiego Stalkera jest mu najbliższy, gdyż na drodze do niego nie ma żadnych zakrętów."
+823,DROP,
+824,DROP,
+830,DROP,
+831,DROP,
+832,FIX,Ataki Dystansowe pozwalają wrogom Zaatakować z dystansu.
+835,FIX,"Mogą to być zarówno jakieś ograniczenia, jak i nałożenie dodatkowych statusów lub zwiększanie O w określonych sytuacjach."
+836,FIX,"3. Obrażenia O - Określają, jak potężny jest dany Atak."
+845,DROP,
+847,FIX,3. Wróg zadaje O wskazane przy jego Ataku.
+848,DROP,
+849,DROP,
+850,FIX,Zaatakowany Stalker rzuca liczbą Qp równą wartości Obrony swojego Pancerza.
+859,DROP,
+860,FIX,Podczas Aktywacji Wrogów Bandyta Atakuje Snorka.
+862,DROP,
+867,FIX,"Choć szary Stalker jest na polu z O), nie otrzymuje premii, gdyż Atakujący znajduje się w tym samym Pomieszczeniu."
+871,DROP,
+874,DROP,
+875,FIX,"Choć zielony Stalker jest bliżej Bandyty i również znajduje się w LW Wroga, tylko niebieski Stalker może stać się Celem Ataku Bandyty."
+879,FIX,Kartonowe figurki Wrogów posiadają ilustrację z przodu i czarne tło z tyłu.
+881,DROP,
+882,FIX,"Im większa dawka, tym gorsze efekty. W czasie Misji Stalkerzy mogą otrzymać dawkę Promieniowania poprzez wejście na napromieniowane obszary lub zbyt długie na nich pozostawanie."
+883,DROP,
+885,DROP,
+887,DROP,
+888,DROP,
+890,DROP,
+891,DROP,
+893,DROP,
+894,DROP,
+896,DROP,
+897,DROP,
+899,FIX,Efekty Końca Rundy na kartach Wydarzeń dzielą się na dwa typy: A.
+904,FIX,"Zawierają końcowe polecenia, które należy Wykonać pomiędzy Rundami. Po rozpatrzeniu tych efektów rozpoczyna się nowa Runda."
+910,DROP,
+911,DROP,
+912,DROP,
+913,DROP,
+918,DROP,
+925,DROP,
+932,FIX,Ruch przez pola oznaczone tym samym symbolem nie wpływa na to prawdopodobieństwo.
+933,DROP,
+934,DROP,
+935,DROP,
+936,DROP,
+938,FIX,"Przykład: Na ilustracji po lewej pole wewnątrz szopy ma 100-procentowe ryzyko Aktywacji Anomalii, gdyż zawiera wszystkie rodzaje symboli (po 2 z każdego)."
+939,DROP,
+940,FIX,"Aby je znaleźć, stalkerzy wykorzystują różne detektory wskazujące dokładną lokalizację anomalii."
+941,DROP,
+951,DROP,
+954,DROP,
+955,DROP,
+965,DROP,
+969,DROP,
+970,DROP,
+972,DROP,
+977,FIX,Karta Przygotowania może dodatkowo nakazać umieszczenie 1 żetonu Wejścia na Mapie.
+983,DROP,
+984,FIX,Przypomnienie zasad przemieszczania się między Mapą a Zaginionymi Terytoriami.
+985,DROP,
+990,DROP,
+996,DROP,
+997,DROP,
+998,DROP,
+999,DROP,
+1000,DROP,
+1004,DROP,
+1005,DROP,
+1006,FIX,"Przedstawia różne obiekty w świecie gry, za którymi Jednostki mogą się ukryć, by zwiększyć swoje szanse na przetrwanie."
+1008,DROP,
+1011,DROP,
+1013,DROP,
+1018,FIX,"Żadna Jednostka nie może wytyczyć LW na pole, z pola ani przez pole z takim żetonem."
+1023,DROP,
+1024,DROP,
+1025,DROP,
+1032,DROP,
+1042,DROP,
+1043,DROP,
+1048,DROP,
+1049,DROP,
+1052,DROP,
+1053,DROP,
+1054,DROP,
+1055,DROP,
