@@ -1,0 +1,51 @@
+id,decision,pl_fixed
+0,DROP,
+2,DROP,
+4,DROP,
+8,FIX,"Jedyny jest surowym panem, ale musimy mu zaufać, jeśli chcemy przeżyć na tych pustkowiach."
+30,DROP,
+31,DROP,
+36,DROP,
+45,DROP,
+56,DROP,
+57,FIX,Każdy z graczy umieszcza swoją kartę sztandaru na odpowiednim miejscu po swojej stronie planszy.
+58,DROP,
+59,FIX,Wybierz dowolne 5 ze swoich kart oddziałów i umieść je w odpowiednich miejscach po swojej stronie planszy.
+66,DROP,
+91,DROP,
+96,DROP,
+99,DROP,
+114,DROP,
+119,FIX,D – MIEJSCE NA ULEPSZENIA Podczas gry gracze mogą dołączać do swoich oddziałów karty ulepszeń (znajdują się one w talii kart akcji).
+124,DROP,
+128,DROP,
+132,DROP,
+137,DROP,
+149,DROP,
+152,DROP,
+155,DROP,
+159,DROP,
+168,DROP,
+170,DROP,
+171,DROP,
+172,DROP,
+179,DROP,
+199,DROP,
+211,DROP,
+238,DROP,
+242,DROP,
+250,DROP,
+252,DROP,
+255,FIX,Każda kropka oznacza 1 model w pełnym oddziale.
+260,DROP,
+262,DROP,
+263,DROP,
+273,DROP,
+277,FIX,"Gracz może używać zarówno kryształów, jak i żetonów wytrzymałości oraz punktów zwycięstwa podczas opłacania jednej akcji."
+305,FIX,Więcej o przerzutach – zobacz następny rozdział.
+308,DROP,
+311,DROP,
+316,DROP,
+322,DROP,
+342,FIX,"Gracz, który wykonuje tą akcję Ruchu lub zagrał kartę której efektem było odepchnięcie, umieszcza odepchnięty model na dowolnych, niezajmowanych heksach obok modelu odpychającego, o ile obydwa modele pozostaną w."
+372,DROP,
