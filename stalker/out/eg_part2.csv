@@ -1,0 +1,53 @@
+id,decision,pl_fixed
+367,DROP,
+368,DROP,
+375,DROP,
+377,DROP,
+378,DROP,
+379,DROP,
+380,DROP,
+389,DROP,
+390,DROP,
+396,DROP,
+397,DROP,
+402,DROP,
+407,DROP,
+411,DROP,
+412,DROP,
+413,DROP,
+414,DROP,
+416,DROP,
+417,DROP,
+423,FIX,Karta może być zagrana (odrzucona) w dowolnym momencie podczas tury aktywnej gracza ją posiadającego.
+428,DROP,
+429,DROP,
+430,FIX,"Gracze naprzemiennie wystawiają wybrane modele Artefaktów, po jednym na raz."
+434,FIX,Szczegółowe zasady dla każdego z Artefaktów można znaleźć na jego karcie.
+436,DROP,
+460,DROP,
+461,DROP,
+464,DROP,
+486,DROP,
+511,FIX,Przegrane bitwy i podejmowane decyzje będą miały wpływ na stan tego toru.
+513,FIX,"Na początku każdej bitwy, Ciemność otrzymuje liczbę punktów mroku równą obecnemu stanowi licznika Ostatniego Zmierzchu."
+521,DROP,
+525,DROP,
+548,FIX,Umieść model sztandaru przynajmniej o dwa pola od Cieńwrót i połóż przy nim dwa żetony wytrzymałości. Model ten reprezentuje Insygnia twojej rasy.
+550,FIX,"Wystaw swoje oddziały przynajmniej o 3 pola od Cieńwrót, tak by żaden model nie znajdował się w kontakcie ze źródłem kryształów."
+552,DROP,
+561,DROP,
+563,DROP,
+570,DROP,
+591,DROP,
+608,DROP,
+620,DROP,
+635,FIX,"Zamierzasz zabrać je do miejsca, gdzie będzie miało w bród pożywienia."
+639,FIX,"Za każdym razem gdy model Ciemności będący z Nosicielem zginie, umieść na naklejce Gąsienicy jeden żeton wytrzymałości."
+647,FIX,"To pozwoliło Rha-Zakom stworzyć roje nanobotów, które potrafiły nawigować w Ciemności, tworząc jej mapę baterią sensorów i przekazując te informacje wszystkim dowódcom polowym."
+656,DROP,
+657,DROP,
+674,FIX,PRZYGOTOWANIE: W tej bitwie korzystasz z alternatywnej planszy reprezentującej krainę Ciemności.
+675,DROP,
+676,FIX,Ustaw po jednym modelu Cienia z każdym ze złóż kryształów.
+679,FIX,"Weź pięć małych żetonów i rozłóż je w dowolny sposób wzdłuż zewnętrznej krawędzi planszy, przynajmniej o trzy pola od siebie."
+705,FIX,TWOJA KARA: przeczytaj Skrypt 26.
