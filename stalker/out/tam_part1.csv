@@ -1,0 +1,31 @@
+id,decision,pl_fixed
+1,DROP,
+8,DROP,
+9,DROP,
+10,DROP,
+12,DROP,
+13,FIX,"Przed rozegraniem pierwszej partii gry Tamashii, zapoznaj się ze znajdującą się w pudełku Instrukcją Rozpakowania Gry."
+14,DROP,
+76,DROP,
+78,DROP,
+79,DROP,
+80,FIX,Karty Scenariusza: Użyj kart oznaczonych literą „A”.
+84,DROP,
+104,DROP,
+120,FIX,2. Tor Integralności: przedstawia Integralność bieżącą (wskazaną przez uniwersalny znacznik) oraz maksymalną (wskazaną przez ogranicznik ITG).
+130,DROP,
+139,DROP,
+140,FIX,"Żetony Danych Specjalnych Żetony Danych Uszkodzonych: są to niechciane Dane, które Gracze najczęściej otrzymują po resecie bądź użyciu efektu Odpędzenia Wrogów."
+144,DROP,
+184,DROP,
+232,DROP,
+253,DROP,
+254,DROP,
+255,DROP,
+257,FIX,"1. Licznik kroków: Protokoły Nauczania dzielą się na 3 kroki, które należy wykonać po kolei, aby uzyskać nagrody."
+261,FIX,5. Pole na znacznik uniwersalny ( ) do oznaczania postępów.
+273,DROP,
+274,DROP,
+303,DROP,
+307,FIX,"Pasywne: oznacza, że efekt tego Wzmocnienia działa przez cały czas."
+312,DROP,
