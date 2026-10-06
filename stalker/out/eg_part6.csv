@@ -1,0 +1,55 @@
+id,decision,pl_fixed
+1883,FIX,"Umieść 4 złoża kryształów przynajmniej o 2 pola od Cieńwrót oraz Imperatrycy, jak również o 2 pola od siebie nawzajem."
+1885,FIX,"Następnie, połóż dwa modele bomb na podstawach swoich dwóch modeli."
+1888,DROP,
+1893,DROP,
+1895,DROP,
+1897,FIX,"Gdy oba Ładunki będą już gotowe do odpalenia, możesz odpalić je w dowolnym momencie, kończąc tym samym scenariusz."
+1898,FIX,"Za każdym razem, gdy twój model jest z Cieńwrotami, możesz postanowić, że go Ewakuujesz."
+1900,FIX,"W tej bitwie gracze nie mogą zdobywać punktów zwycięstwa, a tor zwycięstwa pozostaje pusty."
+1926,DROP,
+1939,DROP,
+1940,DROP,
+1947,DROP,
+1953,DROP,
+1969,DROP,
+1993,FIX,Umieść Dzwońca przynajmniej o trzy pola od krawędzi mapy.
+1995,DROP,
+1996,FIX,Wystaw swoje modele w polach leżących wzdłuż krawędzi planszy.
+1997,FIX,"Umieść 8 małych żetonów (lub modeli Akolitów Mroku, jeśli takie posiadasz), które będą reprezentować Akolitów, w dowolnych pustych polach planszy, przynajmniej o 1 pole od jej krawędzi. W jednym polu może znajdować się nie więcej niż 1 akolita."
+2002,FIX,"ZASADY SPECJALNE: Dzwońca chroni płaszcz wirującego mroku, który daje mu czasową nietykalność. Nie można go atakować, ani w żaden sposób wpłynąć na niego."
+2007,FIX,Możesz atakować Akolitów jak każdy inny model.
+2035,DROP,
+2036,FIX,PRZYGOTOWANIE: Ta bitwa toczy się na alternatywnej planszy Ciemności.
+2037,DROP,
+2038,FIX,Ustaw po jednym modelu Cienia z każdym ze złóż kryształów.
+2042,FIX,"Weź pięć małych żetonów i ustaw je w dowolny sposób wzdłuż zewnętrznej krawędzi planszy, przynajmniej o trzy pola od siebie."
+2054,DROP,
+2076,FIX,Umieść Dzwońca w czerwonej zonie planszy.
+2077,FIX,"Umieść cztery złoża kryształów w dowolnych polach przyległych do czerwonej zony, przynajmniej o 1 pole od siebie."
+2086,FIX,ZASADY SPECJALNE: Na planszy nie ma złóż kryształów.
+2096,DROP,
+2108,DROP,
+2109,DROP,
+2112,DROP,
+2117,DROP,
+2118,FIX,Rozłóż 6 małych żetonów na dowolnych pustych polach wzdłuż krawędzi mapy.
+2120,FIX,"Wystaw swoje modele i kapliczkę zgodnie ze standardowymi zasadami, poza kontaktem z innymi modelami oraz żetonami."
+2124,DROP,
+2130,DROP,
+2135,FIX,Zabite żetony Demonów (oraz zabite przez nie modele Ciemności) nie wpływają w żaden sposób na stan punktów zwycięstwa.
+2136,FIX,"Kiedykolwiek twój model znajdzie się w kontakcie z żetonem demonów, rzuć czerwoną kostką."
+2155,FIX,TWOJA KARA: rozegraj scenariusz od nowa.
+2165,FIX,Zostajesz sam ze swoimi wojownikami – zakrwawieni i pozbawieni nagle celu.
+2171,DROP,
+2173,DROP,
+2191,DROP,
+2226,DROP,
+2232,DROP,
+2239,FIX,"PRZYGOTOWANIE ROZGRYWKI: Użyj alternatywnej, Ciemnej planszy."
+2240,FIX,Wybierz pole na jednej z krótszych krawędzi mapy.
+2243,FIX,Umieść dwa złoża kryształów i Cieńwrota w Czerwonej Strefie mapy.
+2244,FIX,Umieść dwa Cienie z każdym złożem kryształów i dwie Mary Niebytu z Cieńwrotami.
+2245,FIX,"Wystaw swoje siły nie dalej niż 2 pola od krawędzi mapy, po przeciwnej stronie od Gasnącego Światła."
+2254,FIX,ZASADY SPECJALNE: Na początku każdej twojej tury usuń 1 żeton Ładunku z jednego heksa Gasnącego Światła.
+2256,FIX,"Gdy któryś z twoich modeli wejdzie w z polem zawierającym Gasnące Światło, może Pójść za Światłem."
