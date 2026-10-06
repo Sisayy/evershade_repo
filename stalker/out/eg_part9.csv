@@ -1,0 +1,38 @@
+id,decision,pl_fixed
+2939,FIX,CELE: • Obydwaj gracze mają ten sam cel: wygrać Punktami Zwycięstwa lub zabić wszystkie modele przeciwnika.
+2954,DROP,
+2956,DROP,
+2961,DROP,
+2970,FIX,"Musisz uzyskać przewagę terenu i wciąż mieć wystarczającą ilość żołnierzy, by się bronić."
+2992,DROP,
+3000,FIX,• Umieść frakcyjny żeton Punktu Zwycięstwa na polu 4 „Cieńwrota” na mapie kampanii.
+3003,FIX,"Najwidoczniej nie wiedziała, że jej dzieci są tak lojalne."
+3024,DROP,
+3026,DROP,
+3070,FIX,SCENARIUSZ 4: POTYCZKA NAD KRATEREM WPROWADZENIE: Miejsce upadku drugiego meteorytu wciąż się dymiło.
+3093,DROP,
+3138,DROP,
+3139,DROP,
+3142,FIX,SIŁY DEMONÓW: • Jeż (Oddział Zaklinaczy Krwi z jednym modelem i żetonem Bohatera na karcie oddziału) zaczyna z Ulepszeniem Mroczny Rytuał dołączonym do karty oddziału.
+3143,DROP,
+3144,DROP,
+3145,DROP,
+3177,DROP,
+3178,DROP,
+3183,FIX,"• Jeśli naklejka W17 „Pierwsza Część” jest w sekcji gracza na mapie kampanii, może w dowolnym momencie zostać anulowana, by zablokować aktywację Serca Pożeracza Światów i zadać mu 1 ranę."
+3198,DROP,
+3201,DROP,
+3209,DROP,
+3214,FIX,"Jeśli naklejka W12 „Ewolucja” jest w sekcji gracza na mapie kampanii, ten oddział startuje w trybie Wyewoluowanym."
+3215,DROP,
+3216,DROP,
+3223,FIX,• Na początku bitwy możesz wziąć 1 żeton Celu z Rumowiska.
+3224,DROP,
+3227,DROP,
+3228,DROP,
+3229,DROP,
+3234,DROP,
+3239,DROP,
+3246,DROP,
+3253,DROP,
+3258,DROP,
