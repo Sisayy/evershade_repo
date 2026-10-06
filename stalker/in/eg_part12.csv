@@ -1,0 +1,201 @@
+﻿id,en,pl,sim
+3927,GAME ENDS: The VP marker reaches the last space of the victory track or the War Golem is defeated.,KONIEC GRY: Znacznik zwycięstwa jest na ostatnim polu Toru Zwycięstwa lub Golem Wojenny jest pokonany.,0.846
+3928,"If at least one player unit is still on the board, the player wins.","Jeśli przynajmniej jeden model gracza jest wciąż na planszy, gracz wygrywa.",0.776
+3929,ISH - SCENARIO 1 NOT for the WEAK MINDED You become aware of the presence inside your head.,ISH - SCENARIUSZ 1 NIE DLA SŁABYCH UMYSŁÓW Zdajesz sobie sprawę z obecności w twojej głowie.,0.905
+3930,"Long, persistent tendrils, weaving their way through your mind, stripping off all your will, until you become but a pawn in her hand…","Długie, nieustępliwe macki, przedzierają się przez twój umysł, odzierając cię z całej twej woli, póki nie staniesz się niczym więcej niż pionkiem w jej rękach…",0.849
+3932,SPECIAL RULES: Squad with two control tokens on it cannot attack Ish using the Combat action or Action cards.,"ZASADY SPECJALNE: Oddział z dwoma żetonami Kontroli nie może atakować Ish zarówno w Walce, jak i za pośrednictwem kart Akcji.",0.835
+3934,ISH - SCENARIO 2 RETRIBUTION Only one thing is stronger than her will.,ISH - SCENARIUSZ 2 KAŹŃ Tylko jedna rzecz jest silniejsza od jej woli.,0.887
+3935,"Her anger is like a flaming whip, burn ing, stinging, ripping you apart piece by piece.","Jej gniew jest niczym ognisty bat płonący, kłujący, rozrywający cię kawałek po kawałku.",0.891
+3936,BULLGRIM - SCENARIO 1 UPGRADE Air is filled with the screeching of metal and cracking of rocks.,BULLGRIM - SCENARIUSZ 1 MODERNIZACJA Powietrze przepełnione jest szczękiem metalu i pękaniem skał.,0.891
+3937,"Dust blocks all vision, making Bullgrim but a distant, menacing shadow.","Pył zasłania pole widzenia, czyniąc Bullgrima odległym, złowrogim cieniem.",0.811
+3939,Player starts with 2 additional Crystals.,Gracz rozpoczyna z 2 dodatkowymi kryształami w puli.,0.895
+3940,"SPECIAL RULES: During the game, after the TOP CARD of the Boss Action deck is discarded, Quarry tokens gain the abilities of ALL Boss Action cards in stack.","ZASADY SPECJALNE: Podczas gry, po tym jak WIERZCHNIA KARTA z talii Akcji Bossa zostanie odrzucona, żetony Sztolni otrzymują właściwości WSZYSTKICH pozostałych kart Bossa.",0.862
+3941,"From now on, Bullgrim’s Quarry tokens will permanently use all Action cards in stack (instead of using only the topmost card of the stack).",Od teraz żetony Sztolni Bullgrima bedą używać wszystkich kart Akcji Bossa (zamiast używać tylko Wierzchniej karty).,0.81
+3942,Quarry tokens don’t lose the abilities of defeated Boss Action cards.,Żetony Sztolni nie tracą zdolności z odrzuconych kart Akcji Bossa.,0.82
+3943,GAME ENDS: The player does not lose the game automatically when he reaches zero on the Victory Point track.,"KONIEC GRY: Gracz nie przegrywa gry, gdy straci wszystkie Punkty Zwycięstwa.",0.81
+3944,The player wins the game when Bull grim is killed.,"Gracz wygrywa grę, gdy Bullgrim zostanie zabity.",0.847
+3945,AWAKEN REALMS BULLGRIM - SCENARIO 2 RED RAG for the BULL The beast is enraged.,BULLGRIM - SCENARIUSZ 2 PŁACHTA NA BYKA Bestia jest rozwścieczona.,0.742
+3946,"Rabid bull grazes the ground, growling.","Zaciekle ryje ziemię, rycząc donośnie.",0.705
+3947,"Good, keep him angry.","Dobrze, utrzymujmy jego gniew.",0.754
+3948,There’s method in this madness.,W tym szaleństwie jest metoda.,0.941
+3950,Place large Campaign token on one Squad card.,Umieść duży żeton kampanii na jednej karcie oddziału.,0.886
+3951,This is special “Provocation Squad”.,To jest specjalny „Oddział Prowokacyjny”.,0.838
+3952,SPECIAL RULES: While resolving his first Boss Action card (TOP CARD),ZASADY SPECJALNE: Podczas rozpatrywania pierwszej karty Akcji Bossa (WIERZCHNIA KARTA),0.772
+3953,Bull grim will always target closest unit of the Provocation Squad.,Bullgrim zawsze obiera za cel najbliższy model z Oddziału Prowokacyjnego.,0.656
+3955,METALGORGER - SCENARIO 1 COMMON ENEMY We are one - we see the attack and we see the death.,STALOJAD - SCENARIUSZ 1 WSPÓLNY WRÓG Jesteśmy jednością – widzimy atak i widzimy śmierć.,0.842
+3956,We feel the pain and we feel the hand that caused it.,"Czujemy ból i czujemy rękę, która go sprawia.",0.877
+3957,We feel the void… and we feel the fullness.,Czujemy pustkę… i czujemy spełnienie.,0.928
+3959,The player starts the game with 5 cards in hand - this is also their hand limit.,Gracz rozpoczyna grę z 5 kartami w ręce – to jest również jego limit kart na ręce.,0.936
+3960,"SPECIAL RULES: Each time a slash token is placed on a Squad card, that Squad loses one Endurance token.","ZASADY SPECJALNE: Za każdym razem gdy żeton Okaleczenia jest umieszczany na karcie oddziału, ten oddział traci znacznik wytrzymałości.",0.855
+3961,"During the END STEP, the player can discard up to two cards, and draws up to a full hand of five cards.","Podczas KROKU KOŃCOWEGO tury gracza, gracz może odrzucić do dwóch kart, a dociąga karty do pełnej ręki pięciu.",0.896
+3962,"Any time the player’s Action card deck is empty, reshuffle the discard pile to create a new deck.","Jeśli talia Akcji gracza jest pusta, należy przetasować stos kart odrzuconych, by stworzyć nową talię kart Akcji.",0.793
+3964,METALGORGER - SCENARIO 2 TOUGH HULL The monster seats atop a pile of twisted metal corpses.,STALOJAD - SCENARIUSZ 2 TWARDA SKORUPA Potwór siedzi na stercie powykręcanych metalowych zwłok.,0.833
+3965,"We sense his hunger and we know one thing. If we don’t stop him, soon we will all be part of his humongous body...","Wyczuwamy jego głód i wiemy jedno – jeśli go nie zatrzymamy, wkrótce wszyscy staniemy się częścią jego monstrualnego ciała.",0.795
+3967,SPECIAL RULES: Metalgorger is resistant to all attacks from non-adjacent units (only units Base to Base with Metalgorger can deal him damage).,ZASADY SPECJALNE: Stalojad jest odporny na wszystkie ataki od nieprzyległych jednostek (tylko jednostki stykające się z nim podstawką mogą zadać mu rany).,0.806
+3969,"UULSOT - SCENARIO 1 DEATH from ABOVE A plague, gliding through the sky.",UULSOT - SCENARIUSZ 1 ŚMIERĆ Z NIEBA Plaga szybująca przez przestworza.,0.789
+3970,Its poisonous breath weakens you.,Jego trujący oddech cię osłabia.,0.844
+3971,Don’t in hale or you’ll soon perish...,"Nie wdychaj go, albo wkrótce polegniesz.",0.748
+3973,Player starts with 4 additional Crystals.,Gracz rozpoczyna grę z 4 dodatkowymi kryształami.,0.916
+3974,"SPECIAL RULES: After his top card is discarded, Uulsot does not land on the map.","ZASADY SPECJALNE: • Po tym jak Wierzchnia karta zostanie odrzucona, Uulsot nie ląduje na planszy.",0.789
+3975,"Before his Action, check his current Target using his Top card.",Przed jego akcją sprawdź jego obecny Cel na Wierzchniej karcie.,0.871
+3976,"Uulsot performs an Ac tion: Land with Target, and then resolves the rest of his Actions against their appropriate Targets.","Uulsot wykonuje akcję: Ląduje z Celem, a następnie wykonuje resztę swoich akcji przeciwko odpowiednim Celom.",0.875
+3977,"At the end of his activation, Uulsot performs Ac tion: Take off.",Na koniec swojej aktywacji Uulsot wykonuje akcję: Wzbicie się.,0.858
+3978,"During the game, the player does not resolve the top part of Uulsot’s cards, where Action and Passive refer to Toxic tokens.","• Podczas gry gracz nie rozpatruje górnych części kart Uulsota, których akcje i efekty pasywne odnoszą się do żetonów Toksyn.",0.789
+3981,"They make it hard to reach the imposing beast, but we still have to try.","Niełatwo będzie się przez nie przebić do bestii, ale musimy spróbować.",0.645
+3983,Uulsot does not use his Top card when his deck is created.,Nie używaj WIERZCHNIEJ karty Uulsota przy tworzeniu talii Bossa.,0.66
+3984,Place Uulsot on the map according to the stan dard rules instead.,Umieść Uulsota na planszy zgodnie z normalnymi zasadami.,0.676
+3985,SPECIAL RULES: According to the standard rules.,ZASADY SPECJALNE: Zgodnie z normalnymi zasadami.,0.902
+3987,DESTINY TITAN - SCENARIO 1 ANNIHILATION Source signal incoming.,TYTAN PRZEZNACZENIA - SCENARIUSZ 1 ANIHILACJA Przychodzący sygnał Strumienia.,0.835
+3988,Order: Terminate target at all cost.,Rozkaz: Zniszczyć cel za wszelką cenę.,0.806
+3989,Request restrictions removal.,Prośba o usunięcie restrykcji.,0.903
+3990,All systems ready.,Wszystkie systemy gotowe.,0.956
+3991,Target located.,Cel zlokalizowany.,0.935
+3992,Annihilation in progress.,Anihilacja w toku.,0.853
+3994,"SPECIAL RULES: During the game, when Destiny Titan activates “At the End of Stage” action, Destiny Titan activate all of those Abilities from his Boss Action deck in sequence.","ZASADY SPECJALNE: Gdy w czasie gry Tytan Przeznaczenia aktywuje akcję „Na koniec Fazy”, aktywują się po kolei wszystkie takie akcje w talii Bossa.",0.854
+3995,GAME ENDS: The player does not lose the game automatically when he reaches zero on the Victory Point track.,KONIEC GRY: Gracz nie przegrywa gry gdy straci wszystkie Punkty Zwycięstwa.,0.811
+3996,The player wins the game when Destiny Titan is killed.,"Gracz wygrywa grę, gdy Tytan Przeznaczenia zostanie zabity.",0.901
+3997,DESTINY TITAN - SCENARIO 2 STORM IS RAGING Open Override.,TYTAN PRZEZNACZENIA - SCENARIUSZ 2 SZALEJĄCA BURZA Otworzyć Nadpisać.,0.804
+3998,Set permissions 7-0-0.,Ustawić pozwolenie 7-0-0.,0.924
+3999,Incoming message: Access granted.,Przychodząca wiadomość: Przyznano dostęp.,0.939
+4001,SETUP: The player can’t earn or spend Victory Points in this battle and the VP Track is used as a part of a special mechanic.,"PRZYGOTOWANIE: • Gracz nie może zdobywać ani wydawać Punktów Zwycięstwa, tor jest używany do specjalnej mechaniki.",0.761
+4002,Setup according to the standard rules.,• Przygotuj grę według normalnych zasad.,0.642
+4003,Place the VP marker on the middle space of the Victory Points track.,Umieść znacznik zwycięstwa na czerwonym polu Toru Zwycięstwa.,0.672
+4004,SPECIAL RULES: Destiny Titan resolves each action on his card twice (except for “At the end of stage” actions and targets).,ZASADY SPECJALNE: Tytan Przeznaczenia rozgrywa każdą akcję ze swej karty podwójnie (oprócz Celów i akcji „Na koniec Fazy”).,0.899
+4005,"Each turn, the VP marker moves one space towards Destiny Titan’s side.",W każdej turze znacznik zwycięstwa przesuwa się o 1 pole w stronę Tytana Przeznaczenia.,0.743
+4006,GAME ENDS: The VP marker reaches the last space of the victory track or the Destiny Titan is defeated.,"KONIEC GRY: Gdy znacznik zwycięstwa osiągnie ostatnie pole Toru Zwycięstwa, Tytan Przeznaczenia zostanie pokonany.",0.81
+4007,"If at least one player unit is still on the board, the player wins.","Jesli na planszy wciąż jest przynajmniej 1 model gracza, gracz wygrywa.",0.78
+4009,In this new player vs. player mode both you and your opponent will lead their boss against each other.,"W tym nowym trybie gracz kontra gracz zarówno ty, jak i twój przeciwnik bedziecie dowodzić swoim Bossem.",0.888
+4010,"All of these imposing foes introduce their own, new special mechanics and unique threats for the opponent.","Każde z tych majestatycznych stworzeń wprowadza swoją własną, unikalną mechanikę oraz nowe sposoby zagrażania przeciwnikowi.",0.794
+4011,The Boss Player versus Player Expansion includes a deck of 78 cards and 6 plastic miniatures.,Dodatek Bossy: Gracz kontra Gracz zawiera zestaw 78 kart oraz 6 plastikowych figurek.,0.877
+4012,"AWAKEN REALMS Author: Krzysztof Belczyk & Bartłomiej Kalisz Development & Testing: Paweł Samborski, Łukasz Krawiec, Krzysztof Belczyk, Jan Truchanowicz, Bartłomiej GENERAL DESCRIPTION Bosses are the most powerful unit in your force.","AWAKEN REALMS Autorzy: Krzysztof Belczyk & Bartłomiej Kalisz Testy & Development: Paweł Samborski, Łukasz Krawiec, Krzysztof Belczyk, Jan Truchanowicz, OGÓLNY ZARYS Bossy są najpotężniejszymi jednostkami w twoich siłach.",0.919
+4013,"They’re giving you vast tactical opportunities and huge damage dealing poten tial, but be careful not to lose them.","Dają szeroki wachlarz taktycznych możliwości i potencjał do zadawania obrażeń, ale uważaj, by ich nie stracić.",0.858
+4014,This game mode is designed for 2 players only.,Tryb gry jest zaprojektowany tylko dla 2 graczy.,0.932
+4015,Both players have to use their Bosses in this mode.,Obydwaj gracze muszą używać Bossów w tym trybie.,0.848
+4016,There is no possibility of playing against a Boss without deploying your own Boss.,Nie ma możliwości grania przeciwko Bossowi bez wystawienia swojego Bossa.,0.833
+4017,"BOSSES TOKENS: The number of Bosses tokens for each Boss is shown below (and also on the Boss Squad card). - Discharge token [x6] - placed on the model - Control token [x6] - placed on a Squad card - Quarry token [x6] - placed on the board, takes up 1 hex - Slash token [x6] - placed on a model - Toxic token [x6] - placed on the board, takes up 1 hex - Beacon [x1] - placed on the board, takes up 1 hex SPECIAL RULES A Boss is treated like a normal Squad, counting towards the limit of 5 Squads per player.","ŻETONY BOSSÓW: Liczba żetonów Bossów jest pokazana poniżej (jak również na kartach oddziałów Bossów). – Żeton Rozładowania [ × 6] – umieszczany na modelu. – Żeton Kontroli [ × 6] – umieszczany na karcie oddziału. – Żeton Sztolni [ × 6] – umieszczany na planszy, zajmuje 1 heks. – Żeton Okaleczenia [ × 6] – umieszczanyna modelu. – Żeton Toksyn [ × 6] – umieszczany na planszy, zajmuje 1 heks. – Sygnał [ × 1] – umieszczany na planszy, zajmuje 1 heks. ZASADY SPECJALNE Boss jest traktowany jak normalny oddział i wlicza się do limitu 5 oddziałów gracza.",0.897
+4018,Each Boss has its unique Enhancement card.,Każdy Boss ma swoją unikalną kartę Ulepszenia.,0.866
+4019,This is addi tional card that doesn’t count against the 25-card limit of your deck.,"Jest to dodatkowa karta, która nie wlicza się do limitu 25 kart akcji.",0.849
+4020,No other Enhancements can be attached to a Boss Squad.,Żadne inne Ulepszenie nie może zostać dołączone do Bossa.,0.814
+4021,Their special Enhancement card cannot be discarded or at tached to another Squad in any way.,Jego specjalna karta Ulepszenia nie może zostać odrzucona ani dołączona do innego oddziału w żaden sposób.,0.843
+4022,"Every Boss uses their own special tokens, explained in their entries.",Każdy Boss używa swoich specjalnych żetonów opisanych na ich akcjach.,0.819
+4023,A Boss adds Crystals to your starting Crystal Pool.,Boss dodaje kryształy do twojej startowej puli kryształów.,0.804
+4024,Remember that not every Boss Squad card has 2 Modes.,"Pamiętaj, że nie każdy Boss posiada 2 tryby.",0.847
+4025,"CHANGES TO GAME SETUP During step 7, place the Boss unique Enhancement card, with 1 Charge token on it, next to the Boss Squad card.",ZMIANY W PRZYGOTOWANIU GRY Podczas kroku 7 umieść specjalną kartę Ulepszenia Bossa wraz z 1 żetonem Ładunku obok karty oddziału Bossa.,0.839
+4026,"During step 13, deploy the Boss as a normal Squad, follow ing the standard rules.","Podczas kroku 13 wystaw Bossa jak każdy inny oddział, przestrzegając normalnych zasad.",0.798
+4027,"During step 15, take additional Crystals from the Neutral pile and add them to your Pool.",Podczas kroku 15 weź dodatkowe kryształy z puli neutralnej i dodaj je do swojej puli.,0.916
+4028,The quantity of additional Crystals varies from one Boss to the other.,Liczba dodatkowych kryształów jest zależna od Bossa. Zobacz „Dodatkowe kryształy” w każdej sekcji Bossa.,0.668
+4030,WAR GOLEM STATIC FIELD Use right before a DEF roll.,GOLEM WOJENNY POLE STATYCZNE Użyj przed rzutem na OBR.,0.81
+4031,The War Golem automatically wins this DEF roll.,Golem Wojenny automatycznie wygrywa ten rzut na OBR.,0.855
+4034,"WAR GOLEM SMASH Perform a Move Action, then a Combat Action with the War Golem.","GOLEM WOJENNY ZGRUCHOTANIE Wykonaj Golemem Wojennym akcję Ruchu, a następnie Walki.",0.888
+4037,ADDITIONAL CRYSTALS: 2 TACTICAL GUIDE: DISCHARGE tokens give the War Golem a great advantage in battle.,DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: • Żetony ROZŁADOWANIA dają Golemowi Wojennemu wielką przewagę na polu bitwy.,0.873
+4038,Try to use them as often as you can.,"Staraj się używać ich tak często, jak to możliwe.",0.925
+4040,Try to find the right balance to face any situation on the battlefield. x4 CHARGING Charge all your Enhancements by 1. 1 WAR GOLEM Keep in mind that the War Golem can automatically suc ceed in its DEF roll against an enemy with a DISCHARGE token (see the Static Field card).,"Postaraj się utrzymać odpowiedni balans, by poradzić sobie z każdą sytuacją na planszy. • Pamiętaj, że Golem Wojenny ŁADOWANIE Dodaj 1 do wszystkich kart ulepszeń dołączonych do wszystkich Twoich oddziałów. może automatycznie wygrać rzut na OBR przeciwko wrogowi z żetonem ROZŁADOWANIA (zobacz kartę Pole Statyczne).",0.825
+4041,STEAM OVERLOAD Check all models within Range 1 for Hit.,GOLEM WOJENNY WYRZUT PARY Rzuć na trafienie przeciwko wszystkim modelom w Zasięgu 1.,0.758
+4042,Effect: 1 Wound (all models) and 1 DISCHARGE token (enemy models). x1 SETUP: ATTACH & CHARGE BY 1 HEAVY ARMOR The War Golem gains +1 DEF and -1 INI for each Charge - All your Enhance ments - all Enhancements at tached to each of your Squads.,Efekt: 1 rana (wszystkie modele) oraz 1 żeton ROZŁADOWANIA (modele przeciwnika). START: DOŁĄCZ & NAŁADUJ O 1 CIĘŻKI PANCERZ Golem Wojenny otrzymuje +1 OBR i -1 INI za każdy utracony znacznik wytrzymałości.,0.886
+4045,WAR GOLEM DISCHARGE Put a DISCHARGE Token on 1 enemy model.,ROZŁADOWANIE Połóż żeton ROZŁADOWANIA na 1 modelu przeciwnika.,0.853
+4046,DETAILED RULES: Heavy Armor - subtract the number of Endurance tokens still possessed by the War Golem from its starting value (6).,Ciężki Pancerz – odejmij liczbę znaczników wytrzymałości posiadanych przez Golema Wojennego od wartości początkowej (6).,0.853
+4047,The result indicates the War Golem’s DEF bonus and INI penalty.,Wynik to bonus do OBR oraz kara do INI Golema.,0.801
+4048,"DEMONS: ISH ISH ADDITIONAL CRYSTALS: 2 TACTICAL GUIDE: You don’t have to Activate Ish to use her Enhancement, so try to put as many CON TROL tokens as possible on enemy Squads.","DEMONY: ISH ISH DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: • Nie musisz aktywować Ish, by użyć jej Ulepszenia, staraj się więc położyć jak najwięcej żetonów KONTROLI na oddziałach przeciwnika.",0.9
+4049,"Ish is only an average fighter, but her high INI usu ally allows her to strike first.","• Ish jest przeciętną wojowniczką, ale jej wysoka INI zwykle pozwala jej na pierwszy cios.",0.817
+4050,Use your Actions to boost her Attributes or lower her opponent’s before entering Combat.,"Używaj jej akcji, by podnieść jej atrybuty lub obniżyć je przeciwnikowi przed Walką.",0.885
+4051,Try to use your opponent models against him. - x1 SETUP: ATTACH.,• Staraj się używać modeli przeciwnika przeciwko niemu. START: DOŁĄCZ.,0.761
+4052,"SEDUCTION Each time Ish is Wounded by an enemy model, you may perform a Move, then a Combat with that model.","USIDLENIE Za każdym razem gdy Ish zostanie zraniona przez model przeciwnika, możesz wykonać tym modelem akcję Ruchu, a potem Walki.",0.876
+4053,ISH CONTROL Put a CONTROL token on an enemy Squad card (Range unlimited).,ISH KONTROLA Dołącz żeton KONTROLI do karty oddziału przeciwnika (Zasięg nieograniczony).,0.895
+4054,(1 use per turn),(1 użycie na turę),0.958
+4055,"Seduction - immediately after Ish has been Wounded, you may perform first a Move, then a Combat with the model that Wounded her.","Usidlenie – niezwłocznie po tym jak Ish zostanie zraniona, możesz wykonać najpierw Ruch, a potem akcję Walki modelem, który ją zranił.",0.897
+4056,After one Combat sequence of the whole Squad you may Move this model and perform Combat with any models (in cluding its own faction).,Po zakończonej sekwencji Walki całego oddziału możesz poruszyć ten model i wykonać akcję Walki z dowolnym modelem (włączając w to jego sojuszniczy model).,0.864
+4057,Even if Ish is killed you can still Move and Combat with an enemy model which have dealt this last Wound.,"Nawet jeśli Ish zostanie zabita, wciąż może poruszyć się i Walczyć modelem, który zadał ostatnią ranę.",0.839
+4058,Neither player can play any Action card during the acti vated model’s Combat.,Żaden z graczy nie może zagrywać kart Akcji podczas Walki aktywowanego w ten sposób modelu.,0.828
+4059,Your opponent chooses which die they want to roll for enemy models involved.,Twój przeciwnik wybiera kolor kości dla swoich modeli w tej Walce.,0.695
+4060,CONTROL TOKEN - see de tailed rule below.,ŻETON KONTROLI – zobacz szczegóły tej zasady poniżej.,0.814
+4061,"x3 FRAIL During this Combat, a chosen enemy model has -2 ATT for each CONTROL token on its Squad card.",WYCIEŃCZENIE Podczas tej Walki wybrany model przeciwnika ma -2 ATK za każdy żeton KONTROLI znajdujący się na jego karcie oddziału.,0.866
+4062,AWAKEN REALMS ISH MIND BLAST Range 3.,AWAKEN REALMS ISH ROZSZARPANIE UMYSŁU Zasięg 3.,0.786
+4063,Add +1 to the roll for each CONTROL token on the target model Squad card.,Rzuć na trafienie przeciwko wybranemu modelowi. Dodaj +1 do rzutu za każdy żeton KONTROLI na karcie oddziału celu.,0.827
+4065,Frail - affects only one en emy model.,Wycieńczenie – działa tylko na pojedynczy model przeciwnika.,0.691
+4066,It is -2 ATT per each CONTROL token.,Daje -2 ATK za każdy żeton KONTROLI.,0.848
+4067,May be played immediately after your DEF roll. x4 MOVE with all models in 1 Demon Squad.,Może być zagrane niezwłocznie po twoim rzucie na OBR. RUCH wszystkimi modelami w 1 oddziale Demonów.,0.84
+4068,ISH POSSESSED Choose an enemy model within Range 3 with at least 1 CONTROL token on its Squad card.,"ISH OPĘTANY Wybierz model przeciwnika w Zasięgu 3, na którego karcie oddziału jest przynajmniej 1 żeton KONTROLI.",0.885
+4069,"Perform a Move with that model, then a Combat against every model with it.","Wykonaj tym modelem Ruch, a następnie Walkę z każdym modelem w.",0.897
+4070,The Possessed model gains +1 ATT and MOV for each CONTROL token on its Squad card.,Opętany model otrzymuje +1 ATK i +1 RUCHU za każdy żeton KONTROLI na karcie jego oddziału.,0.83
+4071,Possessed - you can choose the order of Combats and which models you want to at tack.,Opętany – możesz wybrać kolejność Walk i modele które chcesz zaatakować.,0.866
+4072,Neither player can play any Action card during the Possessed model’s Combat.,Żaden z graczy nie może zagrywać kart Akcji podczas Walki Opętanego modelu.,0.873
+4073,Your opponent chooses which die they want to roll for their models involved in Combat. x4 TELEPORT Teleport 1 Demon model.,Twój przeciwnik wybiera kolor kości dla swoich modeli w tej Walce. TELEPORT Teleportuj 1 model Demonów.,0.779
+4074,ISH PUNISH THE WEAK Choose 1 enemy Squad.,ISH UKARAĆ SŁABOŚĆ Wybierz 1 oddział przeciwnika.,0.878
+4075,"For each CONTROL token on its Squad card, you may Backstab 1 model of this Squad (both with your models and enemy ones ).","Za każdy żeton KONTROLI na karcie tego oddziału możesz wykonać akcję Szybkiego Ataku przeciwko 1 modelowi tego oddziału (modelami w zarówno twoimi, jak i przeciwnika).",0.827
+4076,Teleport - see detailed rule below.,Teleport – zobacz szczegóły tej zasady poniżej.,0.908
+4077,Punish the Weak - your opponent chooses which die they want to roll for their models involved in Combat.,Ukarać Słabość – Twój przeciwnik wybiera kolor kości dla swoich modeli w tej Walce.,0.768
+4078,DETAILED RULES: CONTROL TOKEN CONTROL tokens are used to measure Ish’s influence on enemy models.,SZCZEGÓŁOWE ZASADY: ŻETON KONTROLI Żetony KONTROLI są odwzorowaniem wpływu Ish na wrogie modele.,0.786
+4079,They are only placed on enemy Squad cards.,Są umieszczane na kartach oddziałów przeciwnika.,0.797
+4082,You cannot Push.,Nie możesz odpychać.,0.844
+4083,Check for Hit every model in that Space (yours and enemy). then remove this QUARRY token.,Rzuć na trafienie przeciwko wszystkim modelom na tym polu (twoim i przeciwnika).,0.667
+4085,"METALGORGER - HUNTER MODE - DVERGAR: BULLGRIM Defense - may be played im mediately after your roll, im proving its result.","STALOJAD - TRYB ŁOWCY - BULLGRIM - TRYB PODSTAWOWY - Obrona – może być zagrana bezpośrednio po twoim rzucie, podnosząc wartość jego wyniku.",0.669
+4086,Explosion - there is no Range or Line of Fire requirements.,Eksplozja – nie ma wymagań odnośnie do zasięgu ani linii strzału.,0.876
+4087,"Im portant: Explosion affects ALL models in the targeted Space, including your own!","Ważne: Eksplozja działa na wszystkie modele na wybranym polu, także twoje!",0.769
+4088,"BULLGRIM - BASIC MODE - ADDITIONAL CRYSTALS: 1 TACTICAL GUIDE: You don’t have to Activate the Metalgorger to use its En hancement, so try to put as many SLASH tokens as pos sible on enemy Squads. x4 BULLGRIM STEP Move 1 Dvergar - RAGE MODE - Try to change mode of the Metalgorger as soon as pos sible.","DODATKOWE KRYSZTAŁY: 1 PORADNIK TAKTYCZNY: • Nie musisz aktywować Sta- BULLGRIM lojada, by użyć jego Ulepszenia, staraj się więc położyć jak najwięcej żetonów OKALECZENIA na oddziałach przeciwnika. • Postaraj się zmienić tryb - TRYB SZAŁU - CHÓD Wykonaj akcję Ruchu 1 modelem Dvergarów. 0 Stalojada najszybciej jak to mozliwe.",0.879
+4089,It is the most powerful unit in your army. model.,To najpotężniejsza jednostka w twojej armii.,0.829
+4094,Keep in mind that you can move only 1 model!,"Pamiętaj, że możesz poruszyć tylko 1 model!",0.929
+4095,Lethal Shot - affects models only during your turn.,Śmiertelny Ostrzał – działa tylko w trakcie twojej tury.,0.645
+4096,DEF still can be increased by other cards.,OBR wciąż może być podniesiona innymi kartami.,0.754
+4097,SETUP: ATTACH.,START: DOŁĄCZ.,0.809
+4098,CLAWS Put a SLASH token on enemy model (once per turn).,PAZURY Połóż żeton OKALECZENIA na 1 modelu przeciwnika. (1 użycie na turę),0.788
+4099,"METALGORGER Some cards require Bull grim to be in Rage mode. x3 SLASHING When Metalgorger deals a Wound, remove a SLASH token from wounded Keep in mind that the Rage Mode is not always the best option on the battlefield.","• Pamiętaj, że tryb Szału nie STALOJAD zawsze jest najlepszą opcją na polu bitwy. ROZCINANIE Kiedy Stalojad zadaje ranę, usuń żeton OKALECZENIA z ranionego modelu, żeby zadać dodatkową ranę.",0.689
+4101,Line of Fire required.,Wymagana linia strzału.,0.788
+4103,"Move with the chosen model in a straight line, then perform Combat against it.","Porusz się w linii prostej do z wybranym modelem, a następnie wykonaj przeciwko niemu akcję Walki.",0.879
+4110,This is not a Move Action.,Nie jest to akcja Ruchu.,0.899
+4112,Rip and Tear - the Faceless player chooses the order of the Backstabs. x4 MOVE with all models in 1 Faceless Squad.,Rwij i Szarp – gracz Bezlicych wybiera kolejność Szybkich Ataków. RUCH wszystkimi modelami w 1 oddziale Bezlicych.,0.791
+4113,METALGORGER ROAR Range 2.,STALOJAD RYK Zasięg 2.,0.616
+4114,Move all enemy models with at least 1 SLASH token up to 1 Space.,Porusz maksymalnie o 1 pole wszystkie modele przeciwnika z przynajmniej 1 żetonem OKALECZENIA.,0.828
+4115,Roar - there is no Line of Fire requirements.,Ryk – linia strzału nie jest wymagana.,0.812
+4116,All moves are simultaneous.,Wszystkie ruchy są symultaniczne.,0.858
+4117,They can Push. x4 REUSE Sacrifice 1 Faceless model to add 1 to Faceless Depleted Pool.,"Modele mogą odpychać. ODZYSK Poświęć 1 model Bezlicych, aby dodać 1 do puli kryształów wyczerpanych Bezlicych.",0.766
+4118,METALGORGER 1 POUNCE Choose a model with a SLASH token.,STALOJAD 1 DOSKOK Wybierz model z żetonem OKALECZENIA.,0.853
+4119,Teleport Metalgorger to the same Space (Push allowed).,Teleportuj Stalojada na to samo pole (możesz odpychać).,0.732
+4120,"Then, put SLASH token on each enemy model with the Metalgorger.",Następnie połóż żeton OKALECZENIA na każdym modelu przeciwnika ze Stalojadem.,0.863
+4121,Sacrifice model - see detailed rule below.,Poświęć model – zobacz szczegóły tej zasady poniżej.,0.823
+4124,DETAILED RULES: SLASH TOKEN They are only discarded when a card says so.,"SZCZEGÓŁOWE ZASADY: ŻETON OKALECZENIA Są odrzucane tylko wtedy, kiedy wymaga tego karta.",0.791
+4125,"SACRIFICE MODEL When you Sacrifice a model, it is killed and your opponent doesn’t gain any VPs for his death.","POŚWIĘĆ MODEL Kiedy poświęcasz model, ginie on, a przeciwnik nie otrzymuje żadnych Punktów Zwycięstwa za jego śmierć.",0.856
+4126,You can only Sacrifice your own models.,Możesz poświęcać tylko swoje modele.,0.835
+4127,"When Sacrificing a model, Endurance tokens are unaf fected.","Kiedy poświęcasz model, znaczniki wytrzymałości jego oddziału nie są usuwane.",0.684
+4128,Note that Sacrifice a model and Sacrifice a Wound/ Endurance token are different things.,"Pamiętaj, że poświęcanie modelu i poświęcanie rany/znacznika wytrzymałości, to nie to samo.",0.805
+4129,"REBORN: UULSOT THE KEEPER UULSOT the KEEPER 4 AWAKEN REALMS Fog - may be played immedi ately after your roll, improving its result.","ODRODZENI: UULSOT OBROŃCA UULSOT OBROŃCA 4 AWAKEN REALMS Zadymienie – może być zagrane bezpośrednio po twoim rzucie, podnosząc wartość jego wyniku.",0.817
+4130,Noxious Breath - the TOX IC tokens must be removed before the Attack roll.,Trujący Oddech – żetony TOKSYN muszą zostać usunięte przed rzutem na ATK.,0.813
+4131,"ADDITIONAL CRYSTALS: 2 TACTICAL GUIDE: If you are worried about los ing Uulsot, use the Drake card to remove the Boss from the board.","DODATKOWE KRYSZTAŁY: 2 PORADNIK TAKTYCZNY: • Jeśli obawiasz się utraty Uulsota, użyj karty Smoczy by usunąć go z planszy.",0.767
+4133,UULSOT THE KEEPER Sprout - may only be placed on empty hexes (no Pushing allowed).,UULSOT OBROŃCA Pędy – mogą być umieszczone na pustych heksach (bez odpychania).,0.797
+4135,"This Action only deals 1 Wound per enemy model, even if there is more than 1 TOXIC token within Range.","Ta akcja zadaje 1 ranę każdemu przeciwnikowi, nawet jeśli w zasięgu jest więcej niż 1 żetonów TOKSYN.",0.831
+4136,DRAKE Remove Uulsot from the board and place on its Squad card.,SMOCZY Usuń model Uulsota z planszy i połóż go na jego karcie oddziału.,0.875
+4137,"When you activate its Squad, place it in any Space on the board (it can Push).","Kiedy aktywujesz ten oddział, umieść go na dowolnym polu na planszy (możesz odpychać).",0.841
+4138,DETAILED RULES: TOXIC TOKEN - see detailed rule below.,ŻETON TOKSYN – zobacz szczegóły tej zasady poniżej.,0.778
+4139,Drake - removing Uulsot is not an Activation.,Smoczy – usuwanie Uulsota nie jest aktywacją.,0.787
+4141,Herbs - this Action restores only 1 Endurance token on 1 model.,Zioła – ta akcja przywraca tylko 1 znacznik wytrzymałości 1 wybranemu modelowi.,0.884
+4142,"Toxic Vapor - the Reposi tioning must be simultane ous. x4 FOG During this Combat, Uulsot gains +2 DEF for each Space with a TOXIC token within Range 1.",Toksyczne Opary – przemieszczenie musi odbyć się symultanicznie. ZADYMIENIE Podczas tej Walki Uulsot otrzymuje +2 OBR za każde pole z żetonem TOKSYN w Zasięgu 1.,0.808
+4143,UULSOT THE KEEPER 1 NOXIOUS BREATH Perform a Combat with a target enemy model.,UULSOT OBROŃCA 1 TRUJĄCY ODDECH Wykonaj akcję Walki z wybranym modelem przeciwnika.,0.834
+4144,Remove any number of TOXIC tokens within Range 1 of the target.,Usuń dowolną liczbę żetonów TOKSYN w Zasięgu 1 od celu.,0.86
+4145,Gain +2 ATT for each removed TOXIC token during this Combat.,W tej Walce Uulsot otrzymuje +2 ATK za każdy usunięty żeton TOKSYN.,0.822
+4146,"RHA-ZACK: DESTINY TITAN x3 COMMON SELF 1 Rha-Zack model may use INI, DEF or ATT of any other Rha-Zack Squad for 1 Combat or Attribute check.","RHA–ZAK: TYTAN PRZEZNACZENIA WSPÓLNA JAŹŃ 1 model Rha-Zaków może użyć INI, OBR lub ATK innego oddziału Rha-Zaków na 1 Walkę lub test atrybutu.",0.841
+4149,Add +1 ATT for each 2 UULSOT THE KEEPER unused in your Crystal Pool.,Dodaj +1 ATK za każde 2 niewykorzystane w twojej puli kryształów. Zadaj dodatkową ranę.,0.797
+4153,Return it to the Neutral pile.,Zwróć go do puli neutralnej.,0.828
+4154,ADDITIONAL CRYSTALS: 1 TACTICAL GUIDE: Beacon can be used to pre vent your opponent from Con trolling Crystal Sources and gathering Crystals.,DODATKOWE KRYSZTAŁY: 1 PORADNIK TAKTYCZNY: Efekt: 1 rana. • Sygnał może być używany do utrudniania przeciwnikowi kontroli nad złożami kryształów i pobierania ich.,0.718
+4155,Try to take a Passive turn before they do and then block them! x4 RECALL Reposition the Rha-Zack Shrine to an empty Space with either the Destiny Titan or It’s important to have a lot of Crystals in your Crystal Pool.,"Staraj się zagrać Pasywną turę przed przeciwnikiem i zablokować go! • Ważnym jest, by mieć za- POWRÓT Przemieść kapliczkę Rha-Zaków na puste pole z Tytanem Przeznaczenia albo żetonem SYGNAŁU.",0.666
+4158,Plan your moves wisely. TORNADO STRIKE Check for Hit all models within Range 2 and in Line of Fire of the Destiny Titan.,• Pozycjonowanie jest klu- WIRUJĄCY ATAK Rzuć na trafienie przeciwko wszystkim modelom w Zasięgu 2 oraz linii strzału Tytana Przeznaczenia.,0.685
+4159,Add +1 to the roll for each unused in your Crystal Pool.,Dodaj +1 do rzutu za każdy niewykorzystany w twojej puli kryształów.,0.88
+4162,Tornado Strike - counting Crystals in your Pool is done after the Check for Hit.,Wirujący Atak – liczenie kryształów w twojej puli odbywa się po rzucie na trafienie.,0.711
+4163,"Tor nado Strike affects ALL mod els within Range 2 and Line of Fire, including your own!","Wirujący Atak działa na WSZYSTKIE modele w zasięgu 2 i linii strzału, nawet twoje własne!",0.791
+4164,"DESTINY TITAN REACTOR At the end of your Active turn, if you have at least 2 unused in your Crystal Pool, Charge 1 chosen Enhancement by 1.","Usuń żeton SYGNAŁU. TYTAN PRZEZNACZENIA REAKTOR Na koniec twojej Aktywnej tury naładuj jedno wybrane ulepszenie o 1, jeśli w puli kryształów masz przynajmniej 2 niewykorzystane.",0.846
+4165,Beacon - can only be placed in empty hexes.,Sygnał – może być umieszczany tylko na pustych heksach.,0.819
+4166,There is no Range nor Line of Fire re quirements.,Nie ma wymagań odnośnie zasięgu ani linii strzału.,0.749
+4168,Reactor - you never Charge more than 1 Enhancement with 1 Charge. x4 ENERGY CLOUD Reposition the Rha-Zack Shrine to any empty Space.,Reaktor – nie możesz naładować więcej niż 1 Ulepszenia 1 ładunkiem. OBŁOK ENERGII Przemieść kapliczkę Rha-Zaków na dowolne puste pole na planszy.,0.828
+4169,DESTINY TITAN DEFENSIVE MATRIX Use after a DEF roll of the Destiny Titan.,TYTAN PRZEZNACZENIA 1 MATRYCA OBRONNA Użyj po rzucie na OBR Tytana Przeznaczenia.,0.647
+4170,Add the number of unused in your Crystal Pool to the roll.,Dodaj do tego rzutu liczbę niewykorzystanych w twojej puli kryształów.,0.803
+4171,"Energy Cloud - there are no Range restrictions, but the Space has to be completely empty (it can’t even contain to kens such as MINE or TRAP).","Obłok Energii – nie obowiązują tu ograniczenia zasięgu, ale docelowe pole musi być zupełnie puste (nie może zawierać nawet żetonów takich jak MINA czy PUŁAPKA)",0.862
+4172,"Defensive Matrix - May be played immediately after your DEF roll, improving its result.","Matryca Obronna – może być zagrana bezpośrednio po twoim rzucie, podnosząc wartość jego wyniku.",0.793
+4173,Counting Crystals in your Pool is done after the DEF roll.,Liczenie kryształów w twojej puli odbywa się po rzucie na OBR.,0.727
+4174,DETAILED RULES: TELEPORT BEACON This token indicates the Space where the Destiny Titan will be placed after gather ing Crystals during the RhaZack Passive turn.,SZCZEGÓŁOWE ZASADY: SYGNAŁ Ten żeton zaznacza pole na którym zostanie umieszczony Tytan Przeznaczenia po poborze kryształów w trakcie tury Pasywnej Rha–Zaków.,0.782
+4175,It can be Pushed.,Może być odpychany.,0.811
+4176,"When placed, the Destiny Titan can also Push.","Przy przemieszczaniu, Tytan także może odpychać.",0.634
+4177,"COMMON SELF When you play this Action, choose 1 of the 3 listed At tributes, select a target model and source Squad.","WSPÓLNA JAŹŃ Kiedy zagrywasz tę akcję, wybierz 1 z 3 atrybutów, wybierz model docelowy oraz oddział źródłowy.",0.818
+4178,"Until the end of Combat, the target model uses the chosen At tribute value of the source Squad instead of its own.","Do końca tej akcji Walki, model docelowy używa wartości wybranego atrybutu oddziału źródłowego, zamiast swojej.",0.798
+4179,May be used regardless of Range or Line of Fire.,Może być użyte niezależnie od zasięgu czy linii strzału.,0.779
+4180,"INI may be modified only before an Initiative check, not after.",INI może być zmienione wyłącznie przed porównaniem jego wartości.,0.708
+4181,"ATT or DEF may be modi fied only before a Combat roll, not after.","ATK lub OBR mogą być zmienione tylko przed rzutem, a nie po.",0.845
+4182,"The model uses only the base, printed value of the source Squad’s chosen Attribute.",Model wykorzystuje tylko bazową wartość statystyki widoczną na karcie wybranego oddziału.,0.73
+4183,Any Attribute bonus received by source Squad is ignored.,Wszystkie bonusy otrzymywane przez oddział źródłowy są ignorowane.,0.768

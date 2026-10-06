@@ -1,0 +1,301 @@
+﻿id,en,pl,sim
+1473,GOING FURTHER: You may follow a ceremonial path that seems to connect the Stonedome with the upper city (E02-E) or you may go to the comb-makers workshop (E02-B).,"DALSZA TRASA: możesz udać się ceremonialną ścieżką, która łączy kamienną kopułę z Górnym Miastem (E02-E) lub zejść do manufaktury komór (E02-B).",0.873
+1474,There’s also a small alleyway that cuts back to the lower city plaza (E03).,"Zwiadowcy odnajdują też wąską alejkę, która wiedzie z powrotem do głównego placu (E03).",0.753
+1476,"WORKSHOP For a long time, rows of self-repeating ballistae protected the walls of the Last City.",WARSZTAT OBLĘŻNICZY Szeregi samopowtarzalnych balist od stuleci skutecznie broniły murów Ostatniego Miasta.,0.789
+1477,"But now, the workshop where these feats of engineering were made lies quiet and abandoned.","Jednak teraz warsztat, w którym powstawały te cuda techniki, leży cichy i opuszczony.",0.861
+1478,"Steel bowstrings, thick as a thumb, rest on long racks.","Stalowe cięciwy, grube jak kciuk, wiszą z haków.",0.742
+1479,Arrowheads gleam in the dark like giant teeth.,Wielkie groty błyszczą w półmroku jak ogromne zęby.,0.775
+1481,"Vile specters emerge from dark corners of the work shop, their sinewy bodies fused with sharp metal and entwined with steel cables.","Z ciemnych kątów warsztatu wyłaniają się humanoidalne kształty, których ciała z czasem połączyły się z ostrymi kawałkami metalu i owinęły stalowymi linami.",0.734
+1482,"Then, you hear the sound of some mechanism winding up in the dark - and the sharp clang of a released bowstring.","Słyszysz też szczęknięcia jakiegoś mechanizmu, nakręcanego w ciemnym kącie warsztatu – a potem brzęknięcie zwalnianej cięciwy.",0.776
+1483,"REMNANTS FORCES: 1 Void Specter Squad (+1 ATT, +1 Endurance token), 1 Impostor Squad (+1 ATT, +1 Endurance token), 1 Slaughter Crow Squad (+1 ATT, +1 Endurance token).","SIŁY OBROŃCÓW: oddział Fałszywców (+1 do Ataku, +1 żeton wytrzymałości), oddział Mar Niebytu (+1 do Ataku, +1 żeton wytrzymałości), oddział Rzezikruków (+1 do Ataku, +1 żeton wytrzymałości).",0.868
+1484,"REMNANTS DECK: Take all Impostor, Void Specter and Slaughter Crow cards.","TALIA OBROŃCÓW: wybierz wszystkie karty Fałszywców, Mar Niebytu oraz Rzezikruków.",0.759
+1487,SPECIAL RULES: Select one edge of the map and mark it with a token.,ZASADY SPECJALNE: wybierz jedną krawędź planszy i oznacz ją dużym żetonem.,0.875
+1488,This is the Far Edge of the workshop.,"To Odległy Kąt warsztatu, gdzie ukryta jest balista.",0.638
+1489,"At the beginning of every enemy AI turn, choose one of your models closest to the Far Edge and check it for Hit (with a yellow die).","Na początku każdej tury Ciemności, wybierz swój model stojący możliwie najbliżej Odległego Kąta i Sprawdź Trafienie (używając Żółtej kości).",0.749
+1490,Effect: the model receives 2 Wounds and is Pushed one Space away from the Far Edge (it may Push).,"EFEKT: model otrzymuje 2 rany i zostaje odepchnięty o 1 pole, w kierunku przeciwnym do Odległego Kąta (jeśli miejsce zajmują mu mniejsze modele, musi je odepchnąć).",0.818
+1491,This barrage lasts until you finish the battle.,Ten ostrzał trwa aż do końca bitwy.,0.793
+1495,"GOING FURTHER: From here, a creaky elevator climbs the inner city wall. It seems to connect the workshop with the barracks far above (E02-F).","DALSZA TRASA: skrzypiąca, stara winda wspina się po murze za warsztatem, łącząc go z potężną cytadelą, górującą nad Niższym Miastem (E02-F).",0.736
+1496,"If you don’t trust this old contraption, you may always turn back (E03).","Jeśli nie ufasz tej maszynerii, możesz zawsze zawrócić (E03).",0.869
+1498,"CANYON SHORTCUT The path leads into a winding canyon, its sides covered with small dwellings, carved into the solid rock.","SKRÓT PRZEZ KANION Ścieżka prowadzi do skalistego kanionu, w którego ścianach wyryto malutkie domki biedoty.",0.807
+1500,"You feel uneasy, but the road seems to be going upwards, towards the high city - and this is your direction.","Czujesz się tu niekomfortowo, ale droga prowadzi wciąż wzwyż, ku Górnemu Miastu – a takiej właśnie trasy szukałeś.",0.845
+1504,SETUP: Do not place a Shadow Gate.,PRZYGOTOWANIA: nie wystawiaj Cieńwrót.,0.749
+1505,All Spaces along all edges of the map act as Shadow Gates instead - enemy models always spawn as close to your models as possible.,"W zamian, ich rolę pełnią wszystkie pola wzdłuż krawędzi planszy – wrogie modele wystawiaj zawsze na nich, możliwie najbliżej twoich modeli.",0.795
+1506,"REMNANTS FORCES: 1 Shadow Squad, 1 Void Specter Squad, 1 Impostor Squad, 1 Slaughter Crow Squad.","SIŁY OBROŃCÓW: oddział Cieni, oddział Fałszywców, oddział Mar Niebytu, oddział Rzezikruków.",0.752
+1509,DIFFICULTY: Play 2 Darkness cards each turn and use the “Leeches” difficulty card.,POZIOM TRUDNOŚCI: Ciemność zagrywa 2 karty podczas każdej tury. Użyj karty trudności „Pijawki”.,0.848
+1512,REWARD: +1 Casualties if you lost any full Squad during this battle.,"NAGRODA: +1 do Strat, jeśli którykolwiek z twoich oddziałów zostanie całkowicie zniszczony.",0.77
+1514,The road back returns to the House of Eternity (E05) and the Stonedome (E02-C).,Droga powrotna wiedzie do domu wieczności (E05) lub kamiennej kopuły (E02-C).,0.857
+1516,"THE CITADEL Towering above the shacks, cottages and workshops of the lower city, a massive red-bricked citadel looms attached on one side to the inner wall.","CYTADELA Ponad stłoczonymi domkami i warsztatami Niższego Miasta góruje zbudowana z czerwonej cegły cytadela, przylepiona jedną stroną do muru, który rozdziela dzielnice.",0.813
+1517,"For such an im posing structure, it proves quite defenseless.","Jak na tak imponującą strukturę, okazuje się dość bezbronna.",0.792
+1518,"Once you delve into its barracks and corridors, you meet no one - at least until you venture into the long briefing hall.","Zanurzając się w jej korytarze nie spotykasz nikogo – aż do momentu, gdy docierasz do długiej, wysoko sklepionej sali narad.",0.806
+1519,"If the sticker E08, “Curate’s Headdress” is in the “Plunder” section of the Last City map, read Event 2.","Jeśli naklejka E08 „Maska Kuratora” znajduje się w sekcji łupów przy mapie Ostatniego Miasta, przeczytaj Wydarzenie 2.",0.898
+1520,"If not, read Event 1.",W przeciwnym wypadku przeczytaj Wydarzenie 1.,0.935
+1521,"EVENT 1 Inside the vast hall, behind the table hosting a large scale model of the entire city, stands an imposing figure in an ornate golden breastplate, leaning on a ceremo nial sword.","WYDARZENIE 1 Wewnątrz ogromnej sali, za stołem, na którym znajduje się makieta całego miasta i jego otoczenia, widzisz postać w złoconym napierśniku, opierającą się na ceremonialnym mieczu.",0.814
+1523,"And a command of his mutated troops, waiting along the walls. “Cur of the Silver Faces,” his voice booms when he sees you, “I should have known Curate would find someone else to do his dirty work.","Zmutowani żołnierze czekają pod ścianami na jego rozkaz. – Psie Srebrnych Twarzy! – jego głos dudni pod sklepieniem. – Wiedziałem, że Kurator znajdzie w końcu kogoś, kto zrobi za niego brudną robotę.",0.689
+1524,"But know one thing: we were tasked with preserving this city, and we will continue doing so long after your body rots away.”","Ale my broniliśmy tego miasta od stuleci, i będziemy to robić dalej, gdy po twoich kościach nie zostanie już ślad.",0.617
+1525,SETUP: Do not place a Shadow Gate and set up only two Crystal Sources.,PRZYGOTOWANIA: nie wystawiaj Cieńwrót. Umieść na planszy tylko dwa złoża kryształów.,0.752
+1526,"Before you deploy any of your models, place all enemy models in empty Spaces along the edge of the map – no more than one model per Space.","Przed wystawieniem swoich oddziałów, umieść wszystkie wrogie modele w polach leżących wzdłuż krawędzi planszy – nie więcej niż jeden model na każdym polu.",0.888
+1527,Darkness cards do not spawn additional models during this Battle.,Karty Ciemności nie wystawiają nowych modeli podczas tej Bitwy.,0.871
+1531,DIFFICULTY: Play 2 Darkness cards each turn and use the “Dark Mode” dif ficulty card.,POZIOM TRUDNOŚCI: Ciemność zagrywa 2 karty każdej tury. Użyj karty trudności „Tryb Mroku”.,0.855
+1533,Retreat towards the last Conquered location.,Wycofaj się do najbliższej Podbitej uprzednio lokacji.,0.762
+1535,Place a “Conquest” sticker (E02) on this location.,Umieść naklejkę Podboju (E02) na tej lokacji.,0.893
+1536,"Place sticker E07, “Sword of the Strategos”, in the “Plunder” section of the Last City map.",Umieść naklejkę E07 „Miecz Stratega” w sekcji łupów przy mapie Ostatniego Miasta.,0.911
+1538,"EVENT 2 Inside the vast hall, behind the table with a large scale model of the entire city, sits an imposing figure.","WYDARZENIE 2 Wewnątrz ogromnej sali, za stołem, na którym znajduje się makieta miasta i jego otoczenia, widzisz postać w złoconym napierśniku, która opiera się na ceremonialnym mieczu.",0.775
+1548,"GOING FURTHER: From the foot of the citadel, a wide street leads straight to the temple grounds (E02-H), but you may also take the creaky elevator back to the lower city (E02-D).","DALSZA TRASA: z cytadeli łatwo dotrzeć do pałacowych ogrodów (E02-H), ale możesz też skorzystać ze skrzypiącej windy do niższego miasta (E02-D).",0.874
+1550,"THE SACRED ALLEY The axis of the entire Last City is an impressive alley, surrounded by statues of gods and heroes.","ALEJA PROCESYJNA Osią całego Ostatniego Miasta jest wspaniała aleja, otoczona posągami bogów i herosów.",0.889
+1551,"It passes through the golden gate of the inner wall and stretches along two rows of luxury townhouses, shrines and garden villas.","Przechodzi przez złotą bramę Górnego Miasta, a potem mija rzędy luksusowych posiadłości, świątyń oraz ogrodów.",0.742
+1553,Reaching them won’t be easy.,Dotarcie do niego nie będzie jednak łatwe.,0.81
+1554,A thick cloud of darkness blocks your way.,Przejście zagradza gęsta chmura mroku.,0.768
+1556,"This is an easy way in - and just like all easy ways it is heavily guarded, its defenders larger and fiercer than anyone you have encountered up to this point.","To bezpośrednia, prosta droga do pałacu – i jak wszystkie proste drogi jest pilnie strzeżona przez obrońców dużo liczniejszych, niż spotkane dotychczas grupy...",0.715
+1557,"SETUP: Before you set up your models, choose one edge of the map.","PRZYGOTOWANIE: przed rozstawieniem swoich modeli, wybierz jedną krawędź planszy.",0.885
+1558,Deploy one full Shadow Squad and one full Void Specter Squad in any two Spaces along this edge.,Wystaw cały oddział Cieni oraz cały oddział Mar Niebytu w dwóch dowolnych polach przy tej krawędzi.,0.78
+1560,DIFFICULTY: Play 2 Darkness cards per turn and use the “Growing” difficulty card.,POZIOM TRUDNOŚCI: Ciemność zagrywa 2 karty każdej tury. Użyj karty trudności „Rozrost”.,0.852
+1566,"Place sticker E06, “The Breach”, on this location and Go Further.","Umieść naklejkę „Wyłom” (E06) w tym miejscu, a następnie wybierz dalszą trasę.",0.833
+1567,GOING FURTHER: The sacred alley leads upwards to the palace grounds while a cobblestone road diverges towards enormous villa with a two-story silver mask on its facade (E02-G).,"DALSZA TRASA: aleja procesyjna dociera aż do pałacowych ogrodów (E02-H). Po drodze oddziela się od niej mniejsza, brukowana droga, prowadząca do dziwnej willi, na fasadzie której błyszczy wysoka na dwa piętra, srebrna maska.",0.868
+1568,The lower city sits quietly behind you (E03).,Niższe miasto czeka w ciszy za twoimi plecami (E03).,0.854
+1570,"VILLA A magnificent mansion stretches itself on a green terrace, baked by the scorch ing sun.","WILLA KURATORA Niezwykła posiadłość wznosi się pośród zielonych tarasów, skąpana blaskiem pustynnego słońca.",0.77
+1571,The silver face on its facade seems to twitch and grimace - or is it just a mirage caused by the heated air?,"Ogromna, srebrna maska na jej fasadzie wydaje się krzywić na twój widok – choć to pewnie tylko miraż, wywołany rozgrzanym powietrzem.",0.747
+1572,"Upon entering the building, you see religious murals, sacred statues and vast libraries.","Wszedłszy do środka, wszędzie widzisz religijne freski, święte posągi oraz rozległe biblioteki, pełne zwojów.",0.8
+1573,An important member of the clergy had to reside here.,Musiał tu żyć arcykapłan lub inny wysoki rangą duchowny.,0.594
+1574,"Finally, you reach a dusty study located directly behind the mask.","Po jakimś czasie odnajdujesz drogę do pracowni, ukrytej bezpośrednio za maską.",0.704
+1575,"Its eyes are windows, overlooking the city.","Jej oczy okazują się oknami, z których widać całe miasto.",0.811
+1576,"A thin figure sits by one of them, it’s ornate mask and headdress made not of silver, but pure diamond-encrusted platinum.","Przy jednym z nich siedzi wychudła postać. Jej maska zrobiona jest nie ze srebra, a z wysadzanej diamentami platyny.",0.831
+1577,"If the sticker “Sword of the Strategos” (E07) is in the “Plunder” section of the Last City map, read Event 2.","Jeśli naklejka E07 „Miecz Stratega” znajduje się w sekcji łupów przy mapie Ostatniego Miasta, przeczytaj Wydarzenie 2.",0.916
+1579,"EVENT 1 The figure rises slowly, and turns towards you.","WYDARZENIE 1 Wrzecionowata postać wstaje powoli, odwracając się ku tobie.",0.869
+1580,"It removes the mask, revealing a yellowed skull that caves in where the face should be, the bone framing a small black vortex that seems to draw all light out of the room. “How could we know?” a sinister voice whispers.","Zdejmuje maskę, ukazując czaszkę, której środek zapadł się i przekształcił w czarny wir, wysysający światło z całego pomieszczenia. – Skąd mogliśmy wiedzieć? – szepcze głos znikąd. – Zbyt wielu śniących...",0.812
+1581,Too many dreams...,Zbyt wiele snów...,0.94
+1582,Too many paths into the land of nightmare.”,Zbyt wiele ścieżek do krainy koszmaru.,0.739
+1583,He lets out a horrific shriek.,"Potem, istota wydaje przeraźliwy okrzyk.",0.606
+1584,The walls of the room dissolve into pure black.,"Ściany pomieszczenia znikają, zastąpione głęboką ciemnością.",0.677
+1585,SETUP: Deploy one full Shadow Squad and one full Impostor Squad with the Shadow Gate.,PRZYGOTOWANIE: wystaw cały oddział Cieni oraz cały oddział Fałszywców z Cieńwrotami.,0.75
+1586,"REMNANTS FORCES: 1 Shadow Squad, 1 Void Specter Squad, 1 Impostor Squad – the Void Specters will arrive during the battle.","SIŁY OBROŃCÓW: oddział Cieni, oddział Mar Niebytu, oddział Fałszywców (Mary Niebytu przybędą dopiero w trakcie bitwy).",0.703
+1587,"REMNANTS DECK: Take all Shadow, Impostor and Void Specter cards.","TALIA OBROŃCÓW: wybierz wszystkie karty Cieni, Fałszywców oraz Mar Niebytu.",0.788
+1590,The Darkness starts with 6.,Ciemność zaczyna z 6.,0.92
+1591,"REWARD: Place sticker E08, “Curate’s Headdress” in the appropriate slot of the Last City map.",NAGRODA: umieść naklejkę E08 „Maska Kuratora” w sekcji łupów przy mapie Ostatniego Miasta.,0.876
+1593,"EVENT 2 “I see you taught this heathen a lesson,” says the figure, even though it’s still turned away from you. “His grunts slaughtered many of the Dream-servants.","WYDARZENIE 2 – Widzę, że dałeś mu nauczkę – mówi postać, nadal zwrócona do ciebie tyłem. – Jego siepacze zabili wielu służących Snu.",0.816
+1594,"They blamed us for all of this, you see.","Wyobraź sobie, że winił nas za to wszystko.",0.668
+1595,Poor fool.”,Biedny głupiec!,0.656
+1596,A small table materializes before you.,Przed tobą materializuje się mały stolik.,0.846
+1597,"An old, musky scroll sits atop, and the space itself seems to wrap around it.","Spoczywa na nim stary, zbutwiały zwój, wokół którego przestrzeń wydaje się załamywać.",0.796
+1598,“That’s how I learned how to make them dream. But there’s plenty of other knowledge within.,"AWAKEN REALMS – Tak właśnie nauczyłem się, jak wprowadzać ich w letarg – mówi Kurator. – Ale jest tam dużo innej wiedzy, która już mi się nie przyda.",0.752
+1599,Take it.,Weź go.,0.886
+1600,May it bring more luck to your people than it did to mine.”,"Może przyniesie twojemu ludowi więcej szczęścia, niż mojemu.",0.766
+1602,Place a marker on its Squad card.,Umieść znacznik na karcie tego oddziału.,0.729
+1603,"It gets -1 to all basic Attributes (INI, ATT, DEF, MOV) but +1 Endurance.","Aż do końca kampanii otrzymuje on -1 do wszystkich podstawowych atrybutów (INI, ATK, OBR, Ruch), a jego maksymalna liczba żetonów wytrzymałości rośnie o 1.",0.788
+1604,"Then, add any five Action cards to your deck.","Następnie, dodaj do talii pięć dowolnych kart akcji.",0.895
+1607,PALACE GROUNDS You’re almost on top of the city now.,PAŁACOWE OGRODY Jesteś już prawie na szczycie miasta.,0.89
+1608,A breathtaking vista spreads far in all direc tions while a menacing palace looms above you.,"We wszystkich kierunkach rozpościera się niesamowita panorama, a nad tobą wisi ponura, masywna bryła pałacu.",0.76
+1609,"Up close, you notice there’s something wrong with it.","Z bliska widzisz, że dzieje się tu coś złego.",0.755
+1610,The walls are cracked and seeping with something foul.,Ściany są popękane. Sączy się z nich ciemna maź.,0.692
+1611,"The tall honeycomb structures, clinging to the mountainside, seem to emanate with dark energy.","Do stoków góry przylegają setki glinianych struktur, przypominających plastry miodu. Wiele emanuje podobną, ciemną energią.",0.596
+1612,But there’s no time to worry about that.,Nie masz jednak czasu tym się martwić.,0.881
+1615,"OPTIONAL Read this fragment only If sticker E10, “Ancient War Horn”, is present in the “Plunder” section of the Last City map.","WYDARZENIE SPECJALNE Przeczytaj ten fragment tylko, jeśli naklejka E10 „Róg Wojenny” znajduje się w sekcji łupów przy mapie Ostatniego Miasta.",0.845
+1616,"Seeing the overwhelming numbers, you remember the gift of the Strategos.","Widząc przytłaczające liczby stworów, przypominasz sobie o podarunku Stratega.",0.764
+1617,"Guided by intuition, you decide to blow it, its booming sound resonating from the face of the mountain.","Wiedziony intuicją, postanawiasz zadąć w róg. Potężny ryk odbija się echem od ścian.",0.61
+1618,"Some of the creatures, clad in the city guard armor, seem to recognize this call.","Niektóre stworzenia, noszące jeszcze resztki pancerzy, wydają się rozpoznawać ten zew.",0.671
+1619,"They rise and join your force, tying some of the enemies in combat.","Podnoszą się i przyłączają do bitwy po stronie twojej armii, związując walką część przeciwników.",0.84
+1620,Disable sticker E10.,Anuluj naklejkę E10.,0.913
+1621,Use the alternative Remnants Force in the battle below.,"Użyj alternatywnej, słabszej wersji „Sił obrońców” w poniższej bitwie.",0.775
+1623,"ALTERNATIVE REMNANTS FORCES (if you used the Ancient War-Horn): 1 Shadow Squad, 1 Void Specter Squad. DIFFICULTY: Play 3 Darkness cards per turn, and use the “Essence” difficulty card.","Alternatywne siły Obrońców (jeśli została użyta naklejka E10): 1 oddział Cieni, 1 oddział Mar Niebytu POZIOM TRUDNOŚCI: Ciemność zagrywa trzy karty każdej tury.",0.804
+1626,PENALTY: +1 Casualties.,KARA: +1 do Strat.,0.758
+1628,REWARD: Place the “Conquest” sticker on this location and Go Further.,"NAGRODA: umieść naklejkę Podboju (E02) w tym miejscu, a następnie wybierz dalszą trasę.",0.653
+1629,GOING FURTHER: The route to the palace gate (E02-I) is clear!,DALSZA TRASA: przejście do pałacu (E02-O) stoi otworem!,0.856
+1630,You cannot turn back now; too many apparitions are lurking in the gardens behind you.,Nie możesz już się teraz wycofać. Zbyt wiele stworów czai się w ogrodach za twoimi plecami.,0.869
+1632,HEART OF THE CITY Continue to Scenario 3!,SERCE MIASTA Przejdź do Scenariusza 3!,0.893
+1633,SCENARIO 3 HEART OF THE CITY You wander through empty courtyards and vast halls.,SCENARIUSZ 3 JĄDRO CIEMNOŚCI Snujesz się po opustoszałych korytarzach i wielkich salach.,0.866
+1634,You peer at the gem-stud ded domes.,Spoglądasz na wysadzane klejnotami kopuły.,0.748
+1635,The Darkness is everywhere.,Ciemność jest tu wszędzie.,0.785
+1636,It coils in the corners of the rooms. Its membranes hang from marble arches like putrid curtains.,"Jej zwoje pulsują w rogach pomieszczeń, a jej membrany zwisają z marmurowych łuków jak upiorne kurtyny.",0.788
+1638,"Then, you reach a throne room under an open sky.","Wreszcie, docierasz do sali tronowej pod otwartym niebem.",0.798
+1639,But what sky is that?,Ale cóż to za niebo?,0.953
+1640,"In stead of baking sun, you see infinite darkness, twirling vortices of umbral energy, sinewy filaments descending from above and reaching the ground.","Zamiast piekącego słońca, widzisz nieskończony mrok, kręcące się wiry dziwnych energii i wielkie ścięgna, które łączą podłoże z firmamentem.",0.751
+1641,The Heart of the City sunk into the Darkness!,Serce tego miasta zatonęło w Ciemności!,0.819
+1642,"Before you, a path leads towards the throne, cut into the side of the mountain this city was built upon.","Ścieżka przed tobą wiedzie do tronu, wykutego w gołej skale, wokół której zbudowano miasto.",0.734
+1643,"Once, this throne had to appear enormous.","Kiedyś, tron musiał wydawać się gigantyczny.",0.796
+1644,"Today, it’s flanked on both sides by even larger clusters of clay honeycombs.","Jednak dzisiaj, z obu stron otaczają go jeszcze większe klastry glinianych komór.",0.8
+1646,How many are there?,Ile tu ich jest?,0.857
+1647,Five thousand?,Pięć tysięcy?,0.949
+1648,Ten Thousand?,Dziesięć?,0.854
+1649,You quickly lose count.,Szybko tracisz rachubę.,0.866
+1650,"Suddenly, you hear a slithering behind you.","Nagle, za tobą rozlega się dziwny szelest.",0.754
+1651,"A foreboding figure walks out of the dark, its tendrils trembling.","Wysoka postać wychodzi z mroku, otoczona przez kłębowisko macek.",0.635
+1652,"A cancerous mass at the top of its head splits open, revealing a perfectly triangular face.","Rakowata narośl na górze jej korpusu rozdziela się, ukazując perfekcyjnie trójkątne oblicze.",0.753
+1653,"Behind it, row upon row of smaller beings emerge from the dark.",Za tym stworem pojawią się szeregi mniejszych istot mroku.,0.747
+1654,"You form ranks in the middle of the courtyard, under a dark sky.","Formujesz swoich wojowników na środku dziedzińca, pod ciemnym niebem.",0.79
+1655,This will be your final battle.,To będzie ostatnia bitwa.,0.868
+1656,"SETUP: Use the alternative, Darkness-themed battle map and place four Crystal Sources according to the standard rules.","PRZYGOTOWANIE: • tej bitwie korzystasz z alternatywnej planszy, reprezentującej krainę Ciemności. Rozkładasz na niej cztery złoża kryształów, zgodnie ze standardowymi zasadami.",0.745
+1657,Deploy your forces within three central Spaces of the Darkness map (the red zone).,• Możesz wystawiać swoje modele wyłącznie w czterech centralnych polach planszy Ciemności (czerwona zona).,0.729
+1658,"If there aren’t enough empty hexes, place any remaining models with the ones already present on the map.","Jeśli nie ma tam wystarczająco miejsca, umieść pozostałe modele z tymi, które zostały już wystawione.",0.806
+1659,Place a Shadow Gate one Space away from any edge of the map.,"• Następnie, połóż Cieńwrota o jedno pole od dowolnej krawędzi mapy.",0.753
+1660,Place a Prime Shadow model one Space away from the edge of the map directly opposite the Shadow Gate.,"• Wystaw model Pierwocienia o jedno pole od krawędzi mapy, dokładnie naprzeciw Cieńwrót.",0.767
+1662,The remaining models will arrive during the battle.,Pozostałe modele pojawią się już w trakcie bitwy.,0.83
+1664,YOUR FORCES: Use any of your remaining Squads.,"TWOJE SIŁY: wszystkie oddziały, które przetrwały aż do tej misji.",0.688
+1665,YOUR OBJECTIVE: Kill the Prime Shadow and then win through Victory Points.,TWÓJ CEL: zabić Pierwocienia oraz zwyciężyć na punkty zwycięstwa (patrz: Zasady Specjalne).,0.8
+1666,"REMNANTS FORCES: Shadow Squad, Void Specter Squad, Impostor Squad, Slaughter Crow Squad, Prime Shadow.","SIŁY OBROŃCÓW: oddział Cieni, oddział Fałszywców, oddział Mar Niebytu, oddział Rzezikruków, Pierwocień.",0.795
+1667,"REMNANTS DECK: Select all Shadow, Void Specter, Impostor, Slaughter Crow and Prime Shadow cards.","TALIA OBROŃCÓW: wybierz wszystkie karty Cieni, Fałszywców, Mar Niebytu, Rzezikruków oraz Pierwocienia.",0.866
+1670,Use the “Now or Never” dif ficulty card.,Użyj karty trudności „Teraz Albo Nigdy”.,0.878
+1671,Its effect is permanent!,Jej efekt obowiązuje w każdej turze!,0.742
+1672,"SPECIAL RULES: Even if you gather enough Victory Points, the battle cannot end until the Prime Shadow is dead.","ZASADY SPECJALNE: nawet jeśli zbierzesz odpowiednią liczbę punktów zwycięstwa, nie możesz wygrać, dopóki na planszy pozostaje Pierwocień!",0.772
+1673,REWARD: Read ENDING 2.,NAGRODA: przeczytaj Zakończenie 2.,0.935
+1676,ENDING 1 The city claims your life – and the lives of everyone who followed you.,"ZAKOŃCZENIE 1 Miasto połyka cię na zawsze – podobnie jak wszystkich, którzy przyszli przed tobą.",0.77
+1677,"Its trea sures and its secrets remain intact, waiting for another would-be conqueror fool ish enough to pass the Brazen Gate.","Jego skarby oraz sekrety pozostają nienaruszone, czekając na kolejnego zdobywcę, który będzie na tyle głupi, by przekroczyć Mosiężne Wrota.",0.726
+1678,"Deep inside its heart, the dreamers weave their endless nightmares and the Prime Shadow lingers on a throne between the worlds.","Głęboko w sercu miasta, śniący nadal snują niekończące się koszmary, a Pierwocień zasiada na tronie pomiędzy dwoma światami.",0.732
+1680,ENDING 2 You barely hold off the wave of the Darkness.,ZAKOŃCZENIE 2 Ledwo udaje ci się odeprzeć kolejne fale stworzeń Ciemności.,0.744
+1683,"But even with the throne room cleared, twisted crea tures from the city still converge upon the palace.","Ale nawet po oczyszczeniu sali tronowej, pałac jest pełny powykręcanych bestii, a kolejne ciągną tu ze wszystkich zakątków miasta.",0.718
+1684,"Too weak to fight your way back, you delve deeper into the building.","Zbyt słabi, by wywalczyć sobie powrotną drogę, zanurzacie się głębiej w korytarze pałacu.",0.756
+1685,"Soon, you discover a long mural that tells the story of the city up until its last days.","Tam właśnie odkrywasz długą płaskorzeźbę, opowiadającą historię miasta aż do jego ostatnich dni.",0.825
+1686,"Looking at the small figurines and elaborate scenes, you begin to understand.","Patrząc na małe postacie i bogato zdobione sceny, zaczynasz powoli rozumieć.",0.81
+1687,The residents believed they were the last of the human race.,"Mieszkańcy wierzyli, że są ostatnimi przedstawicielami ludzkiej rasy.",0.817
+1688,"They built their impressive walls, their ballistae and their Storm Towers to ensure the survival of their species.","Zbudowali te potężne mury, automatyczne balisty oraz burzowe bastiony, by zapewnić swojemu gatunkowi przyszłość.",0.729
+1689,But this cut them off from the land outside the gates.,Fortyfikacje odcięły ich jednak od krain po drugiej stronie muru.,0.598
+1691,"It is then that the Silver Faces began to embalm and hibernate unessential citizens, sealing them within their ceramic honeycombs - to be awoken, when ever a better time came.","Wtedy Srebrne Maski zaczęły balsamować i hibernować mniej użytecznych mieszkańców, zamykając ich w glinianych komorach – mieli być obudzeni, gdy przyjdzie odpowiednia pora. Ta pora nigdy nie nadeszła.",0.804
+1693,Thousands of people were engulfed in a choking dream.,"Tysiące ludzi utkwiło w lepkich, dusznych snach.",0.725
+1695,"It corrupted both the city guard and the Silver Faces, pushing them into a civil war that soon drained the city of any strength.","Odmieniła zarówno straż miejską, jak i Srebrne Maski, pchając obie grupy do wojny domowej, która pozbawiła miasto resztek sił.",0.718
+1696,"Only a sand-swept husk remained, and in its corrupt heart, an invader from the other side took the throne for him self.","Zostały w nim tylko przysypane piaskiem szczątki, pełne zepsucia serce oraz potężny najeźdźca z innego świata, który zasiadł na pustym tronie.",0.626
+1697,"You ponder this story, when one of your scouts comes running.","Zastanawiasz się nad tą historią, gdy przybiega do ciebie podekscytowany zwiadowca.",0.632
+1698,They have found a secret path leading from the top of the palace back onto the city wall.,"Udało mu się znaleźć tajną ścieżkę, która wychodzi z pałacu i wije się w dół, po półkach skalnych, aż do samej pustyni.",0.608
+1699,"It is time to depart, with the sad remains of your force, with your meager plunder - and a chilling story you will never forget.","Pora opuścić to miejsce, z marnymi resztkami armii oraz mało imponującym łupem – i mrożącą historią, której nigdy nie zapomnisz.",0.767
+1700,"Only the dreamers stay behind, submerged in a nightmare that will last until the end of times.","Za wami zostają tylko śniący, zanurzeni w koszmarze, który będzie trwał aż do końca świata.",0.749
+1702,AWAKEN REALMS SOLO / CO-OP VS AI CAMPAIGN A B Y S S A L EMPRESS PROLOGUE This place is mentioned only in whispers.,AWAKEN REALMS KAMPANIA SOLO / KO-OP IMPERATRYCA OTCHŁANI PROLOG O tym miejscu wspomina się tylko szeptem.,0.874
+1703,"The fortress crumbled long ago, only the outside walls still stand sheltering a sphere of pure black beyond the overgrown gate.","Zamek zapadł się dawno temu i tylko jego zewnętrzne ściany stoją nadal, skrywając między sobą sferę czystej czerni.",0.808
+1704,Scholars and priests have long tried to discover the origins of this sphere.,Uczeni i kapłani od dawna próbowali odkryć jej genezę.,0.796
+1705,"The grim, mysterious people who live in the vicinity repeat a tale of a lord whose sickly, lamebrained son wrote a blasphemous tome, one page each night, though during the day he didn’t even know how to hold a quill.","Okoliczny lud opowiada natomiast historie o władcy, którego chorowity, upośledzony syn zaczął pewnego razu spisywać bluźnierczy tom. Każdej nocy przybywała jedna strona, choć za dnia chłopak nie wiedział jak trzymać pióro.",0.771
+1706,"His father studied the tome, looking for clues that could help him understand his only child.","Ojciec studiował księgę, próbując znaleźć wskazówki, które pomogłyby mu zrozumieć jedyne dziecko.",0.833
+1707,He found something else.,"W zamian, odnalazł co innego.",0.797
+1708,"One day, the entire household disappeared, leaving only a void that consumed everyone who touched it.","Pewnego dnia, domostwo znikło, zastąpione kopułą czerni, połykającą każdego śmiałka, który jej dotknął.",0.699
+1709,"In time, the place fell into ruin and was forgotten — until you came along.","Z czasem, to miejsce zostało zapomniane – aż do momentu, gdy zjawiłeś się ty.",0.782
+1710,Why did you arrive at this place?,Dlaczego przybyłeś?,0.839
+1711,Was it for wisdom?,Czy szukałeś wiedzy?,0.65
+1712,To pry the ancient powers from the void?,Chciałeś wyrwać pustce pradawne sekrety?,0.645
+1713,Or maybe just to solve an age-old riddle?,"A może rozwiązać zagadkę, która pokonała innych?",0.649
+1714,Doesn’t matter.,Nieistotne.,0.892
+1715,"As you stand in front of the sphere, looking into its total blackness, you can only think about what may be slumbering inside...","Stojąc na krawędzi sfery i patrząc w jej atramentową otchłań, potrafisz już myśleć tylko o tym, co kryje się w środku.",0.737
+1716,"CAMPAIGN RULES & SETUP Apart from the standard rules found at the beginning of this booklet, the following rules also apply during the Abyssal Em press campaign.","ZASADY I PRZYGOTOWANIE KAMPANII Oprócz standardowych zasad, opisanych wcześniej w tej książce, podczas rozgrywania kampanii Imperatrycy Otchłani musisz uwzględnić poniższe reguły.",0.769
+1719,"SCENARIO 1 CLUES FROM THE PAST AWAKEN REALMS You were expecting this place to have been looted a long time ago, yet there are still some derelict items scattered around the perimeter of the sphere.","SCENARIUSZ 1 ŚLADY PRZESZŁOŚCI AWAKEN REALMS Spodziewałeś się, że zamek już dawno rozszabrowano, dlatego zdziwiło cię, że na obrzeżach sfery leży wiele starych, zapomnianych przedmiotów.",0.779
+1720,Red candles peer at you from the dust.,"Czerwone świece, przysypane pyłem.",0.64
+1721,"The remains of an old book sit on a stone table, cut in half by the black void.","Małe ozdoby. Stara księga na krawędzi kamiennego stołu, przecięta w połowie przez kopułę.",0.627
+1722,"The horrific nature of this place repelled visi tors, preserving many valuable clues as to what had happened here.","Strach musiał przegnać stąd nawet złodziejaszków, dzięki czemu zachowało się wiele wskazówek, które może pozwolą wydedukować, do czego tu doszło.",0.626
+1723,"You try to pick up the remnants of the book — and at this very moment, a twisted hand reaches out of the void and grabs you by the wrist.","Próbujesz podnieść resztki księgi – w tym momencie, ze sfery wyłania się upiorna ręka, która chwyta cię za nadgarstek.",0.837
+1724,"You feel the touch of a slimy, cold bone.","Czujesz dotyk oślizgłej, zimnej kości.",0.89
+1725,You sever the hand with one quick stroke while your men grab their weapons.,"Obcinasz dłoń zmory szybkim uderzeniem, a twoi wojownicy wyciągają broń.",0.776
+1726,Shadows emerge from the void and attack.,Ze sfery wyłaniają się kroczące Cienie.,0.6
+1727,So THAT’s the real reason why everyone left this place intact...,A więc to dlatego nikt nie zabrał stąd żadnych przedmiotów...,0.648
+1728,SETUP: Use the standard battle map.,PRZYGOTOWANIE: • Użyj standardowej planszy.,0.801
+1729,Place a large token at least 3 Spaces away from the edge of the map.,• Umieść duży żeton przynajmniej o 3 pola od jej krawędzi.,0.791
+1730,"This token, and all adjacent Spaces, represent the Void Sphere (See Special Rules).","Ten żeton, podobnie jak wszystkie przyległe do niego pola, reprezentuje Sferę Ciemności.",0.611
+1731,"In total, the Void Sphere contains 7 Spaces and there are 12 Spaces adjacent to the Void Sphere.","Sfera Ciemności składa się z 7 pól, a kolejne 12 pól jest do niej przyległe.",0.773
+1732,Place eight small tokens in Spaces adjacent to the Void Sphere — no more than 1 per Space.,• Umieść osiem małych żetonów z Krawędzią Sfery – nie więcej niż 1 na każdym polu.,0.789
+1733,They represent Unsettling Clues that may help you understand what happened here a long time ago.,"Reprezentują one Wskazówki, które pomogą ci zrozumieć, do czego doszło w zamku dawno temu.",0.758
+1734,"Place two Crystal Sources, your Shrine, and your forces according to the regular rules.","• Rozstaw dwa złoża kryształów, kapliczkę oraz swoje modele zgodnie ze standardowymi zasadami.",0.651
+1735,YOUR FORCES: Select any 2 Squads and build a deck of up to 15 Action cards.,TWOJE SIŁY: wybierz dwa dowolne oddziały i zbuduj talię 15 kart akcji.,0.934
+1736,YOUR OBJECTIVE: Survive the enemy assault.,TWÓJ CEL: przetrwać atak Ciemności.,0.731
+1737,YOUR SPECIAL OBJECTIVE: Collect as many Unsettling Clues as possible.,TWÓJ DODATKOWY CEL: zebrać jak największą liczbę Wskazówek.,0.833
+1738,"ABYSSAL FORCES: One Shadow Squad, one Impostor Squad.","SIŁY IMPERATRYCY: oddział Cieni, oddział Fałszywców.",0.72
+1739,ABYSSAL DECK: Select all Shadow and Impostor cards.,TALIA IMPERATRYCY: wybierz wszystkie karty Cieni oraz Fałszywców.,0.842
+1740,Shuffle them and then draw the top 12 cards.,"Potasuj je i uformuj talię z górnych 12 kart, odkładając resztę.",0.745
+1741,SPECIAL RULES: The Abyssal force will draw & resolve TWO Darkness cards each turn.,ZASADY SPECJALNE: • Siły Imperatrycy ujawniają i rozgrywają DWIE karty Ciemności na początku każdej swojej tury.,0.712
+1742,No model can stand on any of the Void Sphere Spaces.,• Żaden model nie może stać na polach należących do Sfery.,0.738
+1743,Any models even partially pushed or moved inside are immediately destroyed.,"Twoje modele, które chociaż częściowo znajdą się w środku, natychmiast giną.",0.716
+1746,"The battle ends once you collect all the Unsettling Clues, the enemy runs out of Darkness cards, or you lose all of your models.","Połóż go na karcie oddziału. • Bitwa kończy się, gdy zbierzesz wszystkie Wskazówki, wyczerpie się talia Ciemności lub stracisz wszystkie swoje modele.",0.761
+1747,"YOUR REWARD: If you have gathered six or more Unsettling Clues, go to Sce nario 3.","NAGRODA: jeśli zebrałeś sześć lub więcej Wskazówek, przejdź do Scenariusza 3.",0.788
+1748,"Otherwise, go to Scenario 2.",W przeciwnym wypadku przejdź do Scenariusza 2.,0.937
+1749,"YOUR SPECIAL REWARD: If you have gathered all eight clues, mark the “Vigilant and Prepared” event on the save sheet and go to Scenario 3.","DODATKOWA NAGRODA: jeśli zebrałeś wszystkich osiem Wskazówek, zapisz status „Czujny i Przygotowany” na karcie zapisu, a potem przejdź do Scenariusza 3.",0.876
+1750,"YOUR PENALTY: You die, ripped apart by the spawn of darkness.","TWOJA KARA: giniesz, rozerwany na strzępy przez Ciemność.",0.876
+1751,Restart the campaign.,Rozegraj kampanię od nowa!,0.839
+1752,"SCENARIO 2 THE SACRIFICE Once the Shadows were defeated, you pulled back from the ruins, unwilling to tempt another attack.","SCENARIUSZ 2 OFIARA Gdy Cienie zostały pokonane, wycofałeś się z ruin, nie chcąc ryzykować kolejnego ataku.",0.895
+1753,The clues you have collected are perplexing.,"Wskazówki, które zebrałeś, są niejasne.",0.778
+1754,"The objects around the sphere seem to hold some ritual meaning, but while many are as old as the ruins, others feel fairly new.","Obiekty rozłożone wokół sfery wydają się mieć rytualne znaczenie. Wiele jest tak starych, jak same ruiny, ale niektóre wyglądają na zupełnie nowe.",0.843
+1755,Too bad you weren’t able to reach the rem nants of the book or copy the inscriptions scribbled on the floor.,"Szkoda, że nie udało ci się dotrzeć do resztek księgi, ani skopiować inskrypcji, widocznych przy sferze...",0.796
+1756,Your warriors rest after the battle when a surprise attack swarms and over whelms you.,"Próbujesz je sobie przypomnieć, podczas gdy twoi wojownicy odpoczywają po trudach bitwy. Wtem, nadchodzi niespodziewany atak.",0.666
+1757,The last thing you notice is a humanoid wearing a triangular mask who is about to smash your head with a club.,"Ostatnia rzecz, jaką widzisz, to humanoidalna postać w trójkątnej masce, która uderza cię w głowę maczugą.",0.73
+1758,"You wake up tied, next to the Void Sphere, with some sort of ceremony underway.","Budzisz się związany, tuż przy sferze ciemności. Trwa jakaś ceremonia.",0.736
+1759,"Inhabitants of nearby towns and villages, all wearing similar masks, chant around the sphere.","Mieszkańcy pobliskich wiosek, ubrani w identyczne maski, wznoszą modły na krawędzi sfery.",0.794
+1760,A priest just finished slaughtering one of your warriors.,Ich kapłan właśnie skończył zarzynać jednego z twoich wojowników.,0.805
+1761,"You try to free yourself, cutting the rope with a sharp stone.","Próbujesz się uwolnić, przecinając linę ostrym odłamkiem kamienia.",0.856
+1763,"A horrific shape starts to materialize — crowned with an enormous, pyramid helmet.","Zaczyna materializować się w niej straszliwa sylwetka, ukoronowana trójkątnym hełmem.",0.696
+1764,SETUP: Place the Abyssal Empress model at least 3 Spaces away from the edge of the map.,PRZYGOTOWANIE: • Umieść Imperatrycę Otchłani przynajmniej o 3 pola od krawędzi planszy.,0.803
+1765,She acts as the Shadow Gate for the purpose of this scenario.,W tym scenariuszu pełni ona rolę Cieńwrót.,0.75
+1766,"Deploy all Impostors, Void Specters, and Shadows in contact with the Empress.","• Wystaw wszystkich Fałszywców, Cienie oraz Mary Niebytu z Imperatrycą.",0.69
+1767,Select any edge of the map and deploy all your models no more than one Space away from the selected edge.,• Wybierz dowolną krawędź planszy i wystaw wszystkie swoje modele nie dalej niż o jedno pole od tej krawędzi.,0.826
+1768,"Then, place a small token in contact with each of your models, except one.","Następnie, połóż mały żeton z każdym ze swoich modeli, z wyjątkiem jednego wybranego.",0.799
+1769,They represent Bonds (see Special Rules).,Żetony te reprezentują Więzy (patrz: Zasady Specjalne).,0.841
+1770,YOUR FORCES: Select any 4 of your Squads.,TWOJE SIŁY: wybierz dowolne 4 ze swoich oddziałów.,0.94
+1771,Create a deck of up to 25 Action cards.,Stwórz talię 25 kart akcji.,0.877
+1772,YOUR OBJECTIVE: Win through Victory Points or survive until the Darkness deck depletes.,TWÓJ CEL: przetrwać do wyczerpania się talii Ciemności lub zwyciężyć na punkty zwycięstwa.,0.906
+1774,"ABYSSAL FORCES: Abyssal Empress (starts inactive, see Special Rules), Shadow Squad, Void Specter Squad, Impostor Squad.","SIŁY IMPERATRYCY: Imperatryca Otchłani (zaczyna nieaktywna, patrz: Zasady Specjalne), oddział Cieni, oddział Fałszywców, oddział Mar Niebytu.",0.813
+1775,"ABYSSAL DECK: Select all Shadow, Void Specter, Impostor and Abyssal Em press cards.","TALIA IMPERATRYCY: wybierz wszystkie karty Cieni, Fałszywców, Mar Niebytu oraz Imperatrycy Otchłani.",0.807
+1777,"The Abyssal Empress starts the battle inactive, surrounded by the writhing darkness.",• Imperatryca zaczyna bitwę nieaktywna i otoczona przez całun Ciemności.,0.764
+1778,"She cannot activate, perform any actions, become attacked, pushed or affected in any way.","Nie może być aktywowana, poruszona, odepchnięta, zraniona, zaatakowana, ani stać się celem jakichkolwiek akcji.",0.833
+1780,Use the time track to count completed turns of the battle.,• Użyj toru czasu do liczenia rozpoczętych tur bitwy.,0.779
+1781,"Mark Turns III, IV, and V on the track.","Zaznacz tury III, IV oraz V na torze.",0.907
+1782,Turn III: The Empress notices you’re about to escape.,"Tura III: Imperatryca spostrzega, że próbujesz uciec.",0.839
+1783,"She emerges from the void, though this causes her visible pain.","Wyłania się z Ciemności, choć sprawia jej to widoczny ból.",0.813
+1784,"From now on, the Empress activates and acts according to the regular Darkness AI rules.","Od tej pory, Imperatryca może być aktywowana i działa zgodnie ze standardowymi zasadami.",0.633
+1785,Turn IV: The masked followers of the Empress finally take notice that you’re about to flee and they rush in to stop you.,"Tura IV: Zamaskowani słudzy Imperatrycy wreszcie spostrzegają, co robisz. Rzucają się, by cię powstrzymać.",0.804
+1786,"If there are any Bound models left, one of them is immediately killed.","Jeśli na planszy są jeszcze jakieś modele z żetonem Więzów, jeden z nich zostaje zabity.",0.687
+1787,"Turns V+: From now on, at the beginning of each turn, kill one Bound model (if there are any left).","Tury V+: od tej pory, na początku każdej tury Ciemności ginie jeden model z żetonem Więzów (jeśli jeszcze jakieś pozostały).",0.816
+1788,YOUR REWARD: Go to Scenario 4.,TWOJA NAGRODA: przejdź do Scenariusza 4.,0.932
+1790,"YOUR PENALTY: Many of your companions die violent deaths and the Abyssal Empress is now walking through your world, but at least you have managed to escape.","TWOJA KARA: wielu twoich towarzyszy zginęło pod rytualnymi nożami, a Imperatryca przedostała się do waszego świata, ale przynajmniej zdołałeś uciec z częścią oddziału.",0.78
+1791,Mark the “Feast for the Empress” event on the Save Sheet and go to Scenario 4.,Zaznacz status „Uczta Imperatrycy” na karcie zapisu i przejdź do Scenariusza 4.,0.788
+1792,"SCENARIO 3 SUSPICIONS CONFIRMED AWAKEN REALMS Once the Shadows are defeated, you retreat from the ruins, unwilling to tempt another attack.","SCENARIUSZ 3 POTWIERDZONE PODEJRZENIA AWAKEN REALMS Gdy Cienie zostały pokonane, wycofałeś się z ruin, nie chcąc ryzykować kolejnego ataku.",0.886
+1796,"Even worse, someone seems to repeat the ritual in regular intervals.","Co gorsza, ktoś powtarza ten rytuał w regularnych odstępach czasu.",0.769
+1797,"You double the guards, keeping the grim and suspicious folk of this land in mind.","Podwajasz straże, podejrzewając o to ponurych i małomównych mieszkańców okolicy.",0.72
+1798,Intuition does not fail you.,Intuicja nie zawodzi cię.,0.902
+1799,"Just before the break of dawn, your men are attacked by masked shapes.",Tuż przed świtem zostajecie zaatakowani przez ludzi w rytualnych maskach.,0.688
+1800,"You defeat those, and then hear chanting coming from the ruins.","Pokonujecie ich z łatwością, a wtedy do twoich uszu dochodzą śpiewy, rozbrzmiewające w ruinach.",0.617
+1801,"You approach, only to find more figures circling the Void Sphere.","Zbliżacie się ostrożnie, odkrywając jeszcze więcej osób, tańczących wokół sfery Ciemności.",0.629
+1802,No doubt you were supposed to be their offering.,Niewątpliwie ty i twój oddział mieliście stać się ofiarami.,0.638
+1803,"Seeing as that’s no longer possible, some of the followers plunge daggers into their own hearts.","Widząc, że sprawy nie poszły zgodnie z planem, niektórzy kultyści wbijają sztylety we własne serca.",0.689
+1804,"As soon as their blood flows down the stones and reaches the void, it begins to spin faster.","Gdy ich krew, spływając po kamieniach, dociera do granicy sfery, ta zaczyna się poruszać.",0.724
+1805,"Within, a colossal shape with a geometric head begins to materialize.","W jej środku materializuje się kolosalny kształt o wielkiej, trójkątnej głowie.",0.645
+1806,SETUP: Place the Abyssal Empress model at least 3 Spaces from the edge of the map.,PRZYGOTOWANIE: • Umieść Imperatrycę Otchłani przynajmniej o 3 pola od krawędzi mapy.,0.802
+1808,Place two Crystal Sources one Space away from the Empress.,• Umieść dwa złoża kryształów o jedno pole od Imperatrycy.,0.743
+1809,Place two Shadows in contact with each Crystal Source.,• Ustaw dwa Cienie z każdym z tych dwóch złóż.,0.68
+1810,Deploy all your Squads no closer than 3 Spaces from the Abyssal Empress.,• Wystaw swoje modele nie bliżej niż o 3 pola od Imperatrycy.,0.625
+1811,YOUR FORCES: Select any FOUR of your Squads.,TWOJE SIŁY: wybierz dowolne 4 ze swoich oddziałów.,0.894
+1813,YOUR OBJECTIVE: Survive until the Abyssal deck depletes.,TWÓJ CEL: przetrwać do wyczerpania się talii Imperatrycy.,0.75
+1814,YOUR SPECIAL OBJECTIVE: Kill the Abyssal Empress.,TWÓJ DODATKOWY CEL: zabić Imperatrycę Otchłani.,0.775
+1818,SPECIAL RULES: The enemy force will draw & resolve TWO Darkness cards each turn.,ZASADY SPECJALNE: • Siły Imperatrycy ujawniają i rozgrywają DWIE karty Ciemności na początku każdej swojej tury.,0.722
+1821,"At the beginning of each turn (except the first one), place one Endurance token on the Empress’ Squad card for each Crystal Source on the map.","• Na początku każdej tury (z wyjątkiem pierwszej), umieść jeden żeton wytrzymałości na karcie oddziału Imperatrycy za każde złoże kryształów obecne na mapie.",0.858
+1823,"Once both Crystal Sources are gone, or the Empress’ Endurance is full, she joins the battle.","• Gdy oba złoża znikną, albo gdy Imperatryca odzyska wszystkie żetony wytrzymałości, przyłącza się ona do bitwy.",0.729
+1825,Players don’t earn Victory Points in this battle and the Victory Points track remains unused.,"• W tej bitwie gracze nie mogą zdobywać punktów zwycięstwa, a tor zwycięstwa pozostaje pusty.",0.791
+1827,"YOUR SPECIAL REWARD: If you have managed to kill the Abyssal Empress, she will return weaker in the next scenario.","TWOJA DODATKOWA NAGRODA: jeśli zdołałeś pokonać Imperatrycę, wróci ona słabsza w kolejnym scenariuszu.",0.819
+1828,Write “The Maimed Empress” on your Save Sheet and go to Scenario 4.,Zapisz status „Okaleczona Imperatryca” na karcie zapisu i przejdź do Scenariusza 4.,0.841
+1829,"YOUR PENALTY: Many of your companions die violent deaths and the Abyssal Empress is now walking your world, but you have managed to escape.","TWOJA KARA: wielu twoich towarzyszy zginęło, a Imperatryca przedostała się do waszego świata, ale przynajmniej zdołałeś uciec z częścią oddziału.",0.736
+1830,Write “Feast for the Empress” on your Save Sheet and go to Scenario 4.,Zapisz status „Uczta Imperatrycy” na karcie zapisu i przejdź do Scenariusza 4.,0.818
+1831,SCENARIO 4 A BLACK TIDE The battle dies down.,SCENARIUSZ 4 CZARNY PRZYPŁYW Bitwa przymiera.,0.925
+1832,"Dead bodies are strewn across the ruins and blood trickles down the cracked stones, feeding the Void Sphere.","Martwe ciała rozrzucone są po ruinach, a ściekająca z nich krew karmi sferę mroku.",0.8
+1833,"The Empress limps away from the battle, flanked by several of her followers.","Imperatryca uciekła z pola walki, ochraniana przez wyznawców.",0.638
+1834,"You don’t want to let her get away — otherwise, your warriors would have died here in vain.",Nie chcesz pozwolić jej uciec – twoi wojownicy zginęliby wtedy na darmo.,0.831
+1840,A trail of black blood leads into a dilapidated town hall.,Smuga czarnej krwi prowadzi do zaniedbanego ratusza.,0.885
+1841,"Inside, the Empress feeds on men, women and children from the town who walk towards her one by one, in a long, quiet queue, her masked followers watching from the sides.","W środku odkrywasz, że Imperatryca kontynuuje ucztę. Mieszkańcy miasteczka, w tym kobiety i dzieci, podchodzą do niej kolejno, podczas gdy zamaskowani wyznawcy obserwują wszystko z boku.",0.698
+1842,She notices you and lets out a piercing howl.,Imperatryca spostrzega cię i wydaje wysoki pisk.,0.618
+1843,The acolytes start to weave some strange magic and the lights inside the room dim as its floor begins to sink into the darkness.,"Akolici zaczynają natychmiast snuć dziwny czar; światło wewnątrz ratusza przygasa, gdy jego podłoga zaczyna zanurzać się w Ciemności.",0.802
+1844,"SETUP: Place eight small tokens along the far edge of the map, one per Space.",PRZYGOTOWANIE: • Umieść osiem małych żetonów wzdłuż przeciwnego (najdalszego od kart oddziałów) końca planszy – po jednym żetonie na pole.,0.825
+1845,They represent the Choking Darkness — a wave that will slowly sweep through the battlefield (see Special Rules).,"Reprezentują one Duszący Mrok – falę, która powoli przetoczy się przez pole walki (patrz: Zasady Specjalne).",0.901
+1846,"If the “Feast for the Empress” event is on the Save Sheet, move all the Choking Darkness tokens two Spaces towards your edge of the map and add 1 extra Endurance token to the Abyssal Empress.","• Jeśli status „Uczta Imperatrycy” znajduje się na karcie zapisu, przesuń wszystkie żetony Duszącego Mroku o dwa pola w kierunku twojej krawędzi planszy, a potem dodaj Imperatrycy 1 bonusowy żeton wytrzymałości.",0.768
+1847,Place the Abyssal Empress at least three Spaces away from any Choking Darkness tokens and two Spaces away from the edge of the map.,• Umieść model Imperatrycy przynajmniej o trzy pola od dowolnych żetonów Duszącej Ciemności i o dwa pola od krawędzi planszy.,0.792
+1850,"If the “Maimed Empress” perk is on the Save Sheet, remove 2 Endurance tokens from the Abyssal Empress.","• Jeśli na karcie zapisu znajduje się status „Okaleczona Imperatryca”, usuń z niej 2 żetony wytrzymałości na początku bitwy.",0.715
+1851,YOUR OBJECTIVE: Defeat the Abyssal Empress before the Choking Darkness reaches your edge of the map.,"TWÓJ CEL: pokonać Imperatrycę Otchłani, nim Duszący Mrok dotrze do twojej krawędzi planszy.",0.861
+1852,"ABYSSAL FORCES: Abyssal Empress (starts inactive, see Special Rules), Shadow Squad, Void Specter Squad, Impostor Squad, Slaughter Crow Squad.","SIŁY IMPERATRYCY: Imperatryca Otchłani (zaczyna nieaktywna, patrz: Zasady Specjalne), oddział Cieni, oddział Fałszywców, oddział Mar Niebytu, oddział Rzezikruków.",0.819
+1853,"ABYSSAL DECK: Select all Abyssal Empress, Shadow, Void Specter, Impostor and Slaughter Crow cards.","TALIA IMPERATRYCY: wybierz wszystkie karty Cieni, Fałszywców, Mar Niebytu oraz Rzezikruków.",0.804
+1854,Shuffle them and then draw the top 16 cards.,"Potasuj je i uformuj talię z górnych 16 kart, odkładając resztę.",0.765
+1855,"If the “Vigilant and Prepared” event is on the Save Sheet, discard the top four cards from the Abyssal deck.","Jeśli status „Czujny i Przygotowany” znajduje się na karcie zapisu, odrzuć cztery górne karty z talii Ciemności.",0.787
+1856,SPECIAL RULES: The Abyssal force draws and plays TWO Darkness cards per turn.,ZASADY SPECJALNE: • Siły Imperatrycy ujawniają i rozgrywają DWIE karty Ciemności na początku każdej swojej tury.,0.72
+1857,The Spaces marked by the Choking Darkness tokens act like Shadow Gates for the purpose of this scenario.,• Pola oznaczone żetonami Duszącego Mroku pełnią w tym scenariuszu rolę Cieńwrót.,0.791
+1858,New Abyssal units are deployed on their edge when a Darkness card calls for it.,"Nowe jednostki Imperatrycy wystawiane są na sąsiadujących z Duszącym Mrokiem polach, gdy wymaga tego karta Ciemności.",0.715
+1859,"At the beginning of each turn, move all Choking Darkness tokens one Space forward, towards your edge of the map.","• Na początku każdej tury Ciemności, przesuń wszystkie żetonu Duszącego Mroku o jedno pole w kierunku twojej krawędzi mapy.",0.837
+1861,They receive -1 to all of their stats.,Otrzymują -1 do wszystkich atrybutów.,0.819
+1863,"They receive +1 to all of their stats and deal 2 wounds with each successful attack, instead of 1.",Otrzymują +1 do wszystkich atrybutów i zadają każdym skutecznym atakiem o 1 ranę więcej.,0.841
+1865,YOUR REWARD: Go to Scenario 5.,TWOJA NAGRODA: przejdź do Scenariusza 5.,0.929
+1866,YOUR PENALTY: Replay this scenario — or start the campaign over.,TWOJA KARA: rozegraj od nowa ten scenariusz lub całą kampanię.,0.844
+1867,"SCENARIO 5 BURNING SHADOWS AWAKEN REALMS You defeated the Empress, but moments later her body was consumed by a rolling wave of darkness and you and your remaining warriors had to flee.","SCENARIUSZ 5 PŁONĄCE CIENIE AWAKEN REALMS Pokonałeś Imperatrycę, ale chwilę później jej ciało pochłonęła fala ciemności. Ty i twoi wojownicy musieliście uciekać.",0.915
+1868,"It enveloped the entire center of the town, leaving a perfect sphere of void behind, just like in the ruins.","Fala ogarnęła też centrum miasteczka, zostawiając po sobie sferę idealnego mroku, podobną do tej w ruinach.",0.797
+1871,"Seeing the influence the Empress had over sentient beings, you needed to be sure she’s dead for good.","Widząc wpływ, jaki Imperatryca miała na śmiertelne istoty, musisz upewnić się, czy na pewno zginęła.",0.83
+1872,"It took a while to gather new men and find the means to penetrate her lair, but once preparations were complete, you stood yet again on the edge of the void.","Zebranie nowych oddziałów, które byłyby skłonne pójść aż do jej kryjówki, zajęło trochę czasu. Wreszcie nadszedł jednak dzień, gdy ponownie stanąłeś na krawędzi Ciemności.",0.693
+1873,"As you crossed it, the crushing weight of the dark world bent your back.","Gdy przekroczyłeś ją, cała masa ciemnego świata przytłoczyła twoje ramiona.",0.751
+1874,"The ground on the other side is porous, and thick, black liquid oozes through with every step, caking your feet like tar.","Podłoże po przeciwnej stronie jest porowate i grube, a smolista maź sączy się z pęknięć przy każdym mroku.",0.704
+1875,"Fortunately, she’s close — tending to her wounds and resting in a cradle of twisted sinew, protected by dozens of dark shapes.","Na szczęście nie będziesz musiał szukać Imperatrycy daleko – odpoczywa tuż po drugiej stronie, kurując się z ran w kołysce z poskręcanych ścięgien, otoczona przez tuziny ciemnych kształtów.",0.664
+1876,"She raises her head, and even though she has no eyes, you know what she’s looking at: the two large Dvergar depth charges you brought here in case you ever saw this monstrosity again.","Unosi dłoń. Choć nie ma oczu, bez problemu poznajesz, że patrzy właśnie na dwa duże, Dvergarskie, głębinowe ładunki, które przyniosłeś do krainy Ciemności w nadziej na takie właśnie spotkanie.",0.718
+1878,SETUP: This battle takes place on an alternate Darkness-themed battle map.,PRZYGOTOWANIE: • Ta bitwa toczy się na alternatywnej planszy Ciemności.,0.828
+1879,Place a Shadow Gate no more than 2 Spaces away from your edge of the map.,• Umieść Cieńwrota nie więcej niż o 2 pola od twojej krawędzi planszy (najbliższej twoich kart oddziałów).,0.793
+1880,Deploy all your models in contact with the Shadow Gate.,• Wystaw wszystkie swoje modele w kontakcie z Cieńwrotami.,0.758

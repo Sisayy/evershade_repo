@@ -1,0 +1,301 @@
+﻿id,en,pl,sim
+3588,"If the map layout does not allow this, start the setup from the beginning.","Jeśli mapa na to nie pozwala, zacznijcie Przygotowanie od początku.",0.832
+3589,The leader starts the scenario with 7 Crystal Tokens on its Squad card - and it can’t be shattered.,Dowódca zaczyna scenariusz z 7 KRYSZTAŁOWYMI żetonami na jego karcie oddziału i nie może zginąć z ich powodu.,0.806
+3590,SPECIAL RULES: Faction leaders can’t perform Attack or Move actions as long as there is at least one Crystal Token on their card.,"ZASADY SPECJALNE: • Dowódcy frakcji nie mogą wykonywać akcji Ruchu ani Ataku, dopóki na ich karcie oddziału znajduje się przynajmniej 1 KRYSZTAŁOWY żeton.",0.845
+3591,Both ally and enemy units can attack the faction leader.,"Zarówno sojusznicy, jak i przeciwnicy mogą atakować dowódców frakcji.",0.836
+3592,"When the faction leader would be wounded, he doesn’t lose Endurance, instead discard one Crystal Token from his card.","Gdy dowódca frakcji zostaje zraniony, nie traci on znaczników wytrzymałości, zamiast tego jeden KRYSZTAŁOWY żeton zostaje odrzucony z jego karty.",0.821
+3593,"After all Crystal Tokens have been discarded, faction leaders’ Movement is reduced to one Space per Move Action.","• Po tym jak wszystkie KRYSZTAŁOWE żetony zostaną odrzucone z dowódcy, jego Ruch jest ograniczony do 1 pola na akcję.",0.677
+3595,GAME SETUP: Setup according to the standard rules.,PRZYGOTOWANIE: Przygotowanie przebiega według normalnych zasad.,0.739
+3596,"During the deployment phase, after a Shrine is placed on the map, deploy your faction leader.","Podczas fazy wystawiania, po rozłożeniu kapliczek, wystaw dowódcę swojej frakcji.",0.757
+3597,Do not deploy any other units.,Nie wystawiaj innych modeli.,0.718
+3599,"SPECIAL RULES: Every time a faction leader loses 1 Endurance token, a player controlling its model immediately deploys one Squad on the map (if this Squad wasn’t used before).","ZASADY SPECJALNE: Za każdym razem gdy dowódca frakcji utraci 1 znacznik wytrzymałości, gracz kontrolujący go niezwłocznie wystawia jeden oddział na planszy (jeśli ten oddział nie był wcześniej użyty).",0.906
+3600,This Squad’s placement must adhere to the standard rules of the game.,Umiejscowienie tego oddziału podlega normalnym zasadom wystawiania przy Przygotowaniu Gry.,0.715
+3601,"GAME ENDS: A player who kills the opponent’s faction leader becomes the winner. 62 GAME ENDS: Player wins if his faction leader has escaped the board, or when his opponent has no units left on the board.","KONIEC GRY: Zwycięża gracz, który zabije dowódcę frakcji przeciwnika. 62 użyć akcji Ruchu, by uciec nim z planszy, zamiast teleportować się do innej Bramy. KONIEC GRY: Gracz zwycięża gdy jego dowódca ucieknie z planszy lub przeciwnik MAGIA KRWI Raport polowy nr 17.",0.773
+3602,We have secured the perimeter.,Zabezpieczyliśmy granicę.,0.79
+3604,Scientists have arrived earlier this morning and commenced their research on our discovery.,Naukowcy dotarli tu o poranku i rozpoczęli badania nad naszym znaleziskiem.,0.871
+3605,I have the utmost confidence that their work will prevent any further incidents related to the construct.,"Nie mam wątpliwości, że ich praca uchroni nas przed kolejnymi wypadkami związanymi z konstruktem.",0.838
+3606,I also rest assured we should be able to channel this wicked energy and use it to further aid our cause.,"Jestem również przekonany, że będziemy w stanie kontrolować tę nikczemną energię i używać jej do swoich celów.",0.733
+3607,I will now give the account of the incident that took place upon the discovery of this structure to the best of my ability.,"Zdam teraz relację z incydentu, który miał miejsce na krótko po odkryciu tego obiektu, najlepiej jak potrafię.",0.729
+3608,"During a routine patrol, my detachment of Holy Knights came u p o n the structure that was not there the day before.","Podczas rutynowego patrolu moja dywizja Świętych Rycerzy natknęła się na strukturę, której jeszcze dzień wcześniej tu nie było.",0.789
+3609,"Suspecting it to be of other-di mensional provenance, we proceeded with great care, immediately dispatching an envoy to bring the scientists.","Podejrzewając, że pochodzi ona z innego wymiaru, zachowaliśmy wszelkie środki ostrożności, niezwłocznie wysyłając posłańców, by sprowadzili tu naukowców.",0.776
+3610,"Alas, we could not have been prepared for what came next.","Niestety nie byliśmy przygotowani na to, co zdarzyło się potem.",0.728
+3611,"Lieutenant Garreth, may the One forgive him, took a reckless interest in the reddish energy coiling at the center of this monstrosity.","Porucznik Garreth, niech Pan mu przebaczy, w akcie lekkomyślnej fascynacji karmazynową energią zbliżył się do centrum tego okropieństwa.",0.783
+3612,"As his hand came in contact with it, his whole body jerked, and when he turned around drawing his sword, I glimpsed the raw fury in his eyes.","Gdy tylko dotknął go ręką, szarpnęło całym jego ciałem, a gdy odwrócił się i dobył miecza, dostrzegłem w jego oczach błysk prawdziwej furii.",0.791
+3613,"Before anyone could react, he took down two of my best Knights with deadly precision.","Zanim ktokolwiek zareagował, uśmiercił z zabójczą precyzją moich 2 najlepszych rycerzy.",0.827
+3614,It took four strong men to subdue him.,"Potrzeba było czterech ludzi, by go obezwładnić.",0.768
+3615,"In time, his battle rage subsided, and he will be questioned as soon as his mental state allows it.","Z czasem jego szał zelżał, a gdy tylko jego stan mentalny na to pozwoli, zostanie przesłuchany.",0.785
+3616,"For now, we guard this place.",Jak na razie strzeżemy tego miejsca.,0.904
+3617,"In my next report, I hope to share what we have learned of its power.","Mam nadzieję przekazać to, co uda nam się odkryć na temat tego kuriozum, w moim następnym raporcie.",0.647
+3618,"Let’s just pray, this is the only site, and our enemies never come to possess its strength...","Módlmy się, by był to jedyny taki konstrukt, a nasi wrogowie nigdy nie posiedli tej mocy…",0.752
+3619,SCENARIO: FURY They are sick; their craving cannot be controlled.,SCENARIUSZ: FURIA Oni są chorzy; ich żądza jest poza kontrolą.,0.907
+3620,All they want is bloodshed – and this infernal yearning spreads like wildfire among both armies.,Chcą tylko rozlewu krwi – a to piekielne pragnienie rozprzestrzenia się niczym pożar wśród obydwu armii.,0.881
+3621,GAME SETUP: One Squad begins with a Fury token.,PRZYGOTOWANIE: Jeden oddział zaczyna z żetonem FURII.,0.804
+3622,"SPECIAL RULES: If a model, whose Squad has a Fury token, ends its move ment with another model without a Fury token, the latter gains a Fury token and places it on its Squad card.","ZASADY SPECJALNE: Jeśli model, którego oddział ma żeton FURII, skończy swój Ruch z innym modelem bez żetonu FURII, ten ostatni otrzymuje żeton FURII i umieszcza go na swojej karcie oddziału.",0.871
+3623,"At the end of their turn, a player must discard one Fury token from any of their Squad cards.",Na koniec swojej tury gracz musi odrzucić jeden żeton FURII z dowolnego ze swoich oddziałów.,0.835
+3627,I have been a Flame Keeper for the past twenty years.,Byłem Powiernikiem Ognia przez ostatnie dwadzieścia lat.,0.85
+3628,I never strayed from my path and always worked hard for the benefit of the Dvergar.,Nigdy nie zboczyłem ze swej ścieżki i zawsze ciężko pracowałem dla Korzyści Dvergarów.,0.861
+3629,But the discovery I have been working on for the last six weeks is something else altogether.,"Odkrycie, nad którym pracowałem przez ostatnie 6 tygodni, jest czymś niezwykłym.",0.769
+3632,The miners who found it swore to me it wasn’t there a couple of days earlier.,"Górnicy, którzy go znaleźli, zarzekają się, że parę dni wcześniej jeszcze go tam nie bylo.",0.714
+3633,"There were rumors of other structures appearing across the land, doubtless transported from other dimen sions.","Krążyły pogłoski o innych strukturach pojawiających się w różnych zakątkach prowincji, bez wątpienia przybywających z odległych wymiarów.",0.72
+3634,"At the center of the giant ring, there is an energy coiling and twisting, like a raging flame.",Po środku potężnego pierścienia zbiega się wirująca energia wyglądająca niczym szalejące płomienie.,0.707
+3635,It makes me think of the flame burning in my own bowels.,Przypomina mi ona płomień gorejący w mych własnych wnętrznościach.,0.765
+3636,I have tried every known method to discern its purpose.,"Próbowałem wszelkich znanych metod, by odkryć jego przeznaczenie.",0.895
+3637,Why shouldn’t I?,Czemu miałbym tego nie robić?,0.894
+3638,"It came to us, after all.",W końcu pojawił się u nas.,0.786
+3639,"Its power will become a gift to my people, even if it’s the last thing I do.","Jego moc stanie się darem dla mego ludu, choćby miała to być ostatnia rzecz, którą zrobię.",0.891
+3640,The time has come to unshackle this strange magic.,"Nadszedł czas, by uwolnić tę dziwaczną magię.",0.852
+3643,My only concern is: will I be able to contain it?,"Moim jedynym zmartwieniem jest to, czy będę w stanie jej sprostać.",0.779
+3644,What happens if I won’t?,I co się wydarzy jeśli nie?,0.852
+3646,"GAME SETUP: During setup, players choose one Squad card each and place it on the side of the board with an Unstable token.",PRZYGOTOWANIE: Podczas Przygotowania gracze wybierają jedną kartę oddziału i kładą ją z boku planszy wraz z umieszczonym na niej żetonem CHAOSU.,0.821
+3647,The models of this Squad are deployed according to the standard rules.,Modele tego oddziału są wystawiane według normalnych zasad.,0.795
+3648,SPECIAL RULES: A Squad with an Unstable token can only be Attacked by the opponent’s Squad with an Unstable token.,ZASADY SPECJALNE: Oddział z żetonem CHAOSU może być atakowany tylko przez inny oddział z żetonem CHAOSU.,0.692
+3650,SCENARIO: BURN THEM ALL!,SCENARIUSZ: SPALIĆ ICH!,0.833
+3651,Another hour of battle and everything caught fire.,Po kolejnej godzinie bitwy wszystko zapłonęło.,0.808
+3652,"Vegetation, animals, the enemy - and even ourselves.","Rośliny, zwierzęta, wróg – a nawet i my.",0.871
+3653,GAME SETUP: VP marker should be placed 2 Spaces away from the blue space on the Victory Point track.,PRZYGOTOWANIE: Znacznik PZ należy umieścić 2 pola od niebieskiego pola na torze Punktów Zwycięstwa.,0.853
+3654,SPECIAL RULES: This game is divided into Rounds.,ZASADY SPECJALNE: • Ta bitwa jest podzielona na Rundy.,0.84
+3655,"A Round starts with the first player’s turn, and ends when all other players have finished their turns.","Runda zaczyna się turą pierwszego gracza, a kończy się, gdy wszyscy pozostali gracze skończą swoje tury.",0.909
+3656,"At the beginning of each round, players move the VP marker one space towards the blue space of the Victory Point track.",• Na początku każdej Rundy gracze przemieszczają znacznik PZ o jedno pole w stronę niebieskiego pola na torze Punktów Zwycięstwa.,0.849
+3657,"If the VP marker reaches the blue space, all Squads lose one Endurance token, and the VP marker is moved back starting space.","Gdy znacznik PZ wejdzie na niebieskie pole, wszystkie oddziały tracą 1 znacznik wytrzymałości, a znacznik PZ wraca z powrotem na pole startowe.",0.84
+3658,"If a Squad has to discard an Endurance token but has none left, the player controlling the Squad must choose and destroy one of its models.","• Gdy oddział ma odrzucić znacznik wytrzymałości, ale nie ma już żadnych, gracz kontrolujący ten oddział musi zniszczyć jeden ze swoich modeli.",0.795
+3659,This death does not move the VP Marker.,Ta śmierć nie porusza znacznika PZ.,0.805
+3660,GAME ENDS: The last player to have any models remaining on the map wins.,"KONIEC GRY: Wygrywa gracz, który jako jedyny ma jakikolwiek model na planszy.",0.871
+3661,"THE POWER OF TECHNOLOGY He was running, heartbeat hammering in his ears.","POTĘGA TECHNOLOGII Biegł, a serce bijące jak młot dzwoniło mu w uszach.",0.84
+3662,"Pouring rain blurred his vi sion, muddy ground tampered his step.","Deszcz zasłaniał pole widzenia, błotnisty grunt utrudniał kroki.",0.746
+3664,He clung to that thought as if it was the last thing keeping him alive and sane.,"Uczepił się tej myśli, jakby była to ostatnia rzecz trzymająca go przy życiu i zmysłach.",0.834
+3665,"Traitorous mind kept taking him back to the blood-soaked battlefield, where demons have overpowered them so easily, demonstrating sheer, unbridled pow er.","Zdradziecki umysł wciąż wracał do skąpanego w posoce pola bitwy, gdzie demony pokonały ich z łatwością, demonstrując swoją czystą i nieobliczalną potęgę.",0.769
+3666,That kind of power was unheard of and it scared him to no end.,"Nikt jeszcze nie słyszał o tego rodzaju mocy, a ona sama napełniała go strachem do cna.",0.622
+3667,"Lightning struck nearby, blinding him momentarily.","Nieopodal uderzył piorun, oślepiając go na moment.",0.888
+3668,"Deafened by the thunder, he faltered in his steps, coming to a halt.","Ogłuszony uderzeniem zwolnił kroku, ostatecznie się zatrzymując.",0.581
+3670,"A circu lar construct, unlike anything he has seen before.","Okrągły konstrukt niepodobny do niczego, co widział w życiu.",0.696
+3671,"Some sort of energy coiled at its center, discharging every now and then with an audible sizzle.","Jakiś rodzaj energii zbierał się w jego centrum, wyładowując się raz po raz, z wyraźnym skwierczeniem.",0.81
+3673,"Raw, unhindered power.","Czysta, nieograniczona moc.",0.783
+3674,"He could feel it swelling at his very core, penetrating every fiber of his body, great and uncontrollable.","Poczuł jak wzbiera w samym jego środku, przenikając każde włókno jego ciała, wielka i nieposkromiona.",0.864
+3675,"Only with a tremendous effort, he managed to will this new power into submis sion before it overflowed.","Z ogromnym wysiłkiem udało mu się nagiąć tę nową moc do posłuszeństwa, zanim się rozlała.",0.771
+3676,But this... this might just be the answer.,To… to może być odpowiedź.,0.835
+3677,This might change everything.,To może zmienić wszystko.,0.941
+3678,This might be how they rise from the ashes of today’s despair and stand fast in the battles to come.,"To może być sposób na odrodzenie z popiołów i rozpaczy, by stanąć dzielnie do nadchodzących bitew.",0.715
+3679,He just prayed he was right.,"Modlił się, by mieć rację.",0.806
+3680,"SCENARIO: FROM A DISTANT WORLD The power of this strange, new technology was greater than we expected.","SCENARIUSZ: NIE Z TEGO ŚWIATA Moc tej dziwacznej, nowej technologii była większa, niż się spodziewaliśmy.",0.904
+3681,"It opened a portal that sucked in space and time itself, spewing us out in a distant, hostile land.","Otworzyła portal, który wessał czasoprzestrzeń, wypluwając nas w odległym i niegościnnym miejscu.",0.824
+3683,"During a deployment phase, after a Shrine is placed on the map, do not deploy any units.","Podczas fazy wystawiania, po wystawieniu kapliczek, nie wystawajcie jednostek.",0.694
+3684,"Instead, all models are placed on their Squad cards.","Zamiast tego, wszystkie modele zostają na kartach oddziałów.",0.803
+3685,"SPECIAL RULES: At the beginning of the turn, if the player has no units on the map, the player must activate a Squad that is not yet present on the map.","ZASADY SPECJALNE: Na początku tury jeśli gracz nie ma na planszy żadnych jednostek, musi on aktywować oddział, którego nie ma jeszcze na planszy.",0.897
+3686,Activated Squad is then placed in a hex with a Power Circle.,Następnie aktywowany oddział zostaje umieszczony w z Kręgiem Mocy.,0.789
+3687,"GAME ENDS: If a player has no units on the map and is unable to deploy a new Squad, he loses the game.","KONIEC GRY: • Gdy gracz nie ma jednostek na planszy i nie jest w stanie wystawić nowego oddziału, przegrywa.",0.89
+3688,If a player gains a standard number of Victory Points.,Gdy gracz pozyska standardową liczbę Punktów Zwycięstwa.,0.846
+3689,"SCENARIO: WEARING OUT The battle has been going on for days, weeks...",SCENARIUSZ: OSTATKIEM SIŁ Walka ciągnie się dniami i tygodniami…,0.884
+3690,"Our strength is wearing thin, and the darkness surrounds us.","Nasze siły się wyczerpują, a otacza nas ciemność.",0.823
+3692,"GAME SETUP: During a deployment phase, units can be placed base to base with terrain elements.",PRZYGOTOWANIE: Podczas fazy wystawiania modele mogą być umieszczane w z elementami terenu.,0.769
+3693,Each Squad starts with one Charge token.,Każdy oddział zaczyna z żetonem ŁADUNKU.,0.799
+3694,SPECIAL RULES: No special rules (play according to the base game instruc tions).,ZASADY SPECJALNE: Brak (grajcie według normalnych zasad).,0.859
+3695,GAME ENDS: If a player who destroys all enemy units wins.,"KONIEC GRY: Wygrywa gracz, który zabije wszystkie modele przeciwnika.",0.793
+3696,"CAUTION: When cards and scenarios in Terrains Expansions reference “Charge tokens” they always refer to tokens from The Power of Technology expansion, not Charge tokens increasing charges on Enhancement cards.","UWAGA: Gdy karty i scenariusze w dodatku Tereny odnoszą się do „żetonów ŁADUNKU”, zawsze mowa o żetonach z Potęgi Technologii, a nie o żetonach używanych do ładowania kart Ulepszeń.",0.865
+3697,BOSS EXPANSION AI Author: Kamil Cieśla “Boss” expansion brings a new challenge to The Edge.,DODATEK: BOSSY SI Autor: Kamil Cieśla Dodatek „Bossy SI” wprowadza do Edge zupełnie nowe wyzwania.,0.837
+3698,"In this new solo mode, the player will face six powerful enemies.",W tym trybie gracz samotnie zmierzy się z sześcioma potężnymi przeciwnikami.,0.807
+3699,Each of these imposing foes introduces brand new mechanics and poses new threats for the player.,"Każda z tych potężnych istot wprowadza swoją własną, unikalną mechanikę oraz nowe zagrożenia dla gracza.",0.837
+3700,"“Boss” expansions include deck of 28 cards, 6 Boss models.",Dodatek „Bossy SI” zawiera zestaw 28 kart oraz 6 modeli Bossów.,0.827
+3701,"AWAKEN REALMS SETUP Set up the game according to your basic faction rules, taking into account the following modifications: 1.","AWAKEN REALMS PRZYGOTOWANIE ROZGRYWKI Przygotuj grę zgodnie z normalnymi zasadami, wprowadzając następujące modyfikacje: 1.",0.865
+3702,BOARD - Prepare and deploy 10 generic small tokens (added to each basic faction).,PLANSZA – Przygotuj 10 małych żetonów frakcyjnych (dodawanych do każdej podstawowej frakcji).,0.844
+3703,2. CRYSTAL AND CHARGES - Set aside 10 Crystals and 8 Charge tokens - this is the neutral pile available during the game.,2. KRYSZTAŁY I ŁADUNKI – Przygotuj 10 kryształów i 8 żetonów Ładunków – będzie to neutralna pula dostępna w czasie rozgrywki.,0.913
+3704,"3. CHOOSE FACTIONS - Choose faction and gather up all faction-specific com ponents: Squad deck, Action card deck, one Banner, one Help card, one Shrine Token, one Faction Sheet, all faction-specific tokens, and finally – all models.","3. WYBÓR FRAKCJI – Wybierz frakcję i skompletuj wszystkie frakcyjne komponenty: karty oddziałów, karty akcji, kartę Sztandaru, kartę pomocy, żeton kapliczki, kartę frakcji, wszystkie żetony frakcyjne i wreszcie – wszystkie modele.",0.906
+3705,"4. PLANT YOUR BANNERS & CHOOSE SQUADS & PREPARE ACTION DECKS - Place the faction Banner on the board, then proceed to choose and prepare 5 Squads.","4. WZNOSZENIE SZTANDARÓW, WYBÓR ODDZIAŁÓW I PRZYGOTOWANIE TALII AKCJI – Umieść kartę Sztandaru na planszy, następnie wybierz i przygotuj 5 oddziałów.",0.887
+3706,"Place models on each Squad card, in the amount specified by the card.","Umieść modele na kartach oddziałów, zgodnie z ilością podaną na kartach.",0.771
+3707,Last step is to prepare a deck - choose up to 20 Action cards from all cards of your faction.,Ostatnim krokiem jest przygotowanie talii Akcji – wybierz do 20 kart Akcji ze wszystkich dostępnych kart.,0.898
+3708,5. CREATE THE BOSS ACTION DECK - Choose which Boss to fight and take all its ac tion cards.,"5. TWORZENIE TALII AKCJI BOSSA – Wybierz Bossa, z którym chcesz się zmierzyć i weź wszystkie jego karty Akcji.",0.915
+3709,Create a Boss Action deck according to the following steps.,Stwórz talię Akcji Bossa według poniższych kroków.,0.839
+3710,"Important: Boss Action deck cards should be placed face up, in a cascade - upper part of a card should be covered by a card on top of it, lower part (below the chain) should remain visible.","WAŻNE! Talia kart Akcji Bossa powinna leżeć awersem do góry, ułożona kaskadowo – górna część karty powinna być zasłonięta kartą leżącą wyżej, dolna część (poniżej łańcucha) powinna być widoczna.",0.87
+3711,"A\ If the BOSS has a BOTTOM card, take it.","A] • Jeśli BOSS ma kartę na SPODZIE, weź ją.",0.816
+3712,"If the BOSS has a TOP card, put it aside, and instead take a random card from the remaining ones.","Jeśli BOSS ma kartę WIERZCHNIĄ, połóż ją z boku i weź inną, losową kartę.",0.832
+3713,B\ Place the card chosen in step A\ as the first card in the Boss Action deck.,B] • Umieść kartę wziętą w kroku A\ jako pierwszą w talii Akcji Bossa.,0.834
+3714,"C\ Take one random card from the remaining Action cards, and place on top of the deck.",C] • Weź jedną losową kartę Akcji Bossa i połóż ją na wierzchu talii Akcji Bossa.,0.685
+3715,"D\ If the BOSS has a TOP card, take it.","D] • Jeśli BOSS ma kartę WIERZCHNIĄ, weź ją.",0.825
+3716,"Otherwise, take one random card from the remaining Action cards.","Jeśli nie, weź jedną losową kartę Akcji Bossa z pozostałych kart.",0.798
+3717,E\ Place the card chosen in step D\ on top of the Boss Action deck.,E] Umieść kartę wzięta w kroku D\ na wierzchu talii Akcji Bossa.,0.772
+3718,F\ Make sure there are three cards in the Boss Action deck and all are face up and properly arranged.,"F] • Upewnij się, że w talii Akcji Bossa są trzy karty, wszystkie awersem do góry i odpowiednio rozmieszczone.",0.793
+3719,G\ Boss Action deck should now look like in the example.,G] Talia Akcji Bossa powinna teraz wyglądać jak na przykładzie.,0.754
+3720,"6. PLACE SHRINES & CRYSTAL SOURCES & MODELS - Deploy a Shrine, two Crystal Sources.","6. UMIESZCZANIE KAPLICZEK, ZŁÓŻ KRYSZTAŁÓW I MODELI – Wystaw kapliczkę i 2 złoża kryształów.",0.814
+3721,"Then, deploy models according to the base game rules.",Następnie wystaw modele zgodnie z normalnymi zasadami.,0.745
+3722,7. VICTORY MARKER - Place a Victory Marker on the red space of the VP track.,7. ZNACZNIK ZWYCIĘSTWA – Umieść znacznik zwycięstwa na czerwonym polu Toru Zwycięstwa.,0.907
+3723,8. PREPARE CRYSTAL POOLS - Take one Crystal from the neutral pile and place it in Crystal Pool.,8. PRZYGOTOWANIE PULI KRYSZTAŁÓW – Weź jeden kryształ z neutralnej puli i umieść go w swojej puli.,0.903
+3724,9. ACTION CARDS - Shuffle the Action cards deck and draw 3 cards.,9. KARTY AKCJI – Przetasuj talię kart Akcji i dociągnij 3 karty.,0.932
+3725,10. DISTRIBUTE ENDURANCE TOKENS - Place a number of Endurance to kens indicated by the Boss’s Endurance Value on its Squad card.,"10. PRZYDZIELENIE ZNACZNIKÓW WYTRZYMAŁOŚCI – Umieść znaczniki wytrzymałości na Wierzchniej karcie talii Bossa, w ilości podanej na tej karcie.",0.836
+3726,"11. BOSS PLACEMENT - Roll the Red die, check the diagram below, and place the Boss in the corresponding Space on the board.","11. UMIESZCZENIE BOSSA – Rzuć Czerwoną kością, sprawdź poniższy schemat i umieść Bossa na odpowiednim polu planszy.",0.918
+3727,Make sure its base covers 1 Space.,"Upewnij się, że jego podstawka pokrywa 1 pole.",0.866
+3728,"If there are player models in that Space, Push them according to the standard rules, deciding on the direction of the Push.","Jeśli na tym polu znajdują się modele gracza, odepchnij je zgodnie z normalnymi zasadami, wybierając kierunek odepchnięcia.",0.743
+3729,GAMEPLAY Combat with a Boss is divided into rounds.,ROZGRYWKA Walka z Bossem jest podzielona na rundy.,0.851
+3730,"Each round consists of three phases: Player Activation Phase Boss Activation Phase Defeat Phase PLAYER ACTIVATION PHASE - In this phase, the player de cides to be either active or passive, according to the standard rules.","Każda runda składa się z 3 faz: Faza Aktywacji Gracza; Faza Aktywacji Bossa; Faza Pokonania. FAZA AKTYWACJI GRACZA – W tej fazie gracz decyduje, czy grać Aktywnie, czy Pasywnie, zgodnie z normalnymi zasadami.",0.892
+3731,"After the player has finished taking his turn, proceed to the Boss Activation Phase.",Po zakończeniu ruchów przez gracza należy przejść do Fazy Aktywacji Bossa.,0.844
+3733,"Afterwards, proceed to resolve all actions visible on the boss’s action card, top to bottom.","Następnie należy rozpatrzyć wszystkie akcje widoczne na kartach Akcji Bossa, od góry do dołu.",0.753
+3735,"If a Boss receives wounds exceeding his current Endurance, ignore any extra wounds (these wounds are not carried over to the following phase of the game).","Jeśli Boss otrzyma rany przekraczające ilość znaczników wytrzymałości, zignoruj te dodatkowe rany (te rany nie są przenoszone do kolejnej fazy rozgrywki).",0.881
+3736,"DEFEAT PHASE - After all Boss’s actions are resolved, if the boss has no Endurance tokens left on his topmost Action card, remove the topmost Action card.","FAZA POKONANIA – Po rozpatrzeniu wszystkich Akcji Bossa, jeśli Boss nie ma już żadnych znaczników wytrzymałości na Wierzchniej karcie Akcji, należy tę kartę usunąć.",0.863
+3737,Now the card beneath becomes the topmost card.,Teraz następna karta w kolejności zostaje Wierzchnią kartą.,0.727
+3738,Player replaces the Endur ance tokens up to the amount shown on the new card.,"Gracz umieszcza tam znaczniki wytrzymałości, w ilości pokazanej na nowej karcie.",0.675
+3739,It is also possible that new Boss actions will become visible (as they were previously covered by the top card).,"Niewykluczone, że nowe akcje Bossa staną się widoczne (gdyż były wcześniej zasłonięte przez Wierzchnią kartę).",0.749
+3740,Player is awarded Victory Points for the removed Boss Action card as in normal game.,"Gracz otrzymuje punkty zwycięstwa za usuniętą kartę, jak w normalnej grze.",0.813
+3741,"BOSS CARD - Boss Action cards have the following Attributes: Initia tive [1], Attack [2], Defence [3] and Endurance [4].","KARTA BOSSA – Karty Akcji Bossa mają następujące atrybuty: Inicjatywa [1], Atak [2], Obrona [3] oraz Wytrzymałość [4].",0.946
+3742,Remaining part of the cards describes actions the Boss will be taking during his turn [5].,"Pozostała część kart opisuje akcje, które Boss będzie wykonywać w trakcie swojej tury [5].",0.889
+3743,"A Boss has no Movement Attribute - when Moving around, he is unrestricted by Range.",Boss nie ma atrybutu Ruchu – przy Poruszaniu się nie ma on ograniczeń zasięgu.,0.902
+3744,Action text in the dark space of the card should be visible only if a card is at the very top of the Boss Action deck.,"Tekst akcji, znajdujący się w ciemnej części karty, powinien być widoczny tylko wtedy, gdy ta karta znajduje się na samym wierzchu talii.",0.816
+3745,"TARGET - Target indicates which model (or models, if Boss’s current at tack affects multiple) will become Boss’s current focus.","CEL – Cel określa, który model (lub modele, jeśli atak Bossa działa na wiele celów) stanie się Celem Bossa.",0.829
+3746,"If, at any given moment, several models are tied for Target conditions, player decides which models will be targeted by the Boss.","Jeśli w danym momencie kilka modeli spełnia warunki bycia Celem, gracz wybiera, które modele nim będą w tej akcji Bossa.",0.802
+3747,"Example: if the Boss card states “Target an enemy model with the lowest INI”, and there are currently two Squads with 0 Initiative, player chooses which model from any of these Squads will become a target.","AKCJA: Szybki Atak przeciwko celom (Żółta kość). Przykład: Jeśli karta Bossa mówi: „CEL: model przeciwnika z najniższą wartością INI”, a obecnie są 2 oddziały z 0 Inicjatywy, gracz wybiera, który model z tych dwóch oddziałów stanie się Celem.",0.827
+3748,Range is always counted according to the Standard rules.,Zasięg zawsze liczony jest zgodnie z normalnymi zasadami.,0.796
+3749,"This means, Range 1 Attack may affect Targets in all Spaces adjacent to the one with the Boss, Range 2 means all Spaces adjacent to the Boss, and all Spaces adjacent to them - and so on.","To znaczy atak o zasięgu 1 może zadziałać przeciwko Celom na polach przyległych do pola z Bossem, zasięg 2 oznacza wszystkie pola przyległe do Bossa i pola przyległe do tych pól i tak dalej.",0.866
+3750,"CAUTION: If, at any moment in the game, no models meet the Target con ditions, the model closest to the Boss will become the targeted instead.","UWAGA: Jeśli w danym momencie żaden model nie spełnia kryteriów bycia Celem, staje się nim model, który jest najbliżej Bossa.",0.827
+3751,COMBAT - Unless otherwise stated Boss will always roll yellow die.,"WALKA – Boss zawsze używa Żółtej kości, chyba że karta mówi inaczej.",0.735
+3752,CRYSTAL SOURCE - Boss will contest Crystal Source according to standard game rules.,ZŁOŻA KRYSZTAŁÓW – Boss może kontrolować złoża kryształów zgodnie z normalnymi zasadami.,0.751
+3753,ACTION - Actions affect only Targets.,AKCJA – Akcje wpływają tylko na Cele.,0.923
+3754,"While resolving them, player always applies their rules to the last selected Target (or targets).",Podczas rozgrywania ich gracz zawsze stosuje ich reguły do aktualnie obranego Celu (lub Celów).,0.844
+3756,AWAKEN REALMS GENERIC TOKENS - A Boss can use small generic tokens from the available pile of 10.,ŻETONY FRAKCYJNE – Boss może używać małych frakcyjnych żetonów z dostępnej puli 10.,0.822
+3757,"If at any moment none of them are available, consider the Boss’s power to be spent.","Jeśli w jakimś momencie żaden z nich nie będzie dostępny, należy uznać, że moc Bossa jest wyczerpana.",0.748
+3758,"Oce enough tokens are returned to the neutral pile, it is again possible to use them.","Gdy wystarczająca ilość żetonów wróci do neutralnej puli, można ich użyć ponownie.",0.748
+3759,"MOVE, PUSH, BACK OFF - A Boss always moves towards his Tar get along the shortest possible path, avoiding all auto-wound traps.","RUCH, ODPYCHANIE, WYCOFANIE – Boss zawsze porusza się w stronę swojego Celu, obierając najkrótszą możliwą drogę i unikając wszelkich żetonów zadających rany.",0.862
+3760,Boss’s Move action always ends with the enemy.,Akcja Ruchu Bossa zawsze kończy się AWAKEN REALMS z przeciwnikiem.,0.745
+3761,"If possible, the Boss will NOT end his movement with the player’s Shrine.","Jeśli to możliwe, Boss NIE zakończy ruchu z kapliczką gracza.",0.823
+3764,"DECISIONS - If card text or a skill refers to several pos sible Targets, player always picks the final Target.","DECYZJE GRACZA – Jeśli tekst karty lub umiejętności odnosi się do kilku możliwych Celów, gracz zawsze wybiera ostateczny Cel.",0.912
+3765,Example: Bullgrim puts a Quarry Token on a Space with a Target enemy.,Przykład 1: Bullgrim umieszcza żeton Sztolni na polu z jego Celem.,0.841
+3766,"There is a limit of 1 such token per Space, and there’s already one within the Space of the Target.","Jest ograniczenie 1 takiego żetonu na pole, a na polu, na którym jest Cel, jest już taki żeton.",0.854
+3767,The player reads the alternative rule: “or the closest Space w/o Quarry Token”.,Gracz odczytuje zasadę alternatywną: „lub najbliższe pole bez żetonu Sztolni”.,0.854
+3768,"All Spaces around the Target model are valid, therefore it is up to the player to choose where the token will go.","Wszystkie pola wokół Celu spełniają ten warunek, tak więc gracz wybiera, na którym polu umieścić żeton.",0.68
+3769,Example 2: Boss Targets a closest enemy.,Przykład 2: Boss obiera za Cel najbliższego wroga.,0.915
+3770,There are three models within the Range 2.,W zasięgu 2 znajdują się 3 różne modele.,0.853
+3771,Player chooses which model will be attacked by the Boss.,"Gracz wybiera, który model zostanie zaatakowany przez Bossa.",0.838
+3772,Keep in mind that the specific position of the model within its Space does not count!,"Należy pamiętać, że dokładne umiejscowienie modelu na polu nie wpływa na zasięg!",0.724
+3773,The Range is always counted in the full Spaces only!,Zasięg zawsze jest liczony pełnymi polami!,0.807
+3774,VICTORY CONDITIONS - The player wins when the last Boss card is discarded.,"WARUNKI ZWYCIĘSTWA – Gracz wygrywa, gdy ostatnia karta Akcji Bossa zostanie odrzucona.",0.872
+3775,"The player loses when he runs out of Victory Points, when Boss destroys all of their units, or when they run out of action cards.","Gracz przegrywa gdy skończą mu się Punkty Zwycięstwa, straci wszystkie modele lub jego talia Akcji się wyczerpie.",0.838
+3776,DIFFICULTY LEVELS - All rules above show a game with a normal difficulty level.,POZIOMY TRUDNOŚCI – Wszystkie powyższe zasady opisują grę o normalnym poziomie trudności.,0.919
+3777,Variants below can make the game easier or harder - for begin ners or for advanced players.,Poniższe warianty zmieniają grę na łatwiejszą lub trudniejszą – dla początkujących lub zaawansowanych graczy.,0.905
+3778,"EASY SETTING: Starting Crystals: 2 Number of Boss Action cards: 2 HARD SETTING: Starting Crystals: 0 Number of Boss Action cards: 3 GLOSSARY TARGET – a main focus of the Boss, defined by its Action card.",ŁATWY: Początkowe kryształy: 2 Ilość kart Akcji Bossa: 2 TRUDNY: Początkowe kryształy: 0 Ilość kart Akcji Bossa: 3 GLOSARIUSZ CEL – obiekt zainteresowania Bossa określany przez jego kartę Akcji.,0.797
+3779,"If at any moment a Boss has no valid Target, the closest player’s model will be Targeted instead.","Jeśli w danym momencie Boss nie ma żadnego Celu, zostaje nim najbliższy model gracza.",0.812
+3780,ACTION – action described on the Boss Action card.,AKCJA – akcja opisana na karcie Akcji Bossa.,0.876
+3781,"AT THE END OF THE STAGE – such actions are resolved only once, when the card is being discarded in the Defeat Phase.","NA KONIEC FAZY – te akcje są rozpatrywane jednorazowo, w momencie gdy karta jest odrzucana w fazie Pokonania.",0.887
+3783,JUMP – Boss jumps towards the enemy.,SKOK – Boss doskakuje do przeciwnika.,0.864
+3784,"During the jump, a Boss model is removed from the board and then placed with the Target.","Podczas skoku model Bossa jest usuwany z planszy, a następnie umieszczany z Celem.",0.824
+3785,"If possible, the Boss model base should NOT come into contact with a Shrine, as a result of the Jump.","Jeśli to możliwe, podstawka Bossa NIE powinna wejść w kontakt z kapliczką gracza jako skutek Skoku.",0.722
+3786,"If possible, the Boss also won’t land on any Spaces dealing auto-wounds.","Jeśli to możliwe, Boss nie wyląduje również na polach z żetonami zadającymi rany.",0.788
+3787,Boss may Push models on its final Space.,Boss może odpychać modele z pola swojego lądowania.,0.717
+3788,TAKE OFF – Remove the Boss model from the board.,WZBICIE SIĘ – Usuń model Bossa z planszy.,0.906
+3789,"After the model has been removed this way, it can only be targeted by ranged attacks (Range 2 or more).","Po tym jak model został usunięty, Boss może być raniony tylko akcjami dystansowymi (zasięg 2 lub więcej).",0.777
+3791,"BOSSES, MECHANICS, TOKENS BULLGRIM Powerful explosion shakes the entire cave.","BOSSY, MECHANIKA, ŻETONY BULLGRIM Potężna eksplozja wstrząsa całą grotą.",0.909
+3792,"Several hanging stalactites break off the cave’s ceiling, crushing a Dvergar militia squad.","Kilka zwisających stalaktytów odłamuje się od sklepienia, miażdząc oddział milicji Dvergarów.",0.884
+3793,"For a long while, dust and smoke deprives the remaining Dvergar of their sight and makes breathing dif ficult.","Przez dłuższą chwilę wznoszący się pył i dym zasnuwa pozostałym Dvergarom pole widzenia, utrudniając przy tym oddychanie.",0.892
+3794,"When the dust finally settles, the giant mechanical bull is nowhere to be seen.","Gdy pył wreszcie opada, nigdzie nie widać wielkiego mechanicznego byka.",0.822
+3795,"The Dvergar forces scramble to regroup, getting ready to charge.","Dvergarzy przegrupowują się w popłochu, przygotowując się na atak.",0.693
+3797,Breathe in some gas.,Nabrać gazu w płuca!,0.637
+3799,Get ready.,Gotuj się!,0.781
+3801,"They march, focused and grim.",Posuwają się naprzód ponurzy i skoncentrowani.,0.747
+3802,It’s easy to follow the Bullgrim’s trail.,Niełatwo jest zgubić ślad Bullgrima.,0.781
+3803,"He doesn’t consider them a threat, and why should he?","Nie uważa ich za zagrożenie, zresztą dlaczego miałby?",0.923
+3804,All the gas he has consumed made him impossibly powerful.,"Cały gaz, który pochłonął, uczynił go niesamowicie potężnym.",0.811
+3805,And he continues to grow in strength.,I wciąż nabiera siły.,0.832
+3806,They have to hurry if they want to stand a chance.,"Muszą się pospieszyć, jeśli chcą mieć jakąkolwiek szansę.",0.83
+3807,Before he is to strong to be contained.,"Zanim stanie się zbyt silny, by go ujarzmić.",0.673
+3809,Next attack comes from the side.,Kolejny atak nadchodzi z flanki.,0.867
+3810,"The beast tears through the corridor’s wall, falling in the middle of the Dvergar formation.","Bestia wytrzeliwuje ze ściany korytarza, wpadając w sam środek formacji Dvergarów.",0.828
+3811,Nobody is prepared for that.,Nikt nie jest na to przygotowany.,0.955
+3812,"Bull grim leaves nothing but a mass of trampled bodies and metal in his wake, buried under rocks.",Bullgrim nie zostawia za sobą nic poza stertą metalu i stratowanych ciał pogrzebanych pod skałami.,0.813
+3813,QUARRY TOKENS - Quarry Tokens are placed by Bullgrim while his TOP card remains on top of his deck.,"ŻETONY SZTOLNI – Żetony Sztolni są umieszczane przez Bullgrima, gdy jego WIERZCHNIA karta znajduje się na wierzchu talii.",0.831
+3814,"Quarry Tokens have various properties in the later Phases, depending on the remaining cards in the Boss deck.","Żetony Sztolni mają przeróżne właściwości w późniejszych Fazach, zależnie od pozostałych kart w talii Akcji Bossa.",0.823
+3815,"Limit: 10 tokens on board, one token per Space.","Limit: 10 żetonów na planszy, jeden żeton na pole.",0.899
+3816,Tokens can’t be moved or removed.,Żetony nie mogą być poruszone ani usunięte.,0.872
+3817,Tokens can be placed on Spaces with Crystal Source or Shrine.,Żetony mogą być umieszczane na polach z kapliczką i złożami kryształów.,0.722
+3818,Bullgrim ignores Quarry tokens when Moving.,Bullgrim ignoruje żetony Sztolni w trakcie Ruchu.,0.824
+3819,ISH Ish was giddy.,ISH Ish była rozkojarzona.,0.902
+3820,"It wasn’t a becoming emotion, but that’s precisely how she felt.","Nie przeradzało się to w emocję, ale dokładnie tak się czuła.",0.932
+3821,"Her hounds were now fighting a squad of demons, and she was drawing pleasure both from the fight itself and from controlling the hounds’ simple minds.","Jej ogary walczyły właśnie z oddziałem demonów, a ona czerpała przyjemność zarówno z samej walki, jak i kontrolowania prostych psich umysłów. Wspaniała rozrywka.",0.845
+3822,And at least she wasn’t bored.,Przynajmniej się nie nudziła.,0.884
+3823,Boredom put her in foul mood.,Nuda wprawiała ją w parszywy nastrój.,0.889
+3824,A hound’s skull shattered with an audible crash.,Czaszka ogara rozstrzaskała się z głośnym chrupnięciem.,0.705
+3825,Ish smiled lazily and filled her ranks with another thralled hound.,Ish uśmechnęła się leniwie i uzupełniła lukę kolejnym podległym czworonogiem.,0.791
+3827,Sounds of snapping bones and ripping flesh filled the air.,Dźwięki rozstrzaskiwanych kości i rozpruwanego mięsa wypełniały powietrze.,0.879
+3828,"Amused, Ish found another mind to possess.",Zadowolona Ish wdarła się do kolejnego umysłu.,0.699
+3829,The battle below her throne grew.,Skala rzezi pod jej tronem ciągle rosła.,0.655
+3830,"Content, she licked her lips lazily.",Leniwie oblizała usta przepełniona satysfakcją.,0.6
+3831,"Who cared about a few squads of demons, when she had all hell’s cohorts at her service.","Kogo obchodziło kilka oddziałów demonów, gdy miała do swej dyspozycji wszystkie piekielne kohorty.",0.796
+3832,Ish wrinkled her nose.,Ish zmarszczyła nos.,0.893
+3833,"Below, the pile of bodies kept growing and the smell of ichor reached her.","Sterta ciał poniżej wciąż rosła, a do niej dotarł smród krwi.",0.749
+3834,She dismissed the fighting demons with an annoyed gesture.,Odprawiła walczące demony zniecierpliwionym gestem.,0.843
+3835,"CONTROL TOKENS - at the start of each of her Boss Activation Phases, Ish has the player place a Control Token on a chosen Squad (models from this Squad must be present on the board).",ŻETONY KONTROLI – na początku każdej Fazy Aktywacji Bossa Ish zmusza gracza do umieszczenia żetonu Kontroli na wybranym oddziale (modele tego oddziału muszą być obecne na planszy).,0.909
+3836,Limit: 3 tokens per Squad card.,Limit: 3 żetony na kartę oddziału.,0.92
+3837,"If the last model from Squad under Ish’s Control is killed, the tokens are returned to the reserve.","Kiedy zginie ostatni model z kontrolowanego przez Ish oddziału, żetony Kontroli wracają do neutralnej puli.",0.792
+3838,"WAR GOLEM We were stationed near the border, as ordered.",GOLEM WOJENNY Stacjonowaliśmy przy granicy zgodnie z rozkazem.,0.872
+3839,No movement could be seen on the enemy territory.,Na terytorium wroga nie było poruszenia.,0.837
+3841,I stepped out of my tent to find the whole encampment in chaos.,Wyszedłem z namiotu i zobaczyłem chaos w całym obozie.,0.722
+3842,"Tents were catching fire one by one, soldiers were already gathering to defend themselves from the enemy.","Namioty stawały w ogniu jeden po drugim, żołnierze grupowali się, gotując do obrony przed wrogiem.",0.84
+3843,One of the priests must have already mounted the Golem to resist the attack.,"Jeden z kapłanów musiał już obsadzić Golema, by odeprzeć atak.",0.804
+3844,It was in that moment I realized there was no enemy in sight.,"W tym momencie zdałem sobie sprawę, że nie było śladu żadnego wroga.",0.839
+3845,"The mon strous machine was turning on us, stomping on tents, killing everything within its reach.","Gigantyczna machina zwróciła się przeciwko nam, depcząc namioty, niszcząc wszystko, co miała w zasięgu.",0.744
+3847,"I considered our remaining forces, those who haven’t been killed in this havoc, trying to stand our ground against the Golem.","Oceniłem pozostałe siły, które nie zostały zmiażdżone w tym zamęcie, próbując przeciwstawić się Golemowi.",0.792
+3849,"Upon my order they fell back, only a handful of men, lucky to have survived this bloodbath.","Rozkazałem odwrót. Przeżyła tylko garstka ludzi, którym szczęście dopisało na tyle, by przetrwać tę rzeź.",0.728
+3850,SHIELD TOKENS - each Shield Token on War Golem Action deck gives +1 Defense to the Golem.,ŻETONY TARCZY – każdy żeton Tarczy na talii Akcji Golema Wojennego dodaje mu +1 Obrony.,0.893
+3851,"Shield Tokens stack, increasing Golem’s Defense each round.","Żetony Tarczy kumulują się, zwiększając Obronę Golema w każdej rundzie.",0.852
+3852,Shield Tokens can’t be removed in any way.,Żetony Tarczy nie mogą być usunięte w żaden sposób.,0.868
+3853,War Golem starts the game with no tokens on his card.,Golem Wojenny zaczyna grę bez żetonów Tarczy.,0.809
+3854,AWAKEN REALMS UULSOT THE KEEPER It looked majestic gliding through the air on it’s leathery wings.,"UULSOT OBROŃCA Wyglądał majestatycznie, szybując w przestworzach na swych skórzanych skrzydłach.",0.816
+3855,"Uulost, guard ian of the forest and mother nature impersonated.","Uulsot, strażnik lasu i matki natury we własnej osobie.",0.735
+3856,"From her vantage point, Ceri could spot other dryads hidden in the high branches.",Ceri ze swojego punktu obserwacyjnego mogła dostrzec inne driady ukryte między wysokimi gałęziami.,0.845
+3857,They contemplated Drag on’s glory too.,One również podziwiały majestat smoka.,0.7
+3858,"She barely contained a gasp of rapture as the creature dived for a crystal, shattering it.","AWAKEN REALMS Ledwie wstrzymała krzyk zachwytu, gdy stwór zapikował na kryształ, roztrzaskując go.",0.639
+3859,"The Dragon soared, only to dive again, aiming for the trees where the dryads were hiding.","Smok wzbił się, by znów zapikować, tym razem celując w drzewa, między którymi kryły się driady.",0.749
+3860,"She fled, just in time.",Uciekła w ostatnim momencie.,0.722
+3861,Dragon’s giant maw crushed the branch she left merely seconds ago.,"Potężne szczęki roztrzaskały gałąź, na której siedziała sekundę wcześniej.",0.643
+3862,This wasn’t supposed to happen.,Nie tak miało być.,0.859
+3863,"They were just a lookout, waiting for rein forcements.",Były tylko zwiadowcami czekającymi na posiłki.,0.69
+3864,They didn’t stand a chance against the monster.,Nie miały szans w starciu z potworem.,0.857
+3865,"Dragon passed her and spit a cloud of toxic fumes towards another group of dryads, lashing at them with his spiked tail.","Smok minął ją i wypluł chmurę toksycznych oparów w stronę innej grupy driad, smagając je swym kolczastym ogonem.",0.886
+3866,Ceri managed to glimpse her com panions wither and die as she made a retreat along the remaining dryads.,"Gdy Ceri naprędce wycofywała się z resztą swoich driad, mignął jej widok usychających i umierających towarzyszek.",0.72
+3868,"Limit 10 tokens on board, one per Space.","Limit to 10 żetonów na planszy, jeden na pole.",0.85
+3869,Enemies in Range 1 of Toxic Token always get -4 Defense.,Przeciwnicy w zasięgu 1 od żetonu Toksyn zawsze otrzymują -4 do Obrony.,0.879
+3870,"Caution: During setup, Uulsot is not deployed to the map.",Uwaga: Podczas Przygotowania Rozgrywki Uulsot nie jest wystawiany na planszy.,0.825
+3871,His model is placed outside the board instead.,Jego model pozostaje poza planszą.,0.754
+3872,"For example, if a model’s base Defense is 2, and the player adds 3 Defense using his Action card, the final Defense value will equal 2+3-4=1.","Na przykład: jeśli bazowa wartość Obrony modelu wynosi 2, a gracz dodaje kolejne 3, używając karty Akcji, ostateczna wartość Obrony wynosi 2+3-4=1.",0.92
+3873,METALGORGER We hear a voice within the hum of voices.,STALOJAD Słyszymy głos w szumie głosów.,0.76
+3874,"It is part of the whole, yet it is singular, separate, a voice of its own.","Jest częścią całości, a jednak pojedynczy, oderwany, jedyny w swoim rodzaju.",0.834
+3875,"We know that this voice has a body, moving as we move, one of many, but divergent.","Wiemy, że ten głos ma ciało poruszające się razem z nami, jedno z wielu, jednak osobne.",0.799
+3876,"We are a sea of metal, flowing to the music of metal grinding and screeching.",Jesteśmy morzem stali płynącym z muzyką szczękającego metalu i ryków.,0.761
+3877,"That single voice, that body is an island in the middle of that sea.","Ten jeden głos, to jedno ciało jest wyspą pośrodku morza.",0.819
+3878,"Standing taller, bigger, greater than the rest.","Wznosi się wyżej większe, potężniejsze od reszty.",0.759
+3879,Now there is also malice in this voice.,Teraz w tym głosie pojawiła się groźba.,0.735
+3880,"We hear it, but don’t suspect it’s hostil ity is aimed at us.","Słyszymy to, ale nie podejrzewamy nawet, że jest skierowana w naszą stronę.",0.791
+3881,"Then we see it, enormous body turning to split one of us in half.","Wtedy to dostrzegamy, potężne ciało rozpłatujące jednego z nas na pół.",0.797
+3882,We are aware of the victims memories and the emptiness he left.,"Jesteśmy świadomi wspomnień ofiary i pustki, którą po sobie zostawiła.",0.843
+3883,"We are aware of the monster feeding, growing, becoming stronger.","Jesteśmy świadomi, jak potwór ją wchłania, rośnie, staje się silniejszy.",0.744
+3884,We call him the Metalgorger.,Nazywamy go Stalojadem.,0.739
+3885,"He is still among us, his mind forever joined with ours, but he acts upon his own will we cannot control.","Jest wciąż wśród nas, jego umysł na zawsze zespolony z naszym, ale postępuje on wedle własnej woli, której nie możemy kontrolować.",0.894
+3886,"A will to be more, to consume, constantly consume.","Woli by wchłaniać i rosnąć, zawsze rosnąć.",0.582
+3887,He targets another body.,Atakuje kolejne ciało.,0.841
+3888,And another.,I kolejne.,0.875
+3890,The hum of voices in our mind becomes a scream.,Szum głosów w naszym umyśle zamienia się w krzyk.,0.883
+3892,"SLASH TOKENS - each time a model deals at least 1 Wound to the Metalgorger (either using Combat or an Action card), place the Slash Token on the unit’s Squad card.","ŻETONY OKALECZENIA – za każdym razem gdy jakiś model zada ranę Stalojadowi (w akcji Walki lub używając karty Akcji), umieść żeton Okaleczenia na karcie oddziału tego modelu.",0.845
+3893,"If the last model of a Squad with any Slash Tokens is killed, return these tokens to the neutral pile.","Gdy ostatni model z oddziału z żetonami Okaleczenia zginie, zwróć te żetony do neutralnej puli.",0.845
+3895,"Titan’s elegant, towering form rests beside a large crystal vein, resembling an intricate sculpture of a war god.","Wzniosła, elegancka sylwetka tytana spoczywa obok ogromnej żyły kryształów niczym misterna rzeźba boga wojny.",0.885
+3896,"The only sign of life inside the metal husk is a red eye, blinking from time to time, scanning the area.","Jedyną oznaką życia pod metalowym pancerzem jest czerwone oko, które, mrugając od czasu do czasu, lustruje okolicę.",0.727
+3897,"Small squad of Rha-Zack streamsurfers advancing on the target, their moves fluid like molten metal.","Niewielki oddział Rha-Zackich strumienautów posuwa się w stronę celu, ich ruchy są płynne jak ciekły metal.",0.864
+3898,They secure the perimeter and brief their reinforcements on the situation.,Zabezpieczają granicę i wysyłają raport o sytuacji posiłkom.,0.669
+3899,One of them moves closer to the crystal.,Jeden z nich zbliża się do kryształu.,0.878
+3900,"Titan awakes, huge body coming to life.","Tytan się budzi, potężne ciało strzela w górę.",0.803
+3901,He strikes.,Atakuje.,0.787
+3902,Stream of electricity sends a streamsurfer to the ground.,Wiązka elektryczności zwala z nóg strumienautę.,0.618
+3903,Then another.,Potem kolejnego.,0.941
+3905,Sparks dance over the metallic carcass.,Iskry skaczą po metalowych zwłokach.,0.777
+3906,Rest of the squad takes cover and calls for support.,Reszta oddziału kryje się i prosi o wsparcie.,0.831
+3908,The Titan does not use any extra tokens.,Tytan nie używa żadnych dodatkowych żetonów.,0.903
+3909,"Instead, his cards have a “At the end of the stage” ability.",Zamiast tego jego karty mają umiejętności „Na koniec Fazy”.,0.894
+3910,"Resolve these Actions only once, when the topmost Boss card is being discarded.","Rozpatruj te akcje jednorazowo, gdy Wierzchnia karta z talii Akcji Bossa jest odrzucana.",0.728
+3911,SCENARIOS: WAR GOLEM - SCENARIO 1 BESIEGED Surround him! Swarm him!,SCENARIUSZE: GOLEM WOJENNY - SCENARIUSZ 1 OKRĄŻONY Okrążyć go!,0.898
+3912,No time to waste!,Nie ma czasu do stracenia!,0.93
+3913,He grows too strong too fast and soon our numbers won’t be enough to overpower him...,"Rośnie w siłę zbyt szybko i już wkrótce nasze siły nie wystarczą, by go pokonać!",0.819
+3914,"SETUP: During deployment phase, deploy the War Golem first, then deploy units.","PRZYGOTOWANIE: Podczas fazy wystawiania wystaw Golema Wojennego w pierwszej kolejności, następnie wystaw modele.",0.795
+3915,Units can be placed Base to Base with the War Golem.,Modele mogą być wystawione w kontakcie z Golemem Wojennym.,0.644
+3916,SPECIAL RULES: At the start of each turn the War Golem receives 2 shield tokens instead of one.,ZASADY SPECJALNE: Na początku każdej tury Golema Wojennego otrzymuje on 2 żetony Tarczy zamiast jednego.,0.884
+3917,GAME ENDS: The War Golem is defeated.,KONIEC GRY: Gdy Golem Wojenny zostanie pokonany.,0.837
+3918,WAR GOLEM - SCENARIO 2 the GREATER POWER Madness and chaos descended upon the blood-drenched battlefield.,GOLEM WOJENNY - SCENARIUSZ 2 WYŻSZA POTĘGA Chaos i szaleństwo przetaczają się po skąpanym we krwi polu bitwy.,0.903
+3919,There is nowhere to run.,Nie ma gdzie uciekać.,0.855
+3920,"To survive, we have to win.","Musimy zwyciężyć, by przeżyć.",0.9
+3921,SETUP: Setup according to the standard rules.,PRZYGOTOWANIE: Przygotuj grę według normalnych zasad.,0.78
+3922,The War Golem starts with 10 shield tokens.,Golem Wojenny zaczyna z 10 żetonami Tarczy.,0.915
+3924,SPECIAL RULES: The player can’t earn or spend Victory Points in this battle and the VP Track is used as a part of a special mechanic.,"ZASADY SPECJALNE: • Gracz nie może zdobywać ani wydawać Punktów Zwycięstwa, tor jest używany do specjalnej mechaniki.",0.791
+3925,Shield tokens increase the War Golem’s initiative and defense.,• Żetony Tarczy zwiększają Inicjatywę i Obronę Golema Wojennego.,0.82
+3926,"Each turn, the VP marker moves one space to the Golem’s side.",W każdej turze znacznik zwycięstwa przesuwa się o 1 pole w stronę Golema.,0.703
