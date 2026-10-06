@@ -1,0 +1,19 @@
+id,decision,pl_fixed
+2299,DROP,
+2316,DROP,
+2330,FIX,"Masz nadzieję, że podróżując w ten sposób uchronisz się od Ciemności."
+2366,DROP,
+2415,DROP,
+2416,FIX,"Jeśli nie czujesz się gotowy, by tam podążyć, możesz wrócić do łodzi (F01-C) bądź udać się w stronę zabudowań widniejących na pobliskich opustoszałych równinach (F01-D)."
+2419,FIX,"Podchodzisz do niej i odkrywasz, że za nią znajdują się schody prowadzące w dół klifu."
+2425,DROP,
+2427,DROP,
+2456,FIX,"NAGRODA: +1 Samotna Iskra, umieść naklejkę „Podbite” na tej lokacji i udaj się w Dalszą Drogę. DALSZA DROGA: Odwrócone schody prowadzą do rozpadającego się spodu katedry, przy pomocy którego moglibyście ominąć silnie strzeżone frontalne wejście (przejdź do scenariusza 3)."
+2473,DROP,
+2488,FIX,"Wkrótce, wojownik upada niczym bezwładna, pobladła skorupa."
+2529,FIX,"Wybierz pole w zasięgu jego linii strzału, które zawiera największą liczbę twoich modeli (bądź model z największą ilością znaczników wytrzymałości)."
+2556,DROP,
+2558,FIX,"Górogryz jest gdzieś pod ziemią, wciąż stanowiąc potencjalne zagrożenie."
+2561,DROP,
+2598,FIX,"Proszę, o piękna Pani, rozważ moją prośbę”."
+2619,FIX,"Przesyłam pozdrowienia z oblężonej Al-Iskandrii, którą planuję chronić, choćby za cenę życia."
