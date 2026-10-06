@@ -14,5 +14,6 @@ Zasady:
 - Rozbite slowo w EN typu "Ger- man" nie jest powodem do DROP, jesli reszta pary jest dobra.
 - Terminologii nie zmieniaj.
 
-Wyjscie: stalker/out/<ta sama nazwa pliku>.csv, UTF-8, kolumny: id,decision,pl_fixed. Jeden wiersz na KAZDY id z wejscia, kazdy id dokladnie raz. decision to AS_IS, FIX lub DROP; pl_fixed tylko przy FIX.
-Po kazdym pliku: sprawdz, ze liczba wierszy wyjscia rowna sie liczbie wierszy wejscia, zrob commit i push na swoja galaz, napisz liczniki AS_IS/FIX/DROP.
+Wyjscie: stalker/out/<ta sama nazwa pliku>.csv, UTF-8, kolumny: id,decision,pl_fixed. Wpisuj TYLKO wiersze z decyzja DROP lub FIX. Wiersz AS_IS pomijaj (brak wiersza w wyjsciu = AS_IS). pl_fixed wypelnij tylko przy FIX. Nie przepisuj EN ani PL poza pl_fixed.
+Oszczedzaj zasoby: przeczytaj plik wejsciowy DOKLADNIE RAZ i nie wypisuj go ponownie. Zapisz skrypt z lista id DROP i slownikiem FIX i uruchom go, zamiast pisac decyzje wiersz po wierszu. Nie wywoluj narzedzi dla pojedynczych wierszy.
+Po pliku: zrob commit i push na swoja galaz i napisz TYLKO trzy liczby: wierszy wejscia, DROP, FIX. Nie dodawaj innego tekstu.
