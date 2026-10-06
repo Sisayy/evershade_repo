@@ -1,0 +1,49 @@
+id,decision,pl_fixed
+1,DROP,
+4,DROP,
+7,DROP,
+42,FIX,Odrzuć tę kartę.
+67,DROP,
+70,FIX,"W przeciwieństwie do trybu Kampanii S.T.A.L.K.E.R.a w trybie Przetrwania w Zonie nie rozgrywacie kolejnych misji tworzących większą, spójną opowieść."
+92,DROP,
+98,FIX,"Uwaga: Pole zaznaczone na żetonie Koparki nie ma granic pola, więc traktujcie je jako dodatkowy element umieszczony na tym polu kafla Mapy."
+99,DROP,
+105,DROP,
+144,DROP,
+148,FIX,"Jeżeli jest kilka kart z efektami kroku Aktywatorów Losu, rozpatrzcie je w dowolnej kolejności, ale nie zapomnijcie najpierw rzucić! Jeżeli efekt opisany na karcie w akapicie Aktywatorów Losu nie jest powiązany z żadnym wynikiem rzutu y, wtedy ZAWSZE aktywuje się w tym kroku, niezależnie od wyniku rzutu kostką."
+152,FIX,"Oznacza to, że w poszczególnych Rundach aktywują różne efekty, w zależności od wyniku rzutu podczas kroku Aktywatorów Losu w danej Rundzie."
+153,DROP,
+186,DROP,
+196,DROP,
+197,DROP,
+198,DROP,
+199,DROP,
+200,DROP,
+201,DROP,
+203,DROP,
+204,DROP,
+205,DROP,
+212,FIX,Uwaga: Rozłóżcie wszystkie kafle Mapy zgodnie ze schematem pokazanym w książeczce MAP PwZ i (na razie!) zignorujcie dokładne położenie miejsc na Mapie.
+214,DROP,
+215,DROP,
+236,FIX,Odrzuć żeton Zamkniętych Drzwi oraz tę kartę.
+241,DROP,
+242,DROP,
+244,DROP,
+245,DROP,
+248,DROP,
+261,FIX,"Najpierw rozpatrzcie akapity Przygotowania na tych kartach, które informują o rozmieszczeniu żetonów we wskazanych miejscach."
+268,DROP,
+276,DROP,
+289,DROP,
+310,DROP,
+330,DROP,
+354,DROP,
+373,DROP,
+375,DROP,
+380,DROP,
+383,DROP,
+384,DROP,
+386,DROP,
+388,DROP,
+392,DROP,
