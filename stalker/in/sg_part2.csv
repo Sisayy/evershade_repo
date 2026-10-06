@@ -1,0 +1,301 @@
+﻿id,en,pl,sim
+436,"1. Map Setup Find Map tiles: 8, 13, 16, 31, 32 and place them as shown. 2.Environment Setup Environment cards: • Take out all Environment cards from Mission box D1.","1. Przygotowanie Mapy Znajdź kafle Mapy: 8, 13, 16, 31, 32 i umieść je, jak pokazano na grafice. 2. Przygotowanie Otoczenia Karty Otoczenia: • Wyjmij wszystkie karty Otoczenia z pudełka Misji D1.",0.912
+441,• Find the Tesla Anomaly card and place it next to the Map.,• Znajdź kartę Anomalii Tesla i umieść ją obok Mapy.,0.957
+442,"• Draw 3 Electric Anomaly overlays (6, 7, 11) and place them randomly on the Map so the tip of the triangle in the Anomaly center points toward the top of the Map.","• Dobierz 3 nakładki Anomalii Elektrycznej (6, 7, 11) i umieść je losowo na Mapie, tak aby wierzchołek trójkąta w centrum Anomalii wskazywał na górną część Mapy.",0.921
+443,• Place 1 matching Anomaly standee on the lowest numbered Anomaly overlay.,• Umieść 1 odpowiednią kartonową figurkę Anomalii na nakładce Anomalii z najniższą liczbą.,0.841
+445,Find the Key Card and Hrushka’s other belongings. The passing mutant waves hardly look in the direction of the outpost.,CEL MISJI Znajdź kartę dostępu i pozostałe rzeczy Hruszki. lrzechodzące ·ale mutantów rzadko w ogóle spoglądają w kierunku posterunku. lo prostu próbują się przedostać.,0.633
+446,Place this card next to the Event deck and flip it.,Umieść tę kartę obok talii Wydarzeń i odwróć ją. Ucieknij.,0.878
+447,"When you have at least 3 cards that state ‘Tvirsky will reward you’ CALL OF THE EYE MOVING ANOMALY and the Key Card token, flip overlay card and this card.","ANOMALIA RUCHOMA Gdy będziesz mieć przynajmniej 3 karty ze zdaniem „Twirski cię wynagrodzi” oraz żeton Karty Dostępu, Na Koniec Rundy umieść tę Anomalię na następnej pustej nakładce Anomalii, patrząc zgodnie z kierunkiem ruchu wskazówek zegara.",0.687
+449,"If any Stalker dies: After an Entity finishes Movement, roll the for this Anomaly Activation: y The Mission is lost, find and resolve Mission Event card V (Overflown with Mutants).","ZEW OKA Jeżeli którykolwiek Stalker zginie: Po zakończeniu Ruchu Jednostki wykonaj rzut na Aktywację tej Anomalii: y ję j y ję j Misja kończy się niepowodzeniem, znajdź i rozpatrz kartę Wydarzenia Misji V (Zalew mutantów).",0.888
+450,The triggering Entity and on all spaces with the rolled Anomaly symbol: Stalkers: Suffer 8 (you can roll for Defense).,Jednostka aktywująca oraz Jednostka na każdym polu z symbolem tej Anomalii: Stalkerzy: Otrzymujesz 8 (możesz rzucić na Obronę).,0.832
+452,Environment Tesla Anomaly Mission Objective BTR deck,Talia Otoczenia Anomalia Cel Misji BTR Tesla,0.816
+454,Enemies: • In Mission box D1 find the Scuttler Enemy card and place it next to the Map.,Wrogowie: • Znajdź kartę Wroga Biegacz w pudełku Misji D1 i połóż ją obok Mapy.,0.891
+456,• Find the Tick Enemy card and place it next to the Map.,• Znajdź kartę Wroga Kleszcz i połóż ją obok Mapy.,0.897
+458,• Find the Crawl Enemy card and place it next to the Map.,• Znajdź kartę Wroga Rój i połóż ją obok Mapy.,0.904
+460,• Find 6 Rodent and 5 Dog standees.,• Znajdź 6 kartonowych figurek Chomików i 5 kartonowych figurek Psów.,0.859
+461,They both represent the Scuttlers.,Wszystkie reprezentują Biegaczy.,0.723
+462,Place 4 of them on spaces marked with and 7 next to the Map.,"Umieść 4 z nich na polach oznaczonych, a 7 obok Mapy.",0.944
+463,• Find 4 Tick standees.,• Znajdź 4 kartonowe figurki Kleszczy.,0.84
+464,"Place 3 of them on spaces marked with and 1 next to the Map. 5 1 SCUTTLER MUTANT, PSIONIC TO HIT TORSO 6 9 Light Wound BITE [CHARGE] DAMAGE 7 RANGE 1 SPECIAL Confluence: If a Crawl in Scuttler’s LoS has any -1, remove this Scuttler from the Map and discard 1 -1 from the Crawl. 4 1 TICK MUTANT TO HIT LEGS 3 TO HIT TORSO 7 Heavy Wound STING [CHARGE] DAMAGE 7 RANGE 1 SPECIAL Latch: Move up to 2 toward the closest Target in LoS.","Umieść 3 z nich na polach oznaczonych, a 1 obok Mapy. 5 1 BIEGACZ MUTANT, PSIONIK TRAFIENIE TUŁÓW Rana Lekka UGRYZIENIE [SZARŻA] OBRAŻENIA 7 ZASIĘG 1 SPECJALNE Konfluencja: Jeżeli Rój w LW Biegacza ma jakikolwiek -1, usuń tego Biegacza z Mapy i odrzuć 1 -1 z Roju. 4 1 KLESZCZ MUTANT TRAFIENIE NOGI TRAFIENIE TUŁÓW 7 Rana Ciężka ŻĄDŁO [SZARŻA] OBRAŻENIA 7 ZASIĘG 1 SPECJALNE Uczepienie: Porusz się maksymalnie o 2 pola w stronę najbliższego Celu w LW.",0.869
+465,"The Target gains a. 3 3 THE CRAWL MUTANT, PSIONIC INNUMERABLE The Crawl can Move through Walls.","Cel otrzymuje ę 3 3 RÓJ MUTANT, PSIONIK NIEZLICZONY Rój może Poruszać się przez Mury.",0.853
+466,The Crawl can’t gain a or a.,Rój nie może otrzymać ani.,0.723
+467,"Whenever you Attack The Crawl with a Weapon or a Blast Item, double the number of rolled.","Zawsze kiedy Atakujesz Rój, używając Broni lub Przedmiotu z efektem Rozprysk, podwajasz liczbę wyrzuconych.",0.81
+468,"TO HIT TORSO 3 12 Light Wound Heavy Wound SCORES OF TEETH [CHARGE] After the Attack, Push the Target to an adjacent space.",TRAFIENIE TUŁÓW Rana Lekka Rana Ciężka DZIESIĄTKI ZĘBÓW [SZARŻA] Po Ataku Odpychasz Cel na sąsiednie pole.,0.819
+469,DAMAGE 12 RANGE 1 I A DO HEL MISSION EVENT Event deck Other tokens: • Find 2 Crawl standees.,OBRAŻENIA 12 ZASIĘG 1 I WOmANIE O WYDARZENIE MISJI Talia Wydarzeń Inne żetony: • Znajdź 2 kartonowe figurki Roju.,0.825
+471,Loot: • Take 16 random Loot tokens and place them in stacks on the Map as shown.,"Łupy: • Weź 16 losowo wybranych żetonów Łupów i umieść je w stosach na Mapie, jak pokazano na grafice.",0.921
+472,"Unknown tokens: • Depending on the number of Stalkers, take a set of Unknown tokens, shuffle them and place them in 2 stacks of 5 and 1 stack of 4 on the Map as shown: » Single Stalker: 6× X, 4×, 4× » 2 Stalkers: 5× X, 3×, 2×, 4× » 3 Stalkers: 2× X, 4×, 4×, 4× » 4 Stalkers: 4×, 4×, 4×, 2× • In Mission Box D1 find the BTR token, the BTR Barrel token and a pin.","Żetony Nieznanego: • W zależności od liczby Stalkerów weź zestaw żetonów Nieznanego, przetasuj je i rozmieść na Mapie w 2 stosach po 5 i w 1 stosie z 4 żetonami, jak pokazano na grafice: » 1 Stalker: 6× X, 4×, 4× » 2 Stalkerów: 5× X, 3×, 2×, 4× » 3 Stalkerów: 2× X, 4×, 4×, 4× » 4 Stalkerów: 4×, 4×, 4×, 2× • Wyjmij wszystkie karty Wydarzeń Misji z pudełka Misji D1.",0.918
+474,Mission Event card I should be on the top and number VI should be on the bottom.,"Karta Wydarzenia Misji I powinna znajdować się na wierzchu, a VI na spodzie.",0.89
+477,Start the first Round. 5 STARTING POINT 23 Story D/ Mission 1/ A Cry for Help,Rozpocznij pierwszą Rundę. 5 PUNKT STARTU 23 Opowieść D / Misja 1 / Wołanie o pomoc,0.921
+478,You run and run until you are absolutely sure that there is nothing following you. You slump down next to the tree to relax and gather your thoughts when the PDA pings again.,")iegniecie i biegniecie, aż zyskujecie absolutną pewność, że nic was nie ściga. `suwacie się na ziemię pod drzewem, by odpocząć i zebrać myśli, gdy wasze l0A zaczynają popiskiwać. Ŕxu xwirski.",0.79
+479,Are you there? Have you searched the outpost?,Jesteście tam? lrzeszukaliście posterunek?,0.875
+480,I hope you’re fine.,"Mam nadzieję, że wszystko gra.",0.719
+481,"The signal is getting stronger and stronger, my head is killing me.","Sygnał staje się coraz silniejszy, aż głowa pęka mi z bólu.",0.729
+482,"Me and Hrushka are still in the bunker, hurting but safe. We could totally use your company, but you can just as well wait for the signal to go down.","Ja i Cruszka wciąż siedzimy w bunkrze. *ierpimy, ale jesteśmy bezpieczni. [ie mielibyśmy nic przeciwko waszemu towarzystwu, ale możecie też poczekać, aż sygnał osłabnie.",0.822
+484,Drop all you have found in the stash close to the outpost at the attached location.,"Zostawcie wszystko, co znaleđliście, w skrytce niedaleko posterunku. Wskażę wam miejsce.",0.768
+485,"We will collect it when it gets calmer. Besides, I’ll send you the coordinates of a stash where Hrushka keeps his money.","Zabierzemy to, gdy nieco się tu uspokoi. loza tym wyślę wam współrzędne skrytki, w której Cruszka trzyma pieniądze.",0.772
+486,You can take a 1000K for each item you have found. Scenario Rewards: • If you have card resolve it’s “At the end of this Mission” effect.,"Możecie wziąć po Ĝěěě R za każdą znalezioną rzecz. xylko bez oszukiwania, jasne?Ř Nagrody Scenariusza: • Jeśli masz kartę rozpatrz jej efekt „Na koniec tej Misji”.",0.737
+487,• Gain 1000 for each card that states “Tvirsky will reward you”.,"• Otrzymujesz 1000 za każdą kartę, która stwierdza „Twirski cię wynagrodzi”.",0.903
+489,"Then, update your Zone Map with the following stickers: • 37.",Zaktualizuj Mapę Zony następującymi naklejkami: • 37.,0.895
+490,Mission D2 “Missing in Action”,Misja D2 „Zaginiony w akcji”,0.891
+491,"• If you have Hrushka’s Map card, 38.","• Jeśli masz kartę Mapy Hruszki, 38.",0.924
+492,"Hrushka’s Stash • If you have Transmission card, 39.","„Skrytka Hruszki”. • Jeśli masz kartę Transmisja, 39.",0.82
+493,"Military Base Then, update your Enemy deck by adding the “Scuttler”","„Baza wojskowa”. Następnie zaktualizuj talię Wrogów, dodając do niej kartę „Biegacz”.",0.702
+494,"Enemy card to it. Then, in Mission box D1 find the box BTR Zone Survival Setup card, add it to the ZS Setup deck.",W pudełku Misji D1 znajdź kartę Przygotowania BTR do trybu Przetrwania w Zonie i dodaj ją do talii Przygotowania PwZ.,0.794
+495,Add the BTR and the BTR Barrel tokens to the ZS token pool.,Dodaj żetony BTR i Lufy BTR-a do puli żetonów PwZ.,0.835
+496,"From now on, you may find BTR when playing Zone Survival mode.",Od teraz możecie natknąć się na BTR-a podczas rozgrywek w trybie Przetrwania w Zonie.,0.85
+498,"Open the Campaign binder to page 6 and resolve the Post-Mission cleanup. 24 Story D/ Mission 1/ A Cry for Help A Cry for Help Epilogue And no cheating, all right?”",Otwórz segregator Kampanii na stronie 6 i rozpatrz Porządkowanie po Misji. 24 Opowieść D / Misja 1 / Wołanie o pomoc Wołanie o pomoc Epilog,0.766
+499,So here is the thing.,Sprawy mają się następująco.,0.605
+500,"The outpost was hell to survive, but you did it.","Wizyta na posterunku była istnym piekłem, ale udało wam się przetrwać.",0.767
+501,"What is more, you have got the access card Tvirsky wanted you to get.","Mało tego – zdobyliście kartę dostępu, na której zależało xwirskiemu.",0.733
+502,"You safely stowed it away in the stash Tvirsky chose for that occasion, and now you have all it takes to begin the next part of the mission.",Złożyliście ją bezpiecznie we wskazanej przez niego skrytce i teraz możecie zabierać się za następną część zadania.,0.681
+503,"According to Tvirsky, who followed Hrushka’s research, a weird object appeared on the structure of the Eye of Moscow, later dubbed the Beacon.","Zdaniem xwirskiego, który zapoznał się z badaniami Cruszki, na konstrukcji `ka Moskwy pojawił się dziwny obiekt, póđniej nazwany [adajnikiem.",0.817
+504,The object seems to be the source of all the ongoing disturbances.,"Wygląda na to, że jest on đródłem wszystkich zakłóceń.",0.692
+505,"“Tvirsky here. Listen, the UVB-86 is strong again, stronger than ever, and the mutants around are on the rampage.","Słuchajcie, znowu jest silny, silniejszy niż kiedykolwiek, a okoliczne mutanty wpadły w szał.",0.637
+506,"I am running out of ammo, and Hruskha has none whatsoever. Get down here and help us out, will you?","Rończy mi się amunicja, a Cruszka w ogóle jej nie ma. lrzyjdđcie tu i nam pomóżcie, dobra?",0.825
+507,"And yes, I’ll double your wages, but be quick.” Right.","F tak, podwoję wam stawkę, tylko się pospieszcieŘ.",0.631
+508,So the rescue mission comes first. The Beacon will have to wait.,W porządku. *zyli najpierw misja ratunkowa. [adajnik musi poczekać.,0.713
+509,Mission Summary: • Find a way to deal with the mutans.,Podsumowanie Misji: • Znajdź sposób na rozprawienie się z mutantami.,0.87
+510,• Get to the bunker.,• Dostań się do bunkra.,0.933
+511,• Help Tvirsky and Hrushka evacuate.,• Pomóż Twirskiemu i Hruszce w ewakuacji.,0.912
+512,Take Mission box D2 “Missing in Action” from the game box.,Wyjmij z pudełka z grą pudełko Misji D2 „Zaginiony w akcji”.,0.899
+517,"It seems only a few leaps away, but judging by the volume of mutant screams, one careless step may truly unleash hell here.","Wydaje się o zaledwie kilka susów stąd, ale sądząc po natężeniu wrzasków mutantów, jeden nieostrożny krok może rozpętać piekło.",0.873
+518,"Bushes rustle as mutants make their way toward the Eye, screaming eerily as if to confirm their arrival to other flocks.","Tiście szeleszczą, gdy mutanty przedzierają się przez zarośla w stronę `ka, drąc się przy tym upiornie, jakby chciały oznajmić o swoim przybyciu innym stadom.",0.817
+519,"The hair on your neck raises. Waiting will get you nowhere, though.",Włosy jeżą wam się na karkach. *zekanie na nic się tu nie zda. nuszajcie.,0.701
+520,"Move. Sneak into the bunker, talk to Tvirsky, and get the lay of the land.","Zakradnijcie się do bunkra, porozmawiajcie zxwirskim i zorientujcie się w sytuacji.",0.696
+521,"Whoever that Hrushka egghead is, he is most likely too smart and too valuable to die here.","Rimkolwiek jest ten jajogłowy Cruszka, prawdopodobnie jest też zbyt mądry i zbyt cenny, by miał tu zginąć.",0.765
+522,"1. Map Setup • Find Map tiles: 1, 3, 6, 7, 8, 16, 28 and place them as shown. 2.Environment Setup Environment cards: • Take out all Environment cards from Mission box D2.","1. Przygotowanie Mapy • Znajdź kafle Mapy: 1, 3, 6, 7, 8, 16, 28 i umieść je, jak pokazano na grafice. 2. Przygotowanie Otoczenia Karty Otoczenia: • Wyjmij wszystkie karty Otoczenia z pudełka Misji D2.",0.92
+524,"The triggering Entity and all other Entities within Range 1 of the triggering Entity: Stalkers: Lose 6HP, then gain a.","Jednostka aktywująca oraz wszystkie inne Jednostki w Zasięgu 1 od Jednostki aktywującej: Stalkerzy: Tracisz 6 PŻ, następnie otrzymujesz.",0.871
+525,"Enemies: Heavy Wound, then gain a.","Wrogowie: Ranna Ciężka, następnie otrzymujesz.",0.812
+530,• Find the Comet Anomaly card and place it next to the Map.,Anomalie: • Znajdź kartę Anomalii Kometa i umieść ją obok Mapy.,0.883
+531,"• Draw 2 random Fire Anomaly overlays (2, 9, 10) and place them randomly on the Map so the tip of the triangle in the Anomaly center points toward the top of the Map.","• Dobierz 2 losowe nakładki Anomalii Ognistej (2, 9, 10) i umieść je losowo na Mapie, tak aby wierzchołek trójkąta w centrum Anomalii wskazywał na górną część Mapy.",0.908
+533,COMET COMET COMET FIRE HIDE & SEEK When a Stalker is on a space adjacent to a tree HIDE & SEEK and outside of Enemy LoS: Hide: Place your Stalker on a chosen adjacent tree space.,KOMETA KOMETA KOMETA OGNISTA ZABAWA W CHOWANEGO Gdy Stalker znajduje się na polu sąsiadującym ZABAWA W CHOWANEGO z drzewem i poza LW Wrogów: Ukryj się: Umieść swojego Stalkera na wybranym sąsiadującym polu drzewa.,0.882
+534,MUTANT HORDES MISSION OBJECTIVE ELECTRO STONES SPECIAL ELECTRO STONES SPECIAL Stalkers ignore tree space walls when Moving out of a tree space.,CEL MISJI HORDY MUTANTÓW ELEKTROKAMIENIE SPECJALNY ELEKTROKAMIENIE SPECJALNY Stalkerzy ignorują mury pola z drzewa podczas Ruchu z pola drzewa.,0.839
+535,Waves of mutants keep blending into strangely synchronized masses. Get to the Bunker.,ANOMALIA RUCHOMA Dotrzyj do Bunkra. =ale mutantów zlewają się w dziwnie zsynchronizowane masy.,0.656
+536,Tree spaces are all 1×1 spaces surrounded by walls: MOVING ANOMALY Help Tvirsky and Hrushka evacuate. Crawls symbolize waves of mutants passing the bunker.,"Pola drzew to wszystkie pola 1×1 otoczone murami: Na Koniec Rundy umieść tę Anomalię na następnej pustej nakładce Anomalii, patrząc zgodnie z kierunkiem ruchu wskazówek zegara.",0.607
+537,Anomaly overlays without an Anomaly are Inactive.,Nakładki Anomalii bez Anomalii są Nieaktywne.,0.865
+540,"When a Crawl is Attacked or gains LoS to a Target, After an Entity finishes Movement, roll the for this Anomaly Activation: y flip this card. The triggering Entity and on all spaces with the rolled Anomaly symbol: Stalkers: Roll 5 and lose HP equal to the number of rolled.",Po zakończeniu Ruchu Jednostki wykonaj rzut na Aktywację tej Anomalii: y ję j Jednostka aktywująca oraz Jednostka na każdym polu z symbolem tej Anomalii: Stalkerzy: Wykonaj rzut 5 i odejmij sobie PŻ w liczbie równej wyrzuconym.,0.778
+541,Enemies: Roll 5 and resolve as if it was an Attack targeting Enemy’s Torso.,"Wrogowie: Wykonaj rzut 5 i rozpatrz go, jakby to był Atak, którego celem jest Tułów tego Wroga.",0.824
+542,Comet Anomaly Mission Objective Hide & Seek Mutant Hordes BUNKER DURABILITY Some of the rats and dogs are drawn to the building and try to get inside. 1 2 3 4 FLIP End of Round Move the on the Bunker Durability track 1 space toward the FLIP space.,"Anomalia Cel Misji Zabawa w chowanego Hordy mutantów Kometa WYTRZYMAŁOŚĆ BUNKRA [iektóre szczury i psy ciągną do tego budynku, próbując wedrzeć się do środka. 1 2 3 4 ODWRÓĆ Koniec Rundy Przesuń na torze Wytrzymałości Bunkra o 1 pole w stronę pola ODWRÓĆ.",0.829
+543,"When it enters that space, flip this card.","Gdy żeton znajdzie się na tym polu, odwróć tę kartę.",0.757
+544,Bunker Durability,Wytrzymałość bunkra,0.87
+546,Enemies: • In Mission box D2 find The Swarming Crawl Enemy card and place it next to the Map.,Wrogowie: • Znajdź kartę Wroga Wielki Rój w pudełku Misji D2 i połóż ją obok Mapy.,0.863
+548,• Find the Scuttler Enemy card and place it next to the Map.,• Znajdź kartę Wroga Biegacz i połóż ją obok Mapy.,0.869
+549,Mark it with 1 and 1.,Oznacz ją 1 i 1.,0.895
+552,Place 5 of them on spaces marked with and 6 next to the Map.,"Umieść 5 z nich na polach oznaczonych, a 6 obok Mapy.",0.939
+553,• Find 2 The Crawl standees.,• Znajdź 2 kartonowe figurki Roju.,0.745
+554,Place them on spaces marked with.,Umieść je na polach oznaczonych.,0.897
+555,"Both Crawls gain a, place 1 on each token. 5 1 SCUTTLER MUTANT, PSIONIC TO HIT TORSO 6 9 Light Wound BITE [CHARGE] DAMAGE 7 RANGE 1 SPECIAL Confluence: If a Crawl in Scuttler’s LoS has any -1, remove this Scuttler from the Map and discard 1 -1 from the Crawl.","Oba Roje otrzymują, umieść 1 na każdym żetonie. 5 1 BIEGACZ MUTANT, PSIONIK TRAFIENIE TUŁÓW Rana Lekka UGRYZIENIE [SZARŻA] OBRAŻENIA 7 ZASIĘG 1 SPECJALNE Konfluencja: Jeżeli Rój w LW Biegacza ma jakikolwiek -1, usuń tego Biegacza z Mapy i odrzuć 1 -1 z Roju.",0.847
+556,STARTING POINT Other tokens: Loot: • Take 16 random Loot tokens and place them in stacks on the Map as shown.,"PUNKT STARTU Inne żetony: Łupy: • Weź 16 losowo wybranych żetonów Łupów i umieść je w stosach na Mapie, jak pokazano na grafice.",0.917
+557,"Unknown tokens: • Depending on the number of Stalkers, take a set of Unknown tokens, shuffle them and place them in 3 stacks of 4 tokens on the Map as shown: » Single Stalker: 6× X, 4×, 2× » 2 Stalkers: 4× X, 4×, 2×, 2× » 3 Stalkers: 2× X, 4×, 4×, 2× » 4 Stalkers: 4×, 4×, 2×, 2× • In Mission box D2 find 5 Wall tokens and 1 Window token, and place them on the Map as shown.","Żetony Nieznanego: • W zależności od liczby Stalkerów weź zestaw żetonów Nieznanego, przetasuj je i rozmieść na Mapie w 3 stosach po 4, jak pokazano na grafice: » 1 Stalker: 6× X, 4×, 2× » 2 Stalkerów: 4× X, 4×, 2×, 2× » 3 Stalkerów: 2× X, 4×, 4×, 2× » 4 Stalkerów: 4×, 4×, 2×, 2× • Znajdź 5 żetonów Muru i 1 żeton Okna w pudełku Misji D2 i umieść je na Mapie, jak pokazano na grafice.",0.95
+558,Event deck: • Take out all Mission Event cards from Mission box B2.,Talia Wydarzeń: • Wyjmij wszystkie karty Wydarzeń Misji z pudełka Misji B2.,0.954
+563,"Start the first Round. 3 3 THE SWARMING CRAWL MUTANT, PSIONIC INNUMERABLE The Crawl can Move through Walls.","Rozpocznij pierwszą Rundę. 3 3 WIELKI RÓJ MUTANT, PSIONIK NIEZLICZONY Rój może Poruszać się przez Mury.",0.841
+566,"TO HIT TORSO 5 13 TO HIT TORSO Light Wound Heavy Wound SCORES OF TEETH [CHARGE] DAMAGE 11 RANGE 1 SPECIAL Detach: Place 1 Horde Enemy on an available space closest to the Crawl facing the same direction as the Crawl, if there are more than 1 Horde Enemies, choose which one to place. 27 Story D/ Mission 2/ Missing in Action I MISSING IN MISSION EVENT Event deck","TRAFIENIE TUŁÓW TRAFIENIE TUŁÓW Rana Lekka Rana Ciężka DZIESIĄTKI ZĘBÓW [SZARŻA] OBRAŻENIA 11 ZASIĘG 1 SPECJALNY Oddzielenie: Umieść 1 Wroga Hordę na najbliższym dostępnym polu względem Roju, zwróconego w tym samym kierunku co Rój. Jeśli jest więcej niż 1 Wróg Horda, wybierz, którego umieścić. 27 Opowieść D / Misja 2 / Zaginiony w akcji I ZAFINIONY W WYDARZENIE MISJI Talia Wydarzeń",0.892
+567,The mutant shrieks dwindle in the distance.,Wrzaski mutantów cichną w oddali.,0.787
+568,You are finally far away enough to slow down.,"Wreszcie znaleźliście się wystarczająco daleko, by móc zwolnić.",0.765
+569,Seems like you have pulled off another nightmare mission.,"Wygląda na to, że udało wam się przetrwać kolejną koszmarną misję.",0.773
+570,"Tvirsky is also dead tired, but all the bottled stress suddenly makes him talk: “Have you seen all that commotion?","Twirski jest wykończony, ale cały ten stres niespodziewanie rozwiązuje mu język: – Widzieliście to zamieszanie?",0.762
+571,The UVB-86 is a true mind flogger.,UVB-86 to istny pogromca umysłów.,0.935
+572,One could use it to wrap the mutants around your finger.,"Można by go użyć, żeby owinąć sobie mutanty wokół palca.",0.872
+574,Tvirsky’s eyes get hazy. “Him?” he asks after a while.,Oczy Twirskiego robią się szkliste. – On? – pyta po chwili. – On jest…,0.879
+576,"Well, he was supposed to, at least.","No, przynajmniej miał stać.",0.91
+577,"I was there, sleeping like a baby, and…",A ja spałem jak dziecko i…,0.868
+578,I have no idea what happened.”,"Nie mam pojęcia, co się stało.",0.8
+579,"Suddenly, his eyes regain their focus. “He must be around the Eye somewhere.",Nagle jego spojrzenie znów odzyskuje ostrość. – Musi być gdzieś w okolicy Oka.,0.794
+580,We must find him there.,Musimy go znaleźć.,0.911
+581,And quick!,I to szybko!,0.951
+583,"He draws a wad of coupons from his pocket and forces it into your hands. “This is for what you have done so far, and there is more to earn.","Wyciąga plik kuponów z kieszeni i wciska je wam do rąk. – To za wszystko, co do tej pory zrobiliście, ale możecie zarobić jeszcze więcej.",0.848
+584,Have you seen the effect the Eye has on the mutants?,"Widzieliście, jak Oko działa na mutanty?",0.87
+585,Something drags those wretches there.,Coś przyciąga tam te nieszczęsne istoty.,0.773
+586,"Man, if someone knew, they would surely use it to spread more chaos.","Rany, gdyby ktoś się o tym dowiedział, z pewnością wykorzystałby to, by wywołać jeszcze większy chaos.",0.81
+587,Hrushka-”,Hruszka…,0.636
+588,"He stops to ponder for a while. “He is mad, but he got that right.","Urywa, by się zastanowić. – Jest szalony, ale tu ma rację.",0.689
+589,No doubt the Eye is a source of evil.”,"Nie ulega wątpliwości, że Oko jest źródłem zła.",0.787
+592,You wish you had had some time in the bunker to get through them yourself.,"Żałujecie, że nie mieliście czasu w bunkrze, by je przejrzeć.",0.618
+593,How about going back there?,Może warto tam wrócić?,0.752
+594,"Tvirsky, however, has a different plan. “We rest now.",Twirski ma jednak inny plan. – Teraz musimy odpocząć.,0.874
+595,Rest and resupply.,Odpocząć i uzupełnić zapasy.,0.796
+596,"Here are the coordinates of a shop run by Fangs, a friend of mine and an arms dealer.","Oto współrzędne sklepu prowadzonego przez Kła, mojego przyjaciela i handlarza bronią.",0.738
+598,"Well, provided you make a good impression, though.","Oczywiście pod warunkiem, że zrobicie na nim dobre wrażenie.",0.771
+599,"When you get all you need, we go to the Eye to smash all there is to smash.”","Kiedy już będziecie mieli wszystko, czego wam trzeba, udamy się do Oka, by rozwalić, co tylko się da.",0.726
+600,Scenario Rewards: • Gain 3000.,Nagrody Scenariusza: • Otrzymujesz 3000.,0.873
+601,• Mark Mission D2 as unavailable.,• Oznacz Misję D2 jako niedostępną.,0.929
+602,"Then, update your Zone Map with the following stickers: • 40.",Zaktualizuj Mapę Zony następującymi naklejkami: • 40.,0.9
+603,Mission D3 “The Steel Giant”,Misja D3 „Stalowy gigant”,0.878
+606,"• If you have Strange Liquid card, 43.","• Jeśli masz kartę Dziwna ciecz, 43.",0.928
+607,“Chemists’ Lab”,„Laboratorium chemików”.,0.836
+609,“Hrushka’s Bunker”,„Bunkier Hruszki”,0.791
+610,"Then, update your Enemy deck by adding the “The Swarming Crawl”","Następnie zaktualizuj talię Wrogów, dodając do niej kartę „Wielki Rój”.",0.659
+611,Return all Mission Event and Environment cards to Mission box D2.,Zwróć wszystkie karty Wydarzeń Misji i Otoczenia do pudełka Misji D2.,0.915
+612,Open the Campaign binder to page 6 and resolve the Post-Mission cleanup. 28 Story D/ Mission 2/ Missing in Action Missing in Action Epilogue You interrupt him bluntly and ask where Hrushka is.,Otwórz segregator Kampanii na stronie 6 i rozpatrz Porządkowanie po Misji. 28 Opowieść D / Misja 2 / Zaginiony w akcji Zaginiony w akcji Epilog – I uratować Hruszkę? – pytacie. – Oczywiście – odpowiada stanowczo.,0.799
+613,"There is no way you enter a mutant-infested area without any briefing, so you insist that Tvirsky reveal as much as he can. “Well,” he ponders.","Nie ma mowy, żebyście na teren opanowany przez mutanty weszli bez odprawy, więc nalegacie, by Twirski powiedział wam wszystko, co wie. – Cóż – zastanawia się. – Ta placówka służyła kiedyś jako rządowy ośrodek badawczy.",0.738
+614,He laughs drily. “Hrushka was one of the eggheads working there.,Śmieje się bez przekonania. – Hruszka był jednym z zatrudnionych tam jajogłowych.,0.749
+615,They were evacuated when the signal intensified but Hrushka was the only one determined to continue the research so he stayed here.,"Ewakuowano ich, gdy sygnał przybrał na sile, ale Hruszka jako jedyny był zdeterminowany kontynuować badania, więc został. Dlatego mamy kartę dostępu i mapę obiektu.",0.808
+617,They may have destroyed it.,Mogli ją zniszczyć.,0.867
+618,They may have built their nests there.,Mogli zbudować tam swoje gniazda.,0.848
+619,Who knows what the Beacon does to them?,"Kto wie, jak działa na nich Nadajnik…",0.685
+621,"He is nowhere near the outpost, so I am afraid he has ventured to the Eye.","Nie ma go w okolicach posterunku, więc obawiam się, że zapuścił się do Oka.",0.778
+622,We must destroy the source of the signal and find Hrushka the egghead.,Musimy zniszczyć źródło sygnału i znaleźć jajogłowego Hruszkę.,0.81
+623,"Look, see that building?",Widzicie ten budynek?,0.919
+624,It is the only entrance to the area of the Eye that I know of.,"Z tego, co mi wiadomo, tylko tamtędy można dostać się w pobliże Oka.",0.611
+625,"The premises is encircled by a tall concrete fence with barbed wire, and I am not the one for climbing.","Teren jest otoczony wysokim betonowym murem z drutem kolczastym, a ja kiepsko sobie radzę ze wspinaczką.",0.73
+626,Questions?,Jakieś pytania?,0.893
+628,Mission Summary: • Get inside the building.,Podsumowanie Misji: • Dostań się do budynku.,0.914
+629,• Find your way through the facility.,• Przedrzyj się przez placówkę.,0.818
+630,• Destroy the Beacon.,• Zniszcz Nadajnik.,0.746
+631,• Evacuate.,• Ewakuuj się.,0.885
+632,Take Mission box D3 “The Steel Giant” from the game box.,Wyjmij z pudełka z grą pudełko Misji D3 „Stalowy gigant”.,0.901
+634,From Mission box D1 take Key Card token and place it inside Mission box D3.,Weź żeton Karty Dostępu z pudełka Misji D1 i umieść go w pudełku Misji D3.,0.902
+637,"The enormous structure of the Eye of Moscow stands out against the purplish sky, giving the situation a surreal feeling.","Ogromna konstrukcja Oka Moskwy odcina się na tle purpurowego nieba, a widok jest niemalże surrealistyczny.",0.79
+638,You can literally sense the air vibrate with the UVB-86 signal.,"Wyraźnie czujecie, jak powietrze wibruje od sygnału UWB-86.",0.839
+639,"It felt tangibly weaker a few hours before, but the closer you are to the facility, the stronger it seems.","Kilka godzin temu był zdecydowanie słabszy, ale im bliżej obiektu, tym wydaje się silniejszy.",0.851
+640,The mutants wail dangerously close.,Mutanty wyją niebezpiecznie blisko.,0.862
+641,"It takes you a while to register that Tvirsky has spoken. “There,” he points at the strange orb fitted inside the structure of the radar.","Dopiero po chwili orientujecie się, że Twirski coś powiedział. – Tam. – Wskazuje na dziwną kulę wmontowaną w konstrukcję radaru. – To Nadajnik.",0.791
+643,The Holy Grail of sickness and mind control.”,Święty Graal chorób i kontroli umysłów.,0.811
+644,You eye him in disbelief.,Patrzycie na niego z niedowierzaniem.,0.863
+645,"Tvirsky has never spoken like that before, and even his voice seems different.",Twirski nigdy wcześniej nie wypowiadał się w taki sposób; nawet jego głos wydaje się inny.,0.894
+646,What has come over him?,Co się z nim stało?,0.876
+647,"You want to speak up, but Tvirsky hushes you with an impatient wave of his hand. “I know it.","Chcecie mu odpowiedzieć, ale zniecierpliwiony Twirski ucisza was gestem dłoni. – Znam to miejsce.",0.745
+649,You stay here and keep an eye on the entrance.,Wy zostańcie tutaj i pilnujcie wejścia.,0.908
+650,I don’t want a chimera to follow me.,"Nie chcę, żeby deptała mi po piętach jakaś chimera.",0.725
+651,I will contact you when the time comes for you to join me.”,"Skontaktuję się z wami, gdy będziecie mogli do mnie dołączyć.",0.747
+652,"Resigned, you watch Tvirsky enter the facility and… Well, you wait.","Zrezygnowani patrzycie, jak Twirski wchodzi do środka i… cóż, czekacie.",0.848
+654,"Place Map tiles 36, 37, 38, and 39 randomly in a way they form a square as shown.","Umieść kafle Mapy 36, 37, 38 i 39 losowo w taki sposób, aby utworzyły kwadrat, jak pokazano na grafice.",0.905
+660,"Whenever a Stalker or a Companion enters a space within Range 1 of a Map tile with this card next to it, Whenever a Stalker or a Companion enters a space within Range 1 of a Map tile with this card next to it, immediately flip this card and setup the Map tile according to the grid on the back before continuing immediately flip this card and setup the Map tile according to the grid on the back before continuing the Movement. the Movement. 3X 3X 3X 3X MISSION OBJECTIVE Destroy the Beacon.","Gdy Stalker lub Towarzysz wejdzie na pole w Zasięgu 1 od kafla Mapy, przy którym leży Gdy Stalker lub Towarzysz wejdzie na pole w Zasięgu 1 od kafla Mapy, przy którym leży ta karta, natychmiast odwróć tę kartę i przygotuj ta karta, natychmiast odwróć tę kartę i przygotuj kafel Mapy zgodnie z siatką na jej odwrocie, kafel Mapy zgodnie z siatką na jej odwrocie, zanim wykonasz resztę Ruchu. zanim wykonasz resztę Ruchu. 3X 3X 3X 3X CEL MISJI Zniszcz Nadajnik.",0.871
+661,Leave the facility.,Opuść obiekt.,0.831
+662,"If any Stalker dies: The Mission is lost, find and resolve Mission Event card VIII (Darkness and Pain).","Jeżeli którykolwiek Stalker zginie: Misja kończy się niepowodzeniem, znajdź i rozpatrz kartę Wydarzenia Misji VIII (Mrok i ból).",0.91
+663,"Misison Objective Whenever a Stalker or a Companion enters a space within Range 1 of a Map tile with this card next to it, Whenever a Stalker or a Companion enters a space within Range 1 of a Map tile with this card next to it, immediately flip this card and setup the Map tile according to the grid on the back before continuing immediately flip this card and setup the Map tile according to the grid on the back before continuing the Movement. the Movement.","Cel Misji Gdy Stalker lub Towarzysz wejdzie na pole w Zasięgu 1 od kafla Mapy, przy którym leży Gdy Stalker lub Towarzysz wejdzie na pole w Zasięgu 1 od kafla Mapy, przy którym leży ta karta, natychmiast odwróć tę kartę i przygotuj ta karta, natychmiast odwróć tę kartę i przygotuj kafel Mapy zgodnie z siatką na jej odwrocie, kafel Mapy zgodnie z siatką na jej odwrocie, zanim wykonasz resztę Ruchu. zanim wykonasz resztę Ruchu.",0.867
+664,ADDITIONAL OBJECTIVE Find Tvirsky.,Znajdź Twirskiego. CEL DODATKOWY Talia Otoczenia,0.594
+666,Enemies: • Find the Scuttler Enemy card and place it next to the Map.,Wrogowie: • Znajdź kartę Wroga Biegacz i połóż ją obok Mapy.,0.899
+668,"• If there are 3 or more Stalkers, additionally Mark the Scuttler Enemy card with 1.","• Jeśli jest 3 lub więcej Stalkerów, dodatkowo oznacz kartę Wroga Biegacz 1.",0.921
+669,• Find The Swarming Crawl Enemy card and place it next to the Map.,• Znajdź kartę Wroga Wielki Rój i połóż ją obok Mapy.,0.823
+674,"TO HIT TORSO 5 13 TO HIT TORSO Light Wound Heavy Wound SCORES OF TEETH [CHARGE] DAMAGE 11 RANGE 1 SPECIAL Detach: Place 1 Horde Enemy on an available space closest to the Crawl facing the same direction as the Crawl, if there are more than 1 Horde Enemies, choose which one to place.","TRAFIENIE TUŁÓW Rana Lekka Rana Ciężka DZIESIĄTKI ZĘBÓW [SZARŻA] OBRAŻENIA 11 ZASIĘG 1 SPECJALNY Oddzielenie: Umieść 1 Wroga Hordę na najbliższym dostępnym polu względem Roju, zwróconego w tym samym kierunku co Rój. Jeśli jest więcej niż 1 Wróg Horda, wybierz, którego umieścić.",0.86
+676,Place 2 of them next to the Map.,Umieść 2 z nich obok Mapy.,0.952
+677,Loot: • Take 3 random Loot tokens and place them in a stack on the Map as shown.,"Łupy: • Weź 3 losowo wybrane żetony Łupów i umieść je w stosie na Mapie, jak pokazano na grafice.",0.915
+678,"Unknown tokens: • Depending on the number of Stalkers, take a set of Unknown tokens, shuffle them and place them in 2 stacks of 8 tokens on the Map as shown: »","Żetony Nieznanego: • W zależności od liczby Stalkerów weź zestaw żetonów Nieznanego, przetasuj je i rozmieść na Mapie w 2 stosach po 8, jak pokazano na grafice: • Wyjmij wszystkie karty Wydarzeń Misji z pudełka Misji D3.",0.849
+680,Mission Event card I should be on the top and number XI should be on the bottom.,"Karta Wydarzenia Misji I powinna znajdować się na wierzchu, a XI na spodzie.",0.896
+683,"Start the first Round. 5 1 SCUTTLER MUTANT, PSIONIC TO HIT TORSO 6 9 Light Wound BITE [CHARGE] DAMAGE 7 RANGE 1 SPECIAL Confluence: If a Crawl in Scuttler’s LoS has any -1, remove this Scuttler from the Map and discard 1 -1 from the Crawl. 3X 3X 3X 3X 31 Story D/ Mission 3/ The Steel Giant STARTING POINT","Rozpocznij pierwszą Rundę. » 1 Stalker / 3 Stalkerów: 4 × X, 4 ×, 1 ×, 4 ×, 4 × » 2/4 Stalkerów: 2 × X, 4 ×, 2 ×, 4 ×, 3 × 5 1 BIEGACZ MUTANT, PSIONIK TRAFIENIE TUŁÓW Rana Lekka UGRYZIENIE [SZARŻA] OBRAŻENIA 7 ZASIĘG 1 SPECJALNE Konfluencja: Jeżeli Rój w LW Biegacza ma jakikolwiek -1, usuń tego Biegacza z Mapy i odrzuć 1 -1 z Roju. 3X 3X 3X 3X 31 Opowieść D / Misja 3 / Stalowy gigant PUNKT STARTU",0.795
+684,You fight your way through hordes of mutants who have lost the ability to act together and now tear at each other.,"Przedzieracie się przez hordy mutantów, które straciły zdolność do współdziałania i teraz atakują siebie nawzajem.",0.839
+685,A few terrifying minutes and you are relieved to welcome the bleak sun of the Zone.,Po kilku straszliwych minutach z ulgą wychodzicie na ponure słońce Zony.,0.759
+687,The sight of the exploding Beacon is a reward in itself and it is uplifting to know that one of the ominous powers controlling the Zone is no more.,"Widok wybuchającego Nadajnika był nagrodą samą w sobie, a świadomość, że jedna ze złowrogich sił kontrolujących Zonę przestała istnieć, podnosi was na duchu.",0.739
+688,"However, as enthusiasm fades, questions appear.","Jednak gdy entuzjazm opada, pojawiają się pytania.",0.889
+689,Where actually is Hrushka and what has happened to him?,Gdzie właściwie jest Hruszka i co się z nim stało?,0.939
+690,And what was the thing with Tvirsky?,Co się działo z Twirskim?,0.854
+691,Where was the Beacon from and who caused the whole mess?,Skąd wziął się Nadajnik i kto odpowiada za całe to zamieszanie?,0.798
+692,You walk away with a strange mixture of triumph and anxiety in your tired heart.,Odchodzicie zmęczeni i przepełnieni dziwną mieszanką triumfu i niepokoju.,0.707
+693,"What’s worse, with Tvirsky’s death there is nobody to pay you for your trouble.","Co gorsza, po śmierci Twirskiego nie ma kto zapłacić wam za fatygę.",0.839
+694,"However, it suddenly occurs to you that now that the signal has died, you have a huge area to search for stashes.","Nagle jednak orientujecie się, że skoro sygnał ucichł, macie do przeszukania ogromny obszar potencjalnie pełen skrytek.",0.737
+696,Scenario Rewards: The Beacon is destroyed: • Mark Mission D3 as unavailable.,Nagrody Scenariusza: Nadajnik został zniszczony: • Oznacz Misję D3 jako niedostępną.,0.885
+697,Then update your Zone Map with the following stickers: • 45.,Zaktualizuj Mapę Zony następującymi naklejkami: • 45.,0.904
+698,“Gardens”,„Ogrody”,0.908
+701,"Then, excluding Equipment cards gained by players, return all Mission Event and Environment cards to Mission box D3.","Następnie zwróć wszystkie karty Wydarzeń Misji i Otoczenia, z wyjątkiem tych zyskanych przez graczy, do pudełka Misji D3.",0.87
+702,Open the Campaign binder to page 6 and resolve the Post-Mission cleanup. 32 Story D/ Mission 3/ The Steel Giant The Steel Giant Epilogue A,Otwórz segregator Kampanii na stronie 6 i rozpatrz Porządkowanie po Misji. 32 Opowieść D / Misja 3 / Stalowy gigant Stalowy gigant Epilog A,0.808
+703,"“Stop,” he says, his breath wheezy. “Stop, I need to…","– Stop – wykrztusza, dysząc i rzężąc. – Stop, muszę… muszę zebrać myśli.",0.802
+704,"He slumps down next to a tree trunk, and so do you. “I am beginning to see things clearly,” he says.","Osuwa się na ziemię pod drzewem, a wy robicie to samo. – Zaczynam wszystko rozumieć – mówi. – Ten przeklęty Nadajnik…",0.74
+705,It did things to me.,Coś mi zrobił.,0.786
+706,I was there… Not alone.,Byłem tam… ale nie sam.,0.92
+707,"Before I contacted you, I had visited the facility with Hrushka.","Zanim się z wami skontaktowałem, odwiedziłem tę placówkę z Hruszką.",0.867
+708,We faced the signal hundreds of times and…,Wystawialiśmy się na sygnał setki razy i…,0.907
+709,And Hrushka died during our expedition to the Eye of Moscow.,Hruszka zginął podczas naszej wyprawy do Oka Moskwy.,0.821
+710,I came back to the outpost and something made me go through all his documents.,Wróciłem na posterunek i coś kazało mi przejrzeć wszystkie jego dokumenty.,0.853
+711,I was looking for precious things to sell and I wasn’t aware of the fact that the prolonged exposure to the UVB-86 did things to me.,"Szukałem cennych rzeczy na sprzedaż i nie zdawałem sobie sprawy, że długotrwała ekspozycja na UVB-86 miała na mnie wpływ.",0.9
+712,"The longer I studied Hrushka’s notes, the less I was myself and soon…","Im bardziej zagłębiałem się w notatki Hruszki, tym mniej byłem sobą, a w końcu…",0.827
+713,"Well, as weird as it sounds, I gradually transformed into him.”","Cóż, jakkolwiek dziwnie to zabrzmi, stopniowo zamieniałem się w niego.",0.812
+714,"He laughs out and shakes his head in disbelief. “In a way, that is.",Wybucha śmiechem i kręci głową z niedowierzaniem. – To znaczy… w pewnym sensie.,0.83
+715,"I regained the clarity once the signal lost its intensity, but not enough to understand what was going on.”","Gdy sygnał stracił na sile, odzyskałem jasność umysłu, ale nie dostatecznie, by zrozumieć, co się działo.",0.775
+716,"You fled the facility before the mutant hell was unleashed, the sight of the destroying Beacon burned in the memory.","Uciekliście z placówki, zanim rozpętało się piekło, a widok wybuchającego Nadajnika na zawsze wyrył się wam w pamięci.",0.77
+717,"Tvirsky follows you, a gun in his hand, and total confusion on his sweaty face.",Twirski podążał za wami z bronią w ręku i z wyrazem całkowitego pogubienia na spoconej twarzy.,0.811
+719,The confusion any time Tvirsky spoke of Hrushka.,"To zmieszanie za każdym razem, gdy mówił o Hruszce.",0.704
+721,The change of handwriting in Hrushka’s diary.,Zmiana charakteru pisma w dzienniku jajogłowego.,0.66
+723,"Come, follow me.”",Chodźcie za mną.,0.764
+724,"You have done a good thing, not a common achievement in the Zone.","Zrobiliście coś dobrego, co w sumie nieczęsto się zdarza w Zonie.",0.714
+725,"Tired but satisfied, you follow Tvirsky who reaches a gnarled tree and starts digging among its roots. “Here is Hrushka’s stuff,” he says, unearthing a metal lid.","Zmęczeni, ale zadowoleni, ruszacie za Twirskim, który zatrzymuje się przy powykręcanym drzewie i zaczyna grzebać między jego korzeniami. – Tutaj są rzeczy Hruszki – wyjaśnia, odsłaniając metalową pokrywę. – I jego pieniądze.",0.854
+726,"He is not gonna need his money anymore, is he?","Nie będą mu już potrzebne, prawda?",0.798
+728,"Among some scientific documentation and a collection of devices, he finds an envelope with money.",Pośród dokumentacji naukowej i przeróżnych urządzeń znajduje kopertę z pieniędzmi.,0.83
+729,He takes a good half of it and hands it to you.,Zabiera połowę i wręcza wam resztę.,0.761
+730,A good thing that pays well? An even rarer achievement.,"Dobry uczynek, za który jeszcze dostaje się zapłatę – to zdarza się jeszcze rzadziej.",0.666
+731,"It suddenly occurs to you that now that the signal has died, you have a huge area to search for stashes.","Nagle orientujecie się, że skoro sygnał ucichł, macie do przeszukania ogromny obszar potencjalnie pełen skrytek.",0.715
+733,Scenario Rewards: The Beacon is destroyed and Tvirsky rewards you with some money: • Gain 2000.,"Nagrody Scenariusza: Nadajnik został zniszczony, a Twirski daje wam w nagrodę trochę pieniędzy: • Otrzymujesz 2000.",0.833
+734,• Mark Mission D3 as unavailable.,• Oznacz Misję D3 jako niedostępną.,0.927
+739,Add Stalker card “Tvirsky” to your Stash.,Dodaj kartę Stalkera „Twirski” do Skrytki.,0.896
+740,"From now on, you may choose Tvirsky as your Stalker on a Mission.",Od tej pory możesz wybrać Twirskiego jako swojego Stalkera podczas Misji.,0.864
+741,You will find this card in the Mission box D3.,Znajdziesz tę kartę w pudełku Misji D3.,0.879
+745,Scriptbook 7 • Open the Campaign binder to page 6 and resolve the Post-Mission cleanup.,Księga Skryptów 7 • Otwórz segregator Kampanii na stronie 6 i rozpatrz Porządkowanie po Misji.,0.833
+746,• Return the “Tvirsky” Enemy card to the box.,• Odłóż do pudełka kartę Wroga „Twirski”.,0.824
+748,• Return the Key Card token to the Mission box D1.,• Odłóż do pudełka Misji D1 żeton Karty Dostępu.,0.847
+750,"• Return all Mission Event cards to the box: I, II, III, IV, V, VI, VII, VIII, IX, X, XI.","• Odłóż do pudełka wszystkie karty Wydarzeń Misji: I, II, III, IV, V, VI, VII, VIII, IX, X, XI.",0.933
+752,• Open the Campaign binder to page 6 and resolve the Post-Mission cleanup.,• Otwórz segregator Kampanii na stronie 6 i rozpatrz Porządkowanie po Misji.,0.818
+762,"• Return all Mission Event cards to the box: I, II, III, IV, V, VI.","• Odłóż do pudełka wszystkie karty Wydarzeń Misji: I, II, III, IV, V, VI.",0.933
+764,Mission D1 “A Cry for Help”,Misja D1 „Wołanie o pomoc”,0.904
+767,"• If you failed Mission C3, return 4×Anomaly center tokens to the box.","• Jeśli nie udało ci się ukończyć Misji C3, odłóż do pudełka 4 żetony centrum Anomalii.",0.813
+768,"Otherwise, return them to the Mission box C2.",W innym wypadku odłóż je do pudełka Misji C2.,0.889
+769,"• If you failed Mission C3, return the “Enraged Izlom” Enemy card to the box.","• Jeśli nie udało ci się ukończyć Misji C3, odłóż do pudełka kartę Wroga „Rozwścieczony Izlom”.",0.863
+770,"Otherwise, return it to the Mission box C2.",W innym wypadku odłóż ją do pudełka Misji C2.,0.87
+771,• Return the “Helping Hand” and “Tragic News” Random Event cards to the box.,• Odłóż do pudełka karty Wydarzeń Losowych „Pomocna dłoń” i „Tragiczne wieści”.,0.905
+772,• Return the “Hospital Defender” Enemy card to the box.,• Odłóż do pudełka kartę Wroga „Obrońca Szpitala”.,0.876
+774,• Return the “Prototype X-17” Weapon card to the box.,• Odłóż do pudełka kartę Broni „Prototyp X-17”.,0.875
+775,• Return 2×“Enhanced Rounds/Piercing Rounds” Item cards to the box.,• Odłóż do pudełka 2 karty Przedmiotów „Ulepszone pociski / Pociski przebijające”.,0.822
+777,"• Return all Mission Event cards to the box: I, II, III, IV, V, VI, VII, VIII, IX, X.","• Odłóż do pudełka wszystkie karty Wydarzeń Misji: I, II, III, IV, V, VI, VII, VIII, IX, X.",0.933
+778,Mission C3 “Beast Hunting”,Misja C3 „Polowanie na bestię”,0.89
+782,• Return 4 × Anomaly center and 3×C2 tokens to the box.,• Odłóż do pudełka 4 żetony centrum Anomalii i 3 żetony C2.,0.773
+784,• Return the “Seed” Artifact card to the box.,• Odłóż do pudełka kartę Artefaktu „Nasiono”.,0.864
+785,• Return 6× tokens to the box.,• Odłóż do pudełka 6 żetonów.,0.787
+788,"• Return all Mission Event cards to the box: I, II, III, IV, V, VI, VII, VIII.","• Odłóż do pudełka wszystkie karty Wydarzeń Misji: I, II, III, IV, V, VI, VII, VIII.",0.934
+789,"• Return all Mission Event cards to the box: I, II, III, IV, V, VI, VII.","• Odłóż do pudełka wszystkie karty Wydarzeń Misji: I, II, III, IV, V, VI, VII.",0.934
+790,Mission C2 “Payday”,Misja C2 „Dzień wypłaty”,0.897
+794,"All you see are tattered or nibbled documents, and scattered, half-eaten food portions.","Wszędzie widzicie podarte lub pogryzione dokumenty i rozrzucone, na wpół zjedzone pożywienie.",0.803
+795,The smell of rodent feces is heavy in the stuffy air.,W zatęchłym powietrzu unosi się ciężki smród szczurzych odchodów.,0.821
+796,"There is a bed with dirty sheets that might have been Tvirsky’s, but then something else settled there.","Jest tu łóżko z brudną pościelą, które mogło należeć do Twirskiego, ale później zagnieździło się w nim coś innego.",0.829
+797,"Reluctantly, you step in, fighting the nauseous stench and behind the bed, you find a few dead, bloated rats among scraps of torn banknotes.","Niechętnie wchodzicie do środka, walcząc z mdlącym odorem, i za łóżkiem znajdujecie kilka martwych, napuchniętych szczurów pośród strzępów podartych banknotów.",0.842
+798,The greedy rodents must have devoured too many of them.,Zachłanne gryzonie musiały pożreć ich zbyt wiele.,0.783
+800,Tvirsky has changed.,Twirski się zmienił.,0.846
+801,"Not the same guy, but I still can’t tell what’s wrong with him.","To już nie ten sam człowiek, ale nie potrafię powiedzieć, co się z nim stało.",0.798
+804,"I can supply you with any fire-spitting toy you may wish, but also…","Mogę dostarczyć wam każdą plującą ogniem zabawkę, jakiej tylko zapragniecie, ale też…",0.923
+805,"If you had some artifacts to sell, I would be happy to take a look.","Gdybyście mieli jakieś artefakty na sprzedaż, chętnie bym na nie zerknął.",0.859
+806,Take Contact card C24 “Fangs” and place it in your Stash.,Weź kartę Kontaktu C24 „Kieł” i umieść ją w Skrytce.,0.898
+807,Mark this Location as unavailable.,Oznacz tę Lokację jako niedostępną.,0.947
+808,Go back to the Campaign binder.,Przejdź do segregatora Kampanii.,0.731
+810,Tvirsky is a nice fellow.,Twirski to fajny gość.,0.82
+811,He used to visit my old enterprise.,Odwiedzał moje dawne przedsiębiorstwo.,0.857
+812,Been there?,Byliście tam?,0.918
+813,"Fancy, eh?","Elegancko, co nie?",0.756
+819,"Every next step comes with greater difficulty, and you don’t think you will get close enough to see the bunker, let alone reach it.","Każdy kolejny krok przychodzi z większym trudem i macie wrażenie, że nie zdołacie się zbliżyć choćby na tyle, by zobaczyć bunkier, a co dopiero do niego dotrzeć.",0.89
+820,Choose another Location.,Wybierz inną Lokację.,0.973
+821,You never know with the Zone.,W Zonie nigdy nic nie wiadomo.,0.764
+822,"You present the egghead on duty with the water sample. “Dead Lord,” the scientist eyes the vial with contaminated water and touches it, his hand in a rubber glove.",Przedstawiacie dyżurnemu jajogłowemu próbkę wody. – Dobry Boże. – Naukowiec przygląda się fiolce ze skażoną wodą i dotyka jej ręką w gumowej rękawiczce. – Pływa tam cały układ okresowy.,0.839
+824,"A drop would kill a city, I am sure.”","Kropla zabiłaby całe miasto, jestem pewien.",0.805
+825,There is admiration in his voice.,W jego głosie słychać podziw.,0.877
+826,Why?,Dlaczego?,0.966
+827,You will never understand scientists’ way of thinking. “I will run some tests.,Sposobu rozumowania naukowców nie da się ogarnąć. – Przeprowadzę kilka testów.,0.779
+828,"If this is a new toxin, I want to be the first to know about it,” the egghead says. “Give me the location where you found it.","Jeśli to nowa toksyna, chcę być pierwszym, który się o tym dowie – mówi jajogłowy. – Mówcie, gdzie to znaleźliście.",0.788
+832,"You enter the guardhouse. “Sit down,” the soldier says.",Wchodzicie do wartowni. – Siadajcie – mówi żołnierz. – Rozgośćcie się.,0.927
+833,"He gives you a chipped mug with hot, steaming tea.","Podaje wam wyszczerbione kubki z gorącą, parującą herbatą.",0.848
+835,He wanted to know the lay of the land.,Chciał poznać układ terenu.,0.865
+836,"Asked about the Eye of Moscow, the mutant activity, the signals, all that.","Wypytywał o Oko Moskwy, aktywność mutantów, sygnały, te sprawy.",0.836
+838,"The smelly hovel where he was supposed to dwell is empty, and the rickety table inside is littered with wooden rifles.","Śmierdząca nora, którą rzekomo zamieszkiwał, jest pusta, a rozklekotany stół w środku – zawalony drewnianymi karabinami.",0.834
+839,Wooden?,Drewnianymi?,0.956
+840,Was he a genuine arms dealer?,Czy on naprawdę był handlarzem bronią?,0.841
+841,"However, there is a note on the wall that says: “To whoever visits this place hungry for firepower.","Jednak na ścianie znajduje się notatka o treści: „Do każdego, kto odwiedza to miejsce i potrzebuje gnatów.",0.852
+842,Too many mutants around.,Za dużo mutantów w okolicy.,0.884
+843,Had to move away quickly.,Musiałem się szybko wynieść.,0.781
+844,Here is the new location.,Oto nowa lokalizacja.,0.919
+845,Come and find me there.,Przyjdź i znajdź mnie tam.,0.941
+847,Quickly?,Szybko?,0.976
+848,"Well, he couldn’t have taken everything then, eh?","No to chyba nie mógł wszystkiego zabrać, co nie?",0.905
+850,Update your Zone Map with sticker 42.,Zaktualizuj Mapę Zony naklejką 42.,0.899
+851,“Fangs’ place”.,„Miejscówka Kła”.,0.761
+852,Draw 4 Item cards and 1 Attachment card and place them in your Stash.,Dobierz 4 karty Przedmiotów i 1 kartę Akcesorium i umieść je w swojej Skrytce.,0.9
+859,215. Hrushka’s Stash It is here.,Księga Skryptów 3 215. Skrytka Hruszki Jest tutaj.,0.627
+860,The coordinates were accurate.,Współrzędne były dokładne.,0.878
+861,"A few sweeps reveal the lid of a battered military chest with a basic lock that breaks with a loud, metallic snap.","Kilka ruchów odsłania wieko zniszczonej wojskowej skrzyni z prostym zamkiem, który pęka z głośnym, metalicznym trzaskiem.",0.716
+862,"Last time you clashed with Izlom, he was badly wounded.","Ostatnim razem, gdy starliście się z Izlomem, ten został poważnie ranny.",0.824
+863,There is a chance the mutant hasn’t recovered yet or at least now has a reason to fear you.,"Jest całkiem prawdopodobne, że mutant jeszcze nie doszedł do siebie albo przynajmniej ma teraz powód, by się was obawiać.",0.844
+865,Valentine’s explanations are consistent… from a logical point of view.,Valentine są spójne… z logicznego punktu widzenia.,0.825
+866,But do you really buy it?,Ale czy naprawdę należy jej wierzyć?,0.758
+867,Do you trust someone who provides such answers?,"Czy można zaufać komuś, kto udziela takich odpowiedzi?",0.862
+868,Return to the Mission guide.,Wróć do przewodnika Misji.,0.889
+869,212. There’s evidence suggesting that the mutant known as Izlom was once – and not too long ago – an old man living nearby.,"Wyjaśnienia 212. Istnieją dowody sugerujące, że mutant znany jako Izlom był kiedyś – i to całkiem niedawno – starcem mieszkającym w pobliżu.",0.91
+871,Report that you don’t know what happened to Izlom and that you drop the case – Mark this Location as unavailable.,"Zgłoś, że nie wiesz, co się stało z Izlomem, i że porzucasz sprawę – Oznacz tę Lokację jako niedostępną.",0.924
+872,Go back to the Campaign binder. »,Wróć do segregatora Kampanii. »,0.854
+873,Report that Izlom ran away (only if you have the “Izlom Escaped” Achievement sticker) – See script 207.,"Zgłoś, że Izlom uciekł (tylko jeśli masz naklejkę Osiągnięcia „Izlom Uciekł”) – Przejdź do skryptu 207.",0.904
+874,Choose one: »,Wybierz jedną z możliwości: »,0.889
+875,Report that Izlom is dead (only if you have the “Izlom Slain” Achievement sticker) – See script 205. »,"Zgłoś, że Izlom nie żyje (tylko jeśli masz naklejkę Osiągnięcia „Izlom zabity”) – Przejdź do skryptu 205.",0.866
