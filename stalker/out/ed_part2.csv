@@ -1,0 +1,58 @@
+id,decision,pl_fixed
+379,DROP,
+380,FIX,"Porównaj wartość INICJATYWY (INI) oddziałów, do których należą oba modele."
+385,FIX,"Gracz wykonujący atak wybiera, którą kością rzuci (darmową żółtą lub czerwoną kosztującą 1 kryształ)."
+388,FIX,"Gracz broniący się przed atakiem wybiera, którą kością rzuci (darmową żółtą lub czerwoną kosztującą 1 kryształ)."
+391,FIX,"Porównajcie obydwa wyniki: a) jeśli siła ataku jest wyższa od siły obrony, atak się powiódł i jego cel otrzymuje 1 ranę."
+392,FIX,"Sekwencja Walki kończy się. b) jeśli siła obrony jest równa lub wyższa od siły ataku, atak był nieudany."
+393,FIX,Ważne: gracz może zawsze zrezygnować z przeprowadzenia kontrataku i zakończyć sekwencję Walki.
+395,FIX,"Jeśli obrońca wygrał Walkę, może kontratakować."
+399,FIX,"Gracz broniący się przed kontratakiem wybiera, którą kością rzuci (darmową żółtą lub czerwoną kosztującą 1 kryształ)."
+402,FIX,"Porównajcie obydwa wyniki: a) jeśli siła ataku jest wyższa od siły obrony, atak się powiódł i jego cel otrzymuje 1 ranę."
+405,FIX,Kontratak jest zawsze częścią Walki – nie możesz rozegrać kolejnej zanim nie zakończysz poprzedniej.
+410,DROP,
+411,DROP,
+437,DROP,
+447,DROP,
+449,DROP,
+463,DROP,
+465,DROP,
+477,DROP,
+484,FIX,"Jedynym sposobem na użycie akcji zawartych na karcie, jest opłacenie jej kosztu (wymieniony jest on w ramce na samej górze karty i wynosi 1 kryształ, 1 żeton wytrzymałości lub 1 punkt zwycięstwa, oprócz kart ulepszeń należących do frakcji Bezlicych), aby: – dołączyć ją do wybranego oddziału, umieszczając ją bezpośrednio poniżej karty tego oddziału; – dodać 1 ładunek do karty (umieść 1 żeton ładunku na wierzchu karty)."
+492,DROP,
+495,DROP,
+496,DROP,
+502,DROP,
+503,FIX,W przeciwieństwie do zwykłych akcji te mogą zostać zagrane nawet podczas tury aktywnej przeciwnika.
+512,DROP,
+515,DROP,
+521,DROP,
+522,DROP,
+524,DROP,
+539,DROP,
+540,DROP,
+541,DROP,
+543,DROP,
+544,DROP,
+546,DROP,
+547,DROP,
+548,DROP,
+549,DROP,
+550,DROP,
+551,DROP,
+552,DROP,
+553,DROP,
+555,DROP,
+556,DROP,
+557,DROP,
+558,DROP,
+559,DROP,
+560,DROP,
+564,DROP,
+568,DROP,
+569,DROP,
+575,FIX,OBROŃCA WYBIERA KOŚĆ I RZUCA NA SIŁĘ OBRONY (wynik rzutu + wartość OBR).
+577,DROP,
+578,FIX,"Sekwencja kontrataku jest identyczna z sekwencją Walki z wyjątkiem tego, że nie może spowodować kolejnego kontrataku."
+579,DROP,
+582,DROP,
