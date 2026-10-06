@@ -1,0 +1,102 @@
+Przetlumacz na polski zdania z instrukcji gry planszowej Lands of Evershade. Dostajesz wiersze: id<TAB>tekst EN. Zwroc WYLACZNIE JSONL, jeden wiersz na wejsciowy wiersz: {"id": 123, "pl": "tlumaczenie"}. Zachowaj id. Zachowaj liczby, tokeny [[ICON...]] i znaczniki bez zmian, nie dopisuj tresci, terminologie stosuj jednolicie. Jesli wiersz to smiec (spis tresci, kredyty, naglowek strony, rozstrzelone litery, sklejone fragmenty, urwane zdanie), zwroc "pl": "".
+
+600	Here is an overview of the Camp Phase: • Step 1.
+601	Performing Advancements – Characters with Advancement tokens in their Pouches may spend them to gain new cards and abilities from their Profession or Secondary Advancement Trees (see “Chapter 9” in the Player’s Handbook).
+602	• Step 2.
+603	Rest – Each Party Member heals all HP.
+604	Each Character refreshes all their Action cards ignoring all costs and restrictions.
+605	• Step 3.
+606	Reequip – Characters may exchange Items and Companions.
+607	Then, they can equip Items from their Pouches and change Action cards on their Hotbar.
+608	• Steps 4&5.
+609	Expand and upgrade Camp – The Party may add new Camp cards or improve the current ones (with entries marked as P found in the Player’s Handbook).
+610	• Step 6.
+611	The Party may recruit new Companions.
+612	• Step 7.
+613	The Party may replace Camp cards.
+614	Place unused Camp cards in the Party Inventory.
+615	• Steps 8&9.
+616	Resolve Camp Actions – Each Character may resolve one Action from any Camp card.
+617	Place the Character models on the cards to indicate what they are doing.
+618	Only Characters on the same Camp card may Support another Rolls.
+619	• Step 10.
+620	Clean up – Discard the Camp Sheet along with all models and markers on it.
+621	Once the Camp Phase is complete, return to the same place that asked you to resolve the Camp Phase (an entry, a card, or a Sheet), and continue the game.
+622	PART 4: DETAILED RULES CAMP PHASE
+623	COMBAT Each time you encounter a "Start the Combat" instruction in a Storybook entry, resolve the Combat according to the rules below.
+624	Some rules, like performing Rolls, are similar to the Exploration part of the Adventure.
+625	Combat is played in Rounds, each divided into Activations of Characters and Enemies.
+626	The Round ends after all Party Members and Enemies perform their Activation.
+627	Over the course of a Round, each Character and each Enemy will become Activated.
+628	The order is decided by drawing tokens from the Initiative bag.
+629	Activated Characters perform two Actions (see “Character Activation” p. 22).
+630	Activated Enemies first resolve the rules on their Enemy card, and then the top Activation card from their Activation deck.
+631	After the Activation, draw another token and resolve another Activation to continue the Combat.
+632	COMBAT SETUP The setup of each Combat is described in the Storybook.
+633	A Combat setup will typically prepare the following components: • Secret Sheet with grid spaces.
+634	• Initiative bag and Activation tokens.
+635	• Enemy cards that form a row (the card on the left will be Activated first).
+636	• Enemy Activation cards that form small face-down decks under some Enemies.
+637	COMBAT PART 4: DETAILED RULES • Enemy models.
+638	• Character models.
+639	ROUND STRUCTURE The Initiative bag determines the order of Activations in Combat.
+640	Charac- ters and Enemies Activate one by one according to the drawn tokens.
+641	The initial number of Activation tokens is always determined by the Com- bat setup in the Storybook.
+642	However, various game effects can add tokens to the bag.
+643	To determine whether a Character or an Enemy is Activated next, draw a token from the Initiative bag.
+644	Depending on the type of token drawn, resolve the effects below: • White token – The Party decides together which non-activated Character to Activate.
+645	Place the token on their Character board and resolve their Activation.
+646	• Black token – Place the token on the first Enemy card from the left without an Activation token and resolve its Activation.
+647	• Dual token – Count the number of white and black Activation tokens already drawn from the bag.
+648	If there are more black tokens, treat this token as white.
+649	Otherwise, if there are more white tokens (or there is a tie), treat it as a black token.
+650	The Round ends after all Party Members or all Enemies are fully Activated.
+651	This means either all Enemies have a black token on their cards or all Char- acters have a white token on their boards.
+652	When that happens, resolve all remaining Activations as specified: • If any Enemy cards have not been Activated yet, Activate them, going from left to right.
+653	• If any Characters have not been Activated yet, Activate them in the order chosen by players.
+654	Then, return all Activation tokens from Characters and Enemies to the Ini- tiative bag.
+655	Start the next round.
+656	Note: In a rare case, when there are no more tokens in the Initiative bag to draw, resolve all remaining Enemy Activations from left to right and then all Character Activations in a chosen order.
+657	VICTORY & DEFEAT Combat continues until the Objective listed on the Sheet is achieved (causing you to resolve the Victory entry) or the Party is Defeated (see below).
+658	Achieving Victory instantly ends the Combat, including the currently re- solved Action.
+659	The Party is Defeated when all Characters are Knocked Out or Eliminated (in other words, each of the Characters has 0 HP).
+660	In such a case, immediately resolve the Defeat entry of your current Sheet.
+661	A Partner in solo mode counts as a Character for this purpose, but other Companions do not.
+662	KNOCKED OUT & ELIMINATION If a Character is Knocked Out, they cannot further participate in Combat, until they get Stabilized.
+663	They gain 1 Fate and 1 Injury Condition.
+664	Discard their model from the Secret Sheet along with all Effect tokens of that Character, and other Effect tokens affecting this Character.
+665	Place one Effect token of that Character in the space where their model was.
+666	Other Characters may target this Effect token with Actions that Stabilize (e.g.
+667	First Aid, see “Basic Actions” p. 23).
+668	Other than that, this Character is immune to any effects.
+669	Some game effects may Eliminate a Character from Combat instead – if that happens, reduce their HP to 0, but they do not gain an Injury unless stated otherwise.
+670	They cannot be brought back during this Combat and their Effect token is not placed on the Secret Sheet (or it is discarded if it is already there).
+671	After the Combat, the Character who was Knocked Out or Eliminated rolls their DIV and restores a number of HP equal to the result.
+672	If the Knocked Out or Elimination happens during a Character’s Action, that Action is interrupted.
+673	ENEMIES Each Enemy in the game is usually represented by an Enemy card, an Activation deck, and a model placed on the Secret Sheet.
+674	Number Adventure E07 Small Vestigials Name After this Enemy Activation, spawn Small Vestigials in empty spaces closest to the Boss.
+675	Hit Points and Armor HP 1 1 HP 1 1 6 Level Assigned Enemy Activation cards Enemies are divided into four categories: • Boss – Top threat of the encounter.
+676	Bosses follow all standard rules for an Enemy, but a Secret Sheet might introduce additional special rules for this type of Enemy.
+677	• Elite – Strong Enemy.
+678	It follows all standard rules for an Enemy.
+679	• Minion – Lesser and weaker Enemies.
+680	They serve as helpers for the big bad guy.
+681	Minions have multiple models that share one Enemy card.
+682	When Activated, Minions act one by one, in alphabetical order (in the special edition shown on the rings and in the standard edition printed on the standee) resolving all Actions from their Activation card.
+683	• Environment – They do use an Enemy card but usually have no Activation deck.
+684	They represent the environment in which the battle takes place.
+685	When you Activate them, simply resolve the effect on their card.
+686	LARGER ENEMIES • Some Boss or Elite Enemies may use larger models that occupy more than a single space.
+687	This kind of model is only hit once with area-of-effect attacks.
+688	No matter the size of the model, it still moves only by one space at a time.
+689	Example: A large Enemy is instructed to move by 1 space.
+690	SPAWNING AND RESPAWNING ENEMIES Some Enemies may rejoin the fight or call for reinforcements.
+691	When new Enemies are placed on the Secret Sheet to join the Combat, place them in specific spaces as instructed.
+692	If all possible spaces where the Enemies should spawn are occupied, place them in the closest, empty, non-dangerous space.
+693	ItW code Example: The game instructs you to spawn Minions in the highest numbered, empty spaces marked with .
+694	There are 4 Characters in Combat.
+695	There are 8 spaces, from which only numbers 8, 3, and 1 are empty.
+696	The first three Minions spawn in those spaces.
+697	Keywords Minion, Vestigial Additional effect ENEMY ACTIVATION Enemy Difficulty After drawing an Enemy (black) token from the Initiative bag, place it on the leftmost Enemy card that does not have an Activation token on it yet.
+698	If all Enemies have already been Activated once, Activate all the remaining Characters and end the Round.
+699	A16 When an Enemy Activates, draw the topmost Enemy Activation card from its Activation deck and resolve it from top to bottom.

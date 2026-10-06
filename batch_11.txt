@@ -1,0 +1,102 @@
+Przetlumacz na polski zdania z instrukcji gry planszowej Lands of Evershade. Dostajesz wiersze: id<TAB>tekst EN. Zwroc WYLACZNIE JSONL, jeden wiersz na wejsciowy wiersz: {"id": 123, "pl": "tlumaczenie"}. Zachowaj id. Zachowaj liczby, tokeny [[ICON...]] i znaczniki bez zmian, nie dopisuj tresci, terminologie stosuj jednolicie. Jesli wiersz to smiec (spis tresci, kredyty, naglowek strony, rozstrzelone litery, sklejone fragmenty, urwane zdanie), zwroc "pl": "".
+
+1000	It targets Party Members with the most icons on their Action cards, in this case one Character.
+1001	This happens to be Chiri.
+1002	Ranged attacks can target any Character on the Sheet.
+1003	The attack deals 3 (2 + half of the Character Number).
+1004	The attack has a Difficulty Level of 8 ( of the Rogue).
+1005	Chiri does not have Cover against this attack.
+1006	They have two available Defensive Reaction cards – Nimble Dodge and Endurance.
+1007	Chiri decides to use Nimble Dodge to try to reduce the incoming damage.
+1008	A new Activation token is drawn from the Initiative bag.
+1009	It is a black token.
+1010	It is placed on the next Enemy from the left – the Outlaw Leader.
+1011	The top card of their Activation deck is drawn.
+1012	Chiri rolls 3 dice since they have 3 AGI and no keywords matching the conditions of the Roll.
+1013	The results are 1, 9 and 11.
+1014	Against Difficulty 8 (the of the Rogue) of the Roll, they achieve 2 Successes, which allows them to prevent 5 damage.
+1015	Chiri does not lose any HP.
+1016	Also they gain 1 Fate for rolling a 1.
+1017	After using it the Nimble Dodge card is flipped.
+1018	The Activation ends.
+1019	Seeing that this card will again target the Character with the most – this being Chiri – Malah decides to use their Taunt Reaction to become the target of that Activation.
+1020	Additionally Malah gains 1 armor until the end of the current Activation.
+1021	They would have gained more armor if they had the Vigilance keyword.
+1022	LANDS OF EVERSHADE COMBAT EXAMPLE
+1023	LANDS OF EVERSHADE COMBAT EXAMPLE The first Action of the Outlaw Leader is to move 4 away from the target.
+1024	Enemies may move through spaces occupied by other Enemies.
+1025	A new Activation token is drawn from the Initiative bag.
+1026	It is a white token.
+1027	The players decide to give it to Malah and perform their Activation.
+1028	At the start of an Activation all Action cards are refreshed.
+1029	The only card that is on the dark side is Taunt, and it requires Fate to be refreshed, and Malah decides not to pay it. 10 10 10 10 11 11 11 11 The second Action is an area-of-effect ranged attack that has a Difficulty of 8.
+1030	Malah is the only Character in the area and is attacked for 3 damage.
+1031	They decide to use their Endurance to try to prevent some of the incoming damage.
+1032	Malah has a STR of 3 and additionally decides to use their +1 STR Boon.
+1033	They roll a total of 4 dice. 12 12 12 12 The results are: 7, 6, 5 and 3.
+1034	No Successes.
+1035	Malah pays 1 Fate and decides to reroll all the dice.
+1036	The new outcome is: 10, 7, 6 and 3.
+1037	Enough to prevent 1 damage.
+1038	Counting the armor that Malah gained from their Taunt reaction card, they lose only 1 HP (3 damage – 1 for Endurance – 1 for armor). 13 13 13 13
+1039	As their first Action Malah uses a Move Basic Action.
+1040	They may move up to the number of spaces of their MOB, which is 6.
+1041	Malah moves 4 spaces to reposition themselves to a better spot.
+1042	Malah has 2 CHA and Leadership keyword.
+1043	Chiri uses their Combat Insight Reaction to Support Malah’s Roll with 1 die.
+1044	Malah rolls 12, 3, and 1.
+1045	Chiri rolls 2.
+1046	Malah accepts the outcome of the Roll as 2 Successes (for 12 on a die) and additionally gains 1 Fate.
+1047	The Action is a Success and the card is flipped.
+1048	An additional white Activation token is taken from the common supply and given to Chiri to Activate them immediately.
+1049	This white token at the end of the round will be added to the Initiative bag to increase the chance of Activating a Party Member before an Enemy. 14 14 14 14 15 15 15 15 Command CH in R4 Roll for CHA 8 , +1 die: Leadership, Support Action B10 2 : Place a white Activation token from supply on a Character that has not been Activated this Round.
+1050	End your Activation, then Activate that Character.
+1051	As their second Action Malah uses Command.
+1052	It allows the player to instantly Activate another Party Member, who has not Activated this Round. 16 16 16 16 LANDS OF EVERSHADE COMBAT EXAMPLE
+1053	LANDS OF EVERSHADE COMBAT EXAMPLE 18 18 18 18 34 17 17 17 17 At the start of Chiri’s Activation they refresh their Nimble Dodge and Combat Insight Action cards.
+1054	As their first Action Chiri uses the Move Basic Action.
+1055	They have 8 MOB but decide only to move by 3 spaces.
+1056	As their second Action Chiri uses Unleash Divinum.
+1057	They Roll for STR with DIV.
+1058	Since Chiri has no Armor keyword and the Arcana keyword twice, they roll a total of 4 dice along with a D6 Divinum die.
+1059	The Difficulty is 8 (defined by the Roll).
+1060	As their second Action Chiri uses Unleash D Roll for STR with DIV.
+1061	Since Chiri has no Ar and the Arcana keyword twice, they roll a t along with a D6 Divinum die.
+1062	The Difficult by the Roll).
+1063	The Roll results are: 12, 11, 8, and 4.
+1064	A total of 4 Successes and a 2 on the Divinum roll.
+1065	Chiri deals 4+1 (number of Successes and half of DIV result) to all Enemies in R2.
+1066	Also Chiri loses 1 HP in the process.
+1067	Since all Party Members have already Activated this round, all the remaining Enemies should be Activated from left to right. 19 19 19 19 20 20 20 20 There are 3 Goon Minions in range of this Spell.
+1068	Each Minion has 1 armor and 1 HP.
+1069	Each Minion is dealt 4 damage after the reduction, which is enough to kill them. 21 21 21 21 22 22 22 22 Firstly comes the Arrow Salvo.
+1070	It does not use an Activation deck.
+1071	Instead, the text from the Enemy card is resolved and all Party Members in range 2 from the Effect token are dealt 4 damage.
+1072	The only Character that is in this range is Chiri.
+1073	LANDS OF EVERSHADE COMBAT EXAMPLE
+1074	LANDS OF EVERSHADE COMBAT EXAMPLE Chiri uses their Nimble Dodge Reaction.
+1075	They roll 3 dice for their AGI and with results 6, 4, 2 do not achieve any Successes against Difficulty 8.
+1076	They do not want to pay any Fate to try to modify the Roll.
+1077	They also cannot react with another card to try to reduce the damage again.
+1078	Chiri fails the Roll, gains 1 Fate and loses 4 HP.
+1079	The second part of the effect on the Arrow Salvo card instructs you to remove the Effect token and place it in a space in range 1 of the Party Member with the most .
+1080	There are four available spaces, so the players may choose any of them. 25 25 25 25 23 23 23 23 24 24 24 24 Next, the Goon Minions are Activated.
+1081	There is only 1 Activation card in their deck.
+1082	Since there is only 1 Minion model left in the Combat, it Activates.
+1083	If there were more, they would Activate in alphabetical order (as they are marked with letters).
+1084	The first Action on the Activation card is to move 3 toward .
+1085	Malah has the most icons, so they become the target.
+1086	The Goon does not move because it is already in a connected space.
+1087	Additionally, the Counter allows you to deal damage to the attacking Enemy.
+1088	The Goon is dealt 2 damage.
+1089	After reducing it by its armor, it is still enough to kill it.
+1090	Since there are no more Enemies of this type in Combat, the Enemy card is flipped.
+1091	From now on, it is skipped in the Activation order.
+1092	But if at any moment new Minions join the fight, the card would refresh and be active again. 26 26 26 26 27 27 27 27 The second Action is a melee attack towards an adjacent Character for 2 damage.
+1093	Malah decides to use their Counter Reaction.
+1094	They roll 2 dice for AGI with an additional 1 die Support from Chiri’s Combat Insight.
+1095	They roll 12, 2 and 9 for a total of 3 Successes.
+1096	This prevents all incoming damage. 29 29 29 29 37 28 28 28 28 With all Activation out of the way, the Combat Round ends.
+1097	All Activation tokens are placed back in the Initiative bag and a new Round begins.
+1098	The first to be drawn is a white token.
+1099	The players decide to Activate Chiri.

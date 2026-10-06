@@ -1,0 +1,102 @@
+Przetlumacz na polski zdania z instrukcji gry planszowej Lands of Evershade. Dostajesz wiersze: id<TAB>tekst EN. Zwroc WYLACZNIE JSONL, jeden wiersz na wejsciowy wiersz: {"id": 123, "pl": "tlumaczenie"}. Zachowaj id. Zachowaj liczby, tokeny [[ICON...]] i znaczniki bez zmian, nie dopisuj tresci, terminologie stosuj jednolicie. Jesli wiersz to smiec (spis tresci, kredyty, naglowek strony, rozstrzelone litery, sklejone fragmenty, urwane zdanie), zwroc "pl": "".
+
+400	In the meantime, the player without a Character may create a new Character following the “Re-joining an Adventure in Progress” instructions in Chapter 2 of the Player’s Handbook.
+401	The new Character will join the Party during the next Camp Phase. h)
+402	In the very rare case where all Characters die before the Camp Sheet resolves, your Adventure is unfortunately over.
+403	Reset your game, create new Characters, and start over! – Basic Items – Common Items TERROR – Uncommon Items Terror represents a mental fatigue that results from fear, effects of chaotic magic, or witnessing gruesome scenes. – Rare Items Each Character has 4 slots on their Character board.
+404	Received Terror tokens are placed in these slots and can be mitigated with various effects, similarly to damage. – Quest Items • If a Character should receive Terror tokens beyond the number of slots, ignore the excess tokens.
+405	• Each Character with 4 Terror tokens must resolve the rules of the Terror Effects Help card.
+406	• If you cannot add a Terror token, because some slots are taken by Boons (see below), discard a chosen Boon before you slot in a Terror token.
+407	BOONS Boons are one-use bonuses that you gain as results of blessings, inspiration, and various positive auras.
+408	They come in two types: beige basic Boons and green Greater Boons.
+409	If you are instructed to gain a Boon, gain a basic one of a chosen type unless stated otherwise.
+410	Each Character has 4 slots on their Character board.
+411	The received Boon tokens are placed there.
+412	• If a Character should receive Boons beyond the number of slots, ignore the excess tokens.
+413	• If you cannot add a Boon, because some slots are taken by Terror (see above), instead of gaining this Boon, discard a Terror token.
+414	• Boons may temporarily increase your Attributes, decrease the Difficulty of a Roll, or add a DIV die to the Roll.
+415	• In order to use a Boon, declare it before taking an Action that may benefit from the Boon and discard the token.
+416	BOONS: +1 STR +1 AGI +1 INT +1 CHA +1 D4 DIV -1 (Roll Difficulty)
+417	GREATER BOONS: +3 STR +3 AGI +3 INT +3 CHA +1 D12 DIV
+418	PARTY A Party Member is a term that refers to all Characters and all Companions in play.
+419	Party Members may form one or several Parties, depending on their location.
+420	Party Members are in one Party whenever: • There is no physical representation of the Party or the Characters in play.
+421	• They are represented by the Party model.
+422	• They are represented by separate Character models, but share the same space on the current Sheet of the Adventure.
+423	In Combat, Characters always occupy different spaces.
+424	That is why they do not follow Party rules, even though they are still referred to as Party Members.
+425	EXPLORATION ENTRIES AND STORYBOOK NAVIGATION A Storybook contains numbered entries for your current Adventure.
+426	The Sheets, Actions, rules, and cards of the Adventure often refer to these entries.
+427	All entries are sorted in ascending order, though not all entry numbers are used.
+428	Nightbloom – This icon followed by a number shows that the appropriate Storybook entry might be read in this space.
+429	This usually requires performing an Action from the Secret Sheet.
+430	REDIRECTIONS A Storybook will frequently instruct you to go to different entries depend- ing on keywords and marks that you have or choices the Party makes.
+431	Whenever you find a redirection with a requirement that you meet (this might be a keyword, Item, mark or anything else), you must follow this redirection immediately – even if only one person in the Party has it – and disregard any other text below the redirection.
+432	Example: If you have Dwerg or Warfare, go to 9.
+433	If you have Battle Magic, go to 10.
+434	You check the tokens in the Character and Items spaces of your board.
+435	You notice that your Profession token has a Warfare keyword, while your other Party Member has a Battle Magic keyword.
+436	This means you have to go to entry 9.
+437	The Battle Magic redirection does not take place – since your Party meets the criteria of the first redirection, you are not allowed to read or resolve anything beyond it.
+438	PART 4: DETAILED RULES CHOICES In many places, a Storybook will give you multiple choices.
+439	These always start with the word "choose".
+440	You may read all the text in each choice before committing to one.
+441	However, if the outcomes redirect to any additional entries, you may not go there before you make your decision.
+442	If a choice has a requirement, your Party needs to match this requirement to make that choice.
+443	It is enough for one Party Member to fulfill the requirement!
+444	Example: Choose: • (Requires Dwerg or Scholarship)
+445	Speak to them in Dwergish – go to 100.
+446	• Tell them about the bandits – You hope to convince them to help your cause.
+447	• Return to the main square – go to 95.
+448	Unless the Character who makes the choice is specified, the choice belongs to the entire Party.
+449	The Party can only pick one of the available options.
+450	If you can’t come to an agreement, you should discuss and try to convince each other which decision makes the most sense.
+451	If you still can’t resolve the situation, you should hold a vote about which option to choose.
+452	If the vote is tied, the owner of the Decision token has to use it to break the stalemate.
+453	After they do that, they have to pass the Decision token to the next player clockwise.
+454	Crossing RESTRICTED PARAGRAPHS In some parts of a Storybook, you will find paragraphs that have separate requirements you need to match to read them.
+455	Sometimes those restrictions may refer to single Characters, who may read the paragraph following the restriction.
+456	Example: If you have Dwerg: Knowing the dwergish customs you explain that (...).
+457	This part might be read by the whole Party if any of the Characters have the Dwerg keyword.
+458	Characters with Medicine: There is something off about the body (...).
+459	This part may be read only by Characters that meet the require- ment and is not read out loud for the entire Party.
+460	The player may share the information with the rest of the Party or keep it as a secret to themself.
+461	PART 4: DETAILED RULES EXPLORATION
+462	MARKS, STORY TRACKER AND TIME TOKEN The Story Tracker is used to track the consequences of your choices.
+463	When an effect tells you to mark a slot in the Story Tracker (A-Z), place a marker in the slot with the letter mentioned in the effect.
+464	If you have to mark a slot that is already marked, ignore this effect.
+465	MARK ICONS X X Sometimes the game checks the state of the Story Tracker.
+466	These two types of icons are used to check whether a slot is marked or not.
+467	Example: A : Go to 200.
+468	This means that if A is marked in the Story Tracker, you have to go to entry 200.
+469	Sometimes you might be instructed to clear parts of the Story Tracker – in such cases, remove the marks from all listed slots of the Story Tracker and keep all that were not listed.
+470	Pay close attention to this process, because doing it incorrectly may disrupt the consequences of your choices!
+471	TIME TOKEN The bottom of the Story Tracker has a round space for a Time token – it ROLLS PART 4: DETAILED RULES may count hours or days, and sometimes even more abstract things.
+472	The rules and setup of specific Time tokens are described in the Adventures that use them.
+473	The current state of the Time token is shown by the arrow on the left of the slot.
+474	If you have to progress the Time token, rotate it clockwise.
+475	If a Time token is reduced, rotate it anti-clockwise.
+476	ROLLS Rolls are one of the main and most used mechanisms in the game.
+477	They are made to determine the outcome of your Actions by using twelve-sided dice (D12).
+478	All Rolls follow a similar pattern as shown below: Example: Roll modifier Difficulty level Attribute Roll for INT 10 , +1 die: Survival, for ival S 1 : Place of your Effect tokens in R2 (max 1 per space), Outcomes : Lose 1 HP.
+479	Do not flip this card.
+480	When the Character that resolves it is not specified, the Party has to se- lect one Character to perform it.
+481	Other Characters may Support the Roll if they meet the conditions (see “Support” on the following page).
+482	To perform a Roll follow the instructions below: a)
+483	This Character takes a number of D12 dice equal to their Attribute (ATT) matching the one in the Roll. ◆Apply Roll modifiers if the Character meets Conditions. b)
+484	Other Characters in a Party can sometimes Support the Roll. c)
+485	All Characters roll their dice separately, at the same time. d)
+486	Characters may pay Fate to reroll their dice before accepting the re- sult (see “Fate” p. 13). ◆Count the total number of Successes in the Roll.
+487	Any die with a result equal to or higher than the DIFFICULTY (e.g., 10 for 10 ) counts as 1 Success and any naturally rolled 12 instead counts as 2 Successes regardless of the Difficulty. e)
+488	Find the outcome with the highest Success value that matches the total number of Successes you have.
+489	If your number was too low for any Successful outcome, resolve the Failure outcome instead. ◆Outcomes may use different values instead of set numbers.
+490	For example, requires at least as many Successes as the number of Characters in the game, and at least half the number of Characters in the game (rounded up). f)
+491	If is not listed in the outcomes, it means that failing this Roll has no effect. g)
+492	At the end of the Roll any naturally rolled 1 on a die grants 1 Fate for the Character who rolled it.
+493	Clean up the dice and resolve the outcome.
+494	If the Roll was failed, the Character who performed the Roll gains 1 Fate.
+495	Note: In the case of an “Each Character performs a Roll” instruction, each Character has to roll separately and they cannot Support one another.
+496	Roll modifier conditions Successful outcome (requires at least 1 Success)
+497	ROLL MODIFIERS Most Roll modifiers are positive, providing additional dice or lowering the Difficulty Level ( ).
+498	However, some are also negative.
+499	When applying them, follow these rules: 1.

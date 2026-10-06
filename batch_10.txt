@@ -1,0 +1,102 @@
+Przetlumacz na polski zdania z instrukcji gry planszowej Lands of Evershade. Dostajesz wiersze: id<TAB>tekst EN. Zwroc WYLACZNIE JSONL, jeden wiersz na wejsciowy wiersz: {"id": 123, "pl": "tlumaczenie"}. Zachowaj id. Zachowaj liczby, tokeny [[ICON...]] i znaczniki bez zmian, nie dopisuj tresci, terminologie stosuj jednolicie. Jesli wiersz to smiec (spis tresci, kredyty, naglowek strony, rozstrzelone litery, sklejone fragmenty, urwane zdanie), zwroc "pl": "".
+
+900	Pull moves the target toward the source of the effect and it does not need to be resolved in a line as long as each space moved is closer.
+901	When a model is Pushed and there is no possible space for it to move away (due to other models or Impassable borders), the model is dealt Crashing damage equal to the remaining Push value.
+902	That is reduced by armor.
+903	COMPANIONS Companions help Characters during the game.
+904	The Party might have up to 2 Companions distributed among Characters as they wish.
+905	Companions can be exchanged between players during the Camp Phase.
+906	Agdur-thanna the Barbarian Athletics, Bolgrim, Large, Melee, Wild Name A A Keywords Targeting icons 3 STR 1 AGI, INT, CHA Attributes 1 A MOB Mobility, Terror, Divinum, LOSE 2 HP D4 and HP HP Skilled bash Skilled bash Attack Requires Melee Attack Requires Melee Offensive Offensive Roll for STR , Roll for STR , Action Action 3 : Deal ( +1) .
+907	You may choose not to flip this card, 3 : Deal ( +1) .
+908	You may choose not to flip this card, 1 : Deal ( +1) . 1 : Deal ( +1) .
+909	Rogue Number O05 | 1 O Elite Weakness Fire, Thunder, Ice: +3 .
+910	Resistance Darkness: -3 .
+911	HP AND TERROR HP 10 Companions have their maximum HP indicated on their card and tracked on HP dial.
+912	Companions cannot gain Conditions.
+913	They can never have more HP than that.
+914	If a Companion doesn’t have a maximum HP listed on their card, they can gain as many HP as the HP dial allows.
+915	When a Companion’s HP reaches 0 during Combat, discard their model – they won’t participate in this Combat anymore, but will be healed during the Camp Phase.
+916	When a Companion’s HP reaches 0 outside of Combat, they cannot be used until healed.
+917	LOSE 2 HP Instead of gaining Terror, Companions lose HP according to the number indicated on their card.
+918	Instead of healing Terror, Companions gain 1 HP for each point of Terror healed.
+919	FATE, BOONS, AND ITEMS Companions cannot gain and use Fate (including from Rolls), Boons, and Items.
+920	When they gain Fate or Boons from any other source, they heal that many HP instead.
+921	Items gained by Companions are instead gained by the Character who has their card. 1 in R1 1 in R1 Action/ Reaction d
+922	IN EXPLORATION Characters may use the Attributes of their Companions instead of their own.
+923	Characters use the keywords of their Companions in addition to their own.
+924	IN COMBAT During Combat, you may activate a Companion assigned to you before or after your own Activation.
+925	An Activated Companion may perform two Actions.
+926	Those include: any Basic Action, a specific Action from their card, and Sheet actions (if the Actions leads to an entry, the Companion’s owner reads the entry; if it grants Items, the owner receives them).
+927	After resolving the Action or Reaction, flip their card to the other side.
+928	A Companion card refreshes to the light side at the beginning of the Activation of the Character who has their card.
+929	LOSING A COMPANION Companions cannot die during Combat or Exploration, but some choices while pursuing their story may lead to the Companion leaving the Party.
+930	If that happens, the entry will instruct you what to do and how to recruit a new Companion.
+931	PARTNER (SOLO MODE)
+932	If you are playing solo, one of your Companions is your Partner.
+933	Find a Partner card matching their highest ATT and place it next to the Companion card.
+934	Playing with a Partner adds 1 to .
+935	This card modifies the Companion Attributes, gives them additional keywords, and changes the number of their targeting icons.
+936	It also gives the Partner two special skills: 1.
+937	Support.
+938	If the space next to the skill is not marked, they may Support you with 1 die and mark the space.
+939	The space refreshes when the Partner would normally refresh their Action cards.
+940	2. Reroll.
+941	Once per Roll, they may reroll any number of their dice.
+942	A Partner is rule-wise more similar to a Character than to a Companion.
+943	It is considered a Character during Exploration, Combat, and Camp.
+944	During Exploration, Partners can perform Rolls on their own and may Support Character’s Rolls with their keywords as long as they are in a Party.
+945	During Combat, a Partner resolves their own Activations.
+946	They have a slot for an Activation token.
+947	At the beginning of Partner Activation, remove the marker from their skill slot (Support) and refresh their card.
+948	Then, resolve their Activation by performing two Actions.
+949	A Partner may be Knocked Out and Stabilized or Eliminated.
+950	During the Camp Phase, Partners may use Camp Actions, with some restrictions in the form of non-Partner Actions.
+951	A Partner follows all other rules regarding Companions.
+952	Activity Companion Partner Performing Rolls Cannot.
+953	Can in Exploration.
+954	In the form of lending During Combat Supporting ATT and keywords by using a skill. to a Character.
+955	Combat Activation Before or after Char- acter.
+956	On their own.
+957	Actions in Camp Cannot.
+958	Excluding non-Partner Actions.
+959	SUMMONS During Combat, players may add helpers to their side.
+960	They come in the form of Summons.
+961	When an effect allows a Character to add a Summon to the Combat, take the Summon card and spawn a corresponding model on the Secret Sheet.
+962	The effect should specify where to put this model, and if it does not, put the model on any closest, empty space on the grid.
+963	Summons do not count toward the limit of 2 Companions.
+964	Summons might be Activated in the same way as Companions, right before or after the Activation of the Character who has their card.
+965	STR Partner Intimidation, Resilience Passive May reroll any number of dice once per Roll.
+966	During a Roll, Support with 1 die.
+967	The Summon is discarded from Combat if: • Their HP is reduced to 0.
+968	• The Character (or Enemy) who Summoned them is Knocked Out or Eliminated.
+969	• The Combat ends.
+970	If you have to discard the Summon, discard both its card and model.
+971	PART 4: DETAILED RULES PARTNER
+972	Note: This example contains spoilers for an optional Combat encounter from the Into the Whitewell Adventure.
+973	Setup is performed according to the Storybook entry.
+974	COMBAT SETUP FOR 2 PLAYERS A Models are set up in the grid on the Secret Sheet.
+975	Party Members are marked with yellow and red. 4 Goon Minions are marked with gray.
+976	Rogue (Green) and Outlaw Leader (Blue)
+977	Elite Enemies are marked with unused Character models.
+978	COMBAT EXAMPLE LANDS OF EVERSHADE B There is an Enemy effect token placed on the Sheet.
+979	This will be used to resolve the Activation of the Arrow Salvo Environment.
+980	C Enemy cards placed in a line.
+981	D Elite Enemies have their HP set on dials.
+982	E Underneath the Enemy cards there are constructed Activation decks for each Enemy.
+983	F Arrow Salvo is an Environment Enemy type and as such does not have an Activation deck.
+984	COMBAT EXAMPLE B A D C F E
+985	The player in red plays as Malah, the blank Moonshield with one Advancement.
+986	These are the starting conditions of this Character.
+987	The player in yellow plays as Chiri, the shrewick Mage with one Advancement.
+988	These are the starting conditions of this Character.
+989	LANDS OF EVERSHADE COMBAT EXAMPLE
+990	The Combat starts by drawing the first Activation token.
+991	It happens to be a Dual token.
+992	Since there is a tie in the number of currently Activated Enemies and Characters (both at 0), the Dual token is treated as black.
+993	The Enemy will Activate.
+994	The Dual token is placed black side up on the Rogue Enemy card, which is the first from the left.
+995	The top card of the Activation deck is revealed.
+996	LANDS OF EVERSHADE COMBAT EXAMPLE The first Action on this Activation card targets the closest Character.
+997	Then it instructs you to move the Enemy model to the closest space with Cover against the targeted Character.
+998	Since the effect does not specify the movement value, the Rogue reaches their destination by moving 6 spaces.
+999	The second Action of the Rogue is a ranged attack.
