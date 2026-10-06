@@ -1,0 +1,164 @@
+id,decision,pl_fixed
+8,DROP,
+9,DROP,
+10,DROP,
+11,DROP,
+12,DROP,
+13,DROP,
+15,DROP,
+18,FIX,"Oraz wszyscy, którzy wspierali nas przy tworzeniu tej gry!"
+20,DROP,
+24,DROP,
+25,DROP,
+26,DROP,
+34,FIX,"Misje - Główna część rozgrywki rozpoczyna się, gdy Stalkerzy wyruszają na Misję, gdzie walczą z Wrogami, zmagają się z niebezpiecznymi Anomaliami, zdobywają Łupy, a przede wszystkim - wypełniają cele Misji."
+35,DROP,
+37,DROP,
+38,DROP,
+39,DROP,
+42,DROP,
+48,DROP,
+49,DROP,
+50,DROP,
+52,FIX,"Jeżeli chcecie dodać nowego Stalkera do grupy rozgrywającej Kampanię, np. jeśli nowy gracz chce dołączyć do danej sesji gry, po prostu wybierzcie dla niego kartę Stalkera."
+53,FIX,"Każda Opowieść oznaczona jest literą, do której odnoszą się przewodnik Misji oraz Mapa Zony, wiecie zatem, że narracja z Misji A1 będzie miała swoją kontynuację w Misji A2."
+58,DROP,
+76,DROP,
+81,DROP,
+83,DROP,
+86,FIX,Będziecie mogli wydawać ją podczas Eksploracji Zony w Segregatorze Kampanii.
+87,FIX,Dodatkowo każdy Stalker rozpoczyna z kartą Pancerza Kurtka Skórzana - weźcie z talii po jednej karcie na Stalkera i umieśćcie je w Skrytce.
+88,DROP,
+89,DROP,
+90,DROP,
+91,DROP,
+92,DROP,
+97,FIX,Poruszanie się po Zonie - W tym kroku odwiedzacie lokacje na Mapie Zony.
+98,DROP,
+99,FIX,"2. Kontakty - W tym kroku wchodzicie w interakcje z Kontaktami, które napotkaliście w trakcie Kampanii."
+103,DROP,
+105,DROP,
+107,DROP,
+108,DROP,
+109,DROP,
+112,DROP,
+114,DROP,
+119,DROP,
+120,DROP,
+121,DROP,
+123,FIX,Podczas każdej Eksploracji Zony możecie wybrać i rozpatrzeć do trzech kart Kontaktów umieszczonych w etui na karty w segregatorze Kampanii.
+131,FIX,2. Typ - Każdy Kontakt należy do jednego z czterech typów.
+134,DROP,
+135,DROP,
+136,DROP,
+141,FIX,"Kupując lub sprzedając Wyposażenie (zazwyczaj przez odwiedziny u Handlarza), otrzymujecie lub odrzucacie Kupony w liczbie równej wartości TK towarów."
+143,DROP,
+147,DROP,
+148,DROP,
+149,DROP,
+150,DROP,
+153,DROP,
+158,FIX,"Wszystkie informacje o Misjach, które można znaleźć w przewodniku Misji, podzielono na trzy sekcje: Przeczytajcie tę sekcję po wyborze Misji na Mapie Zony."
+161,DROP,
+163,FIX,PRZYGOTOWANIE Pozostałe elementy w pudełku Misji Ta sekcja zawiera wszystkie informacje niezbędne do przygotowania Mapy Misji.
+169,FIX,"Nie wszystkie elementy, które znajdują się w pudełku Misji, są używane podczas etapu przygotowań."
+171,DROP,
+173,DROP,
+174,DROP,
+175,DROP,
+177,DROP,
+179,DROP,
+180,DROP,
+181,DROP,
+188,DROP,
+190,FIX,"Zwróćcie uwagę, by ułożyć je tak, jak przedstawiono na schemacie."
+193,DROP,
+196,DROP,
+197,FIX,Na wszystkich kartach nakładkach tekst ułożony jest w ten sam sposób - to pomoże wam prawidłowo umieścić je na Mapie Misji.
+208,DROP,
+209,DROP,
+213,DROP,
+215,FIX,"Mogą to być Przedmioty, trochę Śrub, ukryty gdzieś, porzucony Artefakt, a nawet Broń."
+219,FIX,"Każde pudełko Misji zawiera unikalne karty Wydarzeń Misji, stanowiące startową talię Wydarzeń."
+221,FIX,"Talia Wydarzeń przedstawia upływ czasu i ogranicza liczbę Rund dostępnych podczas Misji, zatem za każdym razem, gdy dodacie do talii Wydarzeń karty Wydarzeń Losowych, zyskacie dodatkowy czas na ukończenie Misji."
+222,DROP,
+224,DROP,
+225,DROP,
+226,DROP,
+229,FIX,"Wszystkie inne pola składają się z kilku takich połączonych kwadratów, a ich pojemność rośnie proporcjonalnie."
+234,DROP,
+235,FIX,"Całkowicie zajęte pole Pole, na którym znajdują się Jednostki w liczbie odpowiadającej jego rozmiarowi, jest całkowicie zajęte."
+236,DROP,
+237,DROP,
+238,DROP,
+240,DROP,
+245,DROP,
+248,FIX,Pole 4 ma wymiary 2x3 i może pomieścić 6 Jednostek.
+249,DROP,
+250,DROP,
+251,DROP,
+256,DROP,
+259,DROP,
+262,DROP,
+263,DROP,
+264,DROP,
+265,DROP,
+266,DROP,
+268,FIX,"Chociaż Promieniowanie nie zabija od razu, nagromadzenie zbyt dużej dawki Promieniowania może wyrządzić krzywdę podczas każdej Fazy Wrogów i Zony."
+269,DROP,
+270,DROP,
+271,DROP,
+272,FIX,Zasięg nie musi być mierzony w linii prostej.
+278,DROP,
+284,DROP,
+288,DROP,
+289,DROP,
+290,DROP,
+292,DROP,
+297,FIX,"Aby to zrobić, należy sprawdzić pola połączone w linii poziomej lub pionowej (zależnie od tego, jaki kierunek główny sprawdzamy) z polem Jednostki."
+298,DROP,
+301,DROP,
+303,DROP,
+304,DROP,
+305,FIX,"Przykład: Stojąc na tym konkretnym polu, niebieski Stalker ma LW przez 5 pól do przodu, 1 pole na lewo i 3 pola na prawo."
+307,DROP,
+309,DROP,
+310,DROP,
+312,DROP,
+313,FIX,"Pamiętajcie, że to może spowodować zwiększenie dawki Promieniowania."
+315,FIX,"Numer - Każda karta ma numer z przodu i z tyłu, więc łatwo je odróżnić."
+318,DROP,
+319,DROP,
+320,DROP,
+322,FIX,"Dodatkowo numer z przodu kończy się literą „a”, a numer z tyłu kończy się literą „b”."
+326,DROP,
+327,DROP,
+328,DROP,
+333,FIX,"Jeżeli karta nie zostanie odrzucona, powinniście umieścić ją obok Mapy, gdyż może zawierać ważne informacje lub dodatkowe zasady."
+334,DROP,
+335,DROP,
+336,DROP,
+337,DROP,
+339,DROP,
+340,DROP,
+341,DROP,
+342,DROP,
+347,DROP,
+352,DROP,
+357,DROP,
+358,DROP,
+363,DROP,
+365,DROP,
+366,DROP,
+368,DROP,
+370,FIX,"W każdym z tych przypadków gracze zostaną poinstruowani, by rozpatrzyć konkretną kartę Wydarzenia Misji."
+372,FIX,"Faza Wydarzeń - Dobierzcie i przeczytajcie nową kartę Wydarzenia, by dowiedzieć się, co się stało, a następnie zastosujcie wszystkie efekty Natychmiastowe."
+373,DROP,
+374,DROP,
+376,DROP,
+377,DROP,
+379,DROP,
+386,FIX,2. Numer - Karty Wydarzeń Misji mają numer z przodu i z tyłu.
+387,DROP,
+390,DROP,
+394,DROP,
