@@ -1,0 +1,109 @@
+id,decision,pl_fixed
+3,DROP,
+10,FIX,"Kiedy wracasz do domu z misji bez zmiażdżonej kończyny, kolejnego otworu w ciele albo jakiejkolwiek poważnej rany?"
+15,DROP,
+22,DROP,
+28,DROP,
+29,DROP,
+37,DROP,
+44,DROP,
+50,DROP,
+54,DROP,
+60,DROP,
+63,DROP,
+66,FIX,• – Umieść spod Anomalii na wybranym symbolu na tym polu.
+69,DROP,
+70,DROP,
+71,DROP,
+72,DROP,
+111,DROP,
+114,FIX,"• Skrytka majsterkowicza – Aby otworzyć tę skrytkę, musicie odrzucić z waszych Kieszeni."
+115,DROP,
+118,DROP,
+119,DROP,
+120,DROP,
+122,DROP,
+124,DROP,
+125,DROP,
+129,DROP,
+131,DROP,
+133,FIX,Hiena poszedł sobie więc w świat z waszymi pieniędzmi. Teraz czas zgarnąć waszą część zysków z tego ryzykownego interesu.
+134,DROP,
+135,DROP,
+141,DROP,
+155,DROP,
+156,DROP,
+157,DROP,
+158,DROP,
+167,FIX,• Znajdź kartę Anomalii Trująca Chmura i umieść ją obok Mapy.
+174,DROP,
+175,DROP,
+177,DROP,
+201,DROP,
+202,DROP,
+203,DROP,
+205,DROP,
+207,FIX,Los Hieny jest teraz w rękach najlepszego chirurga w Zonie – a przynajmniej za to zapłaciliście.
+208,DROP,
+209,FIX,Może dla zabicia czasu odwiedzicie jedną z kryjówek Hieny?
+210,DROP,
+221,DROP,
+222,FIX,"Czas sprawdzić, co u waszego drogiego przyjaciela Cieny."
+226,DROP,
+227,DROP,
+235,DROP,
+236,DROP,
+238,FIX,Zbliża się do was jakaś kobieta w białym fartuchu. – Przychodzicie do pacjenta z raną postrzałową brzucha.
+239,FIX,"Jestem doktor Valentine, główna chirurg – mówi wprost, bez owijania w bawełnę."
+240,DROP,
+242,DROP,
+244,DROP,
+247,DROP,
+249,DROP,
+254,DROP,
+257,DROP,
+266,DROP,
+280,DROP,
+282,DROP,
+283,DROP,
+284,FIX,Ale przecież nie odrzucicie dobrze płatnej fuchy.
+285,DROP,
+286,DROP,
+287,FIX,"Wiecie, jak działa anomalia Teleport."
+290,FIX,"Ale oferuje za to niezłą kasę, więc być może będziecie musieli coś wymyślić. Valentine potrzebuje czasu, by przygotować całą operację."
+291,DROP,
+292,DROP,
+293,DROP,
+314,DROP,
+315,DROP,
+324,DROP,
+325,FIX,Życie w szpitalu toczy się swoim zwykłym rytmem.
+327,DROP,
+330,DROP,
+331,FIX,Wy też to słyszycie. Ciężkie kroki.
+333,DROP,
+335,FIX,"Kilku najemników leży na ziemi, martwych lub rannych, reszta otwiera ogień."
+336,FIX,Izlom jest tuż obok was.
+348,DROP,
+349,DROP,
+353,DROP,
+356,DROP,
+357,DROP,
+369,DROP,
+370,DROP,
+383,FIX,Albo w niej umieramy. – Ciekawe.
+384,DROP,
+402,DROP,
+403,DROP,
+404,DROP,
+418,DROP,
+420,FIX,A właśnie to zrobił wam Twirski.
+421,FIX,"Mam nadzieję, że wciąż żyjecie i nie jesteście zbyt daleko, bo cholernie was potrzebuję. Pracuję dla niejakiego Hruszki, naprawdę bystrego jajogłowego."
+422,FIX,"Wspólnie obserwujemy słynne Oko Moskwy, które ożyło i emituje bardzo silny sygnał."
+423,DROP,
+424,DROP,
+425,DROP,
+427,DROP,
+428,DROP,
+429,DROP,
+434,DROP,
