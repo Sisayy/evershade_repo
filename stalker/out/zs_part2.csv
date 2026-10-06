@@ -1,0 +1,15 @@
+id,decision,pl_fixed
+470,DROP,
+604,DROP,
+640,DROP,
+717,DROP,
+734,DROP,
+743,DROP,
+754,DROP,
+760,DROP,
+800,FIX,"Jeżeli na krawędzi pola z żetonem Ładunku Wybuchowego jest Mur, umieść na niej 1 żeton Dziury."
+807,DROP,
+818,FIX,Znajdź kartę Ognia (w talii Specjalnej) i połóż ją obok Mapy.
+836,FIX,Umieść swój żeton na swoim polu i aktywuj najbliższego Wroga.
+843,DROP,
+850,DROP,
