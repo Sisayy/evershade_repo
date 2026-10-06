@@ -1,0 +1,155 @@
+id,decision,pl_fixed
+398,FIX,"Gdy wszyscy Stalkerzy ukończą obie swoje Tury, przejdziecie do Fazy Wrogów i Zony."
+399,DROP,
+407,DROP,
+408,DROP,
+409,DROP,
+414,FIX,"Oznacza to, że możecie swobodnie pomijać swoje Tury i zaczekać na lepszą sposobność do wykorzystania Akcji, jednak ostatecznie musicie swoje Tury rozegrać."
+416,DROP,
+417,FIX,"Akcje są reprezentowane przez dwie różne ikony: Akcja Podstawowa - By wykonać ten rodzaj Akcji, musicie przesunąć żeton Tury o 1 pole w dół."
+420,DROP,
+421,DROP,
+422,DROP,
+424,DROP,
+431,FIX,Ostrożny Ruch: Niektóre sytuacje wymagają ostrożnego i cichego podejścia.
+432,FIX,"Nie możecie wykonać tej Akcji, by zejść z LW Wroga albo przesunąć się w jego LW."
+434,FIX,Nie przesuwajcie / nie umieszczajcie swojego żetonu Uwagi. Zasady Ruchu Stalkera Ruch może mieć różne formy oraz źródła.
+435,DROP,
+436,DROP,
+437,DROP,
+440,DROP,
+445,FIX,"Następnie dowolną liczbę razy i w dowolnej kolejności Stalkerzy na waszym polu mogą: + Wymienić Artefakt, Akcesorium, Pancerz, Przedmiot, Broń, Magazynek, 4** lub Osobiste Ważne Znalezisko (podtyp kart Notatek, na które można natrafić podczas Misji) z innym Stalkerem na tym samym polu. « Przenieść Broń z miejsca na Broń do Plecaka i vice versa."
+446,FIX,Amunicja pozostaje na Broni. « Przenieść Pancerz z miejsca na Pancerz do Plecaka i vice versa. + Zainstalować Akcesorium na Pancerzu lub Broni lub je Odinstalować. + Przenieść Artefakt z miejsca na Artefakt do Plecaka i vice versa.
+448,DROP,
+449,DROP,
+450,FIX,"Podniesienie: Wiele rzeczy leży na ziemi w Zonie, czekając, aż je podniesiesz."
+452,DROP,
+457,DROP,
+458,FIX,"Następnie, jeżeli którykolwiek z tych Wrogów ma LW do któregokolwiek żetonu Uwagi, przesuwacie ten żeton o 1 pole w stronę jego właściciela."
+461,DROP,
+464,FIX,"By ją wykonać, musicie znajdować się na tym samym polu co Wróg, którego chcecie Zaatakować."
+468,DROP,
+470,DROP,
+472,FIX,"AKTYWATORY NATYCHMIASTOWE I DODATKOWE ZASADY Chociaż nie są to Akcje, stanowią nierozerwalną część rozgrywki."
+474,DROP,
+479,DROP,
+482,FIX,"Mądry stalker wie, kiedy je przekraczać i jak się do tego przygotować - dobry pancerz i wódka będą tu pomocne."
+483,FIX,"Za każdym razem, gdy przesuwacie w dół swój żeton Tury (zazwyczaj przez wykonanie _ ), jeżeli jesteście/byliście obecni podczas tej Akcji na jakimkolwiek polu z r (Promieniowaniem), zwiększacie swoją dawkę Promieniowania o najwyższą wartość a znajdującą się na polach, na których jesteście/byliście obecni podczas tej Akcji. Modyfikator Promieniowania na Mapie waszego Pancerza może zredukować tę wartość."
+484,FIX,"Licznik Geigera i dawka Promieniowania Trzymajcie swój licznik Geigera obok PDA, by szybko zaznaczać dawkę Promieniowania zgromadzoną w toku Misji."
+485,DROP,
+489,DROP,
+494,DROP,
+495,DROP,
+498,DROP,
+500,FIX,2. Pole Tur - Tu umieszczacie swoje żetony Tur.
+501,FIX,"Przesuwając je w dół, oznaczacie wykonane _ |."
+502,FIX,A. Żetony Tur - Podczas każdej Rundy żetony Tur zaczynają na górnych polach.
+506,FIX,Karta Broni - Tu umieszczacie aktualnie wykorzystywaną Broń. B.
+509,FIX,Tor Magazynka - Tutaj umieszczacie HH reprezentujące Amunicję dla aktualnie wykorzystywanej Broni.
+518,FIX,"6. Plecak - Tutaj przechowujecie swoje Przedmioty i inne karty Wyposażenia, których aktualnie nie wykorzystujecie."
+519,DROP,
+521,DROP,
+523,FIX,Każdy Stalker jest przedstawiony na swojej unikalnej karcie Stalkera.
+527,FIX,"Poszukiwała go przez lata, ale nie natrafiła na żaden ślad po poruczniku Stepanie Andrukhowie."
+534,FIX,"Mogą to być zarówno nowe Akcje, jak i dodatkowe zasady wpływające na rozgrywkę."
+535,DROP,
+541,DROP,
+542,DROP,
+543,FIX,"Możecie wykonywać tę Akcję, nawet jeżeli w jej efekcie niczego byście nie zyskali (po prostu po to, by przekazać żeton)."
+546,DROP,
+551,DROP,
+554,DROP,
+556,DROP,
+557,DROP,
+560,DROP,
+561,FIX,7. Wartość w Kuponach - Określenie wartości.
+563,DROP,
+567,DROP,
+572,FIX,"Artefakty mogą być bezpiecznie przenoszone w Plecaku, ale jeżeli zechcecie skorzystać z ich efektów, będziecie musieli się w nie wyposażyć."
+573,FIX,"Naraz możecie mieć w użyciu maksymalnie trzy Artefakty, a dodatkowe możecie przechowywać w Plecaku."
+574,DROP,
+575,FIX,"3. Efekt Specjalny - Każdy Artefakt zapewnia nową zdolność, czy to w formie Akcji, czy też nowych zasad, które mają na was wpływ."
+578,DROP,
+580,DROP,
+581,DROP,
+582,FIX,Plecak Solidny plecak jest czasem ważniejszy niż naładowana broń.
+586,DROP,
+588,DROP,
+591,DROP,
+592,DROP,
+594,DROP,
+595,DROP,
+597,DROP,
+603,DROP,
+606,DROP,
+607,DROP,
+610,DROP,
+613,DROP,
+614,FIX,"Amunicję przedstawia się przez znaczniki l umieszczane przy aktualnie będącej na wyposażeniu karcie Broni na torze Magazynka na PDA lub bezpośrednio na karcie Broni, jeżeli ta jest przechowywana w Plecaku."
+615,FIX,Amunicja jest odrzucana podczas wykonywania Ataku Bronią.
+616,DROP,
+618,DROP,
+619,DROP,
+620,DROP,
+624,DROP,
+626,FIX,"Typ Ataku - Niektóre karty, jak Akcesoria Broni, mogą odnosić się do danego typu Ataku lub wpływać na określony typ Ataku."
+628,DROP,
+630,DROP,
+631,FIX,8. Wartość w Kuponach - Określenie wartości.
+632,FIX,Przedstawia uczciwą cenę tej Broni w Zonie.
+637,DROP,
+638,DROP,
+640,DROP,
+642,DROP,
+643,FIX,"Zwykle są dostępne na Broni, a czasami na różnych kartach (np."
+645,DROP,
+648,DROP,
+649,DROP,
+650,DROP,
+651,DROP,
+654,FIX,Najpospolitszymi źródłami dodatkowych kości są Akcesoria Broni.
+657,DROP,
+658,DROP,
+661,DROP,
+671,DROP,
+672,FIX,Te efekty mogą zostać użyte przed sprawdzeniem Trafienia Ataku lub po sprawdzeniu.
+675,DROP,
+677,DROP,
+679,DROP,
+681,DROP,
+684,FIX,"W innym wypadku dany Wróg otrzymuje + - To spowoduje umieszczenie żetonu tz obok kartonowej figurki Wroga, co będzie oznaczać, że otrzymał on ten status. Jeśli Wróg będzie miał już 68) w chwili otrzymania Rany, należy Poruszyć tego Wroga o 1 pole, by znalazł się dalej od ciebie (tego Ruchu nie można przerwać)."
+687,DROP,
+688,FIX,"W innym wypadku dany Wróg otrzymuje $$ - To spowoduje umieszczenie żetonu fi obok kartonowej figurki Wroga, co będzie oznaczać, że otrzymał on ten status. Jeśli Wróg będzie miał już w chwili otrzymania Rany, traci 1."
+692,DROP,
+698,DROP,
+705,FIX,"Przykład: Otrzymujesz pierwszą Ranę Krytyczną, zatem umieszczasz jej żeton nad lewym żetonem Tury."
+707,FIX,Śmierć któregokolwiek Stalkera powoduje koniec i niepowodzenie obecnej Misji.
+709,DROP,
+710,DROP,
+716,DROP,
+725,DROP,
+730,FIX,"To z reguły oznacza, że Stalker straci w wyniku Ataku Wroga 3 dodatkowe PŻ, chyba że będzie w stanie zniwelować je modyfikatorami do Obrony."
+739,DROP,
+743,DROP,
+744,DROP,
+747,DROP,
+748,DROP,
+749,DROP,
+753,DROP,
+758,FIX,"Każdy punkt należy rozpatrzyć kolejno dla każdego Wroga. Musicie w pełni rozpatrzyć jeden punkt, zanim przejdziecie do kolejnego."
+762,DROP,
+763,DROP,
+765,DROP,
+766,DROP,
+770,DROP,
+772,DROP,
+785,DROP,
+790,DROP,
+792,DROP,
+801,DROP,
+802,DROP,
+805,FIX,"Istnieją dwa typy Ruchów, jakie mogą wykonać Wrogowie: Ruch - Wrogowie wykonują Ruch w kierunku celu, obierając najkrótszą drogę."
+809,DROP,
+810,FIX,"W takich wypadkach Wrogowie obracają się w stronę, która wymaga najmniejszej liczby obrotów (lub w kierunku zgodnym z ruchem wskazówek zegara, jeśli dojdzie do remisu), dopóki znów nie będą mogli wykonać Ruchu naprzód."
+811,DROP,
+812,DROP,
