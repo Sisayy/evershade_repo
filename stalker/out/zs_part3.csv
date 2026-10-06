@@ -1,0 +1,23 @@
+id,decision,pl_fixed
+892,FIX,"Jeżeli nie ma takiej możliwości, usuń Timura z gry. 121 O rety, co za znalezisko!"
+912,DROP,
+924,DROP,
+927,DROP,
+937,DROP,
+940,DROP,
+965,FIX,"Możesz umieścić twojego Stalkera na wybranym polu z żetonem Studzienki. 171 Nagle okolicą wstrząsa ogłuszająca eksplozja, a skład amunicji znika w widowiskowej kuli ognia."
+1002,DROP,
+1005,FIX,Odrzuć tę kartę.
+1051,DROP,
+1065,DROP,
+1066,DROP,
+1070,DROP,
+1085,DROP,
+1130,DROP,
+1170,DROP,
+1171,DROP,
+1189,DROP,
+1191,DROP,
+1221,DROP,
+1234,FIX,Ten Wróg wykonuje Atak przeciwko Stalkerowi w Zasięgu 3 i LW.
+1243,DROP,
