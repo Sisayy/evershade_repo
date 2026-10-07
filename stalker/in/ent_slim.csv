@@ -1,0 +1,73 @@
+﻿id,en,pl,why,sim
+197,Scarce Biomes require spending 1 to gain the reward.,"Nieprzyjazne Biomy wymagają wydania 1 , aby zyskać nagrodę.",,0.784
+215,Tier 0: No effect Tier 1: An effect triggered when the corresponding Creation token is used to resolve the action.,"Poziom 0: Brak efektu. Poziom 1: Efekt jest wywoływany w momencie, gdy odpowiadający znacznik Tworzenia zostaje użyty do rozpatrzenia Akcji.",,0.916
+20,Clarity and usability were prioritized.,Priorytetem były przejrzystość i użyteczność.,,0.873
+132,"D • Pay 1 Energy to add a tier I Star tile to a Solar System without a Star tile, or to a new Solar System (take a new System tile from the general supply).","D • Wydaj 1 Energię , aby dodać kafelek Gwiazdy poziomu I na Układ Planetarny bez Gwiazdy w twoim obszarze gry albo na nowy Układ Planetarny (weź nowy kafelek Układu Planetarnego z puli ogólnej i umieść go w twoim obszarze gry).",,0.821
+261,The rightmost (final) space can only be occupied by 1 player.,Ostatnie pole (najbardziej z prawej) może być zajęte tylko przez znacznik Celu 1 gracza.,,0.845
+248,Example: Teal moves by 1 and resolves a Primordial Soup action.,Przykład: turkusowy gracz Porusza się o 1 pole i rozpatruje Akcję Zupy Pierwotnej.,,0.749
+207,UPGRADE CONSOLE A scientist is only as powerful as their instruments.,"ULEPSZENIE KONSOLI Naukowiec jest tak potężny, jak jego narzędzia.",,0.85
+155,LIFE CARD ANATOMY Life Condition requirement Lifeform requirement (red number means you must remove them),OPIS KARTY ŻYCIA Wymagane Warunki Życia Wymagane Formy Życia (czerwona wartość oznacza konieczność odrzucenia),,0.863
+244,"If you are on the last space of the track and would advance, you gain 3 VP instead.","Za każdym razem, gdy znajdujesz się na ostatnim polu tego toru i masz przesunąć się dalej, zamiast tego zdobywasz 3 PZ.",,0.78
+183,The discount applies only if you resolve it from the Activate Stars Action space (more on page 11).,"Zniżka obowiązuje tylko wtedy, gdy rozpatrujesz Akcję z pola Akcji Aktywacji Gwiazd (zob. str. 11).",,0.857
+298,Endgame Scoring: Gain the indicated VP times the number of Planets of one type in your play area (each player chooses their type).,Punktacja Końcowa: Zdobądź wskazaną liczbę PZ pomnożoną przez liczbę Planet jednego typu w twoim obszarze gry (każdy gracz wybiera swój typ).,,0.871
+111,"If you moved by 3 spaces and landed on a space with another player’s Scientist, you must additionally spend 1 Entropy .","Jeśli poruszyłeś się o 3 pola i zakończyłeś Ruch na polu z Naukowcem innego gracza, musisz dodatkowo wydać 1 Entropię .",,0.875
+258,All Missions are described in the Appendix on page 14.,Wszystkie Misje zostały opisane w Załączniku na str.,,0.815
+71,F.,F.,short,1.0
+144,Important: The back of a Planet tile shows the same effect as the front.,"A B Ważne: rewers kafelka Planety przedstawia taki sam efekt, jak awers.",,0.805
+48,8. Sort the Lifeform Objective tiles by size and type ( / / ).,8. Posortujcie znaczniki Celów Form Życia według ich rozmiarów i typów ( / / ).,,0.901
+316,Reward: Gain 1 Life card for each of your advancements on the Generator track.,Nagroda: Zyskaj 1 kartę Życia za każdy awans twojego znacznika na torze Generatora.,,0.902
+128,"Resolve one of the following: • Choose a Star in a Solar System in your play area and exchange it for a Star of the next tier, as indicated by the paths on the Main board.","Rozpatrz jedno z poniższych: • Wybierz Gwiazdę w dowolnym Układzie Planetarnym w twoim obszarze gry i wymień ją na Gwiazdę z wyższego poziomu, zgodnie ze ścieżkami wskazanymi na planszy Głównej.",,0.864
+272,"When these are met, players finish the current round, then play one additional round and proceed to Final Scoring.","Gdy te warunki zostają spełnione, gracze kończą aktualną rundę, następnie rozgrywają 1 dodatkową pełną rundę, po której przechodzą do Punktacji Końcowej.",,0.869
+308,Reward: Take 1 Life card for each Planet with at least 1 Lifeform in your play area.,Nagroda: Zyskaj 1 kartę Życia za każdą Planetę w twoim obszarze gry z co najmniej 1 Formą Życia.,,0.922
+75,"Then, gain the indicated Life cards and Resources (F3).",Następnie zyskujesz wskazane karty Życia oraz Zasoby (F3).,,0.893
+158,"RADIATION Shapes extreme environments, pushing matter to adapt and evolve.","PROMIENIOWANIE Kształtuje ekstremalne środowiska, zmuszając materię do adaptacji i ewolucji.",,0.815
+50,"For each type, create a stack of small tiles by stacking them with the values going up and the highest VP tile on top, and place them on the corresponding space of the Main board (8B).","Dla każdego typu utwórzcie stos małych znaczników, układając go według rosnących wartości, z płytką o najwyższej wartości PZ na wierzchu, i umieśćcie go na odpowiednim polu na planszy Głównej (8B).",,0.828
+37,2. Shuffle all Action tiles and randomly place 1 face up next to each inner ring Action area of the Main board.,2. Potasujcie wszystkie kafelki Akcji i umieśćcie losowo po 1 odkrytym kafelku przy każdym polu Akcji wewnętrznego kręgu na planszy Głównej.,,0.885
+350,"Retrieve a Creation token without resolving / . Star tier number Same type choice)/ Matching type (i.e., of Life cards)",Odzyskaj znacznik Tworzenia bez rozpatrywania / Poziom Gwiazdy Ten sam typ (wybór gracza)/ pasujący typ (np. kart Życia),,0.839
+169,Each Planet can have a maximum of 5 Lifeforms of each type.,Każda Planeta może mieć maksymalnie po 5 Form Życia każdego typu.,,0.937
+241,Note: The Generator track provides a discount only when resolving Activate Stars action from the Action space.,Uwaga: tor Generatora zapewnia zniżkę tylko przy rozpatrywaniu Akcji Aktywacji Gwiazd z pola Akcji.,,0.894
+286,"• 2 VP for remaining resources (3 Life cards, 2 Mass, 2 Entropy and 4 Energy).","• 2 PZ za pozostałe Zasoby (3 karty Życia, 2 Materie, 2 Entropie i 4 Energie).",,0.917
+51,"• If playing with 3 players, remove all small tiles marked with a “4” on the back.",• 3 graczy: usuńcie wszystkie małe znaczniki oznaczone „4” na rewersie.,,0.828
+181,Each Star may only be activated once.,Każda Gwiazda może zostać aktywowana tylko raz podczas tej Akcji.,,0.823
+222,"Finally, since their Planet Creation token is on the Main board, they retrieve it and place it laid down on the corresponding space of their Console.","Na koniec, ponieważ jego znacznik Tworzenia Planety znajduje się na planszy Głównej, zabiera go stamtąd i kładzie poziomo na odpowiednim polu swojej Konsoli.",,0.81
+161,Choose one of the icons from the discarded card to count toward one of the requirements of the played card.,"Wybierz jeden z symboli z odrzuconej karty, aby wliczyć go do spełnienia jednego z wymagań zagrywanej karty.",,0.815
+312,Reward: Gain 2 Mass for each played Bacteria Life card and for each played Animal Life card.,Nagroda: Zyskaj 2 Materie za każdą zagraną przez ciebie kartę Życia Bakterii i/albo Zwierząt.,,0.845
+327,L51 Gain 1 Energy and 2 VP for each played Life card of one type (you choose which type out of: L52 Gain 1 Mass and 2 VP for each Heat Planet.,L51 Zyskaj 1 Energię i zdobądź 2 PZ za każdą zagraną kartę Życia jednego typu (ty wybierasz typ spośród: L52 Zyskaj 1 Materię i zdobądź 2 PZ za każdą Planetę Cieplną.,,0.915
+104,For each Creation token retrieved this way you may immediately Activate one of your Stars (see page 9) or gain 1 Entropy .,"Za każdy zwrócony w ten sposób znacznik Tworzenia, możesz natychmiast Aktywować jedną z twoich Gwiazd (zob. str. 9) albo zyskać 1 Entropię .",,0.928
+282,• 20 VP from the big Lifeform Objective tile (18+ Bacteria),• 20 PZ z dużych kafelków Celów Form Życia (18+ Bakterii).,,0.869
+226,"If one of the decks runs out of cards, immediately refill the offer from the other corresponding deck.","Jeśli jedna z tych talii się wyczerpie, natychmiast uzupełnij ją z odpowiadającej talii.",,0.688
+266,You may only claim 1 small Lifeform Objective of each type.,Możesz zyskać tylko 1 mały Cel Formy Życia każdego typu.,,0.834
+133,Important: Star effects are not triggered when a Star Evolves.,Ważne: efekty Gwiazdy nie są wywoływane podczas jej Ewolucji.,,0.849
+31,"Mass, Energy, Entropy, Bacteria, Plant, Animal, and Victory Point tokens are considered unlimited.","Znaczniki Materii, Energii, Entropii, Bakterii, Roślin, Zwierząt i Punktów Zwycięstwa uważa się za nieograniczone.",,0.873
+280,"The player with the most VP wins the game! In case of a tie, tied players share the victory.","W przypadku remisu pod względem największej liczby punktów, remisujący gracze dzielą się zwycięstwem.",,0.701
+7,"It may only be a simulation, but its outcome will define everything that follows.","Może i jest to tylko symulacja, ale jej wynik zadecyduje o wszystkim, co nastąpi później.",,0.856
+47,Place each deck face up in the leftmost corresponding space of the Main board.,"Potasujcie każdą talię osobno i umieśćcie każdą z nich odkrytą na najbardziej lewym, odpowiadającym jej polu na planszy Głównej.",sim,0.672
+204,"They have only one Planet without a Biome, so they place a new Biome tile there.","Ma tylko jedną Planetę bez Biomu, którą może wybrać do umieszczenia nowego kafelka Biomu.",,0.779
+342,L66 Gain 9 VP.,L66 Zdobądź 9 PZ.,,0.831
+320,All conditions apply only to your play area.,Wszystkie warunki dotyczą wyłącznie twojego obszaru gry.,,0.882
+0,RULEBOOK,INSTRUKCJA,,0.661
+313,M10 Requirement: Have 3 Carbon Life Condition icons in 1 Solar System.,M10 Wymaganie: Posiadaj 3 symbole Węgla (Warunki Życia) w 1 Układzie Planetarnym.,,0.875
+252,"Then, Teal moves their Generator marker on the Generator track by 1, gaining 3 VP, and they gain 1 Mass and 1 Energy .",Następnie turkusowy gracz awansuje o 1 pole swój znacznik Generatora na torze Generatora. Zdobywa 3 PZ oraz zyskuje 1 Materię i 1 Energię .,,0.821
+170,The Traffic Bonus on the Create Life action adjusts the number of Lifeforms gained from the played card.,Premia Ruchu przy Akcji Stworzenia Życia zwiększa liczbę Form Życia zyskiwanych z zagrywanej karty.,,0.835
+23,"Despite rigorous play testing and multiple rounds of both internal and external proof reading and editing, occasionally the need for rules corrections or minor game play adjustments are discovered only several months or years after the game was manufactured.","Wszystkie prawa zastrzeżone. CEL GRY TWÓRCY pragnie podziękować następującym osobom za testowanie gry, Simone pragnie podziękować swojej rodzinie, a w szczególności żonie Samancie, która zawsze wspiera go w tworzeniu każdej gry, także tej.",sim,0.32
+27,"Solo tests: Aleksandar Šaranac, Chuck Case, David Digby, Shane Ryan, Navneeth Sridharan, Travis Larsen, Randy Mathews, Boris Kirov.","Tryb Solo: Kacper Frydrykiewicz, David Turczi Testerzy trybu Solo: Aleksandar Šaranac, Chuck Case, David Digby, Shane Ryan, Navneeth Sridharan, Travis Larsen, Ta gra jest produktem wysokiej jakości. Została skompletowana z wielką starannością.",ratio,0.762
+28,"Missing or damaged components: Although we take a lot of care to make sure that your game is complete, manufacturing mistakes can still leave you with a missing or damaged component.","Wspieramy każdą naszą grę – także po jej wydaniu. Choć nasi redaktorzy i współpracownicy pieczołowicie sprawdzają i szlifują materiały z gry, czasem – nieraz po miesiącach czy wręcz latach od premiery – pojawia się konieczność wprowadzenia drobnych korekt, zmian czy ulepszeń.",sim,0.528
+29,"If that happens, please contact us to receive replacements swiftly, and with our sincere apologies. Customer support: Michał Milczarek.","Aktualną instrukcję, a często także dodatkowe materiały (np. mini-rozszerzenia, FAQ), znajdziesz na naszej stronie internetowej: WPROWADZENIE | CEL GRY, TWÓRCY porady i uwagi: Michał Milczarek.",sim,0.406
+62,B.,B.,short,1.0
+64,C.,C.,short,1.0
+67,D.,D.,short,1.0
+69,E.,E.,short,1.0
+76,Players draw Life cards in turn order.,"Gracze dobierają karty Życia zgodnie z kolejnością tury, zaczynając od gracza ze znacznikiem Pierwszego gracza i dalej zgodnie z kierunkiem ruchu wskazówek zegara.",ratio,0.675
+79,G.,G.,short,1.0
+81,H.,H.,short,1.0
+83,I.,I.,short,1.0
+86,J.,J.,short,1.0
+114,"PLAYING THE GAME | TURN STRUCTURE, MOVEMENT","ROZGRYWKA | PRZEBIEG TURY, RUCH",ratio,0.602
+138,PLAYING THE GAME | ACTIONS,ROZGRYWKA | AKCJE,sim,0.681
+157,"CARBON The foundation for complex molecules, and the essential building material for life’s structures and functions. + A B WATER A universal solvent, allowing molecules to move, interact, and combine into increasingly complex forms.","WODA Uniwersalny rozpuszczalnik, umożliwiający cząsteczkom poruszanie się, wchodzenie w interakcje i łączenie w coraz bardziej złożone formy.",ratio,0.689
+167,PLAYING THE GAME | ACTIONS,ROZGRYWKA | AKCJE,sim,0.681
+267,"When you claim the big Lifeform Objective tile, it brings the game toward its end.",Zyskanie dużego kafelka Celu Formy Życia przybliża koniec gry.,ratio,0.739
+269,PLAYING THE GAME | MISSIONS,ROZGRYWKA | MISJE,sim,0.717
+309,Endgame Scoring: Gain the depicted VP for each of your Planets that has a Biome and at Endgame Scoring: Gain the depicted VP times the number of different Stars in your least one Life card.,"CELE GŁÓWNE Awansuj, jeśli: Umieściłeś pierwszą Asteroidę Awansuj, jeśli: Spełniłeś wymagania Biomu (odwróciłeś kafelek Biomu na stronę zrealizowaną). w danym Układzie Planetarnym. Punktacja Końcowa: Zdobądź wskazaną liczbę Punktacja Końcowa: Zdobądź wskazaną liczbę PZ pomnożoną przez liczbę twoich Planet z Biomem i co najmniej jedną kartę Życia.",ratio,0.736
+318,Reward: Gain 1 Bacteria for each Asteroid in your play area. Advance when you: Fulfill a Biome. play area. card upgraded tiers.,Nagroda: Zyskaj 1 Bakterię za każdą Asteroidę w twoim obszarze gry. w twoim obszarze gry.,ratio,0.816
+344,1 Gain 1 Discount of 1 Star Evolve a Star action Asteroid Catch an Asteroid action 0 Resolve Catch an Asteroid action without paying any costs Heat Planet Carbon Planet Water Planet Radiation Planet Heat Life Condition Carbon Life Condition Water Life Condition Radiation Life Condition Any Life Condition SYMBOL INDEX 1 Have 1 End-game VP Planet Aggregate Planet action Biome tile Set Biome Fulfilled (flipped),1 Zyskaj 1 Zniżka 1 Gwiazda Akcja Ewolucji Gwiazdy Asteroida Akcja Pochwycenia Asteroidy 0 Rozpatrz Akcję Pochwycenia Asteroidy bez płacenia kosztu Planeta Cieplna Planeta Węglowa Planeta Wodna Planeta z Promieniowaniem Ciepło (Warunek Życia) Węgiel (Warunek Życia),ratio,0.831
