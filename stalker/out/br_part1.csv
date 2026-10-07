@@ -1,0 +1,43 @@
+id,decision,pl_fixed
+13,DROP,
+27,DROP,
+28,DROP,
+29,DROP,
+37,FIX,2. Faza Konfiguracji: wykonaj liczbę W równą '.
+42,DROP,
+43,DROP,
+45,DROP,
+47,DROP,
+54,DROP,
+72,DROP,
+73,DROP,
+74,DROP,
+77,DROP,
+78,DROP,
+98,DROP,
+117,FIX,"7. Każdy gracz zapoznaje się z Wyposażeniem Początkowym na odwrocie swojej Karty Awatara i bierze wskazane Kostki Kodu (czarna Kostka Kodu oznacza, że gracz może według własnego uznania, wybrać dowolny kolor Kostki Kodu)."
+138,DROP,
+139,DROP,
+146,DROP,
+147,DROP,
+159,DROP,
+163,DROP,
+170,FIX,"Obszar Ω jest wykorzystywany pod koniec gry, jako miejsce wejścia Guardiana. Nie zawiera żadnych efektów, które mogą być używane przez Awatary."
+191,FIX,"Pierwszy gracz, który zakryje skrajny lewy Slot na swoim Dysku Twardym z symbolem D musi natychmiast przesunąć Kostkę I.C.E. na Torze 3 o 1 Slot."
+192,DROP,
+218,DROP,
+219,FIX,Następnie gracz wykonuje Akcje swoim Awatarem (zobacz na stronach 20-24).
+222,DROP,
+228,DROP,
+255,DROP,
+261,DROP,
+298,DROP,
+299,DROP,
+300,DROP,
+311,FIX,"Gracz nie może wykonać Akcji Zainfekowania, jeśli jego Awatar znajduje się w Obszarze, w którym obecne jest jedno z I.C.E. posiadające tę Cechę."
+325,FIX,"Następnie zwiększ o 2 Zagrożenie swojego Awatara. Zagrożenie i przerzut Kości Infekcji - zwiększ o 1 Zagrożenie swojego Awatara, następnie rzuć Kością Infekcji jeszcze raz i rozstrzygnij nowy wynik."
+326,DROP,
+329,DROP,
+334,FIX,Operacja Ponownego Podłączenia pozwala Odłączonemu Awatarowi ponownie się Podłączyć.
+340,DROP,
+367,DROP,
