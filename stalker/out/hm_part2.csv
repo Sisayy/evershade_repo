@@ -1,0 +1,57 @@
+id,decision,pl_fixed
+400,FIX,"Aby dodać jednostkę z twojej frakcji do twojej talii zrekrutowanych jednostek, musisz posiadać odpowiednie Siedlisko i opłacić koszt Rekrutowania."
+401,DROP,
+409,DROP,
+411,DROP,
+412,FIX,"• Walki z Jednostkami Neutralnymi z poziomu Błękitnego albo z wrogimi Bohaterami trwają, dopóki któraś ze stron nie wygra albo się nie podda."
+415,DROP,
+427,DROP,
+434,DROP,
+435,DROP,
+437,DROP,
+438,DROP,
+442,DROP,
+445,FIX,"Kartę zniszczonych murów i bram odwróć na drugą stronę, by zaznaczyć, że nie są już przeszkodami."
+448,DROP,
+456,DROP,
+466,DROP,
+467,FIX,Po tym ataku obrona Rycerzy Grozy wraca do wartości 2.
+491,DROP,
+494,DROP,
+498,FIX,KONIEC WALKI Walka może się zakończyć na 3 sposoby: 1.
+506,FIX,"Jeśli twój Bohater Główny zostanie pokonany przez innego gracza, zapłać mu 5  Gold> i weź żeton (str. 10, Akcje Morale)."
+509,DROP,
+513,FIX,"Gdy podczas Walki z Bohaterem AI wroga jednostka się aktywuje, dobierz kartę z talii AI i rozpatrz ją."
+522,DROP,
+526,DROP,
+527,DROP,
+530,FIX,"2. Jeśli na kafelku Mapy z Bohaterem AI znajdują się jakieś Kopalnie lub Osady, które można Oflagować, idź do najbliższej i Oflaguj ją."
+535,DROP,
+541,FIX,"Możesz wymieniać Zasoby w każdej chwili, a Punkt Handlowy staje się lokacją Jednorazową, która pozwala ci dobrać 1 kartę z talii Artefaktów. Przedłużanie Walki nie wymaga wydawania żadnych PR."
+544,DROP,
+548,DROP,
+549,DROP,
+550,DROP,
+551,DROP,
+552,DROP,
+557,DROP,
+558,DROP,
+560,DROP,
+562,DROP,
+566,DROP,
+567,DROP,
+568,DROP,
+569,DROP,
+570,DROP,
+571,DROP,
+572,DROP,
+574,DROP,
+576,DROP,
+577,DROP,
+579,DROP,
+589,DROP,
+591,DROP,
+592,DROP,
+602,FIX,"Ta lokacja ma specjalne efekty (patrz str. 20, Księga Zasad)."
+603,DROP,
+604,DROP,
