@@ -1,0 +1,68 @@
+id,decision,pl_fixed
+1,DROP,
+2,DROP,
+3,DROP,
+5,DROP,
+6,DROP,
+7,DROP,
+8,DROP,
+9,DROP,
+10,DROP,
+11,DROP,
+14,DROP,
+15,DROP,
+16,DROP,
+17,DROP,
+18,DROP,
+24,FIX,– Rzuć 1 kością Labiryntu i rozpatrz jej efekt.
+25,FIX,– Odrzuć 1 żeton Klepsydry z dowolnej karty.
+26,FIX,– Wykonaj dodatkową akcję Przesunięcia.
+27,FIX,– Obróć w dowolną stronę ruchomy kafel Labiryntu z twoją Postacią.
+28,FIX,– Przerzuć dowolną liczbę kości.
+29,FIX,– Postaw figurkę swojej Postaci na sąsiadującym kaflu (kafle nie muszą być połączone ścieżką).
+30,FIX,– Znokautuj 1 Wroga na tej samej ścieżce.
+31,FIX,– Przeczytaj odpowiedni Skrypt.
+36,FIX,ELEMENTY PAPIEROWE:
+37,FIX,FIGURKI:
+38,FIX,ELEMENTY PLASTIKOWE:
+39,FIX,KARTY:
+40,FIX,ŻETONY:
+41,DROP,
+42,DROP,
+43,DROP,
+44,DROP,
+45,DROP,
+46,DROP,
+47,DROP,
+48,DROP,
+49,DROP,
+50,DROP,
+51,DROP,
+52,DROP,
+53,DROP,
+54,DROP,
+55,DROP,
+56,DROP,
+57,DROP,
+58,DROP,
+59,DROP,
+60,DROP,
+62,DROP,
+76,DROP,
+81,DROP,
+89,DROP,
+90,DROP,
+95,DROP,
+96,DROP,
+98,DROP,
+99,DROP,
+107,DROP,
+131,FIX,[[ICON1]] Połóżcie 2 kości Labiryntu obok planszy głównej.
+140,DROP,
+159,DROP,
+161,DROP,
+167,DROP,
+182,DROP,
+183,DROP,
+188,DROP,
+191,DROP,
