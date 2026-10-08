@@ -1,0 +1,21 @@
+id,decision,pl_fixed
+1,DROP,
+2,DROP,
+3,DROP,
+4,DROP,
+5,DROP,
+11,FIX,"◆Wrogowie przesuwają do przodu swój Żeton Aktywacji o liczbę Sektorów równą swojej Charakterystyce [[ICON1]], bez względu na to, ile [[ICON2]] wydali podczas swojej Aktywacji."
+22,DROP,
+32,DROP,
+45,DROP,
+50,DROP,
+53,DROP,
+102,DROP,
+104,FIX,"【B】◆Bądź niegrzeczny!【/B】 Nie byłoby dobrej historii, gdyby nie było w niej przeciwników dorównujących Bohaterom, zdolnych postawić ich w trudnej sytuacji i zawsze wyprzedzających o jeden krok. W wątpliwych sytuacjach zawsze dokonuj wyborów najlepszych dla Wrogów."
+107,FIX,"【B】Powiązane Tematy:【/B】 Oznaczony Obszar, Dostępne Pole, Wróg."
+112,DROP,
+121,DROP,
+128,DROP,
+131,FIX,Chronomancja.
+149,DROP,
+152,DROP,
