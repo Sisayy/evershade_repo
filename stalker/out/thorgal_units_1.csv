@@ -1,0 +1,60 @@
+id,decision,pl_fixed
+2,DROP,
+3,DROP,
+4,DROP,
+5,DROP,
+6,DROP,
+7,DROP,
+8,DROP,
+9,DROP,
+10,DROP,
+11,DROP,
+12,DROP,
+13,DROP,
+14,DROP,
+15,DROP,
+16,DROP,
+17,DROP,
+20,DROP,
+21,DROP,
+22,DROP,
+23,DROP,
+24,DROP,
+25,DROP,
+26,DROP,
+27,DROP,
+28,DROP,
+29,DROP,
+30,DROP,
+31,DROP,
+32,DROP,
+33,DROP,
+34,DROP,
+35,DROP,
+36,DROP,
+38,FIX,2. Otwórzcie Atlas Przygód na Mapie zgodnej z Opisem Przygody i połóżcie ją na środku obszaru gry
+39,FIX,"3. Połóżcie wszystkie kafelki, kości, żetony i znaczniki po lewej stronie obszaru gry [[ICON1]] , aby stworzyć pulę ogólną."
+40,FIX,4. Połóżcie odpowiednią planszetkę Przygody po prawej stronie mapy [[ICON1]] . Połóżcie znacznik Rundy ( [[ICON2]]) na polu „1” na torze Rundy
+41,FIX,"5. Znajdźcie talie Wydarzeń pokazane w Opisie Przygody, przetasujcie każdą z nich osobno i połóżcie nad planszetką Przygody"
+42,FIX,"6. Przetasujcie karty Terenu i połóżcie talię pod Mapą, tak jak pokazano na przykładzie (będą używane do stworzenia Ścieżki Wędrówki) [[ICON1]]"
+52,FIX,"15. Przetasujcie karty Przedmiotów i odkryjcie 5 wierzchnich kart, aby utworzyć Ekspozycję w pobliżu górnej krawędzi Mapy"
+64,DROP,
+73,FIX,"4. Jeśli w Lokacji jest 1 lub więcej Wrogów ( [[ICON1]]/ / [[ICON2]]/ [[ICON3]]/ [[ICON4]]) musicie ich usunąć, zanim wykonacie w niej jakiekolwiek inne akcje"
+87,DROP,
+100,DROP,
+102,DROP,
+103,DROP,
+105,DROP,
+110,FIX,"【B】Przykład:【/B】 Polecenie 1 [[ICON1]] (3) oznacza, że możesz odrzucić dowolną 1 [[ICON2]] lub 1 [[ICON3]] ze swojego obszaru Ran, podczas gdy 3 [[ICON4]] (1) pozwala na odrzucenie do 3 [[ICON5]]."
+124,DROP,
+130,DROP,
+136,FIX,"Większość Bonusów ma wpływ na akcję Główną, na co wskazuje symbol „+”. Jeśli Bonus ma symbol Akcji bez „+”, jest rozpatrywany jako akcja Dodatkowa."
+141,FIX,"Niektóre efekty Przygód lub Wydarzeń mogą nakazywać wam umieszczanie różnych komponentów na kartach Akcji. Gdy zastępujecie taką kartę, odrzućcie wszystkie znajdujące się na niej komponenty."
+144,DROP,
+147,DROP,
+161,DROP,
+167,DROP,
+170,FIX,"【B】Przykład:【/B】 Kafelek [[ICON1]] może być umieszczony w dowolny z następujących sposobów: [[ICON2]], [[ICON3]], [[ICON4]] lub [[ICON5]]."
+184,FIX,"Zasoby 【B】Losu【/B】 i 【B】Mocy【/B】 są używane w różnych celach i mają różne zasady i zastosowania w zależności od Przygody. Przed rozpoczęciem każdej rozgrywki upewnijcie się, że wiecie jak są używane w obecnie rozgrywanej Przygodzie."
+187,FIX,"Dobierz i rozpatrz 1 kartę Znaleziska. Karty Znaleziska reprezentują niecodzienne zdarzenia, spotkania i niespodzianki podczas waszych podróży. Możecie je zdobywać, zakrywając pola [[ICON1]] na kartach Terenu. Dobierzcie i rozpatrzcie kartę, a następnie odrzućcie ją na stos kart odrzuconych. Karty Znaleziska zawsze zapewniają korzystne efekty, takie jak zdobywanie nowych Przedmiotów, Leczenie itd."
+201,DROP,
