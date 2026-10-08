@@ -1,0 +1,14 @@
+id,decision,pl_fixed
+177,FIX,"Czarne Kostki umieszczane są na Kartach Misji, aby zaznaczyć, że Akcja Misji została już wykonana i nie może zostać wykonana ponownie."
+189,FIX,"◆Jeśli efekt pozwala Powalonemu Bohaterowi odrzucić co najmniej jeden Żeton Rany ze swojej karty, tym samym przestaje on być Powalonym Bohaterem. Jego Figurkę należy podnieść i ustawić na Polu, na którym się znajduje. Żeton Aktywacji zostaje obrócony na zwykłą stronę i przesunięty o jeden Sektor przed Sektorem, w którym znajduje się Żeton Aktywacji Aktywnej Figurki (należy pamiętać, że nie jest to Sektor Horologium znajdujący się po Sektorze z Aktywną Figurką)."
+204,DROP,
+219,DROP,
+224,DROP,
+229,DROP,
+234,FIX,"◆Jeśli Test nie zakończy się Sukcesem, nie stosuje się efektu."
+253,DROP,
+255,FIX,"◆Musi być umieszczona w taki sposób, aby opierała się o ścianę Budynku."
+265,DROP,
+293,FIX,"◆Na koniec każdej Akcji Ruchu Bohater, który ją wykonał, musi rzucić [[ICON1]]. Po wykonaniu rzutu może wydać [[ICON2]], aby rzucić dodatkową [[ICON3]] za każdy wydany [[ICON4]]. Na przynajmniej jednej z wyrzuconych kości musi wypaść wynik równy lub wyższy od wartości wskazanej na polu znajdującym się bezpośrednio nad Żetonem Ukrycia na odpowiedniej Karcie Misji. W przeciwnym razie Żeton Ukrycia zostanie przesunięty o jedno pole w górę."
+314,DROP,
+321,FIX,◆[[ICON1]] zadana przez Żeton Statusu nie jest uznawana za zadaną przez żadną Figurkę (Bohaterowie nie otrzymują Punktów Heroicznych ani Klasowych za [[ICON2]] zadane przez Żetony Statusu).
