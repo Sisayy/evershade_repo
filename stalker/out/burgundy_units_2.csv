@@ -1,0 +1,34 @@
+id,decision,pl_fixed
+175,FIX,Ważne: Umieszczenie karczmy na danym obszarze zwiększa jego wielkość o 1. Obszar liczący 9 pól daje 45 punktów zwycięstwa.
+177,FIX,"Przykład: Kiedy wykładasz karczmę na obszarze o wielkości 4 pól, traktowany jest on tak, jakby miał 5 pól, a więc po jego zakryciu, da on 15 PZ, nie 10."
+184,FIX,"【B】PRZEBIEG GRY【/B】 Zastosowanie mają wszystkie podstawowe zasady, z wyjątkiem tej, że każda drużyna posiada 2 wspólne pola magazynowania heksów (w środkowej dolnej części planszy), a dodatkowo każdy z graczy ma 2 prywatne pola magazynowania heksów."
+185,FIX,"Wszystkie zasoby, poza kafelkami w prywatnych magazynach graczy (robotnicy, srebrne monety, dobra, wspólne heksy), są współdzielone przez obu graczy z danej drużyny i mogą być wykorzystywane przez dowolnego z nich."
+187,DROP,
+193,FIX,Przykład: Czarna kopalnia nie generuje srebrnych monet pod koniec fazy. Umieszczenie czarnego statku nie pozwala wziąć kafelków dóbr ani zapłacić 5 takich kafelków aby wziąć czarny heks.
+194,DROP,
+206,DROP,
+207,DROP,
+208,FIX,"【B】WINNICE【/B】 Rozszerzenie „Winnice” wprowadza podwójne heksy. Każdy taki heks ma 2 winorośle i zajmuje 2 pola z symbolem klucza. Łączenie winorośli tego samego typu pozwala na uzyskanie dużej liczby punktów zwycięstwa pod koniec gry. Im większy obszar przeznaczony na winorośl jednego typu, tym więcej punktów zwycięstwa można za niego uzyskać. Umieszczanie podwójnych heksów na planszach winnicy pozwala również wykonywać różne akcje premiowe."
+228,DROP,
+235,DROP,
+236,DROP,
+242,DROP,
+243,DROP,
+244,DROP,
+245,DROP,
+253,DROP,
+265,FIX,OPIS ELEMENTÓW CHÂTEAUMY
+290,DROP,
+292,FIX,"– Jeżeli w rezerwie nie ma żadnych dzikich heksów, Châteauma wybiera pierwszy dostępny heks z czarnego magazynu (pierwszy od lewej i od góry) i umieszcza go rewersem do góry na dzikim polu rezerwy (nie na wybranej karcie księstwa). Takie działanie nie aktywuje premii za umieszczenie heksa."
+299,DROP,
+310,DROP,
+324,DROP,
+325,DROP,
+326,DROP,
+333,DROP,
+334,DROP,
+335,FIX,– Użyj jednego zestawu 6 premiowych kafelków winorośli. Wybierz losowo jeden dla siebie przed utworzeniem puli kafelków winorośli.
+344,DROP,
+345,DROP,
+346,DROP,
+347,DROP,
