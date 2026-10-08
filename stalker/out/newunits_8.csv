@@ -1,0 +1,31 @@
+id,decision,pl_fixed
+4,FIX,"• Policzcie zebrane przez was Przedmioty (każdy Przedmiot jest wart 1 Kryształ). Weźcie odpowiednią liczbę żetonów Kryształów z puli i umieśćcie je w przegródce oznaczonej [[ICON1]]. Kiedy rozgrywacie Kampanię, możecie między rozgrywkami wydawać Kryształy przechowywane w przegródce [[ICON2]]."
+7,DROP,
+8,DROP,
+9,DROP,
+10,DROP,
+11,DROP,
+12,DROP,
+13,DROP,
+14,DROP,
+29,DROP,
+30,DROP,
+62,DROP,
+63,DROP,
+65,FIX,"÷ Ewolucja Pomocnika polega na wyborze między jednym dodatkowym znacznikiem uniwersalnym lub dobraniem wierzchniej karty z talii Ewolucji Pomocnika i umieszczeniem jej obok planszy Łowcy-Pomocnika. Pomocnik nie może używać Lamentu, by dobrać nowe karty Ewolucji."
+66,FIX,"Świat zaczął leczyć rany, a niektórzy naprawdę uwierzyli, że w końcu nadchodzą lepsze dni."
+72,DROP,
+81,FIX,"Przykładowo, możesz natychmiast umieścić dodatkowy heks w swoim księstwie, wziąć 2 robotników itp."
+89,DROP,
+93,DROP,
+95,DROP,
+101,DROP,
+102,DROP,
+104,FIX,"Połóż kafelek Wędrówki tak, aby co najmniej 1 jego krawędź przylegała do (ostatnio umieszczonego) pierwszego kafelka z prawej i żeby znajdował się on w obecnej pierwszej z prawej kolumnie z kafelkami i/lub dalej w prawo. Tworzy to ścieżkę kafelków postępującą w prawą stronę – czasem w górę lub w dół – ale 【B】nigdy w lewo【/B】. Kafelki nie mogą nachodzić na żadne komponenty ani wystawać poza siatkę pól utworzoną przez karty Terenu."
+117,DROP,
+125,DROP,
+130,FIX,"Obaj gracze wymieniają się swoimi planszami Połączonego Boga, umieszczając je obok swoich plansz Bogów, aby każdy z nich miał przed sobą obie zdolności połączonego Boga."
+135,DROP,
+136,DROP,
+149,DROP,
+173,FIX,"[[ICON1]] Gracz nie może wprowadzić do gry karty unikatowej, jeśli jej kopia (według nazwy) już znajduje się w grze."
