@@ -1,0 +1,43 @@
+id,decision,pl_fixed
+207,DROP,
+209,FIX,"3. Po rozpatrzeniu efektu odrzuć 【B】wszystkie Zasoby,【/B】 【B】które były wymagane【/B】 do rozpatrzenia efektu w tej Lokacji, o ile nie zaznaczono inaczej. Zasoby, które nie były potrzebne do rozpatrzonego efektu pozostają na Lokacji."
+211,DROP,
+212,DROP,
+225,DROP,
+249,FIX,"Wiele Przygód ma dodatkowe zasady dotyczące Wrogów, w tym żetonów Wrogów Mistycznych ( [[ICON1]])."
+253,FIX,"Przykrywa 2 [[ICON1]], więc dobiera 2 [[ICON2]] [[ICON3]] . Przykrywa również pole [[ICON4]], więc otrzymuje 1 [[ICON5]] [[ICON6]] . Nie udało jej się przykryć wszystkich [[ICON7]], więc przegrywa Walkę i dobiera 1 [[ICON8]] za każdy nieprzykryty [[ICON9]] (w sumie 1 [[ICON10]]) [[ICON11]] . Na koniec odrzuca kartę Wroga i wszystkie umieszczone na niej kafelki Ran, ale żeton Wroga pozostaje na Mapie."
+271,FIX,"【B】Przykład:【/B】 Daria rozpatruje akcję Walki. Zanim rzuci kośćmi, decyduje się użyć KAMIENIA VANIRÓW [[ICON1]] . Rzuca 1 dodatkową [[ICON2]] [[ICON3]] , dobiera 1 [[ICON4]] [[ICON5]] , a następnie odrzuca ten Przedmiot."
+275,DROP,
+282,FIX,2. Odwróćcie wszystkie żetony Akcji na stronę aktywną
+284,FIX,"4. Dobierzcie i rozpatrzcie nową kartę Wydarzenia [[ICON1]] . Zaczynając od talii kart Wydarzeń po lewej stronie, sprawdźcie warunki dobrania karty Wydarzenia. Jeśli warunki są spełnione, dobierzcie i odkryjcie kartę Wydarzenia, a następnie rozpatrzcie wszystkie z jej efektów natychmiastowych."
+286,DROP,
+288,FIX,[[ICON1]] Efekt Następnej fazy Wydarzenia.
+293,FIX,TO NIEBEZPIECZNY TEREN.
+317,FIX,"Jeśli zakrywacie cokolwiek przy użyciu [[ICON1]], jest to teraz uważane za niedostępne i nie możecie wchodzić z tym w interakcję (np. nie możecie korzystać z Lokacji, ani wykonywać akcji związanych ze znajdującymi się na niej Zasobami, Wrogami itd., dopóki jest na niej [[ICON2]])."
+318,FIX,"Jeśli w dowolnym momencie przykryjecie coś innym komponentem, traktujcie przykrywający komponent tak, jakby był tam nadrukowany."
+323,DROP,
+325,DROP,
+326,DROP,
+327,DROP,
+332,FIX,"W grze obecne są 4 typy Wrogów. Jeśli polecenie nakazuje wam Zwiększyć poziom żetonu Wroga, zastąpcie go żetonem Wroga o Sile +1 ( [[ICON1]]> [[ICON2]]> [[ICON3]]> [[ICON4]]). Jeśli musicie Zwiększyć poziom [[ICON5]], wszyscy Bohaterowie rozpatrują efekt Niespełnionych Wymagań (otrzymują 1 Ranę [[ICON6]])."
+340,DROP,
+341,DROP,
+342,DROP,
+343,DROP,
+344,DROP,
+345,DROP,
+356,DROP,
+361,DROP,
+362,DROP,
+363,DROP,
+364,DROP,
+373,DROP,
+374,DROP,
+375,DROP,
+376,DROP,
+386,DROP,
+388,FIX,"Wybierz żeton Wroga ( [[ICON1]]/ [[ICON2]]/ [[ICON3]]/ [[ICON4]]/ [[ICON5]]) w Lokacji w Obszarze, w którym się znajdujesz i dobierz wierzchnią kartę Wroga z odpowiadającej mu talii. Rzuć kośćmi pokazanymi na twojej tarczy Walki. Połóż wyrzucone kafelki Ran tak, aby przylegały do siebie i rozpatrz zakryte pola. Jeśli zakrywasz wszystkie [[ICON6]], odrzuć ten żeton Wroga. Jeśli nie, dobierz 1 [[ICON7]] za wszystkie niezakryte [[ICON8]]. Odrzuć kartę Wroga i wszystkie znajdujące się na niej kafelki Ran."
+390,FIX,Wybierz Przedmioty z Ekspozycji w liczbie równej lub mniejszej wartości akcji Rzemiosła. Możesz odrzucić 1 kartę z Ekspozycji. Następnie uzupełnij Ekspozycję.
+394,FIX,3. Rozpatrzcie efekt „Następnej fazy Wydarzenia” na odkrytej karcie Wydarzenia.
+403,FIX,"Następnie rozpatrz każde zakryte pole. Jeśli zakrywasz pole w kolumnie oznaczonej ikoną [[ICON1]] na pierwszej karcie z prawej, odkryj i dodaj nową kartę Terenu do Ścieżki Wędrówki. Dobierz bonus przedstawiony w jej rogu."
+406,FIX,"Połóż 1 żeton [[ICON1]] na dowolnej karcie Terenu. Żeton może być położony na dowolnej ikonie Zasobu lub [[ICON2]]. Następnie dobierz liczbę odpowiednich Zasobów równą wartości akcji Zbierania. Jeśli zakrywasz dowolne pole [[ICON3]], rozpatrz jego efekt 【B】raz【/B】."
