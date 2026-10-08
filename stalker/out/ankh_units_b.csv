@@ -1,0 +1,18 @@
+id,decision,pl_fixed
+139,DROP,
+147,FIX,"Przykład: Podczas Bitwy grający Izydą kontroluje 2 Piramidy, grający Amonem kontroluje 1 Świątynię i 1 Piramidę, a grający Ra kontroluje 1 Świątynię i 1 Obelisk."
+163,FIX,3. Na torze Uwielbienia przesuńcie żeton Ankh wyższego Boga i umieśćcie go na wierzchu żetonu Ankh pomniejszego Boga. Do końca gry te 2 żetony Ankh należy traktować jako całość i poruszają się one razem na torze Uwielbienia.
+174,FIX,"Przykład: To koniec 3. wydarzenia Konfliktu, a dwaj Bogowie na najniższych pozycjach na torze Uwielbienia to Amon i Ra. Teraz połączą się w jedną boską istotę (Amon-Ra). Ponieważ Ra jest na najniższej pozycji, Ra jest uważany za pomniejszego Boga, a Amon za wyższego Boga. Grający Ra niszczy wszystkie swoje Monumenty i usuwa z gry wszystkie swoje karty Bitwy, pulę żetonów Ankh i figurki, z wyjątkiem swojego Strażnika, który otrzymuje podstawkę koloru Amona. Wszystkich Wyznawców Ra przekażcie do puli Amona. Grający Ra dostosowuje swoje moce Ankh do mocy grającego Amonem. Grający Ra bierze planszę Połączony z Amonem, a grający Amonem bierze planszę Połączony z Ra. Na torze Uwielbienia grający Amonem przesuwa swój żeton Ankh w dół i umieszcza go na wierzchu żetonu Ankh grającego Ra. Te żetony Ankh będą teraz przesuwać się razem do końca gry."
+177,DROP,
+178,DROP,
+205,DROP,
+232,FIX,"Jeśli jednostka Izydy zostałaby zabita w tym samym czasie, co sąsiadująca z nią jednostka wroga, nadal uważa się ją za Chronioną."
+239,DROP,
+240,DROP,
+241,DROP,
+242,DROP,
+243,DROP,
+245,FIX,"© 2021 CMON Global Limited, wszystkie prawa zastrzeżone. Żadna część tego produktu nie może być kopiowana bez wyraźnej zgody. Guillotine Games oraz logo Guillotine Games są znakami towarowymi Guillotine Press Ltd. Ankh: Gods of Egypt, CMON oraz logo CMON są znakami towarowymi CMON Global Limited."
+249,FIX,"Jeśli Kocie Mumie zostaną zabite przez jakikolwiek efekt, WSZYSCY gracze, za wyjątkiem ich właściciela, natychmiast tracą po 1 punkcie Uwielbienia. Jeśli zdarzy się to podczas kroku Rozstrzygnięcie Bitwy, jest to rozpatrywane po tym, gdy gracze zyskają Uwielbienie z wygranej lub przegranej Bitwy, ale przed efektami, które następują po Rozstrzygnięciu Bitwy."
+252,DROP,
+273,DROP,
