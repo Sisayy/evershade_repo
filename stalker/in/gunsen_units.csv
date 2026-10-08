@@ -1,0 +1,299 @@
+﻿id,en,pl,sim
+1,Rules,Instrukcja,0.546
+2,Designed by Ben Rosset & Matthew O’Malley,Autorzy: Ben Rosset i Matthew O’Malley,0.851
+3,Table of Contents,Spis treści,0.853
+4,3 Shrine Tiles,3 kafelki świątyń,0.869
+5,3 Watchtower Tiles,3 kafelki strażnic,0.8
+6,4 Upgrade Tiles,4 żetony ulepszeń,0.797
+7,Armory,zbrojenie,0.569
+8,Expand,rozwój,0.439
+9,Recruit,rekrutacja,0.732
+10,6 Identical Battle Dice,6 identycznych kości walki,0.808
+11,76 Order Cards,76 kart rozkazów,0.87
+12,defender tokens),obrońca),0.697
+13,General Components . . . . . . . . . . 2–3,Elementy . . . . . . . . . . . . . . . . . . . . . 2–3,0.771
+14,4. Resolve Battle . . . . . . . . . . . 18–19 Full Battle Example . . . . . . . 20–21,4. Rozpatrzenie bitwy . . . . . . 18–19 Przykładowa bitwa . . . . . . 20–21,0.897
+15,5. End of Turn . . . . . . . . . . . . . . . . 22,5. Koniec tury . . . . . . . . . . . . . . . . 22,0.932
+16,3 Mercenary Hero Standees,3 żetony najemnych bohaterów na podstawkach,0.747
+17,"Take another order card, place it in any column, then activate that column.","Weź inną kartę z rzędu rozkazów, umieść ją w dowolnej kolumnie, a następnie aktywuj tę kolumnę.",0.85
+18,1. Choose an Order Card,1. Wybór karty rozkazu,0.922
+19,2. Place the Order Card 【B】3a.【/B】 Activate a Column 【B】OR【/B】 【B】3b.【/B】 Take a Noble Action,2. Umieszczenie karty rozkazu 【B】3a.【/B】 Aktywowanie kolumny 【B】ALBO【/B】 【B】3b.【/B】 Wykonanie akcji zwoju,0.879
+20,4. Resolve Battle,4. Rozpatrzenie bitwy,0.874
+21,5. End of Turn,5. Koniec tury,0.932
+22,Scorpion Clan,Klan Skorpiona,0.888
+23,"Before your first game, attach the hero standees to their bases and assemble the storage boxes.",Przed pierwszą rozgrywką należy umocować na podstawkach żetony z wizerunkami bohaterów i złożyć pudełka na elementy.,0.803
+24,PREPARE FOR BATTLE!,SZYKUJCIE SIĘ DO WALKI!,0.738
+25,13 Neutral Tactics Cards,13 neutralnych kart taktyki,0.882
+26,[[ICON1]]Innovation,[[ICON1]]Innowacja,0.955
+27,3 Mercenary Hero Cards,3 karty najemnych bohaterów,0.861
+28,30 Influence Resource Tokens,30 żetonów wpływu,0.757
+29,30 Koku Resource Tokens,30 żetonów monet koku,0.695
+30,30 Wood Resource Tokens,30 żetonów drewna,0.735
+31,3 Clan Hero Standees,3 żetony bohaterów klanu na podstawkach,0.81
+32,2 Building Tiles,2 kafelki budowli,0.893
+33,7 Achievement Markers,7 znaczników osiągnięć,0.939
+34,Scorpion,Klan Skorpiona,0.747
+35,Dragon,Klan Lwa,0.366
+36,12 Clan-Specific Cards,12 kart klanu,0.807
+37,Special Order Building,karty rozkazów specjalnych,0.467
+38,Tactics,karty taktyki,0.663
+39,15 Clan-Specific Troops,15 wojowników klanu,0.77
+40,Game Overview,Wprowadzenie,0.427
+41,"In Gunsen: The Battle for Toshi Ranbo, players take on the role of ambitious daimyō representing one of the seven Great Clans, recruiting samurai heroes, drafting powerful orders, and building their clan’s military might and strategic influence. Through tactical maneuvers and clever engine-building, they will strive to fulfill seven victory objectives—from capturing and holding the coveted castle to completing clan missions and claiming sacred locations.","W grze Gunsen: Bitwa o Toshi Ranbo każdy z graczy wciela się w rolę ambitnego daimyō, który reprezentuje jeden z siedmiu Wielkich Klanów. Podczas rozgrywki rekrutuje samurajów i wydaje rozkazy, aby zwiększać wpływy swojego klanu i budować jego potęgę wojskową. Poprzez taktyczne manewry wojskami i przemyślaną rozbudowę planszetki klanu każdy dąży do spełnienia siedmiu warunków zwycięstwa – od realizacji misji, przez zdobycie kontroli nad świątyniami, po przejęcie i utrzymanie kontroli nad Toshi Ranbo.",0.886
+42,"of the legendary fortress Toshi Ranbo. Once a strategic gem on the borderlands, the castle now stands at the heart of a war-torn battlefield, its banners contested by rival warlords seeking glory and vengeance. The air hums with the tension of drawn steel and elemental magic as ancient shrines smolder and village alliances shift like the wind. Only one clan will write its legend in the blood-soaked chronicles of Toshi Ranbo.","Rokugan stoi na skraju konfliktu. Wielkie Klany – Kraba, Żurawia, Smoka, Lwa, Feniksa, Skorpiona i Jednorożca – szykują się do walki o legendarną twierdzę Toshi Ranbo. Kiedyś była ona ważnym strategicznie miejscem na rubieżach, a dziś znajduje się w samym sercu pola bitwy i walczą o nią klany pragnące chwały i zemsty. Zewsząd słychać szczęk broni, atmosferę przepełnia magia żywiołów. Dym unosi się znad pradawnych świątyń, a sojusze z wioskami są zmienne niczym wiatr. Tylko jeden klan zapisze się na przesiąkniętych krwią kartach historii Toshi Ranbo.",0.756
+43,Achievements,osiągnięcia,0.864
+44,Territory,terytorium,0.856
+45,Player Count Indicator,oznaczenie liczby graczy,0.751
+46,Toshi Ranbo,terytorium Toshi Ranbo,0.781
+47,General Setup for 2–3 Players,Przygotowanie rozgrywki 2- i 3-osobowej,0.667
+48,"1[[ICON1]] Place the main board in the middle of the table, using the side indicated for 2–3 players.",1[[ICON1]] Planszę główną należy położyć na środku stołu z widoczną stroną przeznaczoną do rozgrywki 2- i 3-osobowej.,0.834
+49,"3[[ICON1]] Place the battle dice, the battle tracking tokens, and the battle board near the main board.","3[[ICON1]] Obok planszy głównej należy położyć kości walki, znaczniki walki i licznik walki.",0.851
+50,4[[ICON1]] Place the 3 mercenary hero cards and their 3 standees near the main board.,4[[ICON1]] Obok planszy głównej należy wyłożyć 3 karty najemnych bohaterów i 3 odpowiadające im żetony.,0.868
+51,5[[ICON1]] Place the Toshi Ranbo tile uncontrolled side up and the 【B】expand【/B】 upgrade tile on the Toshi Ranbo territory.,5[[ICON1]] Na terytorium Toshi Ranbo należy umieścić kafelek Toshi Ranbo stroną początkową do góry oraz żeton 【B】ulepszenia rozwoju【/B】.,0.788
+52,6[[ICON1]] Place 2 watchtower tiles on the indicated watchtower territories; return the unplaced tile to the game box.,6[[ICON1]] Na 2 terytoriach strażnic należy umieścić po kafelku strażnicy. Niewykorzystany kafelek odkłada się do pudełka.,0.803
+53,7[[ICON1]] Randomly place 1 shrine tile faceup on each of the 2 indicated shrine territories; return the unplaced tile to the game box. Place the 2 matching upgrade tiles on the shrine tiles.,7[[ICON1]] Na 2 terytoriach świątyń należy umieścić po 1 losowym odkrytym kafelku świątyni. Niewykorzystany kafelek odkłada się do pudełka. Na kafelkach świątyń należy umieścić odpowiadające im żetony ulepszeń.,0.806
+54,8[[ICON1]] Randomly place 1 village token resource side down on each of the indicated village territories (7 total). Return any unused village tokens to the game box.,8[[ICON1]] Na 7 terytoriach wiosek należy umieścić po 1 losowym zakrytym żetonie wioski. Niewykorzystane żetony wiosek odkłada się do pudełka.,0.794
+55,"9[[ICON1]] Create the order deck based on your player count: Return order cards showing 5/6 to the game box, then shuffle all the remaining order cards into a deck. Deal 5 faceup cards on the order row spots on the main board. Place the deck on the deck spot beside the row.","9[[ICON1]] Należy utworzyć talię rozkazów odpowiednio do liczby graczy: karty z oznaczeniem „5/6” odkłada się do pudełka, a pozostałe karty się tasuje i tworzy z nich talię. Następnie należy wyłożyć 5 odkrytych kart na pola rzędu rozkazów na planszy głównej. Talię rozkazów należy położyć zakrytą na polu na talię obok rzędu rozkazów.",0.889
+56,Order cards used in a 5- or 6-player game have this marking.,Karty rozkazów używane tylko w rozgrywce 5- i 6-osobowej są oznaczone w ten sposób.,0.769
+57,General Setup for 4–6 Players,"Przygotowanie rozgrywki 4-, 5- i 6-osobowej",0.656
+58,"1[[ICON1]] Place the main board in the middle of the table, using the side indicated for 4–6 players.","1[[ICON1]] Planszę główną należy położyć na środku stołu z widoczną stroną przeznaczoną do rozgrywki 4-, 5- i 6-osobowej.",0.806
+59,"3[[ICON1]] Place the battle dice, the battle tracking tokens, and the battle board near the main board.","3[[ICON1]] Obok planszy głównej należy położyć kości walki, znaczniki walki i licznik walki.",0.851
+60,4[[ICON1]] Place the 3 mercenary hero cards and their 3 standees near the main board.,4[[ICON1]] Obok planszy głównej należy wyłożyć 3 karty najemnych bohaterów i 3 odpowiadające im żetony.,0.868
+61,5[[ICON1]] Place the Toshi Ranbo tile uncontrolled side up and the 【B】expand【/B】 upgrade tile on the Toshi Ranbo territory.,5[[ICON1]] Na terytorium Toshi Ranbo należy umieścić kafelek Toshi Ranbo stroną początkową do góry oraz żeton 【B】ulepszenia rozwoju【/B】.,0.788
+62,6[[ICON1]] Place the 3 watchtower tiles on the indicated watchtower territories.,6[[ICON1]] Na 3 terytoriach strażnic należy umieścić po kafelku strażnicy.,0.845
+63,"7[[ICON1]] Randomly place 1 shrine tile faceup on each of the indicated shrine territories. Place the 【B】armory【/B】, 【B】recruit【/B】, and 【B】influence【/B】 upgrade tiles on their matching shrine tiles.","7[[ICON1]] Na 3 terytoriach świątyń należy umieścić po 1 losowym odkrytym kafelku świątyni. Na kafelkach świątyń należy umieścić odpowiadające im żetony ulepszeń: 【B】zbrojenia【/B】, 【B】rekrutacji【/B】 i 【B】wpływu【/B】.",0.766
+64,8[[ICON1]] Randomly place 1 village token resource side down on each of the indicated village territories (10 total). Return any unused village tokens to the game box.,8[[ICON1]] Na 10 terytoriach wiosek należy umieścić po 1 losowym zakrytym żetonie wioski. Niewykorzystane żetony wiosek odkłada się do pudełka.,0.796
+65,"9[[ICON1]] Create the order deck based on your player count: In a 4-player game, return the order cards showing 5/6 to the game box, then shuffle the remaining order cards into a deck; in a 5- or 6-player game, shuffle all the order cards into a deck. Then deal 5 faceup cards in a row near the main board. Place the deck facedown near the row.","9[[ICON1]] Należy utworzyć talię rozkazów odpowiednio do liczby graczy: w rozgrywce 4-osobowej karty z oznaczeniem „5/6” odkłada się do pudełka, a pozostałe karty się tasuje i tworzy z nich talię; w rozgrywce 5- i 6-osobowej talię tworzy się z wszystkich kart rozkazów. Następnie należy wyłożyć 5 odkrytych kart w rzędzie obok planszy – tworzą rząd rozkazów. Talię rozkazów należy położyć zakrytą obok rzędu rozkazów.",0.887
+66,Order cards used in a 5- or 6-player game have this marking.,Karty rozkazów używane tylko w rozgrywce 5- i 6-osobowej są oznaczone w ten sposób.,0.769
+67,Clan Setup,Przygotowanie klanów,0.717
+68,"1. Randomly choose a first player. Starting with the first player and proceeding clockwise, each player chooses a clan and takes the following components specific to that clan:","1. Należy losowo wybrać pierwszego gracza. Zaczynając od pierwszego gracza, a potem zgodnie z kierunkiem ruchu wskazówek zegara, każdy gracz wybiera klan i bierze następujące elementy tego klanu:",0.914
+69,2. Place your clan board in front of you with all of your clan-specific components on the indicated spots.,2. Każdy gracz kładzie planszetkę klanu przed sobą i rozmieszcza elementy swojego klanu na wskazanych polach.,0.713
+70,3. Place your fort tile on the main board. Place it on the fort location physically closest to you.,"3. Każdy gracz umieszcza swój kafelek fortu na planszy głównej na dostępnym polu fortu, które ma najbliżej.",0.721
+71,"4. Starting with the first player and proceeding clockwise, each player takes the following resource tokens and places them on their clan board, then they place the following number of troops on their fort tile:","4. Zaczynając od pierwszego gracza, a potem zgodnie z kierunkiem ruchu wskazówek zegara, każdy gracz bierze wskazaną liczbę żetonów zasobów i kładzie je na swojej planszetce klanu, a następnie umieszcza na swoim kafelku fortu wskazaną liczbę wojowników z planszetki klanu:",0.895
+72,You are now ready to start the game!,Można zaczynać rozgrywkę!,0.818
+73,Clan Card Types,Rodzaje kart klanu,0.917
+74,Clan Board Features,Planszetka klanu,0.558
+75,Hero Cards x 3,3 karty bohaterów,0.693
+76,"[[ICON1]] If you have fewer troops here than your opponent when a battle starts here, each of your troops counts as [[ICON2]] [[ICON3]] instead of [[ICON4]].","[[ICON1]] Jeśli na początku bitwy masz tu mniej wojowników niż przeciwnik, każdy Twój wojownik zapewnia [[ICON2]] [[ICON3]] (zamiast [[ICON4]]).",0.79
+77,Tactics Cards x 2,2 karty taktyki,0.739
+78,[[ICON1]]Siege Warfare,[[ICON1]]Wojna oblężnicza,0.82
+79,Special Order Cards x 2,2 karty rozkazów specjalnych,0.688
+80,Master Builders,Mistrz budowniczy,0.819
+81,Building Cards x 2,2 karty budowli,0.691
+82,[[ICON1]]Fortifications,[[ICON1]]Fortyfikacje,0.873
+83,"【B】Control:【/B】 You can recruit troops here. Whenever you are in a battle, [[ICON1]] for each clan building you control.","【B】Kontrola:【/B】 Możesz tu rekrutować i wycofywać wojowników. W każdej bitwie otrzymujesz [[ICON1]] za każdą budowlę klanu, którą kontrolujesz.",0.827
+84,Goal Cards x 3,3 karty celów,0.632
+85,Defenders of Rokugan,Obrońcy Rokuganu,0.902
+86,Control a shrine territory and 2 territories adjacent to that shrine. Each territory must have 2 or more troops present.,Kontroluj terytorium świątyni i 2 terytoria sąsiadujące z tą świątynią. Na każdym z nich musisz mieć co najmniej 2 wojowników.,0.842
+87,It is recommended to sort your cards by type and keep them in hand or within easy reach. Clan cards are all public information. (Keep neutral tactics cards dealt to you hidden from other players.),"Karty warto ułożyć według rodzaju i trzymać je w takim miejscu, aby mieć do nich łatwy dostęp. Wszystkie karty klanu są jawne. Neutralnych kart taktyki otrzymanych podczas przygotowania do rozgrywki nie należy pokazywać pozostałym graczom.",0.818
+88,1. Choose an Order Card,1. Wybór karty rozkazu,0.922
+89,2. Place the Order Card 【B】3a.【/B】 Activate a Column 【B】OR【/B】 【B】3b.【/B】 Take a Noble Action,2. Umieszczenie karty rozkazu 【B】3a.【/B】 Aktywowanie kolumny 【B】ALBO【/B】 【B】3b.【/B】 Wykonanie akcji zwoju,0.879
+90,4. Resolve Battle,4. Rozpatrzenie bitwy,0.874
+91,5. End of Turn,5. Koniec tury,0.932
+92,Crab Clan,Klan Kraba,0.806
+93,"[[ICON1]]Order Card Spots, located above columns",[[ICON1]]miejsca na karty rozkazów (nad kolumnami),0.717
+94,Golden Rule,Złota zasada,0.895
+95,Goal Cards: [[ICON1]],Karty celów: [[ICON1]],0.904
+96,Winning the Game,Warunki zwycięstwa,0.629
+97,Win a Battle As the Attacker,Wygranie bitwy jako napastnik.,0.839
+98,Gain Control of Toshi Ranbo,Zdobycie kontroli nad Toshi Ranbo.,0.725
+99,Perform a Clan-Specific Goal,Zrealizowanie celu klanu.,0.63
+100,(You may complete 2 different goal cards.),"(Takie osiągnięcie można zdobyć 2 razy, realizując 2 różne cele).",0.702
+101,Control 2 Shrine Territories at the Same Time,Kontrolowanie 2 terytoriów świątyń jednocześnie.,0.767
+102,(Must have 1 or more troops at each.),(Na każdym musisz mieć co najmniej 1 wojownika).,0.822
+103,Build 2 Buildings,Zbudowanie 2 budowli.,0.831
+104,Use All 3 Noble Actions,Wykonanie 3 akcji zwoju.,0.601
+105,Have 3 Village Tokens on Your Clan Board,Zebranie 3 żetonów wiosek na swojej planszetce klanu.,0.78
+106,Maintain Control of Toshi Ranbo,Utrzymanie kontroli nad Toshi Ranbo,0.862
+107,Buy 3 Tactics,Kupienie 3 kart taktyki.,0.792
+108,"Place the achievement marker in the Toshi Ranbo territory. This achievement, unlike the others, is lost if you no longer have troops in Toshi Ranbo. If lost, return the marker to your clan board.","Gracz, który zdobędzie kontrolę nad Toshi Ranbo, umieszcza znacznik osiągnięcia także na kafelku Toshi Ranbo. To osiągnięcie działa jednak inaczej niż pozostałe – gracz utraci je, jeśli nie będzie już mieć żadnych wojowników w Toshi Ranbo. W takiej sytuacji odkłada znacznik z kafelka Toshi Ranbo z powrotem na swoją planszetkę klanu.",0.813
+109,"◊When you have met the requirements for an achievement, place 1 of your achievement markers on the main board in the space for that achievement. The first player to place all 7 of their achievement markers wins the game immediately.","◊Gdy gracz spełni wymagania osiągnięcia, umieszcza 1 ze swoich znaczników osiągnięć na planszy głównej na polu tego osiągnięcia. Gracz, który jako pierwszy umieści 7 swoich znaczników osiągnięć, natychmiast wygrywa rozgrywkę.",0.934
+110,◊You gain an achievement as soon as you meet the requirement.,◊Gracz zdobywa osiągnięcie natychmiast po spełnieniu jego wymagań.,0.812
+111,"◊You can gain multiple achievements in a single turn, but you can put only 1 of your markers in each achievement space.","◊Gracz może zdobyć kilka osiągnięć w 1 turze, ale na każdym polu osiągnięcia może mieć tylko 1 swój znacznik.",0.885
+112,◊Multiple players can gain the same achievement. Stack their markers on top of each other.,◊Kilkoro graczy może zdobyć to samo osiągnięcie. Znaczniki osiągnięć kładzie się wtedy jeden na drugim.,0.898
+113,[[ICON1]]Achievements Details,[[ICON1]]Osiągnięcia,0.607
+114,The first clan to complete 7 achievements wins.,"Zwycięży klan, który jako pierwszy zdobędzie 7 osiągnięć.",0.814
+115,"Play begins with the first player and proceeds clockwise. On your turn, follow these 5 steps in order.",Rozgrywkę rozpoczyna pierwszy gracz. Następnie gracze rozgrywają tury zgodnie z kierunkiem ruchu wskazówek zegara. W swojej turze gracz wykonuje po kolei 5 kroków.,0.846
+116,1. Choose an Order Card,1. Wybór karty rozkazu,0.922
+117,4. Resolve Battle (if a battle has been triggered) (pp. 18–19),4. Rozpatrzenie bitwy (jeśli została zainicjowana) (str. 18–19),0.914
+118,5. End of Turn (p. 22),5. Koniec tury (str. 22),0.948
+119,1. Place it faceup above your clan board at the top of the column matching the color of the card to activate that column. (See next page.),"1. Umieszcza ją odkrytą powyżej swojej planszetki klanu na górze kolumny tego samego koloru, aby aktywować tę kolumnę (zob. następna strona).",0.881
+120,2. Place it facedown on top of a noble action spot at the bottom of your clan board and pay the required influence to take 1 of your available noble actions. (See p. 17.),"2. Umieszcza ją zakrytą poniżej swojej planszetki klanu przy 1 z dostępnych akcji zwoju i opłaca wskazany koszt w żetonach wpływu, aby wykonać tę akcję (zob. str. 17).",0.783
+121,2 Place the Order Card,2 Umieszczenie karty rozkazu,0.903
+122,Clearing the Order Card Row,Odświeżenie rzędu rozkazów,0.625
+123,"Before choosing an order card, you may optionally discard all 5 order cards if 4 or more of the cards either ◊are the same color, OR","Przed wyborem karty gracz może odrzucić wszystkie karty z rzędu rozkazów, jeśli co najmniej 4 karty:",0.739
+124,◊have a resource cost.,◊są tego samego koloru ALBO,0.317
+125,"If you do, draw replacement order cards from the deck to refill the row. In the unlikely event that there are not enough order cards to refill the row, shuffle the discarded orders and form a new deck.","Jeśli to zrobi, po odrzuceniu kart uzupełnia rząd rozkazów, wykładając nowe karty z talii rozkazów. Jeśli w talii rozkazów zabraknie kart, aby uzupełnić rząd rozkazów, należy potasować odrzucone karty rozkazów i utworzyć nową talię.",0.808
+126,1 Choose an Order Card,1 Wybór karty rozkazu,0.927
+127,【B】Resource Cost:【/B】 Pay 1 influence or 1 wood to take this card.,"【B】Koszt w zasobach.【/B】 Aby wziąć tę kartę, gracz musi wydać 1 żeton wpływu albo 1 żeton drewna.",0.792
+128,Order Card,karta rozkazu,0.794
+129,Resources,otrzymywane zasoby,0.64
+130,Key Terms,Kluczowe pojęcia,0.818
+131,【B】Army:【/B】 A group of 1 or more troops from the same clan in a single territory.,"【B】Armia.【/B】 Grupa wojowników tego samego klanu na pojedynczym terytorium, składająca się z co najmniej 1 wojownika.",0.861
+132,"【B】Control:【/B】 You control any territory where only you have an army. You also control your clan buildings, even without troops, until taken by an opponent.","【B】Kontrola.【/B】 Gracz kontroluje terytorium, jeśli znajduje się na nim tylko jego armia. Gracz kontroluje też budowle swojego klanu, nawet bez wojowników, dopóki nie przejmą ich przeciwnicy.",0.87
+133,【B】Clan Buildings:【/B】 The unique buildings and camp buildings (circle-shaped tiles) each clan can build.,"【B】Budowle klanu.【/B】 Unikatowe budowle i obozy, które mogą zostać zbudowane przez poszczególne klany. Reprezentują je okrągłe kafelki.",0.872
+134,Example – Activating the Expand Column:,Przykład aktywowania kolumny rozwoju:,0.81
+135,"You take the 2 [[ICON1]] card (paying its cost), then tuck it behind the corresponding column color. Then you activate the column.",Gracz wybrał kartę rozkazu zapewniającą 2 [[ICON1]] i po opłaceniu jej kosztu wsunął ją pod wcześniej umieszczoną kartę w kolumnie odpowiedniego koloru. Następnie aktywuje tę kolumnę.,0.755
+136,C[[ICON1]] You gain 1 [[ICON2]] 【B】or【/B】 1 D[[ICON3]] You can buy buildings with [[ICON4]].,C[[ICON1]] Gracz otrzymuje 1 [[ICON2]] 【B】albo【/B】 1 D[[ICON3]] Gracz może zbudować budowle za [[ICON4]].,0.771
+137,E[[ICON1]] You can buy tactics with,E[[ICON1]] Gracz może kupić karty taktyki za,0.71
+138,EXPAND,ROZWÓJ,0.555
+139,EXPAND,ROZWÓJ,0.555
+140,RECRUIT,REKRUTACJA,0.817
+141,INFLUENCE,WPŁYW,0.629
+142,ARMORY,ZBROJENIE,0.52
+143,"If, during the previous step, you placed an order card faceup at the top of a column, you now activate that column.","Jeśli w poprzednim kroku gracz umieścił odkrytą kartę powyżej swojej planszetki na górze kolumny, aktywuje teraz tę kolumnę.",0.786
+144,"Activate the column from top to bottom, starting with the order card you just placed. Each card and each action printed on the clan board in that column will be activated.","Kolumnę aktywuje się od góry do dołu: gracz zaczyna od właśnie umieszczonej karty rozkazu, potem aktywuje kolejno karty, które były umieszczone w tej kolumnie wcześniej, a następnie każdą akcję wskazaną w danej kolumnie na planszetce klanu.",0.736
+145,"【B】Note:【/B】 Cards stay for the whole game, and you will activate older cards every time you activate the column.",【B】Uwaga!【/B】 Karty pozostają nad planszą do końca rozgrywki. Gracz będzie je aktywować w ramach każdego aktywowania kolumny.,0.824
+146,3a Activate a Column,3a Aktywowanie kolumny,0.908
+147,Recruiting,Rekrutacja,0.946
+148,"When you activate your 【B】recruit【/B】 column, you can place new troops from your clan board on your fort tile or on a territory containing any clan building you control. You can split multiple recruits between multiple locations. You are limited to a total of 15 troops in play.","Gdy gracz aktywuje kolumnę 【B】rekrutacji【/B】, może umieścić nowych wojowników z planszetki klanu na swoim kafelku fortu albo na terytorium z dowolną budowlą klanu, którą kontroluje. Zrekrutowanych wojowników można rozdzielić między kilka miejsc. Gracz może mieć w grze maksymalnie 15 wojowników.",0.881
+149,Important!,Ważne!,0.979
+150,You may perform this action as many times as you can afford.,"Możesz wykonać daną akcję tyle razy, na ile Cię stać.",0.89
+151,Column Actions,Akcje w kolumnach,0.832
+152,Building,Budowanie,0.895
+153,"When you activate your 【B】expand【/B】 column, you may build 1 or both of your clan’s buildings. There are 2 kinds of clan buildings:","Gdy gracz aktywuje kolumnę 【B】rozwoju【/B】, może zbudować swoje obydwie budowle klanu albo 1 z nich. Są 2 rodzaje budowli klanu:",0.861
+154,Building Card,karta budowli,0.755
+155,Build Cost,koszt budowy,0.863
+156,Effect,efekt,0.889
+157,"For each clan building you build, pay the cost in [[ICON1]]shown on the building card; place the building card on your clan board, covering 1 of the 2 spots for buildings; then place the building tile on the main board in a territory, adhering to the following restrictions:","Za każdą budowaną budowlę klanu gracz opłaca koszt w [[ICON1]]wskazany na karcie budowli, po czym kładzie tę kartę na 1 z 2 miejsc na karty budowli poniżej swojej planszetki klanu. Następnie umieszcza kafelek budowli na planszy głównej na terytorium spełniającym opisane niżej warunki.",0.822
+158,[[ICON1]]You may build a building in territories,[[ICON1]]Gracz może zbudować budowlę na terytorium:,0.721
+159,"◊where you have an army, ◊ adjacent to where you have an army, or ◊adjacent to your fort.","◊na którym ma swoją armię albo ◊ które sąsiaduje z jego armią, albo ◊które sąsiaduje z jego fortem.",0.844
+160,"Lion cannot build in any territory that contains enemy troops, a village token, [[ICON1]]a shrine, a watchtower, a fort, or Toshi Ranbo, or in any territory not adjacent to or occupied by their troops.","[[ICON1]]Nie może wybrać terytorium, na którym jest wroga armia, żeton wioski, świątynia, strażnica, fort czy Toshi Ranbo, ani żadnego terytorium, na którym nie ma jego armii albo które nie sąsiaduje z jego armią.",0.795
+161,The player that controls its territory gains its benefits. Your clan’s unique building card explains its effects.,"Gracz, który kontroluje terytorium z tą budowlą, korzysta z jej efektu. Efekty unikatowych budowli klanów są opisane na ich kartach.",0.801
+162,◊Each clan’s unique building has a unique effect.,◊Każda unikatowa budowla ma inny efekt.,0.836
+163,◊You can recruit or retreat to camps you control.,"◊Gracz może rekrutować i wycofywać wojowników do obozu, który kontroluje.",0.759
+164,◊Opponents can gain control of your camp and its benefits.,◊Przeciwnicy mogą przejąć kontrolę nad obozem gracza i korzystać z jego efektu.,0.744
+165,"For each movement earned when activating your 【B】armory【/B】, 【B】recruit【/B】, or 【B】influence【/B】 columns, you may move an army from 1 territory to 1 adjacent territory.","Za każdy ruch uzyskany podczas aktywowania kolumny 【B】zbrojenia【/B】, 【B】rekrutacji【/B】 albo 【B】wpływu【/B】 gracz może przemieścić armię z 1 terytorium na 1 sąsiadujące terytorium.",0.887
+166,Note:,Zasady:,0.52
+167,◊An army is a group of 1 or more of your troops in the same territory.,"◊Armia to grupa wojowników gracza na pojedynczym terytorium, składająca się z co najmniej 1 wojownika.",0.789
+168,◊No more than 5 troops from a single clan can be in the same territory (except at forts and camps).,◊Na pojedynczym terytorium może się znajdować maksymalnie 5 wojowników z tego samego klanu (to ograniczenie nie dotyczy fortów i obozów).,0.927
+169,◊You can split up an army by moving some troops out of a territory and leaving some behind.,"◊Można rozdzielać armię. Gracz może przemieścić niektórych wojowników z danego terytorium, a niektórych na nim zostawić.",0.887
+170,"◊You may purchase as much extra movement as you can afford based on the column activated. For example, you could pay 2 [[ICON1]] to gain 2 extra movement if you activate your 【B】influence【/B】 column.","◊Gracz może kupić tyle dodatkowych ruchów, na ile go stać, opłacając koszt wskazany w aktywowanej kolumnie. Na przykład, gdy gracz aktywuje kolumnę 【B】wpływu【/B】, może wydać 2 [[ICON1]], aby kupić 2 dodatkowe ruchy.",0.843
+171,◊You must finish a movement before taking another movement.,"◊Każdy ruch rozpatruje się osobno. Gracz musi zakończyć rozpatrywanie bieżącego ruchu, zanim rozpatrzy kolejny ruch.",0.721
+172,Movement,Ruch,0.777
+173,[[ICON1]]Hero’s Journey,[[ICON1]]Droga bohatera,0.827
+174,Recruit a hero from your clan.,Zrekrutuj bohatera swojego klanu.,0.82
+175,Tactics Card,karta taktyki,0.807
+176,Effect,efekt,0.889
+177,"When you activate your 【B】expand【/B】 column, you may buy 1 or more of your tactics cards. You have 2 clan-specific tactics and 2 neutral tactics, received during setup, to choose from. For each tactics card you buy, pay the cost in [[ICON1]] shown on the card, then place it on your clan board, covering 1 of the 3 spots for tactics. You are limited to a maximum of 3 tactics during the game. Some tactics cards recruit heroes when acquired. (See p. 17 for rules on heroes.)","Gdy gracz aktywuje kolumnę 【B】rozwoju【/B】, może kupić 1 albo więcej swoich kart taktyki. Gracz wybiera spośród 2 kart taktyki klanu i 2 neutralnych kart taktyki, które otrzymał podczas przygotowania rozgrywki. Za każdą kupowaną kartę taktyki gracz opłaca koszt w [[ICON1]] wskazany na danej karcie, a następnie kładzie ją na 1 z 3 miejsc na karty taktyki po prawej stronie swojej planszetki klanu. Gracz może kupić maksymalnie 3 karty taktyki w trakcie rozgrywki. Niektóre karty taktyki pozwalają po kupieniu zrekrutować bohatera (zob. Bohaterowie na str. 17).",0.888
+178,"[[ICON1]] Once you have bought 3 tactics, you earn an achievement (see p. 10).","[[ICON1]] Gdy gracz kupi 3 karty taktyki, zdobywa osiągnięcie (zob. str. 10).",0.85
+179,INFLUENCE,WPŁYW,0.629
+180,Movement Using Watchtowers,Przemieszczanie z wykorzystaniem strażnic,0.696
+181,◊ You may transport an army this way only just before or just after each movement you use.,◊ Armię można przenieść w ten sposób tylko bezpośrednio przed albo bezpośrednio po każdym ruchu.,0.894
+182,◊ The army must begin on a watchtower territory or on your fort tile.,"◊ Armia, która zostanie przeniesiona, musi się znajdować na terytorium strażnicy albo na kafelku fortu.",0.81
+183,◊ The army must go to a different watchtower or to your fort (not an opponent’s fort or an unused fort).,◊ Armia może zostać przeniesiona do innej strażnicy albo do fortu swojego klanu (nie można jej przenieść do fortu innego klanu ani na nieużywane pole fortu).,0.818
+184,Moving into Shrines,Ruch do świątyń,0.749
+185,"[[ICON1]] If you control 2 shrine territories, you earn an achievement (see p. 10).","[[ICON1]] Jeśli gracz kontroluje 2 terytoria świątyń jednocześnie, zdobywa osiągnięcie (zob. str. 10).",0.827
+186,Recruit Shrine,świątynia rekrutacji,0.683
+187,Armory Shrine,świątynia zbrojenia,0.687
+188,Armory Upgrade Tile,żeton ulepszenia:,0.297
+189,Influence Shrine,świątynia wpływu,0.747
+190,Moving into Toshi Ranbo,Ruch do Toshi Ranbo,0.832
+191,Toshi Ranbo is a special territory in the center of the main board. The first player to move an army into Toshi Ranbo must have at least 5 strength ( [[ICON1]]) in that army A[[ICON2]] . The army’s [[ICON3]] is the number of troops in the army plus any [[ICON4]] printed on heroes with that army and on order cards on your clan board.,"Toshi Ranbo to specjalne terytorium na środku planszy głównej. Jeśli kafelek Toshi Ranbo jest odwrócony stroną początkową do góry, armia, która chce wejść do Toshi Ranbo, musi mieć siłę ( [[ICON1]]) co najmniej 5 A[[ICON2]] . Aby obliczyć siłę armii, należy zsumować liczbę wojowników w tej armii z liczbą symboli [[ICON3]] z bohatera w tej armii i liczbą symboli [[ICON4]] z kart rozkazów umieszczonych nad planszetką klanu gracza.",0.893
+192,"[[ICON1]]Place another achievement marker on the Toshi Ranbo tile D[[ICON2]] . This achievement counts toward your total 7 achievements; however, this achievement is lost as soon as you no longer have an army in Toshi Ranbo. (See Maintain Control of Toshi Ranbo on p. 10.)","[[ICON1]] Gracz umieszcza też znacznik osiągnięcia na kafelku Toshi Ranbo D[[ICON2]] . To osiągnięcie liczy się do sumy 7 osiągnięć. Gracz utraci je jednak, jeśli przestanie kontrolować Toshi Ranbo (zob. Utrzymaj kontrolę nad Toshi Ranbo, str. 10).",0.831
+193,Note:,Zasady:,0.52
+194,"◊When defending Toshi Ranbo, gain an additional 1 [[ICON1]] and 1 [[ICON2]] during battles there (see Resolve Battle on pp. 18–19) E[[ICON3]] .","◊W Toshi Ranbo obrońca otrzymuje podczas bitwy dodatkowo 1 [[ICON1]] i 1 [[ICON2]] (zob. Rozpatrzenie bitwy, str. 18–19) E[[ICON3]] .",0.893
+195,Uncontrolled Side,strona początkowa,0.322
+196,Moving into Villages,Ruch do wiosek,0.74
+197,"[[ICON1]] If you have 3 village tokens, you earn an achievement (see p. 10).","[[ICON1]] Jeśli gracz ma 3 żetony wiosek, zdobywa osiągnięcie (zob. str. 10).",0.818
+198,Special Orders [[ICON1]],Rozkazy specjalne [[ICON1]],0.847
+199,"When you use your [[ICON1]] [[ICON2]] noble action, choose 1 of your special order cards and place it in the matching column, activating that column from top to bottom as normal.","Gdy gracz wykonuje akcję zwoju [[ICON1]] [[ICON2]], wybiera 1 ze swoich kart rozkazów specjalnych i umieszcza ją w kolumnie tego samego koloru, a następnie aktywuje tę kolumnę zgodnie ze standardowymi zasadami (od góry do dołu).",0.741
+200,◊Some special order cards feature all 4 column colors. You may place such a card in any 1 column.,◊Niektóre karty rozkazów specjalnych mają 4 kolory. Taką kartę można umieścić w dowolnej kolumnie.,0.898
+201,◊Some special order cards have a one-time effect and are discarded.,◊Niektóre karty rozkazów specjalnych mają efekt jednorazowy i są odrzucane.,0.923
+202,◊The “Innovation” neutral tactics card also allows you to place a special order card.,◊Neutralna karta taktyki Innowacja też pozwala umieścić w kolumnie kartę rozkazu specjalnego.,0.837
+203,Heroes,Bohaterowie,0.924
+204,◊Heroes do not count toward the limit of 5 troops per territory.,◊Bohaterowie nie liczą się do limitu 5 wojowników na terytorium.,0.903
+205,◊You can never lose a hero.,◊Nie można stracić bohatera.,0.905
+206,◊You cannot have more than 1 hero you control in the same territory (other than your fort).,◊Na pojedynczym terytorium może się znajdować maksymalnie 1 bohater kontrolowany przez danego gracza (to ograniczenie nie obowiązuje w forcie).,0.815
+207,"[[ICON1]] Once you have used all 3 noble actions, you earn an achievement (see p. 10).","[[ICON1]] Gdy gracz wykona 3 akcje zwoju, zdobywa osiągnięcie (zob. str. 10).",0.75
+208,"The secretive Daidoji Harriers use sabotage, assassination, and forgery to end battles before they begin.","Działający potajemnie dywersanci Daidoji posuwają się sabotażu, zabójstw czy fałszerstw, by zwyciężyć nim jeszcze dojdzie do bitwy.",0.719
+209,Effect Details,opis efektu,0.704
+210,Effect,efekt,0.889
+211,3b Take a Noble Action [[ICON1]],3b Wykonanie akcji zwoju [[ICON1]],0.805
+212,Diplomacy,Dyplomacja,0.516
+213,Special Order Card,karta rozkazu specjalnego,0.813
+214,Effect,efekt,0.889
+215,Effect Details,opis efektu,0.704
+216,【B】Cost 1 Influence:【/B】 Choose another card from the order row (paying any costs) and place it on any column of your clan board (even if the color does not match). Activate the column you just placed the card in.,【B】Koszt: 1 żeton wpływu【/B】 Wybierz inną kartę z rzędu rozkazów i po opłaceniu jej kosztu (jeśli jest) umieść ją w dowolnej kolumnie (nawet innego koloru). Następnie aktywuj tę kolumnę.,0.87
+217,4 Resolve Battle,4 Rozpatrzenie bitwy,0.853
+218,"1. Calculate Initial Strength ( [[ICON1]]), Blood ( [[ICON2]]), and Armor ( [[ICON3]])","1. Obliczenie początkowych wartości siły ( [[ICON1]]), krwi ( [[ICON2]]) i pancerza ( [[ICON3]])",0.897
+219,The attacker and the defender each calculate these values as follows:,Napastnik i obrońca obliczają te wartości w następujący sposób:,0.913
+220,A battle is triggered whenever a player moves an army into a territory containing an opponent’s army. Follow these steps to resolve a battle:,"Bitwa zostaje zainicjowana zawsze, gdy armia gracza wejdzie na terytorium z wrogą armią. Aby rozpatrzyć bitwę, należy wykonać następujące kroki:",0.821
+221,"◊1 [[ICON1]] from each troop in the battle ◊1 [[ICON2]], [[ICON3]], or [[ICON4]] from each icon that appears on any of the following:","◊1 [[ICON1]] za każdego swojego wojownika uczestniczącego w bitwie, ◊1 [[ICON2]] / [[ICON3]] / [[ICON4]] za każdy dany symbol widoczny na następujących elementach należących do danego gracza:",0.779
+222,"She learned discipline from Toturi and fury from Tsuko. Like tempered steel, both lessons have made her stronger. [[ICON1]]5/6","Dyscypliny uczył ją Toturi, a furii Tsuko. Pojęła obie lekcje i jest dzięki nim silna niczym hartowana stal. [[ICON1]]5/6",0.881
+223,"Each player uses the tracking tokens to record their initial values on the battle board (red for attacker, blue for defender).","Gracze zaznaczają początkowe wartości na liczniku walki za pomocą znaczników walki (napastnik używa czerwonych znaczników, a obrońca – niebieskich).",0.802
+224,"Players can get additional [[ICON1]], [[ICON2]], and [[ICON3]] icons from the following:","Gracz może zdobyć dodatkowe symbole [[ICON1]], [[ICON2]] i [[ICON3]] z następujących elementów:",0.858
+225,Armory upgrade token,żeton ulepszenia: zbrojenie,0.52
+226,Crab Clan Champion,Czempion Klanu Kraba,0.812
+227,Heroes in the territory,bohater na danym terytorium,0.714
+228,Order cards,karty rozkazów,0.782
+229,Determination,Determinacja,0.973
+230,[[ICON1]]Fortifications,[[ICON1]]Fortyfikacje,0.873
+231,Clan buildings,budowle klanu,0.765
+232,Heroes in the territory,bohater na danym terytorium,0.714
+233,Order cards on clan boards,karty rozkazów nad planszetką klanu,0.781
+234,(Defender Only) 1 [[ICON1]] and 1 [[ICON2]] if the battle is happening in Toshi Ranbo,"1 [[ICON1]] i 1 [[ICON2]] dla obrońcy, jeśli bitwa toczy się w Toshi Ranbo",0.723
+235,Key Terms,Kluczowe pojęcia,0.818
+236,【B】Attacker:【/B】 The player moving troops into a territory containing another player’s troops.,"【B】Napastnik.【/B】 Gracz, którego armia weszła na terytorium z armią innego gracza.",0.828
+237,【B】Defender:【/B】 The player whose territory was invaded.,"【B】Obrońca.【/B】 Gracz, którego terytorium, zostało najechane.",0.813
+238,"2. Roll Battle Dice Starting with the defender, players use their [[ICON1]], [[ICON2]], and [[ICON3]] icons to roll as follows:","2. Rzut kośćmi walki Zaczynając od obrońcy, gracze używają swoich symboli [[ICON1]], [[ICON2]] i [[ICON3]] w następujący sposób:",0.875
+239,"[[ICON1]] 【B】Keep Dice:【/B】 Finally, they decide which dice to keep. They keep a number of dice equal to how many [[ICON2]] they have. Update their [[ICON3]], [[ICON4]], and [[ICON5]] on the battle board by adding the icons shown on kept dice.","[[ICON1]] 【B】Zachowaj kość.【/B】 Na koniec gracz decyduje, które z kości zachowa. Zachowuje tyle kości, ile ma symboli [[ICON2]] Gracz aktualizuje swoje wartości [[ICON3]], [[ICON4]] i [[ICON5]] na liczniku walki, dodając symbole widoczne na zachowanych kościach.",0.741
+240,"【B】Note:【/B】 Players can have more than 10 [[ICON1]], [[ICON2]], and [[ICON3]] . They are not limited by the battle board.","【B】Uwaga!【/B】 Gracze mogą mieć więcej niż 10 [[ICON1]], [[ICON2]] i [[ICON3]]. Licznik walki nie wskazuje ich maksymalnej wartości.",0.845
+241,"3. Resolve Kills Each [[ICON1]] a player has kills 1 of their opponent’s troops. When a troop is killed, remove it from the territory and return it to its respective clan board. Kills do not reduce [[ICON2]].",3. Rozpatrzenie strat Każdy symbol [[ICON1]] uzyskany przez gracza oznacza zabicie 1 wojownika wrogiej armii. Zabitych wojowników zdejmuje się z planszy i odkłada na odpowiednią planszetkę klanu. Zabicie wojownika nie zmniejsza liczby [[ICON2]] przeciwnika.,0.819
+242,【B】4. Determine Winner【/B】 Determine the winner of the battle by comparing each player’s total [[ICON1]] and resolve the outcome as follows:,"【B】4. Wyłonienie zwycięzcy bitwy【/B】 Aby określić zwycięzcę bitwy, należy porównać wartości [[ICON1]] obojga graczy i rozpatrzyć wynik w następujący sposób:",0.853
+243,Tie,Remis,0.42
+244,Attacker gets nothing and does not count the battle as won. Defender must retreat.,Napastnik nic nie zyskuje i nie liczy tej bitwy jako wygranej.,0.738
+245,"Attacker is the winner, takes control of the territory, and gains a battle achievement.","Napastnik wygrał bitwę, przejmuje kontrolę nad terytorium i zdobywa osiągnięcie wymagające wygrania bitwy jako napastnik.",0.85
+246,Defender is the winner but does NOT gain a battle achievement.,"Obrońca wygrał bitwę, ale NIE zdobywa osiągnięcia wymagającego wygrania bitwy jako napastnik.",0.804
+247,Attacker Higher,Przewaga napastnika,0.634
+248,Compare,Porównanie,0.927
+249,"【B】Important:【/B】 If you ever have fewer than 3 troops on the main board, you will place troops in your fort at the end of the turn until you have 3. (See End of Turn on p. 22.)","【B】Ważne.【/B】 Jeśli na koniec tury dowolnego gracza któryś z graczy ma na planszy głównej mniej niż 3 wojowników, umieszcza w swoim forcie tylu wojowników, aby mieć ich na planszy 3 (zob. Koniec tury, str. 22).",0.793
+250,Each die’s 8 faces,8 ścianek każdej kości,0.754
+251,Lion moves 4 troops and their hero Ikoma Tsanuri into Crane’s territory A[[ICON1]] . Lion is the attacker and Crane is the defender in this battle.,"Klan Lwa porusza 4 wojowników i swoją bohaterkę Ikomę Tsanuri na terytorium Klanu Żurawia A[[ICON1]] . Oznacza to, że klany stoczą bitwę. Klan Lwa jest napastnikiem, a Klan Żurawia – obrońcą.",0.859
+252,Lion starts the battle with 5 [[ICON1]] (4 from troops B[[ICON2]] and 1 from an order card C[[ICON3]] ) and 1 [[ICON4]] (from their hero D[[ICON5]] ). They have no [[ICON6]],Klan Lwa rozpoczyna bitwę z 5 [[ICON1]] (4 za wojowników B[[ICON2]] i 1 z karty rozkazu C[[ICON3]] ) i 1 [[ICON4]] (z bohaterki D[[ICON5]] ). Nie ma żadnego [[ICON6]],0.927
+253,Crane Clan Champion,Czempionka Klanu Żurawia,0.782
+254,"She learned discipline from Toturi and fury from Tsuko. Like tempered steel, both lessons have made her stronger.","Dyscypliny uczył ją Toturi, a furii Tsuko. Pojęła obie lekcje i jest dzięki nim silna niczym hartowana stal.",0.881
+255,"As the attacker, Lion rolls next. They roll 5 dice (base 3 plus 2 [[ICON1]] from their hero). They do not have a reroll. They keep 2, a [[ICON2]] [[ICON3]] [[ICON4]] die as well as a [[ICON5]] [[ICON6]] die.","Jako drugi kośćmi rzuca napastnik, czyli Klan Lwa. Rzuca 5 kośćmi (3 za symbole na planszetce klanu i 2 za symbole [[ICON1]] zapewniane przez bohaterkę). Nie ma żadnego symbolu przerzutu. Zachowuje 2 kości: z symbolami [[ICON2]] [[ICON3]] [[ICON4]] i z symbolami [[ICON5]] [[ICON6]].",0.757
+256,"Using the battle tracker (shown right), Crane (using blue tokens) and Lion (using red tokens) total up their [[ICON1]], [[ICON2]], and [[ICON3]].","Gracze oznaczają na liczniku walki (zob. po prawej) wartości [[ICON1]], [[ICON2]] i [[ICON3]]. Klan Żurawia jako obrońca używa niebieskich znaczników, a Klan Lwa jako napastnik – czerwonych.",0.754
+257,"◊Lion has 4 [[ICON1]], but Crane has 2 [[ICON2]], reducing Lion’s kills to 2 H[[ICON3]] .","◊Klan Lwa ma 4 [[ICON1]], ale Klan Żurawia ma 2 [[ICON2]]. Oznacza to, że Klan Lwa zabija tylko 2 wojowników Klanu Żurawia H[[ICON3]] .",0.812
+258,◊Crane has 2 [[ICON1]] and Lion has no [[ICON2]]. Crane kills 2 of Lion’s troops H[[ICON3]] .,"◊Klan Żurawia ma 2 [[ICON1]], a Klan Lwa nie ma żadnego [[ICON2]]. Klan Żurawia zabija zatem 2 wojowników Klanu Lwa H[[ICON3]] .",0.858
+259,"◊Lion’s total [[ICON1]] of 7 defeats Crane’s total [[ICON2]] of 5. Since Lion has at least 1 surviving troop, they win the battle, take the territory, and score an achievement for winning a battle as the attacker.","◊Klan Lwa ma 7 [[ICON1]], a Klan Żurawia 5 [[ICON2]]. Klan Lwa wciąż ma wojowników, więc wygrywa bitwę, przejmuje kontrolę nad terytorium i zdobywa osiągniecie wymagające wygrania bitwy jako napastnik.",0.754
+260,◊Crane retreats their 1 surviving troop and their hero to their fort I[[ICON1]] .,"◊Klan Żurawia wycofuje 1 wojownika, który przeżył, i bohatera do swojego fortu I[[ICON1]] .",0.816
+261,◊Lion then takes a village token of their choice from Crane and gains the indicated resource (1 [[ICON1]]) J[[ICON2]] .,◊Klan Lwa zabiera Klanowi Żurawia wybrany przez siebie żeton wioski i otrzymuje wskazany na nim zasób (1 [[ICON1]]) J[[ICON2]] .,0.827
+262,5 End of Turn,5 Koniec tury,0.918
+263,"If any player has fewer than 3 troops on the main board after resolving all these effects, they place troops in their fort until they have 3 troops on the board (even if it is not their turn).","Jeśli po rozpatrzeniu tych efektów któryś z graczy ma na planszy głównej mniej niż 3 wojowników, umieszcza w swoim forcie tylu wojowników, aby mieć ich na planszy 3 (nawet jeśli nie jest to tura tego gracza).",0.83
+264,"To end your turn, add new cards to the order card row until it has 5 faceup cards.","Na koniec gracz uzupełnia rząd rozkazów tak, aby znów było wyłożonych 5 odkrytych kart.",0.715
+265,The next player clockwise then takes the next turn. Continue taking turns in this way until a player has completed 7 achievements; that player wins the game. (See Winning the Game on p. 10.),"Teraz swoją turę rozgrywa następny gracz w kolejności zgodnej z kierunkiem ruchu wskazówek zegara. Gracze rozgrywają tury do czasu, aż któryś z nich będzie miał 7 zdobytych osiągnięć. Ten gracz wygrywa rozgrywkę (zob. Warunki zwycięstwa, str. 10).",0.847
+266,Hero-Specific Clarifications,Objaśnienie zdolności bohaterów,0.66
+267,◊【B】Bayushi Kachiko【/B】 [[ICON1]]: Maximum army size rules still apply; do not add a troop to the location if you already have 5 present.,"◊【B】Bayushi Kachiko【/B】 [[ICON1]]. Wciąż obowiązuje zasada maksymalnej liczebności armii. Gracz nie może zrekrutować wojownika, jeśli na danym terytorium już ma 5 wojowników.",0.875
+268,◊【B】Daidoji Uji【/B】 [[ICON1]]: Do not count [[ICON2]]from troops in the territory until after dice are rolled and kills from [[ICON3]] are resolved.,◊【B】Daidoji Uji【/B】 [[ICON1]]. Gracze liczą [[ICON2]]za wojowników na danym terytorium dopiero po rzucie kośćmi i rozpatrzeniu strat z [[ICON3]].,0.757
+269,◊【B】Moto Chagatai【/B】 [[ICON1]]: He cannot move to a battle if you already have another hero there.,"◊【B】Moto Chagatai【/B】 [[ICON1]]. Nie może przenieść się na terytorium bitwy, jeśli gracz ma już tam innego bohatera.",0.909
+270,"Aaron Houssian, Chris James, Scott Jensen, Gál József and the Kicktester Team, Morgan Lair, Christopher Larson, Danny Mandel, Hailey McCaffrie, Storm McCaffrie, Andrew Nerger, NWO Game Designers, Dwight Powell, Hector Reyes, Caleb Ruah, Frank Sándor, Christopher Talbot, Yilin Tian, Travis Rowen Williams","Aaron Houssian, Chris James, Scott Jensen, Gál József i Kicktester Team, Morgan Lair, Christopher Larson, Danny Mandel, Hailey McCaffrie, Storm McCaffrie, Andrew Nerger, NWO Game Designers, Dwight Powell, Hector Reyes, Caleb Ruah, Frank Sándor, Christopher Talbot, Yilin Tian, Travis Rowen Williams",0.996
+271,Credits,Twórcy,0.421
+272,"To explore products, lore, and news about the Legend of the Five Rings and discover more about the expansive world of Rokugan, visit:",Informacje o produktach i najnowsze wiadomości o Legendzie Pięciu Kręgów oraz więcej informacji o nieustannie rozwijanym świecie Rokuganu można znaleźć na stronie:,0.848
+273,"Roll 3 dice, keep 2","Rzuć 3 kośćmi, zachowaj 2 kości.",0.814
+274,Add +1 die to your dice roll in battle,Dodaj 1 kość do puli rzutu podczas bitwy.,0.802
+275,+1 blood in battle,+1 do wartości krwi podczas bitwy,0.876
+276,Kill 1 troop,Zabij 1 wojownika.,0.775
+277,Reroll any number of dice in battle,Przerzuć dowolną liczbę kości podczas bitwy.,0.713
+278,Take a movement action,Wykonaj akcję ruchu.,0.835
+279,+1 strength in battle,+1 do wartości siły podczas bitwy,0.87
+280,You may perform the action as many times as you can afford,"Możesz wykonać daną akcję tyle razy, na ile Cię stać.",0.859
+281,Buy extra movement with koku,Kup dodatkowe ruchy za koku.,0.712
+282,Buy extra movement with influence,Kup dodatkowe ruchy za wpływ.,0.744
+283,Buy extra movement with wood,Kup dodatkowe ruchy za drewno.,0.763
+284,Icon Key,Symbole,0.595
+285,Frequently Overlooked Rules,Często zapominane zasady,0.821
+286,Key Terms,Kluczowe pojęcia,0.818
+287,"◊Heroes must always stay with an army. If you lose all your troops in battle, move the hero to a building with your troops or to your fort.","◊Bohater nie może się znajdować sam na terytorium, zawsze musi być z armią. Jeśli gracz straci w bitwie wszystkich wojowników, przenosi bohatera do budowli klanu ze swoją armią albo do swojego fortu.",0.848
+288,◊You claim a clan goal as soon as you meet its requirements.,◊Gracz realizuje cel klanu natychmiast po spełnieniu jego wymagań.,0.793
+289,"◊If a battle is triggered by troop movement, goals that require troops to be in that territory cannot be completed unless that player still has troops there after the battle is resolved.","◊Jeśli w wyniku ruchu zostanie zainicjowana bitwa, cele wymagające obecności wojowników na danym terytorium są spełnione tylko pod warunkiem, że po rozpatrzeniu bitwy gracz wciąż ma na tym terytorium wojowników.",0.835
+290,"◊When moving into a territory with a village token, the village token is claimed at the end of the turn after all other movement and battles have been resolved.","◊Jeśli gracz wejdzie na terytorium z żetonem wioski, bierze go dopiero na koniec swojej tury, czyli po rozpatrzeniu wszystkich innych ruchów i bitew.",0.776
+291,Keep +1 die in battle,Zachowaj 1 kość podczas bitwy.,0.7
+292,【B】Attacker:【/B】 The player moving troops into a territory containing another player’s troops.,"【B】Napastnik.【/B】 Gracz, którego armia weszła na terytorium z armią innego gracza.",0.828
+293,【B】Army:【/B】 A group of 1 or more troops from the same clan in a single territory.,"【B】Armia.【/B】 Grupa wojowników tego samego klanu na pojedynczym terytorium, składająca się z co najmniej 1 wojownika.",0.861
+294,【B】Clan Buildings:【/B】 The unique buildings and camp buildings (circle-shaped tiles) each clan can build.,"【B】Budowle klanu.【/B】 Unikatowe budowle i obozy, które mogą zostać zbudowane przez poszczególne klany. Reprezentują je okrągłe kafelki.",0.872
+295,"【B】Control:【/B】 You control any territory where only you have an army. You also control your clan buildings, even without troops, until taken by an opponent.","【B】Kontrola.【/B】 Gracz kontroluje terytorium, jeśli znajduje się na nim tylko jego armia. Gracz kontroluje też budowle swojego klanu, jeśli nie ma w nich wojowników żadnego gracza.",0.819
+296,【B】Defender:【/B】 The player whose territory was invaded.,"【B】Obrońca.【/B】 Gracz, którego terytorium zostało najechane.",0.836
+297,【B】Territory:【/B】 Any hexagon-shaped space on the map.,【B】Terytorium.【/B】 Każde sześciokątne pole mapy.,0.774
+298,【B】Troop:【/B】 A piece that represents soldiers who fight for your clan.,【B】Wojownik.【/B】 Pionek reprezentujący żołnierzy walczących dla klanu gracza.,0.771
