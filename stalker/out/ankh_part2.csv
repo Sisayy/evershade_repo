@@ -1,0 +1,13 @@
+id,decision,pl_fixed
+378,FIX,"IZYDA Opiekunka Każda jednostka grającego Izydą, która zajmuje pole sąsiadujące z jednostką wroga, jest uważana za Chronioną."
+382,FIX,"Jednostki na polach Wody sąsiadujące z jednostką wroga są uważane za Chronione we wszystkich regionach, do których należą, nawet jeśli ta jednostka wroga znajduje się w innym regionie."
+383,DROP,
+405,DROP,
+406,DROP,
+408,DROP,
+410,DROP,
+411,DROP,
+412,DROP,
+413,DROP,
+433,DROP,
+444,FIX,Następnie sprawdź kolejno każdy region: ➤Dominacja (jeden gracz): Zyskaj 1 punkt Uwielbienia za każdą posiadaną większość Monumentów.
