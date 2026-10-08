@@ -1,0 +1,36 @@
+id,decision,pl_fixed
+1,DROP,
+19,DROP,
+21,DROP,
+24,DROP,
+29,DROP,
+52,DROP,
+58,DROP,
+68,DROP,
+85,FIX,"• Każdy gracz wybiera jednego spośród dostępnych potężnych Bogów Egiptu i bierze następujące komponenty należące do tego Boga: ➤figurkę Boga ➤6 figurek Wojowników ➤planszę Boga ➤planszę Połączonego Boga ➤żetony Ankh ➤zestaw 7 kart Bitwy ➤kartę Pomocy Gracza ➤Jeśli gracz wybrał Ra, bierze także 3 żetony Słońca."
+119,FIX,"Po całkowitym rozpatrzeniu akcji gracza i wydarzenia (o ile zostało wywołane), tura aktualnego gracza kończy się i swoją turę rozgrywa następny w kolejności gracz."
+125,DROP,
+151,DROP,
+156,DROP,
+157,DROP,
+171,DROP,
+179,DROP,
+185,DROP,
+192,DROP,
+198,FIX,Przykład: Grający Izydą wywołał wydarzenie Kontrola Monumentu.
+200,DROP,
+203,DROP,
+209,DROP,
+212,DROP,
+218,DROP,
+230,DROP,
+252,FIX,"Grający Ra kontroluje większość Obelisków, ale nie ma żadnych jednostek w tym regionie, więc on także nie zyskuje Uwielbienia."
+259,FIX,"Przykład: W tej Bitwie grający Izydą ma 4 jednostki i zagrał kartę Wylew Nilu, co zapewnia mu 4 Wyznawców, ze względu na 4 jednostki Izydy na polach Zalewowych."
+268,DROP,
+269,DROP,
+287,FIX,"7. Obaj gracze kontrolujący połączonego Boga dysponują wspólną pulą Wojowników, Strażników i Wyznawców, którzy pierwotnie należeli do wyższego Boga."
+292,FIX,"Przykład: To koniec 3. wydarzenia Konfliktu, a dwaj Bogowie na najniższych pozycjach na torze Uwielbienia to Amon i Ra."
+293,FIX,Teraz połączą się w jedną boską istotę (Amon-Ra).
+326,FIX,"Żądny Świątyń Każda Świątynia tego gracza w regionie zapewnia mu +2 do siły, o ile sąsiaduje z nią co najmniej 1 jego jednostka."
+331,DROP,
+332,DROP,
