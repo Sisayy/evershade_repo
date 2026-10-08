@@ -1,0 +1,234 @@
+﻿id,en,pl,sim
+1,RULEBOOK,INSTRUKCJA,0.661
+2,CREDITS,TWÓRCY,0.532
+3,【B】Game by:【/B】 Krzysztof Belczyk,【B】Autor gry:【/B】 Krzysztof Belczyk,0.945
+4,"【B】Product Owner:【/B】 Marcin Świerkot, Michał Matłosz","【B】Właściciel produktu:【/B】 Marcin Świerkot, Michał Matłosz",0.984
+5,"【B】Art Direction:【/B】 Patryk Jędraszek, Adrian Radziun","【B】Kierownictwo artystyczne:【/B】 Patryk Jędraszek, Adrian Radziun",0.965
+6,"【B】Special Thanks:【/B】 Andrzej Klimek, Martin Fučík, Matthias Schrammek, Michał “Niedzwiedz” Michalski, Georgi “Grebeny” Teofilov, Michał Szewczyk, Filip Cyrus Madej and everyone who supported us during creation and development of the game, especially our amazing Discord Community!","【B】Podziękowania:【/B】 Andrzej Klimek, Martin Fučík, Matthias Schrammek, Michał „Niedzwiedz” Michalski, Georgi „Grebeny” Teofilov, Michał Szewczyk, Filip Cyrus Madej oraz wszyscy, którzy wspierali nas podczas tworzenia i rozwijania tej gry, w szczególności nasza niesamowita społeczność Discord!",0.977
+7,Winning or losing,Zwycięstwo lub przegrana,0.92
+8,Game modes,Tryby gry,0.919
+9,"【B】Long Hunt【/B】 – estimated to be played in 2-4h, allows you to play through the early, mid and late stages of the Hunt. The setup instructions on the following pages describe how to prepare this mode.","【B】Długie Łowy【/B】 – czas rozgrywki waha się od 2 do 4 godzin, pozwalając na rozegranie wczesnej, pośredniej i późnej fazy Łowów. Instrukcje przygotowania gry do tego trybu znajdziesz na kolejnych stronach.",0.822
+10,"【B】Rapid Hunt【/B】 – estimated to be played in 1-2h. Hunters and the Griefbound begin in the midgame when the situation on the board has already heated up. This mode requires a few modifications after the Long Hunt setup, and is a bit more complex at the beginning.","【B】Szybkie Łowy【/B】 – czas rozgrywki waha się od 1 do 2 godzin. Łowcy Ponurnika rozpoczynają grę w fazie pośredniej, kiedy sytuacja na planszy już się trochę zaogniła. Ten tryb wymaga kilku modyfikacji po przeprowadzeniu przygotowania do Długich Łowów, a początek rozgrywki jest nieco bardziej złożony.",0.81
+11,"Also, there are many additional options to make the game harder or easier depending on Player preferences. All information on setting up the 【B】Easy mode【/B】, 【B】Hard mode【/B】 or 【B】Rapid Hunt【/B】 options are described on page 30.","Wiele dodatkowych opcji pozwala na zmniejszenie lub zwiększenie poziomu trudności w zależności od preferencji graczy. Wszystkie informacje dotyczące przygotowania gry w 【B】trybie Łatwym【/B】, trybie 【B】Trudnym【/B】 oraz 【B】trybie Szybkich Łowów【/B】 opisano na stronie 30.",0.862
+12,First steps,Pierwsze kroki,0.968
+13,What is Grimcoven?,Czym jest Grimcoven?,0.966
+14,"Of my free will and in sound mind, I swear this solemn oath.",Z wolnej woli i w pełnej świadomości – składam tę solenną przysięgę.,0.853
+15,I pledge myself to the great Hunt.,Przyrzekam dołączyć do wielkich Łowów.,0.626
+16,"And should I fail to abide by this sacred oath, I ask my brothers and sisters to put a price on me.","A jeśli kiedykolwiek naruszę tę świętą przysięgę, Niechaj moi bracia i siostry wyznaczą za mnie cenę.",0.703
+17,"So say I, the hunter of the Grimcoven.","Tako rzeczę ja, łowca Ponurego Kręgu.",0.704
+18,"【B】Grimcoven【/B】 is a ruthless boss battler with RPG elements. Each game is based on one of many Scenarios chosen from the available pool. Each Scenario offers a different world, different rules, different threats — but the goal always remains the same: defeat the Griefbound, survive, and don’t yield to the tempting power of Lament.","【B】Grimcoven【/B】 to bezwzględna gra polegająca na potyczkach z bossami, zawierająca elementy RPG. Każda rozgrywka wykorzystuje jeden z licznych Scenariuszy, które należy wybrać z dostępnej puli. Każdy Scenariusz przedstawia inny świat, inne zasady i inne zagrożenia, jednak cel zawsze pozostaje ten sam: pokonać Ponurnika i nie dać się skusić podstępnym siłom Lamentu.",0.883
+19,"In every game, you will face a terrifying entity — a 【B】Griefbound【/B】 — supported by an 【B】Elite Enemy【/B】 and endless hordes of vile 【B】Minions【/B】 that emerge from the shadows and cracks in reality.","W każdej grze stawisz czoła przerażającej istocie – 【B】Ponurnikowi【/B】 – którego wspierają 【B】Elitarni Wrogowie【/B】 i niekończące się hordy podłych 【B】Sług【/B】, które wyłonią się spośród cieni i pęknięć w rzeczywistości.",0.808
+20,"Each round begins with a 【B】dice【/B】 roll — their results become your resources. You will spend them to activate Actions, trigger abilities, and plan the best strategy for survival and, of course, victory.","Każda runda zaczyna się od rzutu 【B】kośćmi【/B】 – ich wyniki staną się twoimi zasobami. Będziesz je wydawać do aktywowania Akcji i zdolności oraz przygotujesz najlepszą strategię na przetrwanie, a także – rzecz jasna – zwycięstwo.",0.888
+21,"Lament allows you to develop abilities and buy new Action cards and dice, but it also tears away your humanity. However, you cannot hold back in this battle, as your enemies also grow stronger with each passing round.","Lament pozwala rozwijać zdolności, kupować nowe karty i kości Akcji, ale jednocześnie stopniowo odbiera ci człowieczeństwo. W tej walce nie możesz jednak zachować pasywnej postawy, gdyż wrogowie rosną w siłę z każdą kolejną rundą.",0.866
+22,"This is your profession. This is your world, full of dangers and sacrifices.",Tak wygląda twoja profesja. Tak wygląda twój świat – pełen zagrożeń i poświęceń.,0.806
+23,"Gather a group of 【B】Hunters【/B】. Choose your 【B】Weapons【/B】 and 【B】Armor【/B】. Begin the Hunt, but be ready for a merciless fight from the very first steps. Sometimes someone will fall to their knees in the first round — it can be expected in this brutal world. From the start, you are balancing on the edge of death. Some, or even many, may never return from the hunt.","Zbierz grupę 【B】Łowców【/B】. Wybierz 【B】Broń【/B】 i 【B】Pancerz【/B】. Rozpocznij Łowy, ale przygotuj się na bezlitosną walkę na każdym kroku. Może się zdarzyć, że ktoś padnie na kolana już w pierwszej rundzie – należy się tego spodziewać w tak brutalnym świecie. Od samego początku ty i twoja drużyna będziecie balansować nad przepaścią. Możliwe, że część z was, a może nawet większość, nigdy nie wróci z tych łowów.",0.878
+24,"The battlefield is more than just ruins and blood. The 【B】Terrain【/B】 is diverse, full of oddities that can tip the scales. Among forests, swamps, or cracked earth, you will find ancient 【B】Portals【/B】 connecting different parts of the Map, 【B】Treasures【/B】 filled to the brim with valuable finds and tools, and sometimes even lost characters, mysterious machines, forgotten ruins, or eerie places of power. Used at the right moment, they can change the course of the battle… or change you.","Pole walki to coś więcej niż tylko ruiny i krew. 【B】Teren【/B】 jest bardzo zróżnicowany i pełny osobliwości, które przeważą szale na jedną ze stron. Pośród lasów, bagien i wyschniętych równin znajdziesz starożytne 【B】Portale【/B】 łączące różne części Mapy, 【B】Skarby【/B】 wypełnione po brzegi cennymi znaleziskami i narzędziami, a nawet zaginione postaci, tajemniczą maszynerię, zapomniane ruiny i upiorne miejsca mocy. Jeśli wykorzystasz je w odpowiednim momencie, mogą odmienić losy bitwy... lub zmienić ciebie.",0.907
+25,STAGE DECK,TALIA STADIUM,0.62
+26,Final Act,TALIA ATAKU,0.331
+27,"On the Final Attack kill, roll 1 [[ICON1]]:",Po zabiciu Ostatecznego Ataku rzuć 1 [[ICON1]]:,0.809
+28,: Reduce the Level of the Griefbound by 3.,: Zmniejsz poziom Ponurnika o 3.,0.861
+29,: Reduce the level of the Griefbound by 2.,: Zmniejsz poziom Ponurnika o 2.,0.852
+30,DISCARD,ODRZUCONE,0.641
+31,RUN,BIEG,0.43
+32,TACTIC,TAKTYKA,0.674
+33,Gain 1 Tactic.,Daj 1 innemu Łowcy.,0.46
+34,RUN,BIEG,0.43
+35,Move up to .,ODWRÓĆ NA STRONĘ,0.259
+36,TACTIC,TAKTYKA,0.674
+37,Gain 1 Tactic.,Daj 1 innemu Łowcy.,0.46
+38,Welcome to Grimcoven!,Witaj w Grimcoven!,0.952
+39,"Where darkness looms, the Hunt begins.","Gdzie zalega mrok, zaczynają się Łowy.",0.845
+40,"In the shadowed lands of Crowholme, a ruined kingdom gripped by despair, lurk the Griefbound – monstrous entities shaped by the corrupting power of Lament, a mysterious and malevolent force. As a Hunter, you are among the few who have not succumbed to the pervasive despair. Well-trained and equipped, you and your fellow Hunters embark on perilous quests to confront the abominations and learn how to use Lament to your advantage. Each battle is not just a fight for survival but a tactical struggle to reclaim the lost kingdom.","Na spowitych cieniem terenach Wronigrodu, zrujnowanego królestwa ogarniętego rozpaczą, czają się Ponurniki – potworne stworzenia ukształtowane przez plugawą moc Lamentu, tajemniczej i złowrogiej siły. Jako Łowca jesteś jednym z nielicznych, którzy nie poddali się wszechobecnej rozpaczy. Dobrze cię wyszkolono, dysponujesz też odpowiednim wyposażeniem. Wraz z towarzyszami musisz stawić czoła niebezpiecznym wyzwaniom, zmierzyć się ze straszliwymi istotami i nauczyć wykorzystywać Lament na swoją korzyść. Każda bitwa to nie tylko walka o przetrwanie, ale i taktyczne zmagania o odzyskanie utraconego królestwa.",0.782
+41,"This tutorial will lead you through the initial Round, introducing you to the game’s basic mechanics while immersing you in the haunting world of Grimcoven. Prepare to face the Griefbound, find the balance between power and madness, journey through a story where every shadow hides a new challenge.","Ten samouczek przeprowadzi cię przez pierwszą rundę, przedstawi podstawowe mechaniki gry i pozwoli zanurzyć się w udręczony świat Grimcoven. Zmierzysz się z Ponurnikami, spróbujesz znaleźć równowagę pomiędzy potęgą i szaleństwem i poznasz historię, w której każdy cień skrywa nowe wyzwanie.",0.878
+42,"This guide is designed to be played by 2 Players, but if you want to learn the game in a larger group, just share the characters and make decisions together. If you want to learn its basics alone, you may still use this tutorial, but you’ll have to play two characters at once. Also, keep in mind that the proper Solo Mode has some additional rules that you’ll find in the main Rulebook.","Przewodnik został stworzony z myślą o 2 graczach, ale jeśli chcesz poznać grę w większej grupie, podzielcie się postaciami i podejmujcie decyzje wspólnie. Jeśli chcesz nauczyć się podstaw w pojedynkę, możesz nadal skorzystać z tego samouczka, ale musisz grać dwiema postaciami jednocześnie. Pamiętaj też, że właściwy tryb Solo wprowadza kilka dodatkowych zasad, które znajdziesz w Instrukcji.",0.926
+43,"After finishing setup for 2 Players, the game will look like this.",Tak powinna wyglądać gra po zakończeniu przygotowania dla 2 graczy.,0.836
+44,Clockwork,Mechaniczny,0.351
+45,Giant,Olbrzym,0.252
+46,Grimcoven Core Box Griefbound,Ponurniki – pudełko podstawowe Grimcoven,0.713
+47,Devourer,Nieumarły,0.336
+48,Dragon,Generał,0.286
+49,"After winning all Griefbound Scenarios, go to the Epilogue script on page 32 in Rulebook",Po wygraniu wszystkich Scenariuszy Ponurników przeczytaj Epilog na stronie 32 w Instrukcji,0.841
+50,[[ICON1]] to a chosen side.,[[ICON1]] na wybranej ściance.,0.754
+51,Technomancer,Technomantka,0.817
+52,Duality,Dwoistość,0.884
+53,Gunslinger,Rewolwerowiec,0.506
+54,Special Ammo,Specjalna Amunicja,0.749
+55,【B】Action:【/B】 Speak with the Hanged Man.,【B】Akcja:【/B】 Porozmawiaj z Wisielcem.,0.781
+56,Discard 2 to discard all of your non-Curse Status tokens.,"Odrzuć 2 , by odrzucić wszystkie swoje żetony Statusów niebędące Klątwami.",0.911
+57,Draw and resolve Secret card 10.,Dobierz i rozpatrz kartę Sekretu 10.,0.783
+58,Draw and resolve a random Secret card 11.,Dobierz i rozpatrz losową kartę Sekretu 11.,0.761
+59,【B】Action:【/B】 Try to escape.,【B】Akcja:【/B】 Spróbuj uciec.,0.923
+60,【B】Action:【/B】 Escape.,【B】Akcja:【/B】 Ucieczka.,0.93
+61,Discard 2 to teleport to the Griefbound’s space.,"Odrzuć 2 , by Teleportować się na pole Ponurnika.",0.744
+62,Passive,Pasywne,0.738
+63,Passive,Pasywne,0.738
+64,SWARM,Wrzący,0.25
+65,Boiling Pot,Podpalenia.,0.261
+66,Hunt Book,Księga Łowów,0.715
+67,Graveyard Dragon,Smok Cmentarny,0.695
+68,Hunt Book,Księga Łowów,0.715
+69,RUN,BIEG,0.43
+70,ASSIST,ASYSTA,0.681
+71,COMPONENT OVERVIEW,PRZEGLĄD ELEMENTÓW,0.649
+72,Models,Figurki,0.562
+73,2 Area Environment tiles,2 kafle Obszarów Otoczenia,0.803
+74,6 Griefbound models/standees*,6 plastikowych/tekturowych figurek Ponurników*,0.664
+75,"* Note: Depending on your version of the game, you will find either miniatures or standees in your box. Regardless of the version, they will be refered to as “models.”",* Uwaga: w zależności od wersji gry w pudełku znajdziesz tekturowe bądź plastikowe figurki. Niezależnie od wersji gra stosuje wobec nich zbiorczą nazwę „figurki”.,0.725
+76,"* Note: Depending on your version of the game, you will find either single layer boards or double layer boards.",* Uwaga: w zależności od wersji gry w pudełku znajdziesz plansze jedno- lub dwuwarstwowe.,0.843
+77,"* Note: Depending on your version of the game, you will find either cardboard or plastic markers.",* Uwaga: w zależności od wersji gry w pudełku znajdziesz znaczniki tekturowe bądź plastikowe.,0.851
+78,6 Hunter models/standees*,6 plastikowych/tekturowych figurek Łowców*,0.681
+79,6 Corrupted Hunter models/standees*,6 plastikowych/tekturowych figurek Spaczonych Łowców*,0.677
+80,4 Elite Enemy models/standees*,4 plastikowe/tekturowe figurki Elitarnych Wrogów*,0.668
+81,16 Minion models/standees*,16 plastikowych/ tekturowych figurek Sług*,0.602
+82,4 Portal models/standees*,4 plastikowe/tekturowe figurki Portali*,0.735
+83,4 Torture Device/Swarm tiles,4 kafle Narzędzi Tortur/Roju,0.768
+84,6 Hunt books,6 Ksiąg Łowów,0.769
+85,Deputy board (solo),Plansza Pomocnika (Solo),0.76
+86,Hunt Sheet,Arkusz Łowów,0.603
+87,Tutorial Scenario booklet,Broszura ze Scenariuszem Wprowadzającym,0.708
+88,GAME ROUND ORDER,PRZEBIEG RUNDY GRY,0.531
+89,• Activate all Minions.,• Aktywuj wszystkie Sługi.,0.831
+90,III. Elite step:,IV. Krok Ponurnika:,0.659
+91,• Activate all Elite Enemies.,• Aktywuj wszystkich Elitarnych Wrogów.,0.903
+92,V. Time track step:,V. Krok toru Czasu:,0.927
+93,• Move the Time track standee and resolve its effect.,• Przesuń figurkę na torze Czasu i rozpatrz jego efekt.,0.802
+94,Remove 1 [[ICON1]] from this card.,Usuń 1 [[ICON1]] z tej karty.,0.947
+95,"When the last [[ICON1]] is removed from this card, Spawn this Elite Enemy on a Portal space closest to the Griefbound and flip this card.","Kiedy z tej karty zostanie usunięty ostatni [[ICON1]], Rozmieść tego Elitarnego Wroga na polu z Portalem najbliżej Ponurnika i odwróć tę kartę.",0.87
+96,[[ICON1]]: Remove this card and the Elite Enemy model from the game.,[[ICON1]]: Usuń z gry tę kartę i figurkę tego Elitarnego Wroga.,0.833
+97,Alchemist,Alchemik,0.859
+98,【B】ACTIVATION【/B】 (resolve first applicable):,"【B】AKTYWACJA【/B】 (rozpatrz pierwszy, który ma zastosowanie):",0.872
+99,"Otherwise, Burning Oil:",W przeciwnym wypadku Płonący Olej:,0.909
+100,II. Spending Lament:,II. Wydawanie Lamentu:,0.85
+101,[[ICON1]]: Advance Corruption track by 1.,[[ICON1]]: Posuń naprzód znacznik na torze Spaczenia o 1.,0.608
+102,[[ICON1]]: Discard 1 Hunger token.,[[ICON1]]: Odrzuć 1 żeton Głodu.,0.834
+103,"[[ICON1]]: During Evolution, redraw Evolution cards.",[[ICON1]]: Podczas Ewolucji dobierz ponownie karty Ewolucji.,0.884
+104,When advancing into [[ICON1]] resolve Evolution: draw 2 Evolution cards and keep 1 or discard both and gain [[ICON2]].,"Kiedy znacznik wejdzie na pole [[ICON1]], rozpatrz Ewolucję: dobierz 2 karty Ewolucji i zachowaj 1 albo odrzuć obie i otrzymaj [[ICON2]].",0.847
+105,"If you’ve reached 15 Corruption, flip your Hunter tile to the Corrupted side.","Jeśli osiągniesz 15 poziom Spaczenia, odwróć kafel Łowcy na stronę Spaczoną.",0.855
+106,II. Status step:,II. Krok Statusów:,0.927
+107,technomancer,Technomantka,0.746
+108,Team Shield,Tarcza Drużyny,0.817
+109,You and all Hunters in LoS gain [[ICON1]].,Ty i wszyscy Łowcy na LW otrzymujecie [[ICON1]].,0.795
+110,After any Armor Action:,Wzmocnienie Pancerza:,0.341
+111,Environment,TEREN: LAS,0.277
+112,Holy Tree,Święte Drzewo,0.941
+113,"The massive tree with long, sturdy branches shielded Sir Leernon as he lay here wounded after confronting the high-ranking traitor about his suspected coup.","Rozłożyste gałęzie tego ogromnego drzewa osłaniały sir Leernona, kiedy leżał pod nim ranny w wyniku potyczki ze zdradzieckim uczestnikiem domniemanego przewrotu.",0.782
+114,【B】Setup:【/B】 Place this card next to the Forest Terrain.,【B】Przygotowanie:【/B】 Umieść tę kartę obok Terenu Lasu.,0.876
+115,convergence,konwergencja,0.862
+116,"On a Griefbound card kill, roll 1 [[ICON1]]:",Po zabiciu karty Ponurnika rzuć 1 [[ICON1]]:,0.646
+117,: All Hunters in 0-2 may Move 2 and Heal 2. Refill the Attack track.,: Wszyscy Łowcy w 0-2 mogą wykonać Ruch 1 albo Odświeżyć 1 wybraną Akcję. Zapełnij tor Ataku.,0.85
+118,: Do not refill the Attack track.,: Nie zapełniaj toru Ataku.,0.868
+119,disease,zaraza,0.736
+120,Companion,Towarzysz,0.7
+121,Hunter armor,Pancerz Łowcy,0.768
+122,Teleport to a chosen space in LoS.,Teleportuj się na wybrane pole na LW.,0.766
+123,Flash Armor,Zbroja Błyskowa,0.783
+124,attack,atak,0.957
+125,convergence,konwergencja,0.862
+126,TORSO,KORPUS,0.564
+127,FOCUSED: Deal 4 [[ICON1]] to each Hunter in 0-1 from a Lament Rift.,SKUPIENIE: Zadaj 4 [[ICON1]] każdemu Łowcy w 0-1 od Szczeliny Lamentu.,0.835
+128,[[ICON1]] Deal 3 Stuns to each Hunter in 0-1 .,[[ICON1]] Zadaj 3 Ogłuszenia każdemu Łowcy w 0-1 .,0.892
+129,[[ICON1]] Attack all Hunters in 2+ with 3,[[ICON1]] Zaatakuj wszystkich Łowców w 2+ przy użyciu 3,0.922
+130,Lament rain,Deszcz Lamentu,0.562
+131,Stage,Stadium,0.707
+132,convergence,konwergencja,0.862
+133,Tempest Wrath,Gniew Nawałnicy,0.611
+134,• Activate each Tornado.,• Aktywuj każde Tornado.,0.938
+135,Corruption,Spaczenie,0.423
+136,Check your Corruption and resolve:,Sprawdź swój poziom Spaczenia i rozpatrz efekt:,0.613
+137,event,Wydarzenie,0.889
+138,Fire Spreading,Rozprzestrzeniający,0.561
+139,Place 1 [[ICON1]] in Lament Rift 1.,Umieść 1 [[ICON1]] na Szczelinie Lamentu 1.,0.772
+140,"Starting with the First Player, each Hunter with any Burn deals 1 Burn to all other Hunters in 0-1 .",Począwszy od pierwszego gracza każdy Łowca z Podpaleniem nakłada 1 Podpalenia wszystkim pozostałym Łowcom w 0-1 .,0.923
+141,Each Hunter without any Burn gains 1 Burn.,Każdy Łowca bez żetonów Podpalenia otrzymuje 1 Podpalenia.,0.853
+142,"Entering the Final Act If there are 2 or fewer Attack cards left in play, enter the Final Act.","Rozpoczęcie Aktu Końcowego Jeśli w grze zostały 2 karty Ataku lub mniej, rozpocznij Akt Końcowy.",0.863
+143,"Otherwise, reshuffle the discard pile",W przeciwnym wypadku przetasuj stos,0.773
+144,Final attack,Ostateczny atak,0.901
+145,convergence,konwergencja,0.862
+146,HEART,SERCE,0.602
+147,This card cannot be discarded from the This turn slot.,Ta karta nie może zostać odrzucona ze strefy Tej tury.,0.871
+148,Last Breath,Ostatni Oddech,0.941
+149,convicted,skazaniec,0.768
+150,: Deal 1 and 1 Stun.,: Zadaj 1 i 1 Ogłuszenia.,0.814
+151,: Deal 1 .,: Zadaj 1 .,0.842
+152,【B】ACTIVATION【/B】 (resolve first applicable):,"【B】AKTYWACJA【/B】 (rozpatrz pierwszy, który ma zastosowanie):",0.872
+153,Murderer,Skazaniec,0.432
+154,Secrets,Sekrety,0.918
+155,Curse of Death,Klątwa Śmierci,0.788
+156,"As the first Status effect in the Status step, resolve:",Rozpatrz jako pierwszy efekt Statusu podczas kroku Statusów:,0.854
+157,"[[ICON1]], gain 1 Burn.","[[ICON1]], otrzymaj 1 Podpalenia.",0.805
+158,Technomancer,Technomantka,0.817
+159,Convergence,Konwergencja,0.882
+160,STEP,KROK,0.705
+161,STEP,KROK,0.705
+162,STEP,KROK,0.705
+163,ELITE,ELITA,0.75
+164,STEP,KROK,0.705
+165,GRIEFBOUND,PONURNIK,0.454
+166,STEP,KROK,0.705
+167,TIME TRACK,TOR CZASU,0.783
+168,BUSY,ZAJĘTY,0.635
+169,BUSY,ZAJĘTY,0.635
+170,BUSY,ZAJĘTY,0.635
+171,BUSY,ZAJĘTY,0.635
+172,Custom cards,Karty niestandardowe,0.924
+173,Standard cards,Karty standardowe,0.972
+174,40 Lament tokens,40 żetonów Lamentu,0.835
+175,"45 Status tokens (Burn, Stun and Curse)","45 żetonów Statusów (Podpalenia, Ogłuszenia i Klątwy)",0.897
+176,4 Griefbound Level tokens,4 żetony poziomu Ponurnika,0.777
+177,2 Quest tokens,2 żetony Zadań,0.757
+178,4 Personality tokens,4 żetony Osobowości,0.909
+179,37 Defense tokens (value 2 and 4),37 żetonów Obrony (o wartości 2 i 4),0.908
+180,5 Round order standees,5 tekturowych znaczników przebiegu rundy,0.598
+181,First player token,Żeton pierwszego gracza,0.822
+182,10 Bullet tokens,10 żetonów Naboi,0.646
+183,10 Tactic tokens,10 żetonów Taktyki,0.867
+184,15 Hunger tokens,15 żetonów Głodu,0.811
+185,Busy token,Żeton Zajętości,0.44
+186,5 Craving tokens,5 żetonów Żądzy,0.814
+187,36 Opportunity cards,36 kart Okazji,0.882
+188,38 Hunter Item cards,38 kart Przedmiotów Łowców,0.881
+189,48 Stage cards,48 kart Stadium,0.788
+190,21 Event cards,21 kart Wydarzeń,0.906
+191,20 Corruption cards,20 kart Spaczenia,0.786
+192,25 Environment cards,25 kart Otoczenia,0.837
+193,222 Attack cards,222 karty Ataku,0.955
+194,12 Minion cards,12 kart Sług,0.698
+195,36 Final Attack cards,36 kart Ostatecznego Ataku,0.894
+196,"6 Wing tokens (3 White, 3 Black)","6 żetonów Skrzydeł (3 białe, 3 czarne)",0.908
+197,Map Setup,Przygotowanie Mapy,0.763
+198,"1. Construct the Map from the 【B】Map tiles【/B】. Use the codes provided on the tiles and the diagram in the Hunt Book to set up the Map. Most Maps have an additional, special 3-space Environment tile, which will be added later in the setup. It is usually random, marked with a question mark.","1. Stwórz Mapę z 【B】kafli Mapy【/B】. Wykorzystaj kody umieszczone na kaflach i schemat z Księgi Łowów, by przygotować Mapę. Większość Map zawiera dodatkowy, specjalny kafel Otoczenia z 3 polami, który dodaje się na późniejszym etapie przygotowania. Z reguły jest on losowy i oznaczony znakiem zapytania.",0.899
+199,2. 【B】Lament Rifts【/B】 – Place 【B】Rift tokens【/B】 randomly face up in marked spaces as shown in the Hunt Book.,2. 【B】Szczeliny Lamentu【/B】 – losowo umieść odkryte 【B】żetony Szczelin【/B】 na polach wskazanych w Księdze Łowów.,0.823
+200,3. 【B】Portals【/B】 – Place a 【B】Portal Model【/B】 in each space with a Portal symbol as shown in the Hunt Book.,3. 【B】Portale【/B】 – umieść 【B】figurkę Portalu【/B】 na polach z symbolem Portalu wskazanych w Księdze Łowów.,0.82
+201,"4. 【B】Lament【/B】 – Place 【B】Lament【/B】 [[ICON1]] on the Map, depending on the number of Players:",4. 【B】Lament【/B】 – umieść na Mapie 【B】Lament【/B】 [[ICON1]] w zależności od liczby graczy:,0.959
+202,• 2 [[ICON1]] or solo: Place 1 Lament in each even-numbered Lament Rift.,• 2 [[ICON1]] lub Solo: umieść 1 żeton Lamentu na każdej parzystej Szczelinie Lamentu.,0.865
+203,"• 3 [[ICON1]]: Place 1 Lament in each even-numbered Lament Rift, and 1 Lament in the Rift numbered 7.",• 3 [[ICON1]]: umieść 1 żeton Lamentu na każdej parzystej Szczelinie Lamentu i 1 żeton Lamentu na Szczelinie numer 7.,0.844
+204,"• 4 [[ICON1]]: Place 1 Lament in each even-numbered Lament Rift, and 1 Lament in the Rifts numbered 1 and 7.",• 4 [[ICON1]]: umieść 1 żeton Lamentu na każdej parzystej Szczelinie Lamentu i 1 żeton Lamentu na Szczelinach numer 1 i 7.,0.855
+205,• 5 [[ICON1]]: Place 1 Lament in each Lament Rift.,• 5 [[ICON1]]: umieść 1 żeton Lamentu na każdej Szczelinie Lamentu.,0.903
+206,5. 【B】Treasures【/B】 – Place 1 random 【B】Treasure token【/B】 face down in each space marked with a Treasure symbol as shown in the Hunt Book.,5. 【B】Skarby【/B】 – umieść 1 zakryty losowy 【B】żeton Skarbu【/B】 na polach z symbolem Skarbów wskazanych w Księdze Łowów.,0.854
+207,Game Setup,Przygotowanie gry,0.787
+208,Open and Play,Otwórz i graj,0.954
+209,"For the first game, we recommend using the Tutorial Scenario booklet to guide you through most of the components, game elements and rules.","W pierwszej rozgrywce zalecamy wykorzystanie broszury ze Scenariuszem Wprowadzającym, który objaśni działanie większości elementów gry i zasad.",0.829
+210,Choose a Scenario,Wybierz Scenariusz,0.953
+211,"The Hunt Book contains the special rules for the Griefbound, Map layouts and component lists for each of that Griefbound’s Scenarios. It also includes additional rules not present in the setup procedure described below.","Księga Łowów zawiera specjalne zasady Ponurnika, układy Map i listę elementów wymaganych w każdym Scenariuszu. Zawiera ona również dodatkowe zasady nieopisane w poniższej części poświęconej przygotowaniu gry.",0.798
+212,"On the following pages, you can find the overall description on how to set up a Scenario. This process does not contain the list of the used components, which you can find in the Hunt Book for each Griefbound. When you resolve the first setup, do it simultaneously with the Rulebook as a guide and the Hunt Book as a component list. After you familiarize yourself with how to set up a Scenario, the Hunt Book will be the only source of information you need.","Na kolejnych stronach znajdziesz ogólne zasady dotyczące przygotowania Scenariusza. Nie obejmują one listy elementów wykorzystywanych w danym Scenariuszu, którą znajdziesz w Księdze Łowów każdego Ponurnika. Przygotowując rozgrywkę po raz pierwszy, użyj Instrukcji jako przewodnika oraz listy elementów z Księgi Łowów. Kiedy zapoznasz się już z procesem przygotowania Scenariusza, Księga Łowów będzie jedynym źródłem potrzebnych informacji.",0.802
+213,Environment setup,Przygotowanie Otoczenia,0.608
+214,"Take the Environment deck and draw the cards listed in the Hunt Book. The Environment cards are divided into three categories depending on how they are used in the game and set up: Terrain, Landmarks and Areas.","Weź talię Otoczenia i dobierz karty wyszczególnione w Księdze Łowów. Karty Otoczenia podzielono na trzy kategorie w zależności od sposobu ich wykorzystania oraz rozmieszczenia: Teren, Ważne Punkty i Obszary.",0.827
+215,"6. Terrain: Take a random card for each Terrain type present in the Scenario, reveal them and follow the setup instructions. These cards will be placed next to the Map and affect the whole Terrain they correspond with.","6. Teren: dobierz losową kartę każdego rodzaju Terenu wykorzystywanego w tym Scenariuszu, odkryj je i rozpatrz instrukcje przygotowania. Te karty umieszcza się obok Mapy i wpływają one na cały Teren, do którego się odnoszą.",0.881
+216,"7. Landmark: Draw 1 card for each marked space on the Scenario Map, reveal them and follow their setup instructions. This will mostly consist of placing a corresponding Model (or token) in the marked space on the Map. After that, put the Landmark card next to the Map, close to the Model/token mentioned on the card.","7. Ważny Punkt: dobierz 1 kartę za każde oznaczone pole na Mapie Scenariusza, odkryj je i rozpatrz instrukcje przygotowania. Z reguły wiąże się to z umieszczeniem odpowiadającej figurki (lub żetonu) na oznaczonym polu Mapy. Następnie umieść kartę Ważnego Punktu obok mapy, w pobliżu figurki/żetonu wspomnianego na karcie.",0.849
+217,"8. Area: Draw 1 card and add a new 3-space Map tile to the Map. Usually, you will be instructed to discard this card afterwards. Some Scenarios might ask you to set up a specific tile. In such cases, it will be marked with a code.",8. Obszar: dobierz 1 kartę i dodaj do Mapy nowy kafel Mapy z trzema polami. Następnie z reguły należy odrzucić tę kartę. Niektóre Scenariusze nakazują umieszczenie na Mapie określonego kafla. W takich wypadkach będzie on oznaczony kodem.,0.902
+218,1c. Take an 【B】Elite Enemy【/B】 card according to the Hunt Book. Some Scenarios might ask you to use a specific Elite. Place its card near the Map.,1c. Weź kartę 【B】Elitarnego Wroga【/B】 wskazaną w Księdze Łowów. Niektóre Scenariusze wykorzystują określony typ Elitarnych Wrogów. Umieść ją w pobliżu Mapy.,0.856
+219,"2c. Place the matching Elite Model on the Map. Some Scenario setups might instruct you to put the Elite card face down with a Universal marker [[ICON1]] on the card. In such cases, the Elite Enemy will not be present on the Map at the beginning of the Scenario and will arrive later.","2c. Umieść odpowiadającą karcie figurkę Elitarnego Wroga na Mapie. Niektóre Scenariusze nakazują umieszczenie zakrytej karty Elitarnego Wroga ze znacznikiem uniwersalnym [[ICON1]] umieszczonym na tej karcie. W takich wypadkach Elitarny Wróg nie będzie obecny na Mapie od początku Scenariusza, lecz pojawi się później.",0.878
+220,"3c. Set the L-shaped 【B】Elite level token【/B】 below the card. Elite level should be equal to the [[ICON1]] minus 1. This being Level 1 in a Solo and 2 Player game, Level 2 in a 3 Player game and so on.","3c. Umieść 【B】żeton poziomu Elitarnego Wroga【/B】 w kształcie litery L poniżej tej karty. Poziom Elitarnego Wroga powinien być równy [[ICON1]] minus 1. Oznacza to, że będzie miał on poziom 1 w grze Solo i grze 2-osobowej, poziom 2 w rozgrywce 3-osobowej i tak dalej.",0.932
+221,4c. Place the Elite Step III standee near the Elite card.,4c. Umieść tekturową figurkę Krok III: Elita w pobliżu karty Elitarnego Wroga.,0.862
+222,Enemies Setup,Przygotowanie Wrogów,0.486
+223,Event Setup,Przygotowanie Wydarzeń,0.764
+224,1a. Take all 【B】Event cards【/B】 from the box.,1a. Weź wszystkie 【B】karty Wydarzeń【/B】 z pudełka.,0.963
+225,2a. Find 3 【B】Griefbound specific Events【/B】 (marked with their name and art on the front of the card).,2a. Odszukaj 3 【B】Wydarzenia powiązane z Ponurnikiem【/B】 (oznaczone jego imieniem oraz ilustracją na przodzie karty).,0.805
+226,3a. Add 【B】random Event【/B】 cards (of other Griefbounds not present in the Scenario) according to the Hunt Book. Put the remaining Event cards back in the box - they will not be used during this Scenario.,3a. Dodaj karty 【B】Wydarzeń losowych【/B】 (innych Ponurników nieobecnych w tym Scenariuszu) zgodnie z Księgą Łowów. Odłóż pozostałe karty Wydarzeń do pudełka – nie będą używane w tym Scenariuszu.,0.892
+227,4a. Shuffle the created 【B】Event deck【/B】 and place it next to the Map.,4a. Potasuj utworzoną w ten sposób 【B】talię Wydarzeń【/B】 i umieść ją obok Mapy.,0.887
+228,5a. Place the Event Step I standee near the Event deck.,5a. Umieść tekturową figurkę Krok I: Wydarzenie w pobliżu talii Wydarzeń.,0.794
+229,Minions Setup,Przygotowanie Sług,0.376
+230,1b. Take 1 【B】Minion card【/B】 according to the Hunt Book and place it face up near the Map. Put the rest of the cards back in the box - they will not be used during this Scenario.,1b. Weź 1 【B】kartę Sługi【/B】 wskazaną w Księdze Łowów i umieść ją odkrytą w pobliżu Mapy. Odłóż pozostałe karty do pudełka – nie będą używane w tym Scenariuszu.,0.852
+231,Note: There are 2 types of Minions: Convicted and Undead. The Undead are more complex and difficult.,Uwaga: istnieją 2 rodzaje Sług: Skazańcy i Nieumarli. Nieumarli są bardziej złożonymi i trudniejszymi przeciwnikami.,0.838
+232,2b. Take 8 【B】Minion Models【/B】 matching the Minion type and place them next to the Minion card. Note that each Minion type (Convicted or Undead) uses 2 simillar but different Models! Put the remaining Models back in the box.,"2b. Weź 8 【B】figurek Sług【/B】 odpowiadających rodzajowi Sługi i umieść je w pobliżu karty Sługi. Zauważ, że każdy rodzaj Sługi (Skazańcy lub Nieumarli) wykorzystuje 2 podobne, ale inne figurki! Umieść pozostałe figurki z powrotem w pudełku.",0.843
+233,"3b. Spawn the starting Minions: Take 2 Minion Models for each Hunter in the game (in a 5 player game only 8 Minions are spawned). Starting from Lament Rift #1 and proceeding in ascending order, place 1 Minion Model on each Lament Rift until you run out of Models.","3b. Rozmieść początkowe Sługi: weź 2 figurki Sług za każdego Łowcę w grze (w grze 5-osobowej należy rozmieścić tylko 8 Sług). Począwszy od Szczeliny Lamentu o numerze 1 i kontynuując w kolejności rosnącej, umieść po 1 figurce Sługi na każdej Szczelinie Lamentu, aż wyczerpie się pula figurek.",0.885

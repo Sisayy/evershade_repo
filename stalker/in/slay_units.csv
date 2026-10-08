@@ -1,0 +1,167 @@
+﻿id,en,pl,sim
+1,Rulebook,Instrukcja,0.676
+2,Table of Contents,Spis Treści,0.823
+3,Your First Game,Pierwsza rozgrywka,0.847
+4,"Ironclad and Silent are easier characters to learn, with Defect being harder and Watcher hardest. Keep this in mind when choosing a character!","Pancernik i Cień są postaciami najłatwiejszymi do nauki i grania. Defekt jest trudniejszy, a najtrudniejsza jest Obserwatorka. Weźcie to pod uwagę podczas wyboru postaci!",0.808
+5,Winning & Losing,Zwycięstwo i porażka,0.914
+6,Get the Free Companion App!,Pobierz darmową aplikację wspomagającą!,0.833
+7,"• Victory - If players defeat the final Boss, they win the game! Which Boss you consider to be final depends on how many Acts you want to play. You can stop playing at the end of any Act!","• Zwycięstwo – jeśli pokonaliście finałowego Bossa, odnosicie zwycięstwo! To, który Boss będzie waszym finałowym zależy od tego, ile Aktów chcecie rozegrać. Możecie zakończyć rozgrywkę na koniec dowolnego Aktu!",0.886
+8,"• Death - When a player’s HP is reduced to 0, they are dead and the party loses the game.","• Porażka – jeśli Punkty Życia (PŻ) postaci gracza zostaną zredukowane do 0, ta postać umiera, a cała drużyna ponosi porażkę.",0.84
+9,Playtime,Czas gry,0.77
+10,"With searchable rulebook, soundtrack, card library, achievement tracking, and more!","Zawiera instrukcję, w której można wyszukiwać informacje, ścieżkę dźwiękową, bibliotekę kart, listę do oznaczania zdobytych osiągnięć i jeszcze więcej!",0.829
+11,(Not required to play the game.),(Aplikacja wspomagająca nie jest wymagana do rozgrywki).,0.839
+12,Game Overview,Wprowadzenie,0.427
+13,"Slay the Spire is a cooperative rogue-like deckbuilding adventure. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and finally become strong enough to defeat the boss at the end of the Act!","Slay the Spire to kooperacyjna gra typu roguelike, oparta na mechanizmie budowania talii. Stwórzcie niepowtarzalne talie, stawcie czoła niezwykłym stworzeniom, odkryjcie potężne artefakty, by stać się ostatecznie na tyle silnymi, aby pokonać bossa na końcu Aktu!",0.852
+14,Components,Komponenty,0.975
+15,113 Tokens,113 żetonów,0.891
+16,36 Status,36x Status,0.842
+17,381 Player Cards,381 kart Gracza,0.912
+18,(including unlocks),(wraz z odblokowanymi),0.852
+19,4 1st Encounters,4x Pierwszy Przeciwnik,0.664
+20,Merchant Board/Player Aid,Plansza Handlarza / Pomoc gracza,0.775
+21,2 Main Boards,2 plansze Główne,0.937
+22,HP Board,Plansza PŻ,0.557
+23,(26 including unlocks),11 kart Bossa (26 wraz z odblokowanymi),0.67
+24,20 Boss Relics,20x Artefakt Bossa,0.548
+25,112 Small Cards,112 Małych kart,0.941
+26,"[[ICON1]], flip the board over and set up the Merchant side.","[[ICON1]], odwróćcie tę planszę na stronę Handlarza.",0.622
+27,Setup for Acts II & III,Przygotowanie Aktu II i Aktu III,0.78
+28,• [[ICON1]] Potion,• [[ICON1]] Mikstura,0.628
+29,• Curse Deck,• Talia Klątw,0.619
+30,Don’t use this token until instructed,Nie używajcie tego żetonu bez wyraźnego polecenia.,0.753
+31,Rare Rewards,Karty Rzadkich Nagród,0.751
+32,here,tutaj,0.972
+33,Card Rewards,Karty Nagród,0.808
+34,Place cubes here,Tu umieśćcie kostki,0.878
+35,Starter Deck,Talia Początkowa,0.646
+36,Your Play Area,Twój obszar gry,0.886
+37,Each character has a unique starting ability on their player board.,Każda postać ma unikalną zdolność początkową na swojej planszy Gracza.,0.884
+38,Hit Points (HP),Punkty Życia (PŻ),0.614
+39,"When your character takes damage or loses HP, your HP goes down. When you heal, your HP goes up. Keep a red cube on your HP to track it. Your HP starts at the highest number on your player board.","Gdy twoja postać otrzymuje obrażenia lub traci PŻ, zmniejszają się twoje PŻ. Gdy leczysz, zwiększają się twoje PŻ. Używaj czerwonej kostki na twoim torze PŻ, aby to oznaczać. Rozpoczynasz z PŻ w liczbie równej najwyższej wartości PŻ na twojej planszy Gracza.",0.816
+40,Draw Pile Discard Pile,Stos kart odrzuconych,0.325
+41,Powers,Moce,0.723
+42,Items,Kała,0.298
+43,Starting Ability,Zdolność początkowa,0.914
+44,Cubes,Kostki,0.596
+45,Energy Cost Name Banner,Koszt Energii Nazwa Wstęga,0.745
+46,Rare,Rzadka,0.821
+47,Uncommon,Niepospolita,0.567
+48,Common,Pospolita,0.4
+49,Starter,Początkowa,0.813
+50,Text,Tekst,0.973
+51,Card Types,Rodzaje kart,0.958
+52,Your Deck,Twoja talia,0.692
+53,Energy,Energia,0.98
+54,"[[ICON1]] – Energy is used to play cards. You can have a maximum of 6 Energy at once. Each character has their own Energy icon, although they all mean the same thing. You can gain Energy from sources with icons that don’t match your character. You’ll usually see “ [[ICON2]]” used to mean Energy on items and in the rules.","[[ICON1]] – Energia używana jest do zagrywania kart. Możesz mieć w danym momencie maksymalnie 6 punktów Energii. Mimo iż każda postać ma swoją własną ikonę Energii, na potrzeby zasad gry, oznaczają one to samo. Możesz zyskiwać Energię ze źródeł, których ikona nie jest identyczna z ikoną Energii twojej postaci. Zazwyczaj na kartach Przedmiotów i w zasadach do oznaczania Energii wykorzystywana jest ikona „ [[ICON2]]”.",0.915
+55,Text,Tekst,0.973
+56,Name,Nazwa,0.977
+57,Rewards,Nagrody,0.896
+58,"There are several types of rewards below... but first, some general rules about rewards!","Występuje kilka rodzajów Nagród opisanych poniżej, ale najpierw… kilka zasad na temat Nagród!",0.898
+59,"Remove, Upgrade, Transform","Usuń, Ulepsz, Podmień",0.837
+60,"You start at the encounter [[ICON1]]on the bottom of the map. When you’re done with a room, move the meeple up the map along one of the paths to the next room. See rules for each type of room below:","Przygoda rozpoczyna się od Przeciwnika [[ICON1]]na samym dole Mapy. Po ukończeniu danego pokoju, przesuń pionek Buta w górę Mapy do kolejnego pokoju, wzdłuż jednej z połączonych ścieżek. Poniżej opisano rodzaje pokojów, jakie możesz spotkać na swojej drodze.",0.802
+61,"When you reach the Boss, start combat against the Boss card at the top of the map (see Combat Setup, page 10). If the Boss is defeated, you beat the Act! After gaining rewards, you can save and continue later, proceed to the next Act (see page 4, Setup), or end the game here.","Po dotarciu do Bossa, rozpoczyna się walka z Bossem z karty na górze Mapy (zob. Przygotowanie walki, str. 10). Jeśli Boss zostanie pokonany, gracze wygrywają Akt! Po zdobyciu Nagród gracze mogą: zapisać postęp, by kontynuować przygodę później ALBO od razu przejść do kolejnego Aktu (zob. Przygotowanie, str. 4) ALBO zakończyć grę w tym miejscu (zob. Koniec gry – Reset, str. 23).",0.845
+62,Encounter,Przeciwnik,0.42
+63,Event,Wydarzenie,0.955
+64,"each player must choose one of those options. Each player makes their own choice and acts once in any order. Some Events work differently, as described in their text. To choose a “Pay” or “Give” option, you must first have what it is asking you to pay or give. When all players are done, put the Event on the bottom of the Event deck.","Dobierz kartę z talii Wydarzeń. Jeśli znajduje się na niej tekst w [żółtych nawiasach] [żółtych nawiasach], każdy gracz musi wybrać jedną z tych opcji. Każdy gracz podejmuje własną decyzję i wykonuje ją raz, w dowolnej kolejności. Niektóre Wydarzenia działają inaczej, zgodnie z tekstem znajdującym się na karcie takiego Wydarzenia. Aby móc wybrać opcję typu „Zapłać” lub „Daj”, musisz najpierw posiadać to, czym należy zapłacić lub co powinieneś dać. Gdy wszyscy gracze zrealizują swoje wybory, odłóż kartę Wydarzenia na spód talii Wydarzeń.",0.86
+65,Event Card,Karta Wydarzenia,0.917
+66,"Each player chooses one of two actions, Rest or Smith:",Każdy gracz wybiera jedną z dwóch akcji – Odpoczynek albo Wykucie:,0.842
+67,Each player gains a relic [[ICON1]].,Każdy gracz zyskuje Artefakt [[ICON1]].,0.806
+68,Merchant,Handlarz,0.388
+69,Combat Setup,Przygotowanie walki,0.74
+70,"Summons [[ICON1]]- Some enemies will summon more enemies. If you see a green bar and this icon [[ICON2]], then search for that enemy in the Summons deck and put them into play at the start of combat. Some enemy actions or special abilities can also summon.","Przyzwańce [[ICON1]]– Niektórzy Przeciwnicy będą przyzywać więcej Przeciwników. Jeśli zobaczysz zieloną ramkę z ikoną [[ICON2]], wyszukaj wskazanego Przeciwnika w talii Przyzwańców i umieść go w grze na początku walki.",0.798
+71,"Encounters [[ICON1]]- Place one enemy in each player’s row. If there are Summons [[ICON2]], they are placed in the row of the enemy that summoned them to the right.","Przeciwnik [[ICON1]]– Umieść po jednym Przeciwniku w rzędzie każdego gracza. Jeśli pojawiają się Przyzwańce [[ICON2]], są one umieszczane w rzędzie tego Przeciwnika, który je przyzwał, po jego prawej stronie.",0.873
+72,Enemy Cards,Karty Przeciwników,0.812
+73,[[ICON1]]Summons,[[ICON1]]Przyzwańce,0.743
+74,Special,Zdolność specjalna,0.662
+75,"The top number is their starting HP for 1 player, the next number down is for 2 players, etc. Set their HP using cubes.","Niektórzy Przeciwnicy używają planszy PŻ. Ich PŻ prezentowane są w ten sposób. Wartość podana najwyżej, to początkowe PŻ w rozgrywce dla 1 gracza, kolejna wartość poniżej dla 2 graczy itd. Ustaw PŻ Przeciwnika używając kostek.",0.725
+76,"Elites [[ICON1]]- Place one Elite in the bottom row. If there are Summons, place them in each player’s row with the Elite to their right.","Elitarny Przeciwnik [[ICON1]] – Umieść Elitarnego Przeciwnika w najniższym rzędzie. Jeśli pojawiają się Przyzwańce, są one umieszczane w rzędzie każdego gracza, pozostawiając Elitarnego Przeciwnika po prawej stronie (zob. obok).",0.835
+77,Bosses are treated as being in all rows. Keep them to the right of the board with any Summons in rows and closer to the board.,"Bossowie traktowani są jakby znajdowali się we wszystkich rzędach. Trzymajcie ich na prawo od planszy Głównej, z Przyzwańcami (jeśli występują) w rzędach blisko planszy.",0.733
+78,Elite with Summons,Elitarny Przeciwnik z Przyzwańcami,0.631
+79,Enemy actions,Akcje Przeciwnika,0.683
+80,Starting HP,Początkowe PŻ,0.668
+81,Player Turn,Tura Gracza,0.622
+82,• Start of Turn,Początek Tury,0.688
+83,"3. Roll - Roll the die [[ICON1]]. If any abilities can change the die result, they must be used now before resolving other abilities. The die result tells you what action some monsters will take later during the Enemy Turn and which relic abilities are about to trigger (see next step). One die result determines all die effects for the round! Don’t roll it again until next round!","3. Rzut Kością – Rzuć Kością [[ICON1]]. Jeśli jakaś zdolność pozwala na zmianę wyniku na Kości, musi być ona użyta przed rozpatrzeniem innych zdolności. Wynik na Kości wskazuje na to, jakie akcje wykonają później niektórzy Przeciwnicy w trakcie Tury Przeciwnika, oraz które zdolności Artefaktów mogą zostać wywołane (zob. kolejny krok). Jeden wynik na Kości wpływa przez całą Rundę na wszystkie efekty zależne od wyniku na Kości. Nie rzucaj tą Kością ponownie aż do kolejnej Rundy!",0.88
+84,4. Start of turn abilities - The following abilities trigger in any order players choose:,"4. Zdolności na początku Tury – Następujące zdolności są wywoływane w dowolnej kolejności, wg wyboru graczy:",0.887
+85,• Play,Rozgrywka,0.668
+86,• End of Turn,Koniec Tury,0.655
+87,Combat rounds consist of a Player Turn followed by an Enemy Turn. Rounds repeat until combat ends.,"Rundy walki składają się z Tury Gracza, po której następuje Tura Przeciwnika. Schemat ten jest powtarzany do zakończenia walki.",0.866
+88,Enemy Action Types,Rodzaje akcji Przeciwnika,0.81
+89,Enemies target the player in their row. Actions with a [[ICON1]]symbol target all players. There are 3 types of enemy behavior patterns:,Przeciwnicy obierają za cel gracza w ich rzędzie. Akcje z symbolem [[ICON1]] obierają za cel każdego gracza. Występują 3 rodzaje schematów zachowań Przeciwnika:,0.887
+90,"The enemy takes the action to the right of the cube during the “Enemy Actions” phase. During the “Move Cube Actions” phase, slide the cube down the track. When it reaches the bottom of the track, move the cube to the topmost red cube slot. Gray cube actions are not repeated.","• Akcja kostki – Na początku walki umieść kostkę na najwyższym polu na kostkę. Przeciwnik wykonuje akcję wskazaną na prawo od pozycji kostki w trakcie fazy „Akcji Przeciwnika”. W trakcie fazy „Przesunięcia kostki akcji” przesuń kostkę na kolejne pole poniżej. Jeśli przed przesunięciem kostka znajduje się na najniższym polu, przesuń ją na najwyższe czerwone pole na kostkę. Akcje szarego pola na kostkę nie są powtarzane.",0.79
+91,The Dead,Śmierć,0.824
+92,"When enemies are reduced to 0 HP, they are dead and lose their tokens. Flip them over until the end of combat. When a player dies, the game immediately ends in defeat.","Gdy PŻ Przeciwnika zostaną zredukowane do 0, ten Przeciwnik umiera i traci wszystkie swoje żetony. Odwróćcie jego kartę do końca walki. Gdy postać gracza umiera, gra natychmiast kończy się porażką graczy.",0.844
+93,Enemy Turn,Tura Przeciwnika,0.618
+94,"Combat ends immediately when all monsters are dead or have left combat, unless an enemy had an “on death” ability that is going to summon an enemy. At the end of combat:","Walka kończy się natychmiast, gdy każdy Przeciwnik umrze lub opuści walkę, chyba że miał zdolność „przy śmierci”, która przyzywa kolejnego Przeciwnika. Na koniec walki:",0.863
+95,End of Combat,Koniec walki,0.909
+96,Multi-hits,Wielokrotne trafienia,0.767
+97,"[[ICON1]] token. The Twin Strike deals double damage, 2 [[ICON2]] 2 [[ICON3]], for a total of 4 damage. Then the Vulnerable [[ICON4]] token is removed.","[[ICON1]] Podwójne uderzenie zadaje podwojone obrażenia, 2 [[ICON2]]2 [[ICON3]], łącznie zadając 4 pkt. obrażeń. Następnie żeton Wrażliwości [[ICON4]] jest odrzucany.",0.891
+98,[[ICON1]] - Deal 1 damage to any enemy.,[[ICON1]] – Zadaj 1 pkt obrażeń dowolnemu Przeciwnikowi.,0.831
+99,[[ICON1]] - Deal 1 damage to any enemy. Deal 1 damage to the same enemy.,[[ICON1]] – Zadaj 1 pkt obrażeń dowolnemu Przeciwnikowi. Zadaj 1 pkt obrażeń temu samemu Przeciwnikowi.,0.849
+100,"[[ICON1]] - Deal 3 damage to all enemies in a row (and the Boss, if present).","[[ICON1]]- Zadaj 3 pkt. obrażeń każdemu Przeciwnikowi w rzędzie (oraz Bossowi, jeśli występuje).",0.887
+101,Enemy Action Examples,Przykłady akcji Przeciwnika,0.815
+102,[[ICON1]] - The player in this row puts a [[ICON2]] card on top of their deck.,[[ICON1]] – Gracz w tym rzędzie umieszcza kartę [[ICON2]] na wierzchu swojej talii.,0.879
+103,[[ICON1]] - The player in this row puts a [[ICON2]]/ [[ICON3]] card in their discard pile. All Status cards are [[ICON4]] this combat.,[[ICON1]] – Gracz w tym rzędzie umieszcza kartę[[ICON2]] / [[ICON3]] na swoim stosie kart odrzuconych. W tej walce wszystkie karty Statusów to[[ICON4]] .,0.912
+104,Most icons are explained on the back of the rulebook or the player aid. Below are examples of what these symbols mean when used on player cards or enemy actions.,"Większość ikon została opisana na ostatniej stronie instrukcji oraz na Pomocy Gracza. Poniżej wyjaśniono, co oznaczają te ikony, gdy pojawiają się na kartach gracza lub w akcjach Przeciwnika.",0.823
+105,Actions & Effects,Akcje i Efekty,0.949
+106,Vulnerable [[ICON1]] token.,Żeton Wrażliwości [[ICON1]].,0.505
+107,Targeting for Players,Obieranie celu przez graczy,0.743
+108,Modes,Tryby,0.643
+109,Effects with the [[ICON1]] icon or that say “any row” target all enemies in a single row. They also always affect the Boss.,Efekty zawierające ikonę [[ICON1]] lub odnoszące się do „dowolnego rzędu” obierają za cel każdego Przeciwnika w jednym rzędzie. Zawsze trafiają także Bossa.,0.827
+110,Players can target any enemy.,Gracze mogą obierać za cel dowolnego Przeciwnika.,0.874
+111,Enemy [[ICON1]] actions target all players.,Akcje Przeciwnika z ikoną [[ICON1]] obierają za cel każdego gracza.,0.695
+112,Enemies target the player in their row.,Przeciwnicy obierają za cel gracza w ich rzędzie.,0.836
+113,Strength (max 8),Siła (maks. 8),0.952
+114,Exhaust,Wykluczenie,0.617
+115,The Ironclad has many ways to Exhaust cards and synergies with Exhaust. See the back of the rulebook for more on Exhaust.,"Pancernik ma wiele sposobów na Wykluczanie kart oraz synergię z Wykluczaniem. Zobacz ostatnią stronę instrukcji, by dowiedzieć się więcej na temat Wykluczania.",0.735
+116,Extra HP,Więcej PŻ,0.64
+117,The Ironclad starts with more HP than any other character.,Pancernik rozpoczyna z większą liczbą PŻ niż pozostałe postacie.,0.743
+118,The remaining soldier of the Ironclads. Sold his soul to harness demonic energies.,"Ostatni żołnierz klanu Pancerników. Zaprzedał duszę, aby posiąść demoniczne moce.",0.723
+119,The Defect,Przywołanie,0.375
+120,Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.,"Bojowy automaton, który zyskał świadomość. Antyczna technologia pozwala mu manipulować Sferami.",0.776
+121,"No, no, and no. You can Channel an Orb into any empty Orb slot, and you can Evoke any Orb you have. All Orb slots are treated the same.","Nie, nie i nie. Możesz Przywołać Sferę do dowolnego pustego slotu. Możesz też Wyładować dowolną z posiadanych Sfer. Wszystkie sloty Sfer są traktowane tak samo.",0.785
+122,A deadly huntress from the foglands. Eradicates foes with daggers and poisons.,Zabójcza łowczyni z okolic mgliszczy. Rozprawia się z Przeciwnikami przy użyciu noży i trucizny.,0.808
+123,"[[ICON1]] are tokens that may be used to deal 1 [[ICON2]] whenever you could play a card. Each [[ICON3]] is treated as a separate Attack and is affected separately by Strength [[ICON4]], Vulnerable [[ICON5]], and Weak [[ICON6]]. You start combat with 0 Shiv tokens, and gain Shiv tokens from cards with the Shiv [[ICON7]] icon. They don’t go away until used or the end of combat. You can use them immediately or save them up for a combo!","Noże [[ICON1]] reprezentowane są przez żetony, które mogą zostać użyte do zadania 1 [[ICON2]] wszędzie tam, gdzie mógłbyś zagrać kartę. Każdy [[ICON3]] traktowany jest jako osobny Atak i wpływają na niego osobno: Siła [[ICON4]], Wrażliwość [[ICON5]] i Słabości [[ICON6]]. Zaczynasz walkę mając 0 żetonów Noża. Zdobywasz je zagrywając karty z ikoną Noża [[ICON7]] Nie tracisz ich aż do użycia lub do końca walki. Możesz ich użyć natychmiast lub zachować na później, by użyć w efektywnej kombinacji!",0.833
+124,The Watcher,Obserwatorka,0.825
+125,A blind ascetic who has come to “Evaluate” the Spire. Master of the divine Stances.,"Niewidoma ascetka, która przybyła, aby „Ocenić” Iglicę. Mistrzyni boskich Postaw.",0.739
+126,Stances,Postawy,0.664
+127,"Start each combat in Neutral Stance. The Watcher can enter or leave Stances to gain different abilities. When you enter a Stance, move the cube to the new Stance. You cannot enter a Stance you are already in (the effect is ignored).","Rozpoczynasz każdą walkę w Postawie Neutralnej. Obserwatorka może przyjmować lub opuszczać Postawy, aby zyskiwać różne zdolności. Gdy przyjmujesz nową Postawę, przenieś kostkę do nowej Postawy. Nie możesz Przyjąć postawy w której aktualnie się znajdujesz (efekt jest ignorowany).",0.854
+128,Miracles (max 5),Cuda (maks. 5),0.849
+129,Miracle[[ICON1]] tokens can be used any time to gain 1 Energy [[ICON2]]. You can’t have more than 5[[ICON3]] at once. Gain Miracle tokens from cards and abilities with the[[ICON4]] icon. Your starting ability gives you a[[ICON5]] You can use Miracles to go over the Energy limit (max 6) if they are immediately used to pay for a card.,"Żeton Cudu[[ICON1]] może być użyty w dowolnym momencie, aby pozyskać 1 punkt Energii [[ICON2]]. Nie możesz mieć jednocześnie więcej niż 5[[ICON3]] Żetony Cudu zdobywasz zagrywając karty lub ze zdolności z ikoną[[ICON4]] Twoja początkowa zdolność zapewnia ci[[ICON5]] Możesz użyć Cudów do przekroczenia limitu punktów Energii (maks. 6), jeśli zostaną one natychmiast wykorzystane do zapłacenia za zagranie karty. Prognozowanie i Zachowanie – Zobacz ostatnią stronę instrukcji, aby zapoznać się z opisem Prognozowania i Zachowania.",0.878
+130,Specific Card Interactions,Szczególne interakcje kart,0.881
+131,Playing Copies,Zagrywanie kopii,0.904
+132,"When a card is played multiple times, each copy is treated as a separate card. Copies do not cost Energy to play. If the card has X in the Energy cost, the copies use the same value of X as the original. Each copy can have different targets and is affected separately by Vulnerable [[ICON1]], Weak [[ICON2]], and single- use bonuses. Copies cannot also be copied.","Gdy karta jest zagrywana wielokrotnie, każda kopia traktowana jest jak osobna karta. Kopie nie mają kosztu Energii do zagrania. Jeśli koszt karty wyrażony jest jako X pkt. Energii, jej kopie mają taki sam koszt X pkt. Energii, jak oryginalna karta. Każda kopia może mieć inny cel i osobno aktywuje Wrażliwość [[ICON1]] Słabość [[ICON2]] oraz jednorazowe wzmocnienia. Kopie nie mogą być kopiowane.",0.883
+133,"The copies are played first. While the copies are being played, the original isn’t in your hand or in your discard pile. When the original resolves, it then goes to your discard pile.","Najpierw zagrywane są kopie. Gdy zagrywane są kopie, oryginalna karta nie znajduje się ani na twojej ręce, ani w twoim stosie kart odrzuconych. Gdy oryginalna karta zostanie rozpatrzona, trafia na twój stos kart odrzuconych.",0.821
+134,Cards from Other Characters,Karty od innych postaci,0.919
+135,Triggered Abilities,Zdolności wywoływane,0.839
+136,Some abilities don’t have an effect until the conditions of their trigger are met. Examples are:,"Niektóre zdolności nie wywołują efektu, dopóki nie nastąpi konkretne zdarzenie wywołujące ten efekt. Poniżej wymieniono przykłady.",0.732
+137,"After you defeat an Act II Boss (Act III if you’re playing solo), unlock Ascension [[ICON1]] 1. To unlock higher Ascensions [[ICON2]], you must be playing with the modifiers of all previous Ascension levels and defeat an Act II Boss (Act III if you’re playing solo). You don’t have to play on the highest Ascension you’ve achieved, although you may need to revert changes to some decks to play on a lower Ascension.","Po pokonaniu Bossa Aktu II (lub Aktu III podczas rozgrywki Solo), odblokowane zostaje Wyniesienie [[ICON1]] 1. Aby odblokować wyższe poziomy Wyniesienia [[ICON2]], należy pokonać Bossa Aktu II (lub aktu III podczas rozgrywki Solo) w rozgrywce ze wszystkimi modyfikacjami każdego wcześniejszego poziomu Wyniesienia. Nie trzeba grać na najwyższym poziomie Wyniesienia, jaki udało się odblokować. Należy jednak pamiętać, że rozgrywka na niższym poziomie może wymagać cofnięcia zmian wprowadzonych w niektórych taliach.",0.863
+138,Ascension,Wyniesienie,0.577
+139,Act IV,Akt IV,0.956
+140,"When unlocked, take out the colorless rewards deck during setup and shuffle it. Don’t shuffle it between Acts. The party reveals 3 colorless cards at the merchant. Their cost is based on rarity. Add the [[ICON1]] Events and Neow’s Blessing cards to the appropriate decks.","Gdy odblokowane, podczas Przygotowania rozgrywki weź talię Bezbarwnych Nagród i potasuj ją. Nie tasuj tej talii pomiędzy Aktami. Drużyna odkrywa 3 Bezbarwne karty z tej talii podczas wizyty u Handlarza. Ich koszt zależny jest od rzadkości danej karty. Dodaj karty [[ICON1]] Wydarzeń oraz Błogosławieństwa Neow do odpowiednich talii.",0.843
+141,Silent,Cień,0.503
+142,Defect,Defekt,0.963
+143,Watcher,Obserwatorka,0.878
+144,"Whenever you finish a game, each player checks 1 box per Boss defeated, plus 1 extra box each. You must check boxes for your character until they are all checked, after which you may check Colorless or Act IV boxes. When you check all of the boxes next to a lock, add the locked cards with a matching number [[ICON1]] [[ICON2]] [[ICON3]] to the appropriate decks.","Za każdym razem po zakończeniu gry, każdy gracz zaznacza 1 okienko za każdego pokonanego Bossa, plus 1 okienko każdy. Najpierw musisz zaznaczać okienka swojej postaci, aż wszystkie będą zaznaczone, po czym będziesz mógł zaznaczać okienka Bezbarwnych kart oraz Aktu IV. Gdy zaznaczysz wszystkie okienka obok danej kłódki, dodaj zablokowane karty z pasującym numerem kłódki [[ICON1]] [[ICON2]] [[ICON3]] do odpowiednich talii.",0.868
+145,Achievements,Osiągnięcia,0.927
+146,Custom Run,Tryb Dowolny,0.509
+147,"To play a custom run, instead of rolling for game modifiers, pick whichever modifiers you want from this list.","Aby zagrać w Trybie Dowolnym, zamiast rzucać Kością, by wylosować modyfikatory, swobodnie wybieraj dowolne z tych sekcji.",0.719
+148,Daily Climb,Wyzwanie Dnia,0.624
+149,Quick Start Rules,Szybki Start – zasady,0.896
+150,Gold,Złoto,0.934
+151,Card Rewards,Karty Nagród,0.808
+152,Roll the Die,Rzut Kością,0.493
+153,Potion,Mikstura,0.404
+154,Relic,Nagród,0.329
+155,Merchant,Handlarz,0.388
+156,Transform,Podmiana,0.499
+157,Act IV,Akt IV,0.956
+158,Act IV must be unlocked (see page 20). To enter Act IV you must obtain all 3 keys by the end of Act III. The Act IV map is on the back of the Act IV Boss card. To obtain a key...,"Akt IV musi zostać odblokowany (zob. str. 20). Aby przejść do Aktu IV, wymagane są 3 Klucze na koniec Aktu III. Mapa Aktu IV znajduje się na rewersie karty Bossa Aktu IV. Aby zdobyć Klucz…",0.889
+159,"Players heal at the start of Act IV, just like they do at the start of Acts II and III.","Na początku Aktu IV gracze przywracają PŻ swoich postaci tak samo, jak na początku Aktu II i III.",0.808
+160,"[[ICON1]]Burning Elite - Before map setup, replace an Encounter token[[ICON2]] with a dark back[[ICON3]] with the Burning Elite[[ICON4]] token. When you gain the Emerald Key[[ICON5]] replace the[[ICON6]] token back with the[[ICON7]] token for future Acts.","[[ICON1]]Płonący Elitarny Przeciwnik – Przed przygotowaniem Mapy, należy zamienić żeton Przeciwnika[[ICON2]] z ciemnym rewersem[[ICON3]] na żeton Płonącego Elitarnego Przeciwnika[[ICON4]] Po pozyskaniu Szmaragdowego Klucza[[ICON5]] należy zamienić z powrotem żeton[[ICON6]] na żeton[[ICON7]] dla przyszłych Aktów.",0.84
+161,Front,Rewers,0.395
+162,The Last Stand,Złota Zasada,0.281
+163,Sequential Turns,Opcjonalne zasady,0.361
+164,Choose Your Relic,Wybierz swój Artefakt,0.757
+165,"In multiplayer games, when the party gains a relic [[ICON1]] from an Elite [[ICON2]] or Treasure [[ICON3]]room, reveal relics equal to the number of players. Each player chooses a revealed relic.","W rozgrywce wieloosobowej, gdy drużyna zyskuje Artefakt [[ICON1]] z Elitarnego Przeciwnika [[ICON2]] lub pokoju ze Skarbem [[ICON3]] należy odkryć Artefakty w liczbie równej liczbie graczy. Każdy gracz wybiera jeden z odkrytych Artefaktów.",0.78
+166,Abilities & Keywords,Zdolności i słowa kluczowe,0.931

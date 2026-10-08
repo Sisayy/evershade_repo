@@ -1,0 +1,164 @@
+﻿id,en,pl,sim
+1,R u l e b o o k,K s i ę g a Z a s a d,0.579
+2,T A B L E O F C O N T E N T S,S P I S T R E Ś C I,0.692
+3,C R E D I T S,T W Ó R C Y,0.773
+4,【B】Project Manager and Art Director:【/B】 Andrea Colletti,"【B】Menadżer Projektu, Dyrektor Artystyczny:【/B】 Andrea Colletti",0.931
+5,"【B】Concept Artists:【/B】 Giovanni Pirrotta, Simone de Paolis, Eleonora Lisi, Fabio Porfi dia","【B】Grafika:【/B】 Giovanni Pirrotta, Simone de Paolis, Eleonora Lisi, Fabio Porfidia",0.802
+6,【B】Lead 3D Sculptor:【/B】 Fernando Armentano,【B】Elementy 3D:【/B】 Fernando Armentano,0.841
+7,Game Objective,Cel Gry,0.865
+8,In Nova Aetas Renaissance you will play through a 【B】Campaign【/B】 divided into a series of 【B】Missions【/B】 that puts your tactical skills to the test. Each Mission will evolve the campaign story in diff erent ways based on how you complete them. Th e story will develop based on your choices and actions.,"W grze ""Nova Aetas Renesans"" rozegrasz 【B】Kampanię【/B】 podzieloną na serię 【B】Misji【/B】, które wystawią na próbę Twoje umiejętności taktyczne. Na podstawie przebiegu każdej Misji, fabuła Kampanii będzie się rozwijać na różne sposoby. Historia zostanie przedstawiona w oparciu o twoje wybory i działania.",0.908
+9,"When you reach one of the eight diff erent endings, you will have fi nished your adventure, following a compelling story told through 【B】Mission Cards【/B】 and the 【B】Plotbook【/B】. Th e main goal of the game is to entertain you and tell your story. Aft er you have read one of the endings, you can begin a new Campaign to explore and discover every secret of the fascinating world of Nova Aetas Renaissance!","Podążając za wciągającą historią opowiedzianą za pomocą 【B】Kart Misji【/B】 i 【B】Księgi Fabuły【/B】, dotrzesz do jednego z ośmiu różnych zakończeń, tym samym kończąc swoją przygodę. Głównym celem gry jest dostarczenie rozrywki oraz opowiedzenie ciekawej historii. Po przeczytaniu jednego z zakończeń możesz rozpocząć nową Kampanię, aby poznać fascynujący świat ""Nova Aetas Renesans"" i odkryć wszystkie jego sekrety!",0.912
+10,How to use this Rulebook,Korzystanie z Księgi Zasad,0.617
+11,Golden Rules,Złote Zasady,0.907
+12,"Regardless of any modifi ers to the roll of the die, or to the Test being performed, a result of 1 on the die is always a fail while a result of 8 is always a success.","Jeśli podczas Testu Próg Sukcesu nie został określony, wówczas zawsze wynosi on 5. Niezależnie od jakichkolwiek modyfikatorów rzutu kością lub wykonywanego testu, wynik 1 na kości oznacza zawsze porażkę, podczas gdy wynik 8 oznacza zawsze sukces.",0.81
+13,Heroes,Bohaterowie,0.924
+14,Authors' Note:,Nota od autora:,0.912
+15,"Within this Rulebook we try to clarify as many questions as possible regarding most game situations. Yet in a game as vast as Nova Aetas Renaissance you may come across a situation that we have failed to foresee or that the rules fail to clarify entirely. In such cases, we recommend that you use common sense to resolve it or—in case you want to keep in the spirit in which we designed this game—always back the Enemies up by choosing what is best for them! Functional as it may be, the Artifi cial Intelligence we have designed will never compete with a player's brain, so giving advantage to the Enemies is what we would do if we were in an uncertain situation.","Celem Księgi Zasad jest wyjaśnienie jak największej liczby kwestii związanych z większością sytuacji w grze. Niemniej jednak w tytule tak rozległym jak ""Nova Aetas Renesans"" możesz natknąć się na sytuację, której nie przewidzieliśmy lub której nie udało się całkowicie wyjaśnić w zasadach. W takich przypadkach zalecamy kierowanie się zdrowym rozsądkiem lub - jeśli chcesz pozostać w duchu, w którym zaprojektowaliśmy tę grę - zawsze wspieraj Wrogów, wybierając to, co dla nich najlepsze! Sztuczna inteligencja, którą zaprojektowaliśmy, nigdy nie będzie w stanie konkurować z umysłem gracza, więc dawanie przewagi Wrogom jest tym, co zrobilibyśmy, gdybyśmy znaleźli się w niejasnej sytuacji.",0.803
+16,Venice,Wenecja,0.786
+17,3 Gunslingers,3 Strzelców,0.91
+18,Rome,Rzym,0.907
+19,3 Scum Skills,3 Umiejętności Oszustki,0.866
+20,Slayers,Wymagania:,0.288
+21,3 Scum Skills,3 Umiejętności Oszustki,0.866
+22,Weapon,Przedmiot,0.476
+23,[[ICON1]]Tac le,[[ICON1]] Opanowanie,0.273
+24,Armor,Pancerz,0.309
+25,Vigor Potion,Mikstura Żywotności,0.351
+26,Potion,Mikstura,0.404
+27,Starting Equipment,Wyposażenie Początkowe,0.856
+28,Glove of Souls,Rękawica Dusz,0.762
+29,Advanced Equipment,Wyposażenie Zaawansowane,0.922
+30,251 Mission Cards,251 Kart Misji,0.798
+31,27 Mission Envelopes,27 Kopert Misji,0.811
+32,1 Tutorial,1 Przewodnik,0.868
+33,T u t o r i a l,P r z e w o d n i k,0.711
+34,League of Cambrai,LiGa W CamBrai,0.421
+35,1 Handbook,1 Podręcznik,0.953
+36,1 Plotbook,1 Księga Fabuły,0.805
+37,Achievement,Osiągnięcie,0.845
+38,[[ICON1]]Achievement,[[ICON1]]Osiągnięcie,0.845
+39,◆When you have at least 3,◆Jeśli masz co najmniej 3,0.961
+40,Skills of your Basic Class,"Podstawowej, możesz podczas",0.365
+41,you can read [[ICON1]]0.5-39,Fazy Odpoczynku przeczytać [[ICON1]]0.5-39.,0.707
+42,Rest,Cel,0.265
+43,4 Companion Cards,4 Karty Towarzyszy,0.893
+44,Energy Shard - Artifact,Odłamek Energii - Artefakt,0.876
+45,Arcane Arrow - Magic trick,Zaklęta Strzała - Sztuczka Magiczna,0.836
+46,Hood - Armor,Kaptur - Pancerz,0.601
+47,Climb 1 - Jump 1,Wspinaczka 1 - Skok 1,0.936
+48,Grappling Hook - Item,Noże do rzucania - Broń,0.491
+49,[[ICON1]]Diplomacy - Medicine - Mysticism,[[ICON1]]Dyplomacja - Medycyna - Mistycyzm,0.84
+50,Chirurgeon’s Bag - Item,Torba Chirurga - Przedmiot,0.895
+51,2[[ICON1]]: gain a Blessed Token.,2[[ICON1]]: zyskaj Żeton Błogosławieństwa.,0.902
+52,Censer - Weapon,Kadzielnica - Broń,0.478
+53,0[[ICON1]]: choose a Model adjacent to you. Swap,0[[ICON1]]: wybierz Figurk dującą z tobą. Zamień,0.782
+54,【B】Astrology【/B】,【B】Astrologia【/B】,0.934
+55,Prayer. 2[[ICON1]]: perform a [[ICON2]]Test. For each [[ICON3]] choose,Modlitwa. 2[[ICON1]]: wykona est [[ICON2]]. Za każdy [[ICON3]],0.827
+56,"At the beginning of your Activation, if you do not","Na początku swojej Aktywacji, jeśli na tej karcie nie ma",0.818
+57,Shield - Shield,Tarcza - Tarcza,0.757
+58,Leather Armor - Armor,Skórzany Pancerz - Pancerz,0.712
+59,[[ICON1]]Intimidate - Brutality - Survival,[[ICON1]]Zastraszenie - Brutalność - Przetrwanie,0.823
+60,VALERIO,Zniewaga,0.293
+61,14 Injury Cards,14 Kart Obrażeń,0.94
+62,9 Event Cards,9 Kart Wydarzeń,0.952
+63,Cracked Lips,Spierzchnięte usta,0.816
+64,2 Transformation Cards,2 Karty Transformacji,0.971
+65,"suff ers at least 1[[ICON1]], discard the Sheep","otrzyma co najmniej 1[[ICON1]], odrzuć Żeton",0.755
+66,Token and this card.,Owcy i tę kartę.,0.866
+67,16 Prey Action Cards,16 Kart Akcji Zdobyczy,0.803
+68,"Th e Bear places itself adjacent to its target, then performs the following Attack on it:","Niedźwiedź zostaje umieszczony na Polu sąsiadującym z celem, następnie Atakuje go.",0.76
+69,20 Wound Tokens,20 Żetonów Ran,0.876
+70,Peaceful Journey,Spokojna podróż,0.841
+71,Map of Italy/Rest Board,Mapa Włoch/Plansza Odpoczynku,0.925
+72,[[ICON1]]Baths,[[ICON1]] ŁAŹNIE,0.408
+73,Rest Phase,Faza Odpoczynku,0.881
+74,from the Campaign Sheet.,opisanym w Księdze Zasad.,0.396
+75,Church,Kościół,0.953
+76,Market,Karczma,0.465
+77,[[ICON1]]Thre Pietre Assisi [[ICON2]]Gualdo Thadino,[[ICON1]]Thre Pietre Asyż [[ICON2]]Gualdo Thadino,0.904
+78,Siena,Arezzo,0.399
+79,Arezzo,Perugia,0.402
+80,Rome,Rzym,0.907
+81,[[ICON1]] Village [[ICON2]]Thown,[[ICON1]]Wioska [[ICON2]]Miasto,0.667
+82,8 Dice,8 Kości,0.888
+83,1 Water/Mud Tile,1 Kafel Wody/Błota,0.804
+84,4 Perilium,4 Perylium,0.968
+85,11 Tiles,11 Kafli Terenu,0.728
+86,30 Positive Status Tokens,30 Żetonów Pozytywnego Statusu,0.939
+87,12 Mystery Tokens,12 Żetonów Tajemnicy,0.91
+88,28 Activation Tokens,28 Żetonów Aktywacji,0.928
+89,2 Carts,2 Wózki,0.863
+90,Movement (1[[ICON1]] per Square),Ruch (1[[ICON1]] na Pole),0.875
+91,Glossary,Glosariusz,0.617
+92,Attack Test,Ataki Reakcyjne,0.606
+93,Characteristic Test,Charakterystyki Bohaterów,0.502
+94,Example: Success Threshold,Testu Obrony przeciwko Atakom,0.421
+95,Critical,Atak Fizyczny,0.291
+96,Defense Test,Atak Psychiczny,0.334
+97,Dice Roll,Draft Wroga,0.327
+98,Physical Attack,Mistyczne Kamienie,0.279
+99,Draft Cards,Karty Misji,0.704
+100,Defeated.,Przebicie,0.368
+101,Formulae Cards,Początkowa Karta Misji,0.411
+102,Starting Equipment Cards,Specjalna Karta Misji,0.28
+103,Plate Armor,Elementy Gry,0.291
+104,Formulae,Osiągnięcie,0.315
+105,Focus Points,Karty Wydarzeń,0.292
+106,"【B】Related Topics:【/B】 Reaction Attack, Movement (Actions).","【B】Powiązane Tematy:【/B】 Faza Podróży (Kampania), Misje Poboczne.",0.697
+107,Omen,Miecz,0.377
+108,Heroes Characteristics,Wyposażenie Początkowe,0.253
+109,Heroic Skills,Karta Zdobyczy,0.347
+110,Playing a Hunt Mission,Rozegranie Misji Polowania,0.567
+111,"Th e Bear moves 5 Squares toward its target. If it becomes adjacent to it, it stops and performs the following Attack on it:","Niedźwiedź porusza się o 5 Pól w kierunku celu. Jeśli znajdzie się na Polu sąsiadującym z celem, zatrzymuje się i Atakuje go.",0.832
+112,"【B】Related Topics:【/B】 Mission Cards, Reagent Cards, Enemy.","【B】Powiązane Tematy:【/B】 Pole Bitwy, Linia Wzroku, Kafle Terenu.",0.693
+113,Location Card,Prawidłowy Cel,0.336
+114,Patrol,Test Ataku,0.255
+115,Stone,Ukrycie,0.266
+116,Class Skills,Umiejętności,0.754
+117,A Hero can acquire the Skills indicated on their Basic Skill Sheet and on their Advanced Skill Sheet by spending [[ICON1]]. Class Skills follow these rules:,"Bohater może zdobyć Umiejętności wskazane na Karcie Umiejętności Podstawowych i Zaawansowanych, wydając [[ICON1]]. Umiejętności Klasowe podlegają tym zasadom:",0.847
+118,◆Th ere is no limit to the number of Skills a Hero can acquire.,"◆Nie ma ograniczeń co do liczby Umiejętności, które może zdobyć Bohater.",0.877
+119,"◆A Hero can equip a maximum of 5 Skills at a time, these will be the only Skills they can use during the next Mission.",◆Bohater może wyposażyć się w maksymalnie 5 Umiejętności jednocześnie. Podczas następnej Misji będzie mógł korzystać wyłącznie z tych Umiejętności.,0.891
+120,"◆When a Hero acquires an Advanced Class, they may use and acquire the Skills of both the Basic Class and the Advanced Class.","◆Jeśli Bohater zdobędzie Klasę Zaawansowaną, może korzystać i zdobywać Umiejętności zarówno Klasy Podstawowej, jak i Klasy Zaawansowanej.",0.888
+121,3 Scum Skills,3 Umiejętnośc Oszustki,0.808
+122,Active Skills,Ulepszanie Umiejętności,0.631
+123,Upgrade Skills,Umiejętności Aktywne,0.624
+124,Reaction Skills,Umiejętności Reakcji,0.951
+125,Class Skill type usable only when the Hero equipping it is not the Active Model.,"Umiejętność może być używana tylko wtedy, gdy wyposażony w nią Bohater nie jest Figurką Aktywną.",0.745
+126,"◆A Reaction Skill always indicates the condition that must be met in order for the Hero to use it (e.g., when the Hero suff ers at least 1[[ICON1]]).","◆Umiejętność Reakcji zawsze określa warunek, który musi zostać spełniony, aby Bohater mógł z niej skorzystać (np. jeżeli Bohater otrzyma co najmniej 1[[ICON1]]).",0.893
+127,◆Some Equipment has a Reaction Skill in its eff ect that resolves in exactly the same way as a Reaction Skill on the Skill Sheet.,"◆Niektóre Wyposażenie posiada jako Efekt Umiejętność Reakcji, która jest rozpatrywana dokładnie w taki sam sposób, jak Umiejętność Reakcji na Karcie Umiejętności.",0.816
+128,"Th e number next to the word ""Reaction"" in the Skill description indicates the type of Reaction Token—1 or 2 (see Handbook)—that the Hero gains when they declare to use said Skill.","Cyfra obok słowa ""Reakcja"" w opisie Umiejętności wskazuje rodzaj Żetonu Reakcji - 1 lub 2 (zobacz w Podręczniku) - który Bohater otrzymuje, gdy zadeklaruje użycie danej Umiejętności.",0.925
+129,"◆As long as a Hero has a Reaction Token, they cannot use any other Reaction Skill.","◆Tak długo jak Bohater posiada Żeton Reakcji, nie może użyć żadnej innej Umiejętności Reakcji.",0.909
+130,◆Using a Reaction Skill is always optional.,◆Użycie Umiejętności Reakcji jest zawsze opcjonalne.,0.907
+131,"【B】Related Topics:【/B】 Use Skill (Actions), KO Hero, Keyword, Prayers, Action Points, Skill Sheet (Hero), Acquiring a new Class Skill (Campaign).","【B】Powiązane Tematy:【/B】 Użycie Umiejętności (Akcje), Powalenie Bohatera, Słowo Kluczowe, Modlitwy, Punkty Akcji, Karta Umiejętności (Bohater), Zdobycie Nowej Umiejętności Klasowej (Kampania).",0.905
+132,◆You can immediately create a,"Kampanii, może skorzystać z jednego",0.397
+133,Mission Setup,Wykonywanie Misji,0.721
+134,Mission Phase,Faza Rozstawienia,0.671
+135,End of Mission,Faza Misji,0.506
+136,[[ICON1]]Nova Aetas Renaissance - Campaign Sheet [[ICON2]],[[ICON1]]Nova Aetas Renesans - Karta Kampanii [[ICON2]],0.875
+137,buy,kup,0.794
+138,sell,sprzedaj,0.976
+139,[[ICON1]]Achievements[[ICON2]],[[ICON1]]OsiĄGniĘCia[[ICON2]],0.377
+140,Campaign Missions,MisJe Kampanii,0.717
+141,Hunt Name,Nazwa Zdobyczy,0.703
+142,Mission Thitle,Nazwa Misji,0.571
+143,Code,Kod,0.952
+144,Code,Kod,0.952
+145,Available Hunt Missions,DostĘpne MisJe PoloWaŃ,0.507
+146,Active Side Missions,AKtyWne MisJe PoBoCzne,0.476
+147,[[ICON1]] Gained,Zdobyte [[ICON1]],0.881
+148,Hero,Gracz,0.584
+149,Player,Bohater,0.396
+150,Advanced Class [[ICON1]] Bond [[ICON2]]Achievements Injury,Klasa Zaawansowana [[ICON1]] Powiązania [[ICON2]]Osiągnięcia Obrażenie,0.763
+151,Injury,Obrażenie,0.69
+152,Injury,Obrażenie,0.69
+153,Upgrade,Ulepszenie,0.749
+154,Skill,Umiejętność,0.935
+155,Skill,Umiejętność,0.935
+156,Skill,Umiejętność,0.935
+157,Skill,Umiejętność,0.935
+158,Skill,Umiejętność,0.935
+159,Skill,Umiejętność,0.935
+160,[[ICON1]] EXPERIENCE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,[[ICON1]] DOŚWIADCZENIE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,0.928
+161,[[ICON1]] EXPERIENCE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,[[ICON1]] DOŚWIADCZENIE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,0.928
+162,[[ICON1]] EXPERIENCE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,[[ICON1]] DOŚWIADCZENIE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,0.928
+163,[[ICON1]] EXPERIENCE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,[[ICON1]] DOŚWIADCZENIE [[ICON2]] 1☐ 2☐ 3☐ 4☐ [[ICON3]]☐ [[ICON4]]☐ [[ICON5]]☐ [[ICON6]]☐ [[ICON7]]☐ _________________ [[[ICON8]]____ ] _________________ [[[ICON9]]____ ] _________________ [[[ICON10]]____ ] _________________ [[[ICON11]]____ ] _________________ [[[ICON12]]____ ] _________________ [[[ICON13]]____ ] _________________ [[[ICON14]]____ ] _________________ [[[ICON15]]____ ] _________________ [[[ICON16]]____ ] _________________ [[[ICON17]]____ ] _________________ [[[ICON18]]____ ] _________________________,0.928
