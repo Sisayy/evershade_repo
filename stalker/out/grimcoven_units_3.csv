@@ -1,0 +1,14 @@
+id,decision,pl_fixed
+468,DROP,
+496,DROP,
+497,DROP,
+526,DROP,
+528,DROP,
+575,FIX,"5. Każdy Łowca bierze wszystkie swoje kości z zajętych stref Akcji oraz z puli odrzuconych kości, następnie rzuca nimi i umieszcza je w puli Aktywnych kości."
+581,DROP,
+585,DROP,
+608,DROP,
+615,DROP,
+616,DROP,
+622,DROP,
+656,DROP,
