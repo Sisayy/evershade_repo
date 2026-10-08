@@ -1,0 +1,11 @@
+id,decision,pl_fixed
+237,FIX,"10d. Zapełnij 【B】tor Ataku Ponurnika【/B】. Dobierz wierzchnią kartę z talii Ataku, odkryj ją i umieść w strefie Tej tury, zasłaniając kartę Okazji. Następnie dobierz kolejną kartę z wierzchu talii Ataku, odkryj ją i umieść w strefie Kolejnej tury."
+250,DROP,
+270,FIX,"Do aktywacji można również użyć kości z podwójnym symbolem, ale drugi symbol „przepada” – Łowca nie otrzymuje żadnej rekompensaty."
+273,DROP,
+292,FIX,Tury Łowców
+311,DROP,
+312,DROP,
+413,DROP,
+435,DROP,
+439,DROP,
