@@ -1,0 +1,230 @@
+﻿id,en,pl,sim
+1,1. Labyrinth Phase: Roll 1 Labyrinth die and resolve the cor-,1. Faza Labiryntu: Rzuć 1 kością Labiryntu i rozpatrz,0.818
+2,responding effect.,odpowiedni efekt:,0.672
+3,"2. Action Phase: Perform up to 1 Move action, up to 1 Shift",2. Faza akcji: Wykonaj w dowolnej kolejności maksymalnie,0.743
+4,action and an unlimited number of bonus actions,1 akcję Ruchu i 1 akcję Przesunięcia oraz nieograniczoną,0.666
+5,• Move – Move your Character along,• Ruch: Porusz swoją Postać po ścieżce Labiryntu.,0.692
+6,arrow-marked column. Transfer all components,kolorowymi strzałkami. Przenieś wszystkie elementy,0.71
+7,located on the pushed-out tile to the newly added tile.,z wypchniętego kafla na właśnie wsunięty kafel.,0.662
+8,• Bonus action – Characters may use Skills and effects,• Akcja bonusowa: Możesz użyć swoich Umiejętności,0.731
+9,4 standard Setup cards,4 standardowe karty przygotowania,0.879
+10,4 standard End of the game cards,4 standardowe karty końca rozgrywki,0.913
+11,[[ICON1]] Place the Goblin board next to the,[[ICON1]] Umieśćcie planszę Goblinów obok,0.882
+12,Labyrinth and place the 4 Goblin,"Labiryntu, a następnie postawcie 4 figurki",0.735
+13,[[ICON1]]– Activate a Goblin Looter.,[[ICON1]]: Aktywuj Goblina Łupieżcę.,0.849
+14,3. Place the Portal model on the tile with the Echo token corresponding to the drawn Item card.,"3. Postawcie figurkę Portalu na kaflu z żetonem Echa, który odpowiada dobranej karcie Przedmiotu.",0.825
+15,4. Return that Echo token to the bag.,4. Wrzućcie ten żeton Echa do woreczka.,0.803
+16,3. Insert the 12 dark gray 3-way Labyrinth tiles into the hole spaces on the board.,2. Umieśćcie 4 ciemnoszare kafle narożników w narożnych otworach planszy.,0.737
+17,5. Move the tiles in the columns with the yellow and blue arrows by one space.,5. Przesuńcie kafle w kolumnach z żółtymi i niebieskimi strzałkami o 1 pole.,0.873
+18,[[ICON1]]– Activate a Goblin Looter.,[[ICON1]]: Aktywuj Goblina Łupieżcę.,0.849
+19,• You may Move across any number of tiles along the path.,"• Gdy wykonujesz Ruch, możesz poruszyć się o dowolną liczbę kafli po ścieżce.",0.794
+20,• All tiles connected with open edges form a path.,• Ścieżkę tworzą wszystkie kafle połączone otwartymi krawędziami.,0.889
+21,"• Characters, Goblin Looters, Portals, Echoes and other tokens don’t block Character Movement.","• Inne Postacie, Gobliny Łupieżcy, Portale, żetony Echa ani inne żetony nie blokują Ruchu twojej Postaci.",0.861
+22,"• If you end your Move on a tile with a Portal, you collect the Item from that Portal.","• Jeśli kończysz swój Ruch na kaflu z Portalem, zbierz Przedmiot z tego Portalu.",0.879
+23,"• If you end your Move on a tile with a Goblin, you knock it out and return it to the Goblin board.","• Jeśli kończysz swój Ruch na kaflu z Goblinem, znokautuj go i postaw jego figurkę na planszy Goblinów.",0.818
+24,"• Some Skills and effects state that they can be used during a Move. To use such an effect, stop your Character on a tile, fully resolve the effect, and then continue your Move.","• Niektórych Umiejętności i efektów możesz używać podczas Ruchu. Aby użyć takiego efektu, zatrzymaj swoją Postać na kaflu, rozpatrz w całości efekt, a następnie kontynuuj Ruch.",0.871
+25,• Some effects are applied when you enter a tile. Apply those effects immediately when your Character reaches that tile. These effects don’t end your Character’s Move.,"• Niektóre efekty należy zastosować dopiero po wejściu twojej Postaci na kafel. Zastosuj te efekty natychmiast po tym, jak twoja Postać wejdzie na dany kafel. Te efekty nie kończą Ruchu twojej Postaci.",0.887
+26,• Starting Movement on a tile doesn’t count as entering that tile.,• Rozpoczynanie Ruchu na kaflu nie liczy się jako wejście na ten kafel.,0.871
+27,3. Move the Portal model to the tile with the cor responding Echo token.,3. Postawcie figurkę Portalu na kaflu z odpowiadającym mu żetonem Echa.,0.726
+28,4. Put that Echo token back into the bag.,4. Wrzućcie ten żeton Echa do woreczka.,0.818
+29,1. Discard Checkmark tokens from all uncom pleted Quests. You may try to complete them again during future games.,1. Odrzućcie żetony Zaznaczenia ze wszystkich nieukończonych Zadań. Możecie spróbować ukończyć nieukończone Zadania w przyszłych rozgrywkach.,0.884
+30,2. Flip all completed Quests (discarding Checkmark tokens from them) and insert them into the Campaign binder next to the Village cards from the same building.,"2. Odrzućcie żetony Zaznaczenia ze wszystkich ukończonych Zadań i odwróćcie te Zadania. Następnie umieśćcie odwrócone ukończone Zadania w segregatorze Kampanii tak, aby znajdowały się obok kart Wioski z tego samego pudełka Budynku.",0.849
+31,"• Cards before Rulebook – Whenever a card’s text directly contradicts the rules found in the Rulebook, the card takes precedence.","• Karty ponad instrukcją: Jeśli treść karty stoi w sprzeczności z instrukcją, to pierwszeństwo mają zasady opisane na karcie.",0.826
+32,"• Component Limitations – Hourglass, Crystal, and Checkmark tokens aren’t limited. If you ever run out, find a suitable replacement. All the other components are limited.","• Ograniczona liczby elementów: Liczba żetonów Klepsydr, Kryształów i Zaznaczenia jest nieograniczona. W przypadku ich wyczerpania skorzystajcie z dowolnych zamienników. Liczba wszystkich pozostałych elementów jest ograniczona.",0.814
+33,"• Building instructions sheet, which will guide you through the box contents.",• Arkusz Budynku z wyszczególnieniem zawartości tego pudełka Budynku.,0.714
+34,"• 【B】【S】XX 1【/S】【/B】 bag which contains: The Building’s unique magnet, 4 Village cards, 3 Quest cards, and additional components (like Skills) which will help you during future games.","• Woreczek 【B】【S】XX 1【/S】【/B】 zawierający unikalny magnes Budynku, 4 karty Wioski, 3 karty Zadań oraz dodatkowe elementy (np. karty Umiejętności), które pomogą wam w przyszłych rozgrywkach.",0.931
+35,• 【B】【S】XX 2【/S】【/B】 bag which contains: Objectives that provide sources of additional Crystals during future games as well as 1 Quest card related to them.,"• Woreczek 【B】【S】XX 2【/S】【/B】 zawierający karty Celów, dzięki którym będziecie mogli zdobyć dodatkowe Kryształy w przyszłych rozgrywkach, i powiązaną z nimi kartę Zadania.",0.853
+36,"• 【B】【S】XX 3【/S】【/B】 bag which contains: The Villager’s unique magnet and their Fairy Folk car, which may allow the Villager to appear in future games, offering you their help.","• Woreczek 【B】【S】XX 3【/S】【/B】 zawierający unikalny magnes i kartę Duszka, dzięki której Duszek być może pojawi się w przyszłych rozgrywkach i zaproponuje wam pomoc.",0.818
+37,"• 【B】【S】CH 1【/S】【/B】 , 【B】【S】CH 2【/S】【/B】 , 【B】【S】CH 3【/S】【/B】 bags should be opened when you complete the corresponding Chapter.","• Woreczki 【B】【S】CH 1【/S】【/B】 , 【B】【S】CH 2【/S】【/B】 , 【B】【S】CH 3【/S】【/B】 otwórzcie po ukończeniu odpowiadających im Rozdziałów.",0.889
+38,• 【B】【S】GO【/S】【/B】 bag should be opened whenever you reach the Script space on the Goblin track.,"• Woreczek 【B】【S】GO【/S】【/B】 otwórzcie za każdym razem, gdy na torze Goblinów zaznaczycie pole specjalne nakazujące wam przeczytanie Skryptu.",0.798
+39,• 【B】【S】DR【/S】【/B】 bag should be opened when you complete the last Chapter on the Campaign sheet.,• Woreczek 【B】【S】DR【/S】【/B】 otwórzcie po ukończeniu ostatniego Rozdziału wskazanego na arkuszu Kampanii.,0.885
+40,1. Name,1. Nazwa karty,0.788
+41,2. Character – Indicates the Character associat ed with the Skill or if it’s a global Skill.,"2. Postać: Informuje, czy Umiejętność jest Umiejętnością osobistą, czy ogólną.",0.785
+42,3. Timing – Defines when the Skill can be used.,"3. Moment gry: Określa, kiedy można użyć danej Umiejętności.",0.844
+43,4. Effect – Each Skill contains an additional action or a special effect.,4. Efekt: Każda Umiejętność wprowadza dodatkową akcję albo specjalny efekt.,0.912
+44,5. Building box code – Indicates the building associated with this Skill. Skills are always found in the first bag of a given building box.,5. Kod pudełka Budynku: Wskazuje Budynek związany z daną Umiejętnością. Umiejętności zawsze znajdują się w pierwszym woreczku w pudełku danego Budynku.,0.928
+45,• [[ICON1]] – Place that Event card on the bottom of the Event deck.,• [[ICON1]]: Umieśćcie dobraną kartę Wydarzenia na spodzie talii Wydarzeń.,0.811
+46,• Gain 100 points,• Na początek otrzymujecie 100 punktów.,0.762
+47,• Subtract 1 point for each mark on the Goblin track,• Odejmijcie po 1 punkcie za każde zaznaczone pole na torze Goblinów.,0.859
+48,• Subtract 5 points for each Easy mode modification.,• Odejmijcie po 5 punktów za każdą zastosowaną modyfikację zasad ułatwiającą rozgrywkę,0.785
+49,• Add 5 points for each Challenge mode modification.,• Dodajcie po 5 punktów za każdą zastosowaną modyfikację zasad utrudniającą rozgrywkę.,0.832
+50,Discount Spree: Scroll tokens cost 1 [[ICON1]] each.,Zniżki: Każdy żeton Zwoju kosztuje 1 [[ICON1]].,0.834
+51,1. Open the  【B】【S】GO【/S】【/B】 bag from the Chronicles box.,1. Otwórzcie woreczek  【B】【S】GO【/S】【/B】 z pudełka Kronik.,0.951
+52,2. Add 1 random Event card to the Event deck.,2. Dodajcie 1 losową kartę Wydarzenia do talii Wydarzeń.,0.948
+53,3. Leave the remaining cards in the bag and return it to the Chronicles box.,3. Zostawcie pozostałe karty w woreczku i odłóżcie go do pudełka Kronik.,0.908
+54,4. Close the Chronicles box and return it to the game box.,4. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.901
+55,1. Open the 【B】【S】GO【/S】【/B】 bag from the Chronicles box.,1. Otwórzcie woreczek  【B】【S】GO【/S】【/B】 z pudełka Kronik.,0.951
+56,2. Add 1 random Event card to the Event deck.,2. Dodajcie 1 losową kartę Wydarzenia do talii Wydarzeń.,0.948
+57,3. Leave the remaining cards in the bag and return it to the Chronicles box.,3. Zostawcie pozostałe karty w woreczku i odłóżcie go do pudełka Kronik.,0.908
+58,4. Close the Chronicles box and return it to the game box.,4. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.901
+59,1. Open the 【B】【S】GO【/S】【/B】 bag from the Chronicles box.,1. Otwórzcie woreczek  【B】【S】GO【/S】【/B】 z pudełka Kronik.,0.951
+60,2. Add 1 random Event card to the Event deck.,2. Dodajcie 1 losową kartę Wydarzenia do talii Wydarzeń.,0.948
+61,3. Leave the remaining cards in the bag and return it to the Chronicles box.,3. Zostawcie pozostałe karty w woreczku i odłóżcie go do pudełka Kronik.,0.908
+62,4. Close the Chronicles box and return it to the game box.,4. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.901
+63,1. Open the 【B】【S】GO【/S】【/B】 bag from the Chronicles box.,1. Otwórzcie woreczek  【B】【S】GO【/S】【/B】 z pudełka Kronik.,0.951
+64,2. Add the remaining 2 Event cards to the Event deck.,2. Dodajcie 2 pozostałe karty Wydarzeń do talii Wydarzeń.,0.947
+65,3. Leave the empty bag in the Chronices box.,3. Włóżcie pusty woreczek do pudełka Kronik.,0.902
+66,4. Close the Chronicles box and return it to the game box.,4. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.901
+67,"1. Mark Chapter 2 on the Campaign sheet. From now on, you may repair buildings in the green area.",1. Zaznaczcie ukończenie Rozdziału 2 na arkuszu Kampanii. Od teraz możecie naprawiać Budynki z zielonego obszaru.,0.868
+68,2. Open the 【B】【S】CH 2【/S】【/B】 bag from the Chronicles box.,2. Otwórzcie woreczek 【B】【S】CH 2【/S】【/B】 z pudełka Kronik.,0.953
+69,3. Add 1 Warden Spotted! and 4 Wardens’ Patrol Event cards to the Event deck.,3. Dodajcie 1 kartę Wydarzenia Zauważono strażnika! i 4 karty Wydarzenia Patrol strażników do talii Wydarzeń.,0.93
+70,4. Take the Setup reminder card and exchange it with the corresponding card on the first page of the Campaign binder.,"4. Weźcie kartę ze skróconymi instrukcjami przygotowania rozgrywki, a następnie zamieńcie ją z bieżącą kartą na pierwszej stronie segregatora Kampanii.",0.813
+71,5. Add the new Help cards to the game. They contain an updated game structure.,5. Dodajcie do rozgrywki nowe karty pomocy. Te karty zawierają opis zaktualizowanego przebiegu rozgrywki.,0.904
+72,6. Leave the empty bag in the Chronicles box.,6. Włóżcie pusty woreczek do pudełka Kronik.,0.899
+73,7. Close the Chronicles box and return it to the game box.,7. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.901
+74,1. Mark Chapter 3 on the Campaign sheet.,1. Zaznaczcie ukończenie Rozdziału 3 na arkuszu Kampanii.,0.859
+75,2. Open the 【B】【S】CH 3【/S】【/B】 bag from the Chronicles box.,2. Otwórzcie woreczek  【B】【S】CH 3【/S】【/B】 z pudełka Kronik.,0.952
+76,3. Add the Dragon [[ICON1]] Item set to the game.,3. Dodajcie do rozgrywki zestaw Smoczych Przedmiotów [[ICON1]].,0.892
+77,4. Sleeve the Item cards.,4. Włóżcie karty Przedmiotów do koszulek.,0.82
+78,"5. Add the Merchant: Curio Collector Objective card to the other Merchant cards (if you haven’t unlocked the Merchants yet, keep this card behind the Unlocked Objectives divider).","5. Dodajcie do rozgrywki kartę Celu Kupiec: Kolekcjoner ciekawostek. Dodajcie tę kartę do pozostałych kart Kupców (jeśli nie odblokowaliście jeszcze Kupców, umieśćcie tę kartę za przekładką Odblokowane Cele).",0.867
+79,"6. Add Stinky Goblin Day!, Snatching Madness!, and Goblins Everywhere! Events to the Event deck.","6. Dodajcie karty Wydarzeń Dzień śmierdzącego goblina!, Szaleństwo kradzieży i Wszędzie gobliny! do talii Wydarzeń.",0.91
+80,"7. Take the Setup reminder card and exchange it with the corresponding card on the first page of the Campaign binder. From now on, Echo tokens setup changes according to that card.","7. Weźcie kartę ze skróconymi instrukcjami przygotowania rozgrywki, a następnie zamieńcie ją z bieżącą kartą na pierwszej stronie segregatora Kampanii. Od tego momentu zmienia się przygotowanie żetonów Echa. Postępujcie zgodnie z poleceniami na tej karcie.",0.804
+81,8. Leave the empty bag in the Chronicles box.,8. Włóżcie pusty woreczek do pudełka Kronik.,0.885
+82,9. Close the Chronicles box and return it to the game box.,9. Zamknijcie pudełko Kronik i odłóżcie je do pudełka gry.,0.902
+83,1. Mark Chapter 4 on the Campaign sheet.,1. Zaznaczcie ukończenie Rozdziału 4 na arkuszu Kampanii.,0.866
+84,2. Open the 【B】【S】DR【/S】【/B】 bag from the Chronicles box.,2. Otwórzcie woreczek  【B】【S】DR【/S】【/B】 z pudełka Kronik.,0.952
+85,3. Take the Setup reminder card and exchange it with the corresponding card on the first page of the Campaign binder.,"3. Weźcie kartę ze skróconymi instrukcjami przygotowania rozgrywki, a następnie zamieńcie ją z bieżącą kartą na pierwszej stronie segregatora Kampanii.",0.815
+86,"4. From the standard-sized Ritual cards, take the cards numbered 1 and 2 and insert them into the Campaign binder.",4. Weźcie karty Rytuału o numerach 1 i 2 (karty standardowego rozmiaru) i umieśćcie je w segregatorze Kampanii.,0.86
+87,"5. From the remaining Ritual cards, find 6 corresponding to the buildings you’ve repaired throughout the Campaign and insert them into the Campaign binder.","5. Pośród wszystkich pozostałych kart Rytuału odszukajcie 6 kart odpowiadających Budynkom, które naprawiliście w trakcie Kampanii. Te karty również umieśćcie w segregatorze Kampanii.",0.861
+88,6. Leave the remaining Ritual cards in the 【B】【S】DR【/S】【/B】  bag.,6. Pozostałe karty Rytuału zostawcie w woreczku 【B】【S】DR【/S】【/B】 .,0.919
+89,[[ICON1]] Activate a Goblin Looter.,[[ICON1]]: Aktywuj Goblina Łupieżcę.,0.831
+90,[[ICON1]] – Shuffle that Event into the Event deck.,[[ICON1]]: Wtasuj dobraną kartę Wydarzenia do talii Wydarzeń.,0.672
+91,Move up to +1.,Przemieść się maks. o +1.,0.908
+92,You may go through Portals.,Możesz przechodzić przez Portale.,0.932
+93,Move up to +1.,Przemieść się maks. o +1.,0.908
+94,You may go through Portals.,Możesz przechodzić przez Portale.,0.932
+95,Scenario,Scenariusz,0.945
+96,Power Surge,Przypływ Energii,0.748
+97,【B】Action:【/B】 discard 1 to choose one:,"【B】Akcja:【/B】 Odrzuć 1 , by wybrać jedno:",0.938
+98,• Set 1,• Ustawienie 1,0.936
+99,Balance,Równowaga,0.725
+100,When you resolve an Action,"Kiedy rozpatrzysz Akcję, używając jedynie",0.653
+101,Action:,Akcja:,0.916
+102,Action:,Akcja:,0.916
+103,Steal the Witch’s tools.,Ukradnij narzędzia Wiedźmy.,0.886
+104,Action:,Akcja:,0.916
+105,Speak with the Witch.,Porozmawiaj z Wiedźmą.,0.903
+106,On Enter:,Po wejściu:,0.823
+107,Move up to +1.,Przemieść się maks. o +1.,0.908
+108,You may go through Portals.,Możesz przechodzić przez Portale.,0.932
+109,7 Boards,7 plansz,0.894
+110,Books,Księgi,0.958
+111,30 two-sided Map tiles,30 dwustronnych kafli Mapy,0.9
+112,Markers,Znaczniki,0.884
+113,66 Dice,66 kości,0.839
+114,1 Stomach tile,1 kafel Żołądka,0.815
+115,6 Hunter tiles,6 kafli Łowców,0.827
+116,5 Corruption markers,5 znaczników Spaczenia,0.771
+117,60 Hunter dice (in 4 colors),60 kości Łowców (w 4 kolorach),0.881
+118,5 Assist markers*,5 znaczników Asysty*,0.856
+119,4 Enemy dice,4 kości Wrogów,0.657
+120,1. HUNTER PHASE,1. FAZA ŁOWCÓW,0.792
+121,Hunter Turn:,Tura Łowcy:,0.711
+122,• Perform 2 Actions OR Pass.,• Wykonaj 2 Akcje ALBO Spasuj.,0.893
+123,• All Hunters play their Turns until all Hunters Pass.,"• Wszyscy Łowcy rozgrywają swoje tury, aż wszyscy Łowcy Spasują.",0.889
+124,2. ENEMY PHASE,2. FAZA WROGÓW,0.801
+125,I. Event step:,I. Krok Wydarzeń:,0.95
+126,• Check Critical Injuries.,• Sprawdź Rany Krytyczne.,0.917
+127,• Resolve all Permanent Events.,• Rozpatrz wszystkie Wydarzenia Trwałe.,0.856
+128,• Draw and resolve a new Event card.,• Dobierz i rozpatrz nową kartę Wydarzenia.,0.836
+129,3. LAMENT PHASE,3. FAZA LAMENTU,0.859
+130,I. Corruption step:,I. Krok Spaczenia:,0.798
+131,4. REFRESH PHASE,4. FAZA ODŚWIEŻANIA,0.877
+132,I. Refresh step:,I. Krok Odświeżania:,0.932
+133,• Pass the First Player token.,• Przekaż znacznik pierwszego gracza.,0.919
+134,• Refresh all Actions and Regain all dice.,• Odśwież wszystkie Akcje i Odzyskaj wszystkie kości.,0.911
+135,• Resolve all Refresh step effects.,• Rozpatrz wszystkie efekty kroku Odświeżania.,0.841
+136,• Each Hunter may discard any number of [[ICON1]] to discard 1 Status token for each [[ICON2]]discarded.,"• Każdy Łowca może odrzucić dowolną liczbę [[ICON1]], by odrzucić 1 żeton Statusu za każdy odrzucony [[ICON2]].",0.905
+137,• Resolve all Status effects.,• Rozpatrz wszystkie efekty Statusów.,0.849
+138,Heal 2 or lose 1 Corruption.,Wylecz 2 albo strać 1 Spaczenie.,0.881
+139,Gain 1 Hunger and Heal 1.,Otrzymaj 1 Głodu i Wylecz 1.,0.855
+140,"If there is a Hunter in 0-3 ,","Jeśli dowolny Łowca jest w 0-3 ,",0.789
+141,Furious Attack,Wściekły Atak,0.912
+142,If you have 3-4 Curses:,Jeśli masz 3-4 Klątwy:,0.915
+143,Discard 1,Odrzuć 1,0.957
+144,Block your Cleanse Action.,Zablokuj Akcję Oczyszczenia.,0.864
+145,【B】Action:【/B】 Gain 1 Stun.,【B】Akcja:【/B】 Otrzymujesz 1 żeton,0.814
+146,Activate all Commander bonuses.,Aktywuj wszystkie premie Dowódcy.,0.885
+147,Block your Sprint Action.,Zablokuj Akcję Sprintu.,0.891
+148,【B】Action:【/B】 Gain 1 Hunger.,【B】Akcja:【/B】 Otrzymujesz 1 żeton Głodu.,0.808
+149,Flip this token.,Odwróć ten żeton.,0.761
+150,Activate all Mage bonuses.,Aktywuj wszystkie premie Maga.,0.884
+151,Block your Tactic Action.,Zablokuj Akcję Taktyki.,0.87
+152,【B】Action:【/B】 Gain 1 Curse.,【B】Akcja:【/B】 Otrzymujesz 1 żeton Klątwy.,0.83
+153,Flip this token.,Odwróć ten żeton.,0.761
+154,Activate all Messenger bonuses.,Aktywuj wszystkie premie Posłańca.,0.861
+155,Block your Move Action.,Zablokuj Akcję Ruchu.,0.87
+156,【B】Action:【/B】 Gain 1 Burn.,【B】Akcja:【/B】 Otrzymujesz 1 żeton,0.777
+157,Activate all Soldier bonuses.,Aktywuj wszystkie premie Żołnierza.,0.908
+158,Cards,Karty,0.968
+159,10 Help cards,10 kart Pomocy,0.932
+160,12 Elite Enemy cards,12 kart Elitarnych Wrogów,0.772
+161,• Move 2 toward the Griefbound.,• Wykonaj Ruch 2 w kierunku Ponurnika.,0.775
+162,• Gain 3 Burn.,• Otrzymaj 3 Podpalenia.,0.836
+163,FOCUSED: 【B】resolve those effects unless there are【/B】 [[ICON1]],"SKUPIENIE: 【B】rozpatrz te efekty, chyba że na tej karcie znajduje się【/B】 [[ICON1]]",0.677
+164,Action:,Akcja:,0.916
+165,Steal the Witch’s tools.,Ukradnij narzędzia Wiedźmy.,0.886
+166,Action:,Akcja:,0.916
+167,Speak with the Witch.,Porozmawiaj z Wiedźmą.,0.903
+168,Move up to +1.,Przemieść się maks. o +1.,0.908
+169,You may go through Portals.,Możesz przechodzić przez Portale.,0.932
+170,Power Surge,Przypływ Energii,0.748
+171,【B】Action:【/B】 discard 1 [[ICON1]] to choose one:,"【B】Akcja:【/B】 Odrzuć 1 [[ICON1]], by wybrać jedno:",0.938
+172,Power Surge,Przypływ Energii,0.748
+173,【B】Action:【/B】 discard [[ICON1]] to resolve all:,"【B】Akcja:【/B】 Odrzuć [[ICON1]], by rozpatrzyć wszystkie poniższe efekty:",0.734
+174,Double,Podwójna,0.927
+175,Agility,Zwinność,0.719
+176,Action with alternative [[ICON1]] cost example.,Akcje z przykładowym alternatywnym kosztem w [[ICON1]].,0.793
+177,Player may use 2 [[ICON1]] or any,Gracz może użyć 2 [[ICON1]] albo dowolnej,0.957
+178,Block your Cleanse Action.,Zablokuj Akcję Oczyszczenia.,0.864
+179,【B】Action:【/B】 Gain 1 Stun.,【B】Akcja:【/B】 Otrzymujesz 1 żeton,0.814
+180,Activate all Commander bonuses.,Aktywuj wszystkie premie Dowódcy.,0.885
+181,Block your Sprint Action.,Zablokuj Akcję Sprintu.,0.891
+182,【B】Action:【/B】 Gain 1 Hunger.,【B】Akcja:【/B】 Otrzymujesz 1 żeton Głodu.,0.808
+183,Flip this token.,Odwróć ten żeton.,0.761
+184,Activate all Mage bonuses.,Aktywuj wszystkie premie Maga.,0.884
+185,Block your Tactic Action.,Zablokuj Akcję Taktyki.,0.87
+186,【B】Action:【/B】 Gain 1 Curse.,【B】Akcja:【/B】 Otrzymujesz 1 żeton Klątwy.,0.83
+187,Flip this token.,Odwróć ten żeton.,0.761
+188,Activate all Messenger bonuses.,Aktywuj wszystkie premie Posłańca.,0.861
+189,Block your Move Action.,Zablokuj Akcję Ruchu.,0.87
+190,【B】Action:【/B】 Gain 1 Burn.,【B】Akcja:【/B】 Otrzymujesz 1 żeton,0.777
+191,Activate all Soldier bonuses.,Aktywuj wszystkie premie Żołnierza.,0.908
+192,Setup modification,Modyfikacja przygotowania,0.703
+193,Place 2 additional Swarm tiles on the Map in 0-1 from any Hunter.,Umieść 2 dodatkowe kafelki Roju na Mapie w 0-1 od dowolnego Łowcy.,0.916
+194,Each Hunter gains 3 Burns.,Każdy Łowca otrzymuje 3 żetony Podpalenia.,0.873
+195,Tormentor,Dręczyciel,0.673
+196,Each Hunter takes [[ICON1]] equal to the,Każdy Łowca otrzymuje [[ICON1]] równe numerowi,0.764
+197,Scenario number.,Scenariusza.,0.687
+198,Each Hunter gains 2 Hunger.,Każdy Łowca otrzymuje 2 żetony Głodu.,0.847
+199,• 3 [[ICON1]]: 8 random cards.,• 3 [[ICON1]]: 8 losowych kart.,0.962
+200,• 4 [[ICON1]]: 9 random cards.,• 4 [[ICON1]]: 9 losowych kart.,0.96
+201,• 5 [[ICON1]]: all Attack cards.,• 5 [[ICON1]]: wszystkie karty Ataku.,0.969
+202,[[ICON1]] - place a [[ICON2]]/ [[ICON3]] token on the Griefbound Stat card.,[[ICON1]] – umieść żeton [[ICON2]]/ [[ICON3]] na karcie Statystyk Ponurnika.,0.781
+203,On Enter:,Po wejściu:,0.823
+204,Gain 2 Stuns.,Otrzymujesz 2 żetony,0.633
+205,5 additional hex tiles:,5 dodatkowych heksów:,0.879
+206,"""The Inns""",„Karczmy”,0.714
+207,(6th Expansion),(6. Rozszerzenie),0.893
+208,[[ICON1]] 16 double-sided duchy boards,[[ICON1]] 16 dwustronnych plansz księstwa,0.894
+209,"(4 boards in 4 copies, #23-30):","(4 plansze w 4 egzemplarzach, #23-30):",0.957
+210,"""The Border Posts"" (4th Expansion)",„Posterunki graniczne” (4. Rozszerzenie),0.841
+211,[[ICON1]] 4 double-sided duchy boards,[[ICON1]] 4 dwustronne plansze księstwa,0.88
+212,"(1 board in 4 copies, #21-22)","(1 plansza w 4 egzemplarzach, #21-22)",0.941
+213,(Special Edition),(Edycja specjalna),0.949
+214,4 double-sided boards:,4 dwustronne plansze: „Gra drużynowa”,0.742
+215,"""The Team Game"" (#31a, 31b, 32a, 32b)","(#31a, 31b, 32a, 32b) (9. Rozszerzenie)",0.7
+216,12 additional tiles:,12 dodatkowych kafelków:,0.966
+217,"""The Trade Routes""",„Szlaki handlowe”,0.922
+218,1 vineyard depot,1 magazyn winnicy,0.926
+219,1 cloth bag,1 płócienny woreczek,0.934
+220,• 1 player board,• 1 planszę gracza,0.938
+221,• 1 duchy board,• 1 planszę księstwa,0.876
+222,• 1 starting castle,• 1 początkowy zamek,0.857
+223,• 3 random goods tiles,• 3 losowe kafelki dóbr,0.861
+224,• 1 help sheet,• 1 kartę pomocy,0.948
+225,• 2 dice of their chosen color,• 2 kości w wybranym kolorze,0.87
+226,• 1 victory point marker,• 1 znacznik punktów zwycięstwa,0.964
+227,• 1 turn order marker,• 1 znacznik kolejności tury,0.885
+228,• 1 victory point tile,• 1 żeton punktów zwycięstwa,0.909
+229,• 1 silver coin,• 1 srebrną monetę,0.961

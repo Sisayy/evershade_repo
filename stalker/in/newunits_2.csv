@@ -1,0 +1,230 @@
+﻿id,en,pl,sim
+230,At the beginning of each phase:,Na początku każdej fazy:,0.953
+231,• Remove all hex tiles from the game board.,• Usuń wszystkie heksy z planszy.,0.872
+232,• Replenish goods on the 5 round spaces.,• Uzupełnij kafelki dóbr na 5 polach rundy.,0.857
+233,GAME ROUND,RUNDA GRY,0.616
+234,All players roll simultaneously.,Wszyscy gracze rzucają kośćmi jednocześnie.,0.878
+235,Ships (blue):,Statek (niebieski):,0.87
+236,Monastery (yellow):,Klasztor (żółty):,0.903
+237,See pages 11 and 12.,Patrz strony 11 i 12.,0.975
+238,Take a livestock or a ship tile from the game board.,Weź heks zwierząt lub statku z planszy.,0.8
+239,Church,Kościół,0.953
+240,"Take a mine, monastery or castle tile from the game board.","Weź heks kopalni, klasztoru lub zamku z planszy.",0.812
+241,Sell a goods type of your choice.,Sprzedaj posiadane dobra wybranego rodzaju.,0.816
+242,2 silver coins.,2 srebrne monety.,0.961
+243,Hex tile scoring:,Punktacja za heksy:,0.624
+244,1. Depending on its size (1-8 spaces): 1-36 victory points,1. Zależnie od wielkości obszaru (1-8 pól): 1-36 punktów zwycięstwa,0.93
+245,• + 1 silver coin (in total),• + 1 srebrna moneta (łącznie),0.966
+246,• + 2/3/4 VP per tile (2/3/4 players),• + 2/3/4 PZ za kafelek (2/3/4 graczy),0.883
+247,Crane,Dźwig,0.627
+248,Trigger the effect of any building.,Zastosuj efekt dowolnego budynku.,0.818
+249,Geese,Gęsi,0.73
+250,Treat geese as any type of livestock.,Gęsi należy traktować jak każdy inny rodzaj zwierząt.,0.701
+251,White Castle,Biały zamek,0.874
+252,Take an action using the white die result.,"Wykonaj akcję, używając wyniku rzutu białą kością.",0.826
+253,2 players:,2 graczy:,0.984
+254,1 shield per depot,1 tarcza na magazyn,0.848
+255,3 players:,3 graczy:,0.982
+256,"1 shield each in depots 1, 3, and 5;","1 tarcza w magazynach 1, 3 i 5;",0.911
+257,4 players:,4 graczy:,0.983
+258,2 shields per depot,2 tarcze na magazyn,0.837
+259,"14. As long as this shield is in your duchy, at the end of each phase, after all players have finished their two die actions, take a hex tile from any of the six depots (if there are any left). Place it directly in your duchy and apply its effect(s).","14. Dopóki tarcza ta znajduje sie w twoim księstwie, pod koniec każdej fazy, kiedy wszyscy gracze wykonali swoje dwie akcje, weź heks z dowolnego numerowanego magazynu (jeżeli jakieś zostały). Umieść go bezpośrednio w swoim księstwie i rozpatrz jego efekty.",0.863
+260,End of game: +4 victory points.,Pod koniec gry tarcza ta jest warta 4 punkty zwycięstwa.,0.762
+261,"15. As long as this shield is in your duchy, at the end of each phase, after all players have finished their two die actions, take a hex tile from the black depot (if there are any left). Place it directly in your duchy and apply its effect(s). End of game: +4 victory points.","15. Dopóki tarcza ta znajduje się w twoim księstwie, pod koniec każdej fazy, kiedy wszyscy gracze wykonali swoje dwie akcje, weź heks z czarnego magazynu (jeżeli jakieś zostały). Umieść go bezpośrednio w swoim księstwie i rozpatrz jego efekty. Pod koniec gry tarcza ta jest warta 4 punkty zwycięstwa.",0.907
+262,"16. As long as this shield is in your duchy, on your turn, you may change the result of one of your dice to any number (and use it accordingly).","16. Dopóki tarcza ta znajduje się w twoim księstwie, możesz w każdej swojej turze zmienić wynik rzutu jedną kością na dowolny inny (i odpowiednio go wykorzystać). Pod koniec gry tarcza ta jest warta 4 punkty zwycięstwa.",0.799
+263,Apply the setup rules from the base game and then:,"Zastosuj podstawowe zasady przygotowania do gry, a następnie:",0.83
+264,Each player receives:,Każdy z graczy otrzymuje:,0.948
+265,• 1 random vine bonus tile (from a set of 6),• 1 losowy kafelek premiowy winorośli (z zestawu liczącego 6),0.908
+266,• 1 vineyard board,• 1 planszę winnicy,0.922
+267,• remove all double hex tiles from the vineyard depot and vineyard store.,• Usuń wszystkie podwójne heksy z magazynu winnicy i sklepu winnicy.,0.911
+268,• replenish the store and depot from the supply.,• Uzupełnij magazyn i sklep heksami z zapasu.,0.853
+269,"In addition to the basic game rules, before each phase:","Poza stosowaniem podstawowych zasad gry, przed każdą fazą należy:",0.884
+270,• take a double hex tile from the vineyard depot.,• Dobierz podwójny heks z magazynu winnicy.,0.877
+271,• place a double hex tile from your storage onto your vineyard board.,• Umieść podwójny heks z magazynu na planszy winnicy.,0.881
+272,BENEFITS AND BONUSES,PREMIE I KORZYŚCI,0.801
+273,"1. Tile Placement If the Châteauma places a tile on the county card, it gains the benefit depending on the type of the tile as described below:","1. Wykładanie heksów Jeżeli Châteauma wyłoży heks na karcie księstwa, otrzymuje korzyść zależną od typu heksa, jak opisano poniżej:",0.813
+274,• You may place Action chips on the Action Row to boost the next player’s actions.,"• Możecie kłaść żetony Akcji pod Rzędem Akcji tak, aby wzmacniać akcje kolejnych graczy.",0.875
+275,"• You may spend Goods from other players’ supplies, as long as they agree.","• Możecie używać Zasobów z puli innych graczy, o ile wyrażą na to zgodę.",0.768
+276,• You may discuss revealing new Terrain cards so other players may gain Goods from them.,"• Możecie wspólnie debatować nad odkrywaniem nowych kart Terenu, tak aby inni gracze mogli pozyskać z nich Zasoby.",0.868
+277,ACTIVE SIDE,STRONA AKTYWNA,0.894
+278,INACTIVE SIDE,STRONA NIEAKTYWNA,0.745
+279,【B】Regular Border:【/B】 You can move through Regular,【B】Zwykła Granica:【/B】 Możecie przekraczać Zwykłe,0.792
+280,Borders without any special effects.,Granice bez żadnych specjalnych efektów.,0.901
+281,Gain 1 of the indicated,Dobierz 1 ze wskazanych,0.733
+282,• The Collect action allows you to gain multiple Goods by covering a single icon.,• Akcja Zbierania pozwala na zdobywanie wielu Zasobów przy zakryciu jednej ikony.,0.878
+283,• You may place the,• Możecie umieszczać,0.925
+284,"UNCLAIMED GOODS. HOWEVER, IF YOU PLACE A",DOTYCHCZAS POMINIĘTYCH ZASOBÓW. JEŚLI JEDNAK,0.725
+285,Win,Wygrana,0.865
+286,[[ICON1]] 【B】Entry number:【/B】 Helps identify and locate the,[[ICON1]] 【B】Numeru Paragrafu:【/B】 Pomaga znaleźć właściwy,0.706
+287,【B】Game design:【/B】 Joanna Kijanka & Jan Maurycy,【B】Projekt gry:【/B】 Joanna Kijanka & Jan Maurycy,0.938
+288,【B】Adventure writer:【/B】 Rafał Szyma,【B】Fabuła Przygód:【/B】 Rafał Szyma,0.847
+289,【B】Entry writer:【/B】 Michał Zimnol,【B】Treść Paragrafów:【/B】 Michał Zimnol,0.816
+290,【B】Development:【/B】 Ignacy Trzewiczek,【B】Rozwój gry:【/B】 Ignacy Trzewiczek,0.846
+291,"Border, etc.","Lokacja, Granica itd.",0.618
+292,Size 1 Polyomino,Kafelek Polyomino rozmiaru 1,0.838
+293,(Wound/Journey) tile,(Rana/Wędrówka),0.802
+294,Size 2 Polyomino,Kafelek Polyomino rozmiaru 2,0.851
+295,(Wound/Journey) tile,(Rana/Wędrówka),0.802
+296,[[ICON1]]Size 4 Polyomino,[[ICON1]]Kafelek Polyomino rozmiaru 4,0.866
+297,(Wound/Journey) tiles,(Rana/Wędrówka),0.776
+298,"• Choose an active Action chip, and flip the Action chip to its inactive side.",• Wybierz aktywny żeton Akcji i odwróć go na stronę nieaktywną.,0.877
+299,• Place it below a different Action card.,• Połóż go pod inną kartą Akcji.,0.891
+300,• Resolve the action according to the text of the Action card under which they placed the Action chip.,"• Rozpatrz akcję zgodnie z tekstem karty Akcji, pod którą położono żeton Akcji.",0.852
+301,17 Curses,17x Klątwa,0.681
+302,22 Colorless,22x Bezbarwna,0.817
+303,4 Minis,4 figurki,0.752
+304,4 Player Boards,4 plansze Gracza,0.911
+305,When you encounter a Merchant,Gdy spotkacie Handlarza,0.886
+306,Some monsters have more than 10 HP.,Niektórzy Przeciwnicy mają powyżej 10 PŻ.,0.834
+307,Use 2 cubes.,Użyj wtedy 2 kostek.,0.854
+308,"• Tokens - You can use tokens from other characters the same way they do. The token limit remains the same, but it is shared between all players.","• Żetony – Możesz używać żetonów od innej postaci w taki sam sposób, jak ta postać. Limit żetonów pozostaje taki sam, ale jest współdzielony przez wszystkich graczy.",0.91
+309,"• Transform - When you Transform a card from another character or a colorless card, add the new card from the top of your character’s card rewards deck.","• Podmiana – Gdy Podmieniasz kartę od innej postaci lub Bezbarwną, dodaj nową kartę z wierzchu talii Nagród twojej postaci.",0.943
+310,"• Golden Tickets - When you reveal a Golden Ticket from another character’s card rewards, the rare comes from that character’s rare deck.","• Złoty Bilet – Gdy odkryjesz Złoty Bilet z talii Nagród innej postaci, karta Rzadkiej Nagrody pochodzi z talii Rzadkich Nagród tej postaci.",0.908
+311,"• Stances and Orbs - If you gain the ability to enter Stances or use Orbs from another character, gain the Prismatic Shard special relic. Start each combat in Neutral Stance. The Defect doesn’t gain more Orb slots this way. The Watcher can’t enter Stances on the Prismatic Shard.","• Postawy i Sfery – Jeśli zdobywasz zdolność Przyjmowania Postawy lub używania Sfer innej postaci, zdobywasz Pryzmat – specjalny Artefakt. Rozpoczynasz każdą walkę w Postawie Neutralnej. Defekt nie zyskuje w ten sposób więcej slotów na Sfery. Obserwatorka nie może Przyjmować Postawy na karcie Pryzmatu.",0.868
+312,Card Removes -,Usunięcie karty -,0.904
+313,Upgrades,Ulepszenia,0.808
+314,【B】Graphic Director:【/B】 Paolo Scippo,【B】Kierownictwo Artystyczne:【/B】 Paolo Scippo,0.876
+315,"【B】Graphic Design:【/B】 Jonata Benvenuti, Elisa Fiore, Diana Maranzano","【B】Ilustracje:【/B】 Jonata Benvenuti, Elisa Fiore, Diana Maranzano",0.849
+316,5 Stradiots,5 Stradioti,0.975
+317,5 Moldovian,5 Strażników,0.628
+318,3 arquebusiers,3 Arkebuzerów,0.883
+319,Witch,Wiedźma,0.705
+320,3 Marauders,3 Maruderów,0.877
+321,6 Slingers,6 Procarzy,0.798
+322,3 Warriors,3 Wojowników,0.948
+323,6 Lancers,6 Oszczepników,0.844
+324,Cardinal,Kardynał,0.847
+325,3 Sacred,3 Strażników,0.65
+326,5 Swiss,5 Strażników,0.672
+327,3 Papal,3 Gwardzistów,0.65
+328,5 Swiss,5 Gwardzistów,0.71
+329,4 Hero Boards,4 Plansze Bohatera,0.859
+330,8 Hero Sheets,8 Kart Bohatera,0.855
+331,8 Skill Sheets,8 Kart Umiejętności,0.861
+332,Rebecca - Necromancer,Rebecca - Nekromanta,0.946
+333,36 Reagent Cards,36 Kart Odczynników,0.83
+334,20 Reward Cards,20 Kart Nagród,0.908
+335,32 Achievement Cards,32 Kart Osiągnięć,0.925
+336,24 Destiny Cards,24 Karty Przeznaczenia,0.864
+337,18 Enemy Cards,18 Kart Wrogów,0.754
+338,18 Enemy Draft Cards,18 Kart Draftu Wrogów,0.818
+339,【B】Reaction 2【/B】: when you are to gain a Negative,【B】Reakcja 2【/B】 : nie otrzymujesz Żetonu Ssu,0.707
+340,8 Fire Tokens,8 Żetonów Ognia,0.899
+341,4 Water Tokens,4 Żetony Wody,0.908
+342,1 Stealth Token,1 Żeton Ukrycia,0.777
+343,2 Line of Sight Tools,2 Żetony do wyznaczania linii wzroku,0.78
+344,12 Neutral Tokens,12 Żetonów Neutralnych,0.889
+345,10 Interaction Cubes,10 Kostek Interakcji,0.829
+346,30 Hero Cubes,30 Kostek Bohatera,0.788
+347,♦Wager 0 to 5 Florins by erasing them from the,"♦Obstaw od 0 do 5 Florenów, usuwając je z Karty",0.873
+348,Campaign Sheet.,Kampanii.,0.645
+349,Roll 2d8 and apply the eff ect accordingly:,Rzuć 2K8 i zastosuj odpowiedni efekt:,0.813
+350,2 Character Tokens,2 Żetony Postaci,0.808
+351,1 Prey Token,1 Żeton Zdobyczy,0.764
+352,Adjacent Models,Ataki Reakcyjne,0.274
+353,Areas,Bohater,0.281
+354,Traveling Magister,Początkowa Karta Misji,0.328
+355,Event Tokens,Elementy Gry,0.501
+356,Focus Area,Zakończenie Misji,0.313
+357,"【B】Related Topics:【/B】 Battlefi eld, Location Card (Mission Cards),","【B】Powiązane Tematy:【/B】 Pole Bitwy, Karta Lokacji (Karty Misji),",0.911
+358,Line of Sight (LoS),Linia Wzroku (LW),0.732
+359,Non-Zone,Poza Strefą,0.7
+360,Non-Zone,Poza Strefą,0.7
+361,Th e Active Model has a LoS on a target at its own Height Level if an imaginary line can be drawn from one of the sides of its Square having all these characteristics:,"Aktywna Figurka posiada Linię Wzroku do celu na swoim Poziomie Wysokości, jeśli można narysować wyimaginowaną linię od jednego z boków Pola, na którym znajduje się Figurka, z uwzględnieniem poniższych zasad:",0.772
+362,◆It does not cross a Square occupied by a Blocking Scenic Element (such as a Tree or Building) at the same Height Level as the Active Model.,"◆nie przechodzi przez Pola zajmowane przez Element Krajobrazu z zasadą Blokujący (taki jak Drzewo lub Budynek), znajdujący się na tym samym Poziomie Wysokości co Aktywna Figurka,",0.852
+363,◆It does not cross a Square occupied by another Opposing Model.,"◆nie przechodzi przez Pola zajmowane przez inną Figurkę Przeciwnika,",0.704
+364,◆It does not cross a Non-Zone.,◆nie przechodzi przez obszar Poza Strefą.,0.729
+365,An Active Model on a Roof has a LoS on the target at a lower Height Level if an imaginary line having all the following characteristics can be drawn from one of the sides of its Square:,"Aktywna Figurka znajdująca się na Dachu posiada Linię Wzroku do celu na niższym Poziomie Wysokości, jeśli można narysować wyimaginowaną linię od jednego z boków Pola, na którym znajduje się Figurka, z uwzględnieniem poniższych zasad:",0.78
+366,◆It does not cross a Square occupied by a Towering Scenic Element (such as a Tree or Building) on the same Height Level as the Active Model.,"◆nie przechodzi przez Pole zajmowane przez Element Krajobrazu z zasadą Wysoki (taki jak Drzewo lub Budynek) znajdujący się na tym samym Poziomie Wysokości co Aktywna Figurka,",0.848
+367,◆It does not cross a Non-Zone.,"◆nie przechodzi przez obszar Poza Strefą,",0.664
+368,Special Mission Card,Karta Zdobyczy,0.456
+369,Egidio,Niedźwiedź,0.319
+370,Using Mission Cards,Rozegranie Misji Polowania,0.391
+371,"【B】Related Topics:【/B】 Stealth, Dice Roll.",【B】Powiązane Tematy:【/B】 Punkty Akcji.,0.656
+372,Placing a Model,Powalenie Bohatera,0.363
+373,Building,Krzaki,0.257
+374,Ladder,Zapadnia,0.286
+375,Valid Target,Atak Fizyczny,0.317
+376,Campaign,Kampania,0.919
+377,"Th is section of the Rulebook explains how to prepare and play a Nova Aetas Renaissance Campaign. To start a Campaign, it is best to proceed as outlined below in the First Steps chapter, where the Heroes are selected and the Campaign Sheet fi lled out. Th e 4 steps that make up a single Mission are explained next:","W tej części Księgi Zasad wyjaśniono, jak przygotować i rozegrać Kampanię w grze ""Nova Aetas Renesans"". Przygotowanie Kampanii najlepiej rozpocząć w sposób przedstawiony w rozdziale ""Pierwsze Kroki"", opisującym wybór Bohaterów i wypełnienie Karty Kampanii. Poniżej wyjaśniono zasady dotyczące 4 kroków tworzących pojedynczą Misję:",0.896
+378,"【B】◆Travel Phase【/B】, in which the party of Heroes, if necessary, moves around Italy with the possibility of making unexpected encounters.","【B】◆Faza Podróży【/B】, podczas której drużyna Bohaterów, wędruje po Włoszech mając możliwość napotkania na swojej drodze nieoczekiwanych przeciwników.",0.791
+379,"【B】◆Mission Phase【/B】, in which Heroes will take part in the Mission by following the directions of Mission Cards and the Plotbook, gain [[ICON1]] and Reagents, and fi nd out what Mission they will face next.","【B】◆Faza Misji【/B】, podczas której Bohaterowie uczestniczą w Misji, postępując zgodnie ze wskazówkami zawartymi na Kartach Misji i w Księdze Fabuły, zdobywają [[ICON1]] i Odczynniki oraz dowiadują się, z jaką kolejną Misją przyjdzie im się zmierzyć.",0.836
+380,"To prepare the Nova Aetas Renaissance Campaign, proceed by following these steps:","Postępujcie zgodnie z poniższymi krokami, odpowiednio przygotowując Kampanię gry ""Nova Aetas Renesans"":",0.885
+381,"◆Make a photocopy of the Campaign Sheet, found at the end of this Rulebook, or print it out by downloading the fi le from our WebApp at: app.ludusmagnusstudio.com","◆Możecie wykonać kopię Karty Kampanii znajdującej się na końcu tej Księgi Zasad lub wydrukować ją, pobierając plik ze strony internetowej: app.ludusmagnusstudio.com.",0.898
+382,"◆Each player chooses a Hero to use for the duration of the Campaign. Th ey take the Hero's Model, their Basic Class Hero Sheet, their Basic Class Skill Sheets, their Basic Class Starting Equipment, and their Destiny Cards.","◆Każdy gracz wybiera Bohatera na czas trwania Kampanii. Zabierzcie po Figurce Bohatera, jego Kartę Klasy Podstawowej, Karty Umiejętności Klasy Podstawowej, Wyposażenie Początkowe Klasy Podstawowej oraz Karty Przeznaczenia.",0.864
+383,"◆All components related to Advanced Hero Classes need not be taken at this time, but all players can freely consult them to better plan the growth of their Heroes.","◆Wszystkie komponenty związane z Zaawansowanymi Klasami Bohaterów nie są na razie potrzebne, ale wszyscy gracze mogą się z nimi zapoznać, aby lepiej zaplanować rozwój swoich Bohaterów.",0.86
+384,◆Nova Aetas Renaissance is balanced to be approached with 4 Heroes. If there are fewer players you may decide to use multiple Heroes each or hire Companions (easier to use but will not progress).,"◆Gra ""Nova Aetas Renesans"" jest dostosowana do rozgrywki z udziałem 4 Bohaterów. Jeśli jest mniej graczy, możecie zdecydować o korzystaniu z kilku Bohaterów lub wynajęciu Towarzyszy (są oni łatwiejsi pod względem obsługi, ale nie zapewniają możliwości rozwoju).",0.896
+385,First Steps,Pierwsze Kroki,0.966
+386,"◆Take the 【B】""0.0 Prologue""【/B】 Mission envelope.","◆Wyciągnijcie z pudełka kopertę dla Misji 【B】""0.0 Prolog""【/B】.",0.799
+387,May your campaign begin!,Niech rozpocznie się wasza kampania!,0.958
+388,"Th e Campaign Sheet is a key tool for keeping track of the progress of the story, the Hero party's earnings, and the upgrades gained by each of them. Th is sheet is used to save the progress achieved, and it is useful to note any useful information each time you perform a Travel Phase or Rest Phase.","Karta Kampanii jest kluczowym narzędziem do śledzenia postępów w fabule, zarobków Bohaterów i ulepszeń zdobytych przez każdego z nich. Karta pozwala na zapisywanie osiągniętych postępów i jest pomocna w odnotowywaniu wszelkich przydatnych informacji za każdym razem, gdy gracz przeprowadza Fazę Podróży lub Fazę Odpoczynku.",0.859
+389,Campaign Sheet,Karta Kampanii,0.82
+390,◆Which Destiny Cards you have resolved.,"◆które Karty Przeznaczenia udało ci się rozwiązać,",0.796
+391,"As previously mentioned, to play a Nova Aetas Renaissance Mission, four phases must be performed in a specifi c order: Travel Phase, Setup Phase, Mission Phase, and Rest Phase.","Zgodnie z tym, co zostało wspomniane wcześniej, aby rozegrać Misję w grze ""Nova Aetas Renesans"", należy wykonać cztery Fazy w określonej kolejności: Faza Podróży, Faza Rozstawienia, Faza Misji i Faza Odpoczynku.",0.877
+392,Playing a Mission,Wykonywanie Misji,0.821
+393,Read me first,Przeczytaj na początku,0.743
+394,◆Open the Map of Italy.,◆Otwórz mapę Włoch.,0.852
+395,"◆Consult the Campaign Sheet looking for the Town or Village where the last Mission took place, and the Town or Village where the Mission to be played will take place.","◆Sprawdź Kartę Kampanii i poszukaj Miasta lub Wioski, w której odbyła się ostatnia Misja, oraz Miasta lub Wioski, w której odbędzie się Misja zaplanowana do rozegrania.",0.868
+396,Travel Phase,Faza Podróży,0.958
+397,Assisi,Asyż,0.76
+398,"Your journey proceeds smoothly, it’s a beautiful day and the fresh wind caresses your face.","Podróż przebiega przyjemnie, jest piękny dzień, a rześki wiatr przyjemnie muska wasze twarze.",0.879
+399,Traveling Alchemist,Wędrowny alchemik,0.724
+400,"[[ICON1]] A wagon, fully enclosed and decorated in bright colors, appears on the road, slowly advancing ahead of you. When you reac it, the carter, an elderly, thin, white-haired man,","[[ICON1]] Na drodze pojawia się wóz, szczelnie zamknięty i ozdobiony jaskrawymi kolorami, który powoli posuwa się naprzód. Gdy do niego docieracie, woźnica, odwraca się obdarzając was bezzębnym uśmiec em. “Czy c cielibyście rzucić okiem na pojazdu.",0.744
+401,"◆Perform a Rest Phase in Orvieto then start Mission: 2.0 Possessed in Greccio, af er performing a Travel Phase.","◆Wykonaj Fazę Odpoczynku w Orvieto, następnie po wykonaniu Fazy Podróży, rozpocznij Misję: 2.0 - “Opętany” w Greccio.",0.902
+402,Table Setting,Faza Rozstawienia,0.459
+403,"Before undertaking a Mission, prepare the table by following these points:","Przed przystąpieniem do Misji należy przygotować stół do rozgrywki, wykonując następujące czynności:",0.798
+404,"◆Take your Hero's components and prepare it in front of you as shown in the fi gure. Place the Hero Sheet of your Class in the Hero Board. Place a Hero Cube on the Heroic Points track and on the Class Points track, if any.","◆Weź komponenty swojego Bohatera i umieść je przed sobą, jak pokazano na ilustracji. Włóż Kartę Bohatera danej Klasy w Planszę Bohatera. Umieść Kostkę Bohatera na torze Punktów Bohatera oraz na torze Punktów Klasy, jeżeli taki istnieje.",0.882
+405,3 Scu Embl,3 Umiejętności Oszustki,0.525
+406,"◆Take a Perilium for each Hero, set it to a value of 0 and place it next to your Hero Sheet.","◆Weź Perylium dla każdego Bohatera, ustaw jego wartość na 0 i umieść obok swojej Karty Bohatera.",0.929
+407,◆Shuffl e the Injury deck and place it within reach of all players.,◆Potasuj talię Obrażeń i umieść ją w zasięgu wszystkich graczy.,0.915
+408,"◆Divide the Tokens by type (Positive Status, Negative Status, Neutral Tokens, Wounds, and Activation Tokens) and place them so that they are within easy reach.","◆Podziel żetony według rodzaju (Żetony Statusu Pozytywnego, Żetony Statusu Negatywnego, Żetony Neutralne, Żetony Ran i Żetony Aktywacji), ułóż je tak, by były dostępne dla wszystkich graczy.",0.813
+409,◆Place the Dice and Interaction Cubes on the table so that they are accessible to all players.,"◆Umieść Kości i Kostki Interakcji na stole tak, aby były dostępne dla wszystkich graczy.",0.913
+410,"To prepare the Mission and the Heroes who will undertake it, proceed by following these steps:","Przygotowując Misję i Bohaterów, którzy się jej podejmą, wykonaj następujące kroki:",0.875
+411,【B】◆Select the Mission:【/B】 check in the Campaign Sheet to see which is the next Mission the party must undertake (the fi rst two are already indicated on the Sheet). During this step you can also decide to select an Active Side Mission or an Available Hunt instead of the Campaign Mission.,"【B】◆Wybierz Misję:【/B】 sprawdź na Karcie Kampanii, która Misja jest kolejną, którą drużyna musi wykonać (dwie pierwsze są już zaznaczone na Karcie). Na tym etapie możesz również wybrać Aktywną Misję Poboczną lub Dostępne Polowanie zamiast Misji Kampanii.",0.897
+412,"【B】◆Equipping Skills:【/B】 by using Hero Cubes, select the Skills equipped by each Hero (maximum 5 Skills, respecting category limits), choosing them from those the Hero has already purchased (noted on the Campaign Sheet). To do this, place a Hero Cube in the appropriate slot of each chosen Skill. See the Class Skills entry for complete rules.","【B】◆Dobierz Umiejętności:【/B】 używając Kostek Bohaterów, wybierz Umiejętności, w które wyposażony będzie każdy Bohater (maksymalnie 5 Umiejętności, przestrzegając limitów kategorii), wybierając je spośród tych, które Bohater już zakupił (odnotowane na Karcie Kampanii). Następnie umieść Kostkę Bohatera w odpowiednim miejscu każdej wybranej Umiejętności. Kompletne zasady znajdują się w rozdziale ""Umiejętności Klasowe"".",0.907
+413,♦Scommet i da 0 a 5 Popolini cancellandoli dalla,"♦Obstaw od 0 do 5 Florenów, usuwając je z Karty",0.816
+414,In this phase the Heroes will undertake the Mission by following the directions in the Mission Cards and the Plotbook. Proceed by following these rules:,"W tej fazie Bohaterowie przystąpią do wykonywania Misji, postępując zgodnie ze wskazówkami zawartymi na Kartach Misji i w Księdze Fabuły. Należy przestrzegać następujących zasad:",0.873
+415,◆Read the card from top to bottom following the Instructions on it.,"◆Przeczytaj kartę od góry do dołu, postępując zgodnie z zawartymi na niej Instrukcjami.",0.935
+416,"◆When an Instruction calls for revealing a new Mission Card or consulting a paragraph of the Plotbook, read its contents from top to bottom always carrying out the Instructions given in it.","◆Jeśli Instrukcja wymaga odkrycia nowej Karty Misji lub zapoznania się z paragrafem Księgi Fabuły, należy przeczytać jej treść od góry do dołu, zawsze wykonując podane w niej Instrukcje.",0.86
+417,"◆When an Instruction reads 【B】Start the Mission【/B】, use the Horologium and proceed to the Model Activations until an Instruction indicates to reveal a new Mission Card again or consult a paragraph of the Plotbook.","◆Jeśli Instrukcja nakazuje 【B】Rozpoczęcie Misji【/B】, użyj Horologium i przejdź do Aktywacji Figurek, do czasu aż Instrukcja nie wskaże, by ponownie odkryć nową Kartę Misji lub zapoznać się z paragrafem Księgi Fabuły.",0.826
+418,"In this phase, the Heroes recover from their fatigues, heal their wounds, train and acquire new Equipment by spending the Reagents and Florins they have accumulated.","W tej fazie Bohaterowie regenerują siły, leczą Rany, szkolą się i zdobywają nowe Wyposażenie, wydając zgromadzone Odczynniki i Floreny.",0.866
+419,Warning: some Missions indicate skipping this step. To perform the Rest Phase follow these steps:,"Ostrzeżenie: niektóre Misje wskazują pominięcie tego kroku. Postępuj zgodnie z poniższymi krokami, aby wykonać Fazę Odpoczynku:",0.914
+420,◆Each Hero who has resolved their Destiny Card 2 may spend 2[[ICON1]] to change their Basic Class to one of the two Advanced Classes available to them.,"◆Każdy Bohater, który rozstrzygnął swoją Kartę Przeznaczenia 2, może wydać 2[[ICON1]], aby zmienić swoją Klasę Podstawową na jedną z dwóch dostępnych Klas Zaawansowanych.",0.898
+421,◆Any Hero (non-Companion) can spend the Experience Points [[ICON1]] available to them to purchase new Skills of their Class.,◆Dowolny Bohater (niebędący Towarzyszem) może wydać dostępne dla niego Punkty Doświadczenia [[ICON1]] na zakup nowych Umiejętności swojej Klasy.,0.924
+422,"◆When an Instruction reads 【B】Continue your Activation【/B】, the active Hero picks up their Activation where they left off .","◆Jeśli Instrukcja nakazuje 【B】Kontynuowanie Aktywacji【/B】, aktywny Bohater kontynuuje swoją Aktywację w miejscu, w którym ją przerwał.",0.809
+423,"◆Continue until an Instruction indicates to note in the Campaign Sheet the next Mission to be undertaken or to repeat the Mission. If it is indicated in the Instruction, perform the Rest Phase.","◆Kontynuuj, dopóki Instrukcja nie nakaże zapisania na Karcie Kampanii kolejnej Misji do wykonania lub powtórzenia Misji. Jeśli jest to zaznaczone w Instrukcji, wykonaj Fazę Odpoczynku.",0.902
+424,◆Decide by mutual agreement which Shops to visit. Each Hero (or Companion used in the last Mission played) can visit a single Shop by placing their Model on it.,"◆Wspólnie zadecydujcie, które Sklepy odwiedzicie. Każdy Bohater (lub Towarzysz użyty w ostatniej rozegranej Misji) może odwiedzić jeden Sklep, umieszczając w nim swoją Figurkę.",0.867
+425,"◆All Shops have a capacity that may be diff erent if the Rest Phase is conducted in a Village or a Town. Next to the name of the Shop, the number aft er the Towns [[ICON1]] and Village [[ICON2]] icons, indicates how many Heroes can visit it during the same Rest Phase.","◆Wszystkie Sklepy charakteryzują się ograniczoną powierzchnią, która może się różnić w zależności od tego, czy Faza Odpoczynku jest przeprowadzana w Wiosce czy w Mieście. Umieszczona obok nazwy Sklepu po symbolach Miasta [[ICON1]] oraz Wioski [[ICON2]] liczba, wskazuje ilu Bohaterów może go odwiedzić podczas tej samej Fazy Odpoczynku.",0.87
+426,"◆In the order preferred by the players, each Hero uses the Eff ects indicated in the Shop they are in. Th e Eff ects of each service are indicated on the Rest Board.","◆W kolejności ustalonej przez graczy, każdy Bohater stosuje Efekty określone w Sklepie, w którym się znajduje. Efekty każdej usługi są wskazane na Planszy Odpoczynku.",0.868
+427,"◆When all Heroes have fi nished using the Eff ects of the Shops they are in, the Rest Phase ends.","◆Jeśli wszyscy Bohaterowie zakończą korzystanie z Efektów Sklepów, Faza Odpoczynku dobiega końca.",0.846
+428,Città di Castello [[ICON1]]San Marino Venezia,Città di Castello [[ICON1]]San Marino Wenecja,0.92
+429,Roma,Rzym,0.863
+430,[[ICON1]] Borgo [[ICON2]] Città,[[ICON1]]Wioska [[ICON2]]Miasto,0.777
+431,sulla sua scheda Eroe.,i poprawić swoją kondycję.,0.353
+432,"Un Eroe può trovare conforto spirituale nella Chiesa,","W Kościele Bohater może odnaleźć duchowe pocieszenie, zostawiając jedynie, niewielki datek dla ubogich.",0.743
+433,"♦Paga 3 Popolini se sei nella tua una Classe Base, o 5 Popolini se sei nella tua classe Avanzata. ♦Perdi tut e le Abilità acquistate (ma non la Classe Avanzata precedentemente scelta), e ot ieni tut i i Punti Esperienza usati per acquistarle, ad eccezione di quelli spesi per il passaggio alla Classe Avanzata. ♦Spendi immediatamente un qualsasi numero di [[ICON1]] in tuo possesso per imparare Abilità tra quelle disponibili tra la tua Classe Base e la Classe Avanzata. ♦Se il tuo Eroe ha già acquisito una Classe Avanzata devi acquistare almeno 3 Abilità della sua Classe Base. ♦Aggiorna la Scheda di Campagna con le nuove Abilità. ♦I Compagni non possono visitare il Maestro.","♦Zapłać 3 Floreny jeżeli Twoja klasa to Klasa Podstawowa, albo 5 Florenów jeżeli Twoja klasa to Klasa Zaawansowana. ♦Tracisz wszystkie posiadane Umiejętności (zachowujesz wcześniej wybraną Klasę Zaawansowaną) i zyskujesz wszystkie Punkty Doświadczenia wykorzystane do ich zdobycia, z wyjątkiem tych wydanych na ulepszenie do Klasy Zaawansowanej. ♦Natychmiast wydaj dowolną liczbę posiadanych [[ICON1]], aby nauczyć się umiejętności spośród tych, które są dostępne w twojej Klasie Podstawowej i Zaawansowanej. ♦Jeśli twój Bohater zdobył już Klasę Zaawansowaną, musisz przydzielić mu co najmniej 3 Umiejętności z jego Klasy Podstawowej. ♦Zaktualizuj Kartę Kampanii o wybrane Umiejętności. ♦Towarzysze nie mogą odwiedzać Mentora.",0.91
+434,[[ICON1]]Terme,[[ICON1]] ŁAŹNIE,0.332
+435,[[ICON1]] Maestro,[[ICON1]] MENTOR,0.631
+436,Fase di Riposo,Faza Odpoczynku,0.895
+437,Nova Aetas Renaissance - Plancia di Riposo,NoVa Aetas Renesans - Plansza OdpoCzynKu,0.811
+438,Visitare questa Bottega è l’unico modo per sbarazzarsi di una Ferita Grave ricevuta durante una Missione. Vedi la voce “Ferite Gravi” sul regolamento.,"Wizyta u Chirurga jest jedynym sposobem na pozbycie się Kart Obrażeń odniesionych podczas wykonywania Misji. Zapoznaj się z rozdziałem “Rany i Żetony Ran”, opisanym w Księdze Zasad.",0.742
+439,"♦Puoi ingaggiare fi no ad un massimo di 3 Compagni. ♦Paga il costo in Popolini per ogni Compagno assoldato in base a quali Abilità deve avere nella prossima missione (da 0 a 3 Abilità). ♦I Compagni giocano le Missioni successive, fi no alla fi ne della prossima Fase di Riposo, con le Abilità che hai deciso di acquistare per loro.","♦Możesz wynająć do 3 Towarzyszy. ♦Zapłać koszt we Florenach za każdego wynajętego Towarzysza stosownie do tego, jakie Umiejętności powinien posiadać w następnej Misji (od 0 do 3 Umiejętności). ♦Towarzysze rozgrywają kolejne Misje, aż do końca następnej Fazy Odpoczynku, mając Umiejętności, które zdecydowałeś się dla nich zakupić.",0.875
+440,[[ICON1]] Caserma,[[ICON1]] KOSZARY,0.506
+441,Nella Taverna gli Eroi possono distrarsi e guadagnare (o perdere!) qualche Popolino giocando a dadi con gli altri avventori.,"W Karczmie Bohaterowie mogą oderwać myśli od codziennych spraw i zyskać (lub stracić!) trochę Florenów, grając w kości z innymi gośćmi.",0.823
+442,"▶Doppio 1: perdi il doppio dei popolini che hai scommesso, fi no al massimo disponibile nella Scheda di Campagna. ▶10: Vinci il doppio dei Popolini che hai scommesso. ▶11+: Vinci la cifra di Popolini che hai scommesso. ▶Tutti gli altri risultati: perdi la cifra di Popolini che hai scommesso.","▶Dwie 1: przegrywasz dwa razy więcej Florenów niż obstawiłeś, do wysokości maksymalnej kwoty dostępnej na Karcie Kampanii. ▶10: wygrywasz dwa razy więcej Florenów niż obstawiłeś. ▶11+: wygrywasz obstawioną kwotę Florenów.",0.839
+443,[[ICON1]] Mercato,[[ICON1]] RYNEK,0.322
+444,Cerusico,Chirurg,0.434
+445,Caserma,Koszary,0.495
+446,Mercato,Rynek,0.879
+447,Taverna,Karczma,0.351
+448,Maestro,Mentor,0.691
+449,You can equip Spells of the School of Omnia.,Możesz wyposażyć się w Czary pochodzące ze Szkoły Pełni Magii.,0.671
+450,Passive. Each of your Spells gains:,Pasywna. Każdy z twoich Czarów zyskuje:,0.827
+451,Acquiring Class Advancement,Uzyskanie Awansu Klasowego,0.852
+452,"Unlike regular Skills, once the Advanced Class is acquired, the Heroic Skill of the Basic Class can no longer be used, as it is replaced by that of the chosen Advanced Class. It may be convenient to keep the two Skill Sheets overlapping so that the Heroic Skill section of the Advanced Class covers the Heroic Skill of the Basic Class (see the example below).","W przeciwieństwie do zwykłych Umiejętności, po zdobyciu Klasy Zaawansowanej, Umiejętność Heroiczna Klasy Podstawowej nie może być już używana, ponieważ zostaje zastąpiona Umiejętnością Heroiczną wybranej Klasy Zaawansowanej. Dobrym rozwiązaniem może być nałożenie na siebie obu Kart Umiejętności, tak by część dotycząca Umiejętności Heroicznej Klasy Zaawansowanej przykryła tę z Umiejętnością Heroiczną Klasy Podstawowej (zobacz przykład poniżej).",0.879
+453,Acquiring a new Class Skill,Zdobycie Nowej Umiejętności Klasowej,0.908
+454,"During a Rest Phase, a Hero may purchase new Skills from those available to them. When a Hero switches to one of the two Advanced Classes, they may acquire and use the Skills indicated on both the Basic Class Skill Sheet and the chosen Advanced Class. To acquire a Skill, the player spends the [[ICON1]] indicated by the cost of the Skill and writes on the Campaign Sheet the name of the acquired Skill, also updating the amount of [[ICON2]] spent. Some Skills have a Prerequisite, so they can only be acquired if you have the Skill listed as a Prerequisite. During a single Rest Phase you can acquire as many Class Skills as you want as long as you have [[ICON3]] available. Th ere is no limit to the number of Skills a Hero can acquire during a Campaign.","Podczas Fazy Odpoczynku Bohater może zdobyć nowe Umiejętności spośród tych, które są dla niego dostępne. Jeśli Bohater awansuje do jednej z dwóch Klas Zaawansowanych, może wyposażyć się i używać Umiejętności wskazanych zarówno na Karcie Umiejętności Klasy Podstawowej, jak i na Karcie Klasy Zaawansowanej. Chcąc uzyskać Umiejętność, gracz wydaje [[ICON1]] wskazane przez koszt Umiejętności i zapisuje na Karcie Kampanii nazwę pozyskanej Umiejętności, aktualizując również liczbę wydanych [[ICON2]]. Niektóre Umiejętności mają Warunek Wstępny, więc można je uzyskać tylko wtedy, gdy posiada się Umiejętność wymienioną jako Warunek Wstępny. Podczas jednej Fazy Odpoczynku możesz zdobyć dowolną liczbę Umiejętności Klasowych, o ile gracz ma dostępne [[ICON3]]. Nie ma ograniczeń co do liczby Umiejętności, które Bohater może zdobyć w trakcie Kampanii.",0.87
+455,Crafting Equipment,Wytwarzanie Wyposażenia,0.77
+456,"If at least one Hero visits the Artisan's Shop during the Rest Phase, they can Craft Equipment using Formulae Cards. As long as Reagents are available, a single Hero can Craft as many Equipment as they wish, not only for themselves but also for all other Heroes; they can also create the Formulaetype Advanced Equipment of any Advanced Class, not just their own. To Craft an Equipment follow these steps: 1. Place a Hero in the Artisan's Shop. 2. Choose one or more cards from the Formulae deck or from the Advanced Equipment of any Hero. 3. Delete the Reagents and Florins required by the chosen Formulae Cards from the Campaign Sheet. 4. Mark the newly craft ed Equipment on the Campaign Sheet. From this moment on it will be available to the Heroes.","Jeśli podczas Fazy Odpoczynku przynajmniej jeden Bohater odwiedzi Warsztat Rzemieślnika, będzie mógł wytworzyć Wyposażenie używając w tym celu Kart Receptur. Jeżeli dostępne są Odczynniki, pojedynczy Bohater może stworzyć dowolną liczbę Wyposażenia, nie tylko dla siebie, ale także dla wszystkich innych Bohaterów. Może on także wytworzyć Zaawansowane Wyposażenie dowolnej Klasy Zaawansowanej, nie tylko swojej. Wykonaj następujące kroki, aby wytworzyć Wyposażenie: 1. Umieść Bohatera w Warsztacie Rzemieślnika. 2. Wybierz jedną lub więcej kart z talii Receptur lub z Wyposażenia Zaawansowanego dowolnego Bohatera. 3. Usuń z Karty Kampanii, Odczynniki i Floreny potrzebne do użycia wybranych Kart Receptur. 4. Zaznacz nowo wytworzone Wyposażenie na Karcie Kampanii. Od tego momentu będzie ono dostępne dla Bohaterów.",0.862
+457,"Keep in mind that you can only craft an Equipment a number of times equal to the number of Formulae Cards that represent it. So, if an Equipment has only one Formulae Card and is already marked on the Campaign Sheet, you will not be able to craft it again. If an Equipment is sold or discarded (for example, if it is a Potion), it must be deleted from the Campaign Sheet, and it can be craft ed again.","Należy pamiętać, że Wyposażenie można wytworzyć tylko tyle razy, ile wskazuje na to liczba Kart Receptur. Tak więc, jeśli Wyposażenie ma tylko jedną Kartę Receptury i jest już zaznaczone na Karcie Kampanii, nie będzie można wytworzyć go ponownie. Jeśli Wyposażenie zostanie sprzedane lub odrzucone (na przykład, jeśli jest to Mikstura), musi zostać usunięte z Karty Kampanii i może zostać stworzone ponownie.",0.82
+458,"Concluding the Rest Phase marks the actual end of a Mission. Th e next Mission will take place in the same way, but remember that the Travel Phase and Rest Phase will not always be available in all Missions. When this happens, simply move on to the next Phase until the Mission ends.","Zakończenie Fazy Odpoczynku oznacza faktyczny koniec Misji. Następna Misja odbywać się będzie w ten sam sposób, jednak należy pamiętać, że Faza Podróży i Faza Odpoczynku nie zawsze będą dostępne we wszystkich Misjach. Należy wtedy po prostu przejść do kolejnej Fazy, aż Misja dobiegnie końca.",0.915
