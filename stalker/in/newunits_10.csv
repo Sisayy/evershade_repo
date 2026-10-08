@@ -1,0 +1,226 @@
+﻿id,en,pl,sim
+226,"[[ICON1]], remove it. If there are no adjacent Outposts, Borgo Builds a level 2 Outpost in your direction.","[[ICON1]], usuń ją. Jeśli nie ma sąsiadujących Posterunków, Borgo Buduje Posterunek poziomu 2 w twoim kierunku.",0.89
+227,"If Borgo Razed an Outpost, he gains 2 [[ICON1]]. Otherwise, he gains 1 [[ICON2]].","Jeśli Borgo Splądrował Posterunek, otrzymuje 2 [[ICON1]]. W przeciwnym razie otrzymuje 1 [[ICON2]].",0.877
+228,6. CLEANUP PHASE,6. FAZA CZYSZCZENIA,0.862
+229,• Pass the First Player token.,• Przekaż żeton pierwszego gracza.,0.907
+230,• Move the Round marker by 1 space on the Victory Point board.,• Przesuń znacznik Rundy o 1 pole na torze Punktów Zwycięstwa.,0.917
+231,END OF THE GAME,KONIEC GRY,0.74
+232,"The game ends as usual, when any player reaches 25 [[ICON1]]. Finish the current round and calculate your final score.","Gra kończy się jak zwykle, kiedy którykolwiek z graczy osiągnie 25 [[ICON1]]. Zakończ bieżącą turę i oblicz swój ostateczny wynik.",0.903
+233,CARDS IN DETAIL,SZCZEGÓŁOWY OPIS KART,0.693
+234,UNDERGROUND WAREHOUSE,PODZIEMNY MAGAZYN,0.558
+235,DISTANCE,DYSTANS,0.709
+236,SPOILS,ŁUPY,0.587
+237,51st State,51. Stan,0.799
+238,THIEVES' CARAVAN,KARAWANA ZŁODZIEI,0.478
+239,【B】ACTION:【/B】 Spend 2 [[ICON1]] to take 1 [[ICON2]] / [[ICON3]] / [[ICON4]] / [[ICON5]] from another player. May be activated twice.,"【B】AKCJA:【/B】 Wydaj 2 [[ICON1]], aby wziąć 1 [[ICON2]] / [[ICON3]] / [[ICON4]] / [[ICON5]] od innego gracza. Możesz aktywować ją dwa razy.",0.909
+240,You may not store a [[ICON1]] on this card.,Nie możesz przechowywać na tej karcie żadnych [[ICON1]].,0.876
+241,THIEVES CARAVAN,KARAWANA ZŁODZIEI,0.486
+242,If no other player has any Resources (i.e. when playing against a Virtual Player) this action has no effect.,"Ta akcja nie ma efektu, jeśli żaden inny gracz nie ma żadnych Zasobów (np. w rozgrywce jednoosobowej).",0.826
+243,"【B】Can I spend a Connection card instead of the depicted Contact tokens?【/B】 No, you must first play the Connection card to gain the Contact tokens and then spend the tokens during following rounds.","【B】Czy mogę wydać kartę Połączenia zamiast żetonów Kontaktu?【/B】 Nie, musisz najpierw użyć kartę Połączenia, aby zdobyć żetony Kontaktu, a następnie wydać żetony podczas kolejnych tur.",0.888
+244,"【B】If a card or Faction action can be activated more than once per round, may I do all the activations on a single turn?【/B】 Yes, they may be activated multiple times during a single turn or once during multiple turns (as you wish).","【B】Czy mogę wykonać wszystkie akcje w jednej turze, jeśli Akcja Lokacji lub Akcja Frakcji może być aktywowana więcej niż raz na rundę?【/B】 Tak, mogą być aktywowane wielokrotnie podczas jednej tury lub raz podczas wielu tur (jak chcesz).",0.861
+245,BASE GAME,GRA PODSTAWOWA,0.634
+246,SHERIFF'S OFFICE,BIURO SZERYFA,0.516
+247,【B】PRODUCTION【/B】: 1 [[ICON1]]for each [[ICON2]] you gain during Production phase. Max. 3.,"【B】PRODUKCJA【/B】: 1 [[ICON1]]za każdy [[ICON2]], który otrzymujesz w fazie Produkcji. Maks. 3.",0.937
+248,Winter,UMOWA,0.403
+249,CISTERN,CYSTERNA,0.818
+250,【B】PRODUCTION【/B】: 1 [[ICON1]]for each [[ICON2]] you gain during Production phase. Max. 3.,"【B】PRODUKCJA【/B】: 1 [[ICON1]]za każde [[ICON2]], które otrzymujesz w fazie Produkcji. Maks. 3.",0.937
+251,RADIOACTIVE COLONY,RADIOAKTYWNA KOLONIA,0.771
+252,New Era,Nowa Era,0.982
+253,SMALL FACTORY,MAŁA FABRYKA,0.861
+254,【B】PRODUCTION【/B】: 1 [[ICON1]]for each [[ICON2]] you gain during Production phase. Max. 3.,"【B】PRODUKCJA【/B】: 1 [[ICON1]]za każdą [[ICON2]], którą otrzymujesz w fazie Produkcji. Maks. 3.",0.939
+255,CONSTRUCTION SITE,PLAC BUDOWY,0.676
+256,FOUNDATION,FUNDAMENT,0.829
+257,SHERIFF’S OFFICE SMALL FACTORY CISTERN,BIURO SZERYFA MAŁA FABRYKA CYSTERNA,0.718
+258,"These cards do not provide any [[ICON1]] immediately, but will Produce [[ICON2]] during the following Production Phases.","Te karty nie zapewniają żadnych [[ICON1]] natychmiast, ale będą produkować [[ICON2]] podczas kolejnych faz Produkcji.",0.921
+259,RADIOACTIVE COLONY FOUNDATION,RADIOAKTYWNA KOLONIA FUNDAMENTY,0.806
+260,WINTER,ZIMA,0.575
+261,NEW ERA,NOWA ERA,0.942
+262,SUPPLIERS,DOSTAWCY,0.696
+263,HIDDEN FORGE,UKRYTA KUŹNIA,0.625
+264,【B】PRODUCTION【/B】: 1 [[ICON1]].,【B】PRODUKCJA【/B】: 1 [[ICON1]].,0.957
+265,BODY HUNTERS,ŁOWCY SKÓR,0.538
+266,You may choose any Production [[ICON1]] regardless of if you are resolving the Production Phase player by player or simultaneously. When you Build this card its Production is not activated because other player’s Production cards don’t Produce anything in that moment. You activate only the Building Bonus.,"Możesz wybrać dowolną [[ICON1]] Produkcyjną niezależnie od tego, czy rozgrywacie fazę Produkcji gracz po graczu, czy jednocześnie. Kiedy budujesz tę kartę jej Produkcja nie jest aktywowana, ponieważ karty Produkcji innych graczy nie produkują niczego w tym momencie. Aktywujesz jedynie jej Bonus za zbudowanie.",0.916
+267,"if this card is about to be Razed by a Virtual Player, you cannot discard the [[ICON1]], because it is printed, but [[ICON2]]the attack is considered successful, therefore the Virtual Player will pass on the next turn.","Jeśli ta karta ma zostać splądrowana przez wirtualnego przeciwnika, nie możesz odrzucić [[ICON1]], ponieważ jest on nadrukowany. Atak jednak [[ICON2]]jest uważany za udany, dlatego wirtualny przeciwnik w następnej turze spasuje.",0.875
+268,You may not choose Body Hunters as a target of this Action.,Łowcy Skór nie mogą być celem ich własnej akcji.,0.605
+269,BACKGROUND,TŁO FABULARNE,0.605
+270,"50 new cards, comprised of:",Dostajesz 50 nowych kart:,0.809
+271,6 Yellow Connection cards (to use with this set),6 żółtych kart Połączeń (do użycia z tym dodatkiem),0.934
+272,SCAVENGERS,ZGLISZCZA,0.56
+273,STATE PACK 01,PAKIET STANOWY 01,0.906
+274,NEW GAME MECHANISMS,NOWE MECHANIKI WYSTĘPUJĄCE W DODATKU,0.697
+275,NEW COMPONENTS,KOMPONENTY DODATKU,0.706
+276,PERSONAL DISCARD PILES,OSOBISTE STOSY KART ODRZUCONYCH,0.695
+277,"Instead of a central discard pile, where all Locations discarded during play would go, each player now has their own face-up Personal Discard pile when playing with this set. These allow for a new way of interacting, as these Personal Discard piles can be accessed by other players!","W podstawowej wersji odkładasz karty na wspólny stos kart odrzuconych. W tym dodatku każdy ma swój odkryty Osobisty Stos kart odrzuconych. Wprowadzają one nowy sposób interakcji z przeciwnikami za pomocą zdolności odnoszących się do Stosów kart odrzuconych pozostałych graczy. Brzmi prawie tak kusząco, jak Plądrowanie!",0.707
+278,ICON MATCHING,PASUJĄCE DOBRA,0.34
+279,YELLOW CONNECTION CARDS,ŻÓŁTE KARTY POŁĄCZEŃ,0.788
+280,The Yellow Connection cards form a new pile of Connection cards all players have access to. You can take and play these cards just like you would do with the Blue and Red Connection cards. You will find the details of these new mechanisms in the next section.,"Z nowych kart Połączeń stworzysz dodatkowy, osobny stos dostępny dla wszystkich graczy. Działa on na tej samej zasadzie co stos niebieski i czerwony. Nic prostszego, tylko pamiętaj, że najpierw chcesz przejąć czerwony stos: pamiętasz, jak kończą ci uprzejmi? Wiem, pewnie wciąż masz mnóstwo pytań. Dalej znajdziesz wszystkie odpowiedzi. Ruszajmy.",0.706
+281,SETUP CHANGES,ZMIANY W PRZYGOTOWANIU GRY,0.639
+282,Set up the base game as usual with the following changes and additions:,Przygotuj grę zgodnie z podstawowymi zasadami oraz następującymi zmianami:,0.777
+283,NEW RULES,PRZEBIEG TURY,0.387
+284,"• Also discard the top card of the Yellow Connection card pile, if it was not taken during the round.","• Odrzuć również odkrytą żółtą kartę Połączenia, jeżeli nie została pobrana w tej rundzie.",0.824
+285,"In the very rare case, when the deck runs out of cards, each player keeps the 3 topmost cards from their personal discard piles, then shuffle all the remaining cards from their personal discard piles to create a new deck.","W bardzo rzadkim przypadku, gdy w talii zabraknie kart, każdy gracz zatrzymuje 3 wierzchnie karty ze swoich osobistych stosów odrzuconych, a następnie tasuje wszystkie pozostałe karty ze swoich osobistych stosów odrzuconych, aby stworzyć nową talię.",0.873
+286,NEW VILLAGE,ZALĄŻEK NOWEJ,0.769
+287,NEW CARD EFFECTS,EFEKTY NOWYCH KART,0.912
+288,[[ICON1]] – 1 [[ICON2]] [[ICON3]] – 1 [[ICON4]] [[ICON5]] – 1 [[ICON6]] [[ICON7]] – 1 [[ICON8]] [[ICON9]] – 1 [[ICON10]] [[ICON11]] – 1 [[ICON12]] [[ICON13]] – 1 [[ICON14]] (if gained from the draw pile or if spent from your hand),"[[ICON1]] – 1 [[ICON2]] [[ICON3]] – 1 [[ICON4]] [[ICON5]] – 1 [[ICON6]] [[ICON7]] – 1 [[ICON8]] [[ICON9]] – 1 [[ICON10]] [[ICON11]] – 1 [[ICON12]] [[ICON13]] – 1 [[ICON14]] (jeśli dobierasz, to z talii; jeśli odrzucasz, to z ręki)",0.793
+289,[[ICON1]] – no effect,[[ICON1]] – brak efektu,0.964
+290,"Rules of the Solo Game stay intact with the following change: During the Setup, take approximately 1/3 of the deck and place it near the Virtual Player’s State to create the Virtual Player’s personal discard pile.","Zasady gry jednoosobowej pozostają bez zmian z pewnym wyjątkiem: Podczas przygotowania do gry weź około 1/3 talii i umieść ją w pobliżu stanu wirtualnego przeciwnika, aby stworzyć Osobisty Stos kart odrzuconych wirtualnego przeciwnika.",0.857
+291,CARD CLARIFICATION,OBJAŚNIENIA KART,0.801
+292,【B】ACTION:【/B】 Spend 1 [[ICON1]] to place 1 Resource on each of up to 3 of your Ruins. Gain the Resource on a Ruins when you Develop it.,"【B】AKCJA:【/B】 Wydaj 1 [[ICON1]], aby położyć po 1 Surowcu podstawowym z puli na twoich Ruinach (maks. 3). Gdy Przebudowujesz takie Ruiny, weź również leżący na nich Surowiec.",0.804
+293,Scavengers,Zgliszcza,0.468
+294,TRASH COLLECTORS,ZBIERACZE ZŁOMU,0.679
+295,【B】PRODUCTION:【/B】 1 [[ICON1]]. 【B】BUILDING BONUS:【/B】 1 [[ICON2]].,【B】PRODUKCJA:【/B】 1 [[ICON1]]. 【B】BONUS ZA ZBUDOWANIE:【/B】 1 [[ICON2]].,0.938
+296,NEW VILLAGE RISING,ZALĄŻEK NOWEJ OSADY,0.685
+297,【B】ACTION:【/B】 Spend 1 [[ICON1]]to take 1 of another player’s Ruins. Place it in your State.,"【B】AKCJA:【/B】 Wydaj 1 [[ICON1]], aby wziąć 1 z Ruin przeciwnika. Połóż je w twoim Stanie.",0.792
+298,【B】ACTION:【/B】 Spend 1 [[ICON1]] and 1 [[ICON2]] to Raze 1 of your [[ICON3]].,"【B】AKCJA:【/B】 Wydaj 1 [[ICON1]] i 1 [[ICON2]] , aby Splądrować 1 z twoich [[ICON3]].",0.826
+299,SPOILS,DYSTANS,0.463
+300,"You may choose any Ruins, regardless of how you obtained them.","Możesz wybrać dowolne Ruiny, niezależnie od tego, jak je pozyskałeś.",0.888
+301,"[[ICON1]]DEMOLITION MIKE [[ICON2]]DEMOLITION TOMMY When you use any of these cards, take the Goods from the the Spoils area as well as the Deal. Then, flip the target card face down. It is now a Ruins.","DEMOLITION MIKE [[ICON1]]DEMOLITION TOMMY [[ICON2]]Kiedy używasz którejkolwiek z tych kart, weź Zasoby zarówno z Łupów, jak i z pola Umowy. Następnie odwróć wybraną Lokację. Jest ona teraz Ruiną.",0.834
+302,50 Ally cards:,50 kart Sojuszników:,0.922
+303,"24 new tokens, comprised of:",24 nowe żetony Wpływu:,0.784
+304,8 Iron Gang,8 żetonów,0.72
+305,8 Sharrash,8 żetonów,0.76
+306,ALLIES,SOJUSZNICY,0.596
+307,STATE PACK 02,PAKIET STANOWY 02,0.913
+308,【B】OPEN PRODUCTION:【/B】 1 Ruins and 1 [[ICON1]].,【B】OTWARTA PRODUKCJA:【/B】 1 Ruiny i 1 [[ICON1]].,0.932
+309,DISTANCE,SOJUSZNIK,0.432
+310,OPEN PRODUCTION,OTWARTA PRODUKCJA,0.857
+311,BACK,UMOWA,0.489
+312,NEW GAME MECHANISMS,NOWE MECHANIKI WYSTĘPUJĄCE W DODATKU,0.697
+313,INFLUENCE TOKENS,ŻETONY WPŁYWU,0.658
+314,"1. You may Build a Location of the Alliance 【B】matching【/B】 the spent Influence tokens, just as you would spend [[ICON1]] tokens. You may combine the Influence tokens with [[ICON2]] tokens to meet the Distance value requirement of the Location.","1. Możesz Zbudować Lokację dowolnego Sojusznika za 【B】odpowiadające【/B】 mu żetony Wpływu – tak, jakbyś wydawał w tym celu [[ICON1]]. Możesz również w dowolnej kombinacji łączyć je z [[ICON2]] .",0.706
+315,"Action, take 1",Po użyciu tej akcji weź 1,0.666
+316,CARD CLARIFICATIONS,OBJAŚNIENIA KART,0.852
+317,HAZMAT RAVINE,TOKSYCZNA PRZEŁĘCZ,0.424
+318,【B】FEATURE:【/B】 Each time you Build a [[ICON1]]/ [[ICON2]]/ [[ICON3]] gain 1 [[ICON4]]/ [[ICON5]].,【B】CECHA:【/B】 Zawsze gdy Zbudujesz [[ICON1]]/ [[ICON2]]/ [[ICON3]] otrzymujesz 1 [[ICON4]]/ [[ICON5]].,0.825
+319,ALLIANCE,SOJUSZNIK,0.503
+320,DEAL,UMOWA,0.521
+321,Allies,Sojusznicy,0.802
+322,VOLTAIC PROPHET,GALWANICZNY PROROK,0.605
+323,SHARRASH TECHNOLOGY,TECHNOLOGIA SHARRASH,0.97
+324,RAT DEN,SZCZURZA NORA,0.46
+325,【B】ACTION【/B】: Spend 2 [[ICON1]] and 1 [[ICON2]] / [[ICON3]] / [[ICON4]] to gain 2 [[ICON5]]. May be activated any number of times.,"【B】AKCJA【/B】: Wydaj 2 [[ICON1]] i 1 [[ICON2]] / [[ICON3]] / [[ICON4]] , aby otrzy- mać 2 [[ICON5]]. Możesz aktywować ją wielokrotnie.",0.887
+326,【B】BUILDING BONUS:【/B】 1 [[ICON1]].,【B】BONUS ZA ZBUDOWANIE:【/B】 1 [[ICON1]].,0.942
+327,MOTHER OF RATS,SZCZURZA MATRONA,0.551
+328,UGLY TIMMY,BRUDNY TIMMY,0.843
+329,【B】PRODUCTION:【/B】 1 [[ICON1]] for each [[ICON2]] or 1 [[ICON3]] for each [[ICON4]]. Max. 2.,【B】PRODUKCJA:【/B】 1 [[ICON1]] za każdą [[ICON2]] lub 1 [[ICON3]] za każdą [[ICON4]]. Maks. 2.,0.947
+330,【B】BUILDING BONUS:【/B】 1 Ruins.,【B】BONUS ZA ZBUDOWANIE:【/B】 1 Ruiny.,0.955
+331,RAT HUNTING,POLOWANIE NA SZCZURY,0.52
+332,TOXIC WASTE,ODPADY TOKSYCZNE,0.681
+333,【B】ACTION【/B】: Give another player 1 [[ICON1]] from your hand to gain 1 [[ICON2]]. Additionally that player loses 1 [[ICON3]].,"【B】AKCJA【/B】: Daj przeciwnikowi 1 [[ICON1]] ze swojej ręki, aby otrzymać 1 [[ICON2]]. Dodatkowo ten przeciwnik traci 1 [[ICON3]].",0.912
+334,HIGH SPEED HEIST,SZYBKI NAPAD,0.479
+335,The target player must discard as many [[ICON1]] as possible (max. 3).,Wybrany przeciwnik musi odrzucić jak najwięcej [[ICON1]] (maks. 3).,0.856
+336,27 Moloch cards,27 kart z dodatku „Moloch”,0.801
+337,1. Lookout,1. Faza Wypatrywania,0.653
+338,3. Assault,3. Faza Ataku,0.745
+339,4. Deploy,4. Faza Wystawiania,0.682
+340,5. Action,5. Faza Akcji,0.749
+341,6. Cleanup,6. Faza Czyszczenia,0.795
+342,STATE PACK 03,PAKIET STANOWY 03,0.918
+343,SETUP CHANGES,ZMIANY W PRZYGOTOWANIU DO GRY,0.624
+344,ADDITIONAL PHASES,DODATKOWE FAZY,0.9
+345,23 double-sided Machine cards (to use with this set):,23 dwustronne karty Maszyn (do użycia z tym dodatkiem),0.904
+346,CAPTURED SCANNER,PRZECHWYCONY SKANER,0.633
+347,【B】PRODUCTION:【/B】 Place 2,【B】PRODUKCJA:【/B】 Połóż 2,0.87
+348,Machine,DYSTANS,0.289
+349,Machine’s Code,Kod Maszyny,0.951
+350,Machine side,Strona Maszyny,0.814
+351,Hacked side,Strona Zhakowana,0.786
+352,DISTANCE (it’s always 1!),DYSTANS (zawsze 1!),0.882
+353,SPOILS (it’s always 3!),ŁUPY (zawsze 3!),0.882
+354,Set up the base game as usual with the following changes and additions:,Przygotuj grę zgodnie z podstawowymi zasadami oraz następującymi zmianami:,0.777
+355,• Shuffle all 27 cards of the Moloch set together with the 88 cards of the Base Set. This creates your Deck for this game.,"• 88 kart 51. Stanu potasuj z 27 kartami Molocha, tworząc z nich talię do tej rozgrywki.",0.834
+356,ASSAULT PHASE,FAZA ATAKU,0.753
+357,HACKING A MACHINE,ZHAKOWANIE MASZYNY,0.769
+358,DEPLOY PHASE,FAZA WYSTAWIANIA,0.783
+359,Private,Szeregowy,0.513
+360,Veteran,Weteran,0.541
+361,Deploy a number of Machines according to difficulty level you chose during Setup and the number of players:,"Wystaw (wyłóż na środek stołu) odpowiednią liczbę Maszyn, w zależności od wybranego poziomu trudności oraz liczby graczy:",0.824
+362,To Deploy a Machine take a card from the bottom of the Machine deck and place it Machine side up on the table.,"Aby wystawić Maszynę, weź kartę ze spodu talii Maszyn i połóż ją na stole, stroną Maszyny ku górze.",0.907
+363,"If the Machine deck runs out of cards, shuffle the Machine discard pile to form a new Machine deck.","Jeżeli talia Maszyn się wyczerpie, potasuj stos odrzuconych Maszyn, aby utworzyć z nich nową talię.",0.821
+364,"The Hacked card may be Constructed, Razed, or made into a Deal by spending the Contact tokens as normal (Hacked cards always have a Distance of 1).","Zhakowaną kartę możesz standardowo Wybudować, Splądrować, bądź podpisać z nią Umowę, płacąc odpowiadający żeton Kontaktu (Zhakowane karty mają zawsze Dystans 1).",0.835
+365,DESTROYING A MACHINE,ZNISZCZENIE MASZYNY,0.697
+366,NEW GAME MECHANISM,OBJAŚNIENIA EFEKTÓW,0.275
+367,RAGE,FURIA,0.413
+368,"Machines with the keyword, RAGE, add +1 to their Defense value IF the number of Deployed Machines is equal to or less than the number of players.","Maszyny z tym oznaczeniem mają plus 1 do wartości Obrony, jeżeli liczba wystawionych Maszyn jest mniejsza lub równa liczbie graczy.",0.791
+369,HACKED CARDS,ZHAKOWANE KARTY,0.941
+370,"Cards with both a Production and a Feature Category are counted as both rows, but are placed in the Production Row, and thus are Razed for the Production row cost of 3.","Karty z Produkcją oraz Cechą liczą się na potrzeby efektów kart jako należące do obu rzędów, jednak są wykładane w rzędzie Produkcji, a koszt ich Plądrowania wynosi 3.",0.855
+371,CAPTURED SCANNER HI-TECH CELLAR RETRIEVED KASPAROV Goods stored on these cards may not be used for any other actions that are depicted.,"PRZECHWYCONY SKANER PIWNICA Z HI-TECHEM ODZYSKANY KASPAROV Zasoby przechowywane na tych kartach nie mogą być wykorzystane do innych Akcji, niż te przedstawione na kartach.",0.847
+372,ALTERNATIVE VARIANT: COLLABORATION,ALTERNATYWNY WARIANT: WSPÓŁPRACA,0.896
+373,If you want to have a more cooperative experience while fighting the Machines you may follow these rules:,"Jeżeli chcesz bardziej kooperacyjnej rozgrywki podczas walki z Maszynami, stosuj się do poniższych zasad.",0.844
+374,"There is no interaction between Moloch and the Virtual Player. At the End of the game, you lose [[ICON1]] for Deployed Machines as usual if you have more [[ICON2]] than the Virtual Player.","Nie ma interakcji pomiędzy Molochem a wirtualnym przeciwnikiem. Na koniec gry tracisz [[ICON1]] za wystawione maszyny jak zwykle, jeśli masz więcej [[ICON2]] niż wirtualny przeciwnik.",0.877
+375,SETUP CHANGES,ZMIANY W PRZYGOTOWANIU DO GRY,0.624
+376,(with the No Man’s,(z oznaczeniem,0.635
+377,NO MAN’S LAND,ZIEMIA NICZYJA,0.556
+378,STATE PACK 04,PAKIET STANOWY 04,0.919
+379,"Outside is chaos, a sundered earth in which no one’s expected to survive. Huddled inside, you slouch over an old map, standing among your allies. A dim red light hangs in the air and small toy soldiers are placed on the table and plans are discussed. Suddenly, the commander slams their fist down and wipes the soldiers from the table. It’s been decided. You cast long shadows against the red glow as your team marches down the hallway toward the exit and on your way to the final outpost—your last hope…","Na zewnątrz panuje chaos. Spalona ziemia, na której nikt nie przetrwa. Skulony wewnątrz garbisz się nad starą mapą, pośród swoich sojuszników. W słabym blasku czerwonej żarówki przesuwacie małe żołnierzyki, obmyślając plan. Nagle dowódca uderza pięścią w blat, zrzucając żołnierzyki ze stołu. Decyzja została podjęta. Rzucacie na ścianie długie cienie w czerwonej poświacie, wychodząc w kierunku ostatniego posterunku – waszej ostatniej nadziei…",0.91
+380,9 Territory cards:,9 kart Obszaru:,0.815
+381,RACING TRACK,TOR WYSCIGOWY,0.477
+382,No Man’s Land,Ziemia Niczyja,0.59
+383,FRONT,ŁUPY,0.536
+384,Direction,Kierunek,0.81
+385,• Shuffle all 41 cards of the No Man’s Land set together with the 88 cards from the Base set. This creates a deck for this game.,"• 88 kart 51. Stanu potasuj z 41 kartami „Ziemi Niczyjej”, tworząc z nich talię do tej rozgrywki.",0.826
+386,"• Take all 9 Territory cards and place them under the Victory Point track to create a map of the Territory. Place them next to each other, matching the directions in their lower left hand corners.","• Weź wszystkie 9 karty Obszaru i umieść je pod torem Punktów Zwycięstwa, tworząc plan Obszaru. Umieść je obok siebie, zgodnie z ich kierunkiem w lewym dolnym rogu każdej karty.",0.909
+387,• Each player takes 1 set of Outpost tokens.,• Każdy gracz dobiera 1 zestaw znaczników Posterunku.,0.862
+388,MAP,MAPA,0.932
+389,"The Map is made out of the 9 Territory cards, each with 3 levels. Each Territory card may have 1 Outpost token on it, which will be placed on one of the 3 levels. The bottom space is level 1, the middle space is level 2, and the top space is level 3. Each Territory card also has two Directions related to it, which","Mapa składa się z 9 kart Obszaru, z których każda ma 3 poziomy. Na każdej karcie Obszaru może znajdować się tylko 1 znacznik Posterunku, umieszczany na jednym z 3 poziomów. Dolne pole to poziom 1, środkowe to poziom 2, a górne to poziom 3. Każda karta Obszaru posiada również oznaczenie dwóch",0.915
+390,ACTIVATE:,AKTYWACJA:,0.902
+391,Gain,AKTYW,0.314
+392,NORTH CENTRAL,PÓŁNOCNE CENTRUM,0.795
+393,"is important for many game effects. There are 6 Directions: North, South, West, East, and 2 Centrals. When an effect instructs you to choose a Central direction, you must either pick vertical Central or horizontal Central.","kierunków, istotne dla wielu efektów gry. Istnieje 6 kierunków: Północ, Południe, Zachód, Wschód i dwa Centralne. Jeśli efekt gry każe ci wybrać kierunek Centralny, musisz wybrać pionowo Centralny albo poziomo Centralny.",0.918
+394,BACK,PRZÓD,0.655
+395,NORTH WEST,PÓŁNOCNY ZACHÓD,0.51
+396,NORTH EAST,PÓŁNOCNY WSCHÓD,0.572
+397,EAST CENTRAL,WSCHODNIE CENTRUM,0.828
+398,Gain,RUINY,0.254
+399,CENTRAL,CENTRUM,0.91
+400,WEST CENTRAL,ZACHODNIE CENTRUM,0.759
+401,SOUTH WEST,POŁUDNIOWY ZACHÓD,0.541
+402,SOUTH CENTRAL,POŁUDNIOWE CENTRUM,0.755
+403,SOUTH EAST,POŁUDNIOWY WSCHÓD,0.577
+404,for each Central,za każdy centralny,0.956
+405,for each South,za każdy południowy,0.939
+406,vertical central direction,kierunek pionowy Centralny,0.927
+407,BUILD AN OUTPOST [[ICON1]],BUDOWA POSTERUNKU [[ICON1]],0.789
+408,"EXAMPLE: You discard Docks from your hand to Build the [[ICON1]] on the South Territory (which is adjacent to your Outpost on the Southwest Territory). You place your Outpost token on the level 1 space, and gain 1 [[ICON2]].","PRZYKŁAD: Odrzucasz Doki, aby zbudować [[ICON1]] na Południowym Obszarze (sąsiadującym z twoim Posterunkiem na Obszarze południowo-zachodnim). Umieszczasz swój znacznik Posterunku na poziomie 1 i otrzymujesz 1 [[ICON2]].",0.844
+409,"Note: The Quantity of the Outpost tokens is limited—if you run out of them, and want to Build a new Outpost, you must remove an Outpost from another Territory card.","UWAGA: Liczba znaczników Posterunku jest ograniczona – jeśli nie masz już żadnego, a chcesz zbudować nowy Posterunek, musisz usunąć Posterunek z innej karty Obszaru.",0.859
+410,LOOKOUT PHASE,FAZY WYPATRYWANIA,0.622
+411,"Note: If you’re not cautious and don’t protect your Territories, you may end up being fully removed from the Map!","UWAGA: Jeśli będziesz nieostrożny i nie będziesz chonić swoich Obszarów, możesz zostać całkowicie usunięty z kart Obszaru!",0.893
+412,Gain,ŁUPY,0.278
+413,SOUTH EAST,POŁUDNIOWY WSCH,0.496
+414,DISCARD,ODRZUĆ,0.638
+415,UPGRADE AN OUTPOST TO LEVEL 2,ULEPSZENIE POSTERUNKU Z POZIOMU 1 NA 2,0.745
+416,"As an action you may Upgrade your [[ICON1]] to level 2 by discarding a [[ICON2]] with the type indicated on level 2. To do so, you must already have an Outpost token on the level 1 space of the Territory card. When you Upgrade your [[ICON3]], move your Outpost token to the level 2 space of the Territory card and activate the effect to the right or 【B】below it【/B】.","Jako akcję, możesz Ulepszyć swój [[ICON1]] do poziomu 2, odrzucając [[ICON2]] określonego typu. Aby to zrobić, musisz posiadać znacznik Posterunku na poziomie 1 na karcie Obszaru. Gdy ulepszasz swój [[ICON3]], przesuń swój znacznik Posterunku na poziom 2 karty Obszaru i aktywuj efekt poziomu 2 albo 【B】niższego【/B】.",0.862
+417,"EXAMPLE: You discard Clay Pit from your hand to Upgrade the [[ICON1]] on the Southwest Territory card. You move your Outpost token to the level 2 space, and decide to gain 1 [[ICON2]] (you could have instead chosen 2 [[ICON3]]).","PRZYKŁAD: Odrzucasz z ręki Kamieniołom, aby ulepszyć swój [[ICON1]] na Południowo- Zachodnim Obszarze. Przesuwasz swój znacznik Posterunku na Poziom 2 i otrzymujesz 1 [[ICON2]] (mogłeś zamiast tego wybrać 2 [[ICON3]]).",0.854
+418,RAZE AN ENEMY OUTPOST,PLĄDROWANIE WROGIEGO POSTERUNKU,0.65
+419,on the Territory card you just Razed. Note: You may place 1 [[ICON1]] on each Territory card with your [[ICON2]] to increase its Defense value by 1. [[ICON3]] are removed during the Cleanup phase as usual.,"UWAGA: W swojej turze możesz umieścić 1 [[ICON1]] na każdej karcie Obszaru ze swoim [[ICON2]] , aby zwiększyć wartość jego obrony o 1. [[ICON3]] jest standardowo usuwany w fazie Czyszczenia.",0.82
+420,DISTANCE,AKTYWACJA:,0.46
+421,"To gain a Ruins (for example, via a Production card), draw a card from the deck and place it face down in your State (it does not matter where in your State you place the Ruins). You may always look at the front of your Ruins to check the card.","Aby zdobyć Ruiny (np. z karty Produkcji), dobierz kartę z talii i połóż ją zakrytą w twoim Stanie (nie ma znaczenia, gdzie w swoim Stanie położysz Ruiny). Zawsze możesz podejrzeć awers Ruin, aby sprawdzić jej treść.",0.839
+422,CLARIFICATIONS,WYJAŚNIENIA,0.726
+423,OUTPOSTS,POSTERUNKI,0.69
+424,ACTIVATE OUTPOST,AKTYWOWANIE POSTERUNKU,0.771
+425,"Many card effects let you activate your [[ICON1]]. In these cases, you may activate the current level of the [[ICON2]] or any lower level effects.",Wiele efektów kart pozwala ci na aktywowanie twojego [[ICON1]]. W takich przypadkach możesz aktywować efekt aktualnego albo dowolnego niższego poziomu [[ICON2]].,0.89
+426,4 SCREEN PRINTED VICTORY,4 ZADRUKOWANE,0.617
+427,POINTS WOODEN MARKERS,DREWNIANE ZNACZNIKI,0.706
+428,4 NEW FACTIONS WITH SCREEN PRINTED,4 NOWE FRAKCJE Z ZADRUKOWANYMI,0.854
+429,WOODEN VICTORY POINT MARKERS,DREWNIANYMI ZNACZNIKAMI PUNKTACJI,0.681
+430,1 FIRST PLAYER PLASTIC,1 PLASTIKOWY ZNACZNIK,0.795
+431,PROMOS,PROMKI,0.757
+432,URANOPOLIS – NEW FACTION WITH A SCREEN PRINTED WOODEN VICTORY POINT MARKER,URANOPOLIS – NOWA FRAKCJA Z ZADRUKOWANYM DREWNIANYM ZNACZNIKIEM PUNKTACJI,0.816
+433,ENGRAVED WOODEN RESOURCES,ZESTAW GRAWEROWANYCH ZNACZNIKÓW ZASOBÓW,0.491
+434,"Replace your regular First Player token with this custom plastic marker. Let them feel strong for a while, before you Raze their Locations.","Zamień swój zwykły żeton pierwszego gracza na ten plastikowy znacznik. Niech twoi przeciwnicy poczują lęk, nim zrównasz ich Lokacje z ziemią.",0.757
+435,"Texas and Hegemony were initially part of the 51st State: Master Set Pre-Order Promos, and released separately later on the webshop.",Frakcje Texas i Hegemonia były częścią przedsprzedaży do 51. Stan: Master Set. Później były dostępne do kupienia osobno w naszym sklepie internetowym.,0.855
+436,"Note: The Texas Faction Board Action allows you to activate another previously used Faction Action again. However you are still limited to 1 Action per turn, so you need 2 turns to activate a Faction Action twice.","Uwaga: Akcja z planszy Frakcji Teksasu pozwala ci ponownie aktywować inną, wcześniej użytą Akcję z planszy Frakcji. Jednak nadal jesteś ograniczony do 1 Akcji na turę, więc potrzebujesz 2 tur, aby aktywować Akcję Frakcji dwukrotnie.",0.883
+437,"A set of wooden markers representing Bricks, Guns, Fuel, Iron, and Workers. The markers are custom shaped and engraved with details, giving them a one-of-a-kind finish.","Zestaw drewnianych znaczników Budulca, Broni, Paliwa, Żelaza i Robotników. Znaczniki mają niestandardowy kształt i wygrawerowane szczegóły, dzięki czemu świetnie wyglądają na stole.",0.827
+438,GAMEFOUND CONTENT,GAMEFOUND: ZAWARTOŚĆ,0.645
+439,【B】FEATURE:【/B】 -,【B】CECHA:【/B】 -,0.671
+440,【B】BUILDING BONUS:【/B】 1,【B】BONUS ZA ZBUDOWANIE:【/B】 1,0.952
+441,STATE CORE,SERCE STANU,0.623
+442,to also gain 1 Good from its Spoil,", aby dodatkowo otrzymać 1 Zasób z jej",0.743
+443,PROMO SET 1,ZESTAW PROMO 1,0.876
+444,PROMO SET 2,ZESTAW PROMO 2,0.859
+445,These cards were available as part of the 51st State: Ultimate Edition Campaign Promos.,Te karty były dostępne jako promki w ramach kampanii 51. Stan: Ultimate Edition.,0.867
+446,Promo Set 1,Zestaw promo 1,0.966
+447,FIXER,CWANIAK,0.392
+448,【B】ACTION:【/B】 Spend 1,【B】AKCJA:【/B】 Wydaj 1,0.838
+449,THE BORDERLINE PUB,PUB NA POGRANICZU,0.709
+450,【B】PRODUCTION:【/B】 2,【B】PRODUKCJA:【/B】 2,0.952

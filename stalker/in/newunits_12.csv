@@ -1,0 +1,226 @@
+﻿id,en,pl,sim
+676,level,Poziom,0.853
+677,Stance I,Postawa I,0.821
+678,Stance II,Postawa II,0.861
+679,Stance III,Postawa III,0.874
+680,Card name and monster,i Potwora Symbol Trofeum,0.411
+681,STANCE CARDS,KARTY POSTAWY,0.837
+682,PERIL AND OBJECTIVE CARDS,KARTY OPRESJI I CELU,0.622
+683,This section features an overview of the components and key concepts relating to the hunters.,W tej sekcji opisano komponenty i podstawowe pojęcia dotyczące Łowców.,0.858
+684,"In the game, the players form a group of 2-4 hunters, with each player choosing one character from among the four available. Each hunter has their own combat style and is associated with a unique weapon type, identified by a specific class icon.","W grze gracze tworzą grupę 2–4 Łowców. Każdy z graczy wybiera 1 z 4 dostępnych postaci. Każdy Łowca ma własny styl walki i używa wyjątkowego rodzaju Broni, wskazanej przez określony symbol klasy.",0.913
+685,1. 【B】Miniature:【/B】 Each hunter is represented by a unique miniature.,1. 【B】Figurka:【/B】 Każdy Łowca reprezentowany jest przez unikatową figurkę.,0.864
+686,2. 【B】Hunter board:【/B】 This features spaces and slots to organize your play area.,2. 【B】Plansza Łowcy:【/B】 Posiada pola i strefy pomagające w organizacji obszaru gry danego gracza.,0.831
+687,3. 【B】Action deck:【/B】 The action cards represent the offensive and defensive moves you can make during combat.,"3. 【B】Talia Akcji:【/B】 Karty Akcji reprezentują ofensywne oraz defensywne Akcje, jakie dany gracz może wykonać podczas Walki.",0.915
+688,Below is an example of the player area for Dareon (Great Sword):,Przykład obszaru gry gracza kontrolującego Dareona (Wielki Miecz):,0.838
+689,Discard pile,Stos kart odrzuconych,0.456
+690,"4. 【B】Mastery card:【/B】 This is your character’s signature ability, which you will need to unlock during combat.","4. 【B】Karta Mistrzostwa:【/B】 Jest to unikatowa zdolność danej postaci, która musi zostać odblokowana podczas Walki.",0.851
+691,SOLO MODE,TRYB SOLO,0.708
+692,Action cards are the skills and moves your hunter can perform during combat.,"Karty Akcji to zdolności i ruchy, z których wasi Łowcy mogą korzystać podczas Walki.",0.862
+693,"The Dodge ( [[ICON1]]) and Parry ( [[ICON2]]) are defensive cards, while the Maneuver ( [[ICON3]]) and Attack ( [[ICON4]]) are offensive cards.","Unik ( [[ICON1]]) i Parowanie ( [[ICON2]]) to karty Defensywne, natomiast Manewr ( [[ICON3]]) i Atak ( [[ICON4]]) to karty Ofensywne.",0.884
+694,The way you play cards from your hand and their corresponding effects are explained in detail on page 21.,Zasady dotyczące zagrywania kart z ręki oraz odpowiadające im efekty opisano szczegółowo na str. 21.,0.826
+695,Offensive,Ofensywne,0.921
+696,Defensive,Defensywne,0.675
+697,Attack card,Karta Ataku,0.807
+698,Maneuver card,Karta Manewru,0.885
+699,Parry card,Karta Parowania,0.747
+700,Dodge card,Karta Uniku,0.568
+701,Stamina,Koszt Energii,0.348
+702,Card type icon,Symbol rodzaju karty,0.891
+703,Stamina,Energii,0.498
+704,ACTION CARDS,KARTY AKCJI,0.888
+705,Unfocused side,Strona Nieskupiona,0.68
+706,6 x Attack [[ICON1]],6 kart Ataku [[ICON1]],0.748
+707,6 x Maneuver,6 kart Manewru,0.705
+708,6 x Parry,6 kart Parowania,0.637
+709,Focus value,Wartość Skupienia,0.601
+710,Focused icon,Symbol Skupienia,0.546
+711,Class icon,Symbol Klasy,0.874
+712,Weapon name and level,Nazwa i poziom Broni,0.819
+713,Action deck composition,Układ talii Akcji,0.592
+714,Health points,Punkty Życia,0.635
+715,"Armor and helm cards determine your health in combat. The sum of the health points of your equipped armor and helm is your health value, which is the amount of damage you can sustain before being KO’d (more details on being KO’d on page 29).","Karty Zbroi i Hełmu określają twoje Punkty Życia podczas Walki. Suma Punktów Życia Zbroi i Hełmu, w które jesteś wyposażony, to twoje Punkty Życia. Jest to wartość Obrażeń, jaką możesz otrzymać, zanim twoja postać zostanie Powalona (Powalenie zostało opisane na str. 29).",0.823
+716,"At the beginning of the game, mastery cards are unfocused (i.e. on their unfocused side). Then, as the game progresses, players will have the opportunity to focus their mastery (i.e. turn it to its focused side) by meeting the specific conditions indicated on the card. Once focused, your mastery will give you a powerful ability for the rest of the game. Focusing your mastery card is explained in full on page 25.","Na początku gry karty Mistrzostwa są oznaczone jako Nieskupione (tj. umieszczane stroną Nieskupioną ku górze). Później, w miarę postępów w grze, gracze będą mieli możliwość Skupienia swojego Mistrzostwa (tj. odwrócenia karty na stronę Skupioną), jeśli spełnią określone warunki wskazane na karcie. Karta Mistrzostwa na stronie Skupionej zapewnia potężne zdolności do końca rozgrywki. Zasady dotyczące Skupiania karty Mistrzostwa opisano szczegółowo na str. 25.",0.829
+717,Helm/Armor icon,Symbol Hełmu / Zbroi,0.808
+718,Weapon card,Karta Broni,0.354
+719,Helm/Armor card,Karta Hełmu / Zbroi,0.826
+720,EQUIPMENT CARDS,KARTY EKWIPUNKU,0.797
+721,MASTERY CARDS,KARTY MISTRZOSTWA,0.739
+722,FLANK,BOK,0.534
+723,REAR,TYŁ,0.534
+724,FRONT,PRZÓD,0.835
+725,Round tracker,Tor Rundy,0.509
+726,Combat board,Plansza Walki,0.31
+727,"The bases of the monster miniatures feature raised segments, which indicate the monster’s front side (which designates the front sector) and help players to position the miniature correctly on the combat board.","Na podstawkach figurek Potworów znajdują się wypukłe oznaczenia wyznaczające przód Potwora, odpowiadający odpowiedniemu sektorowi na planszy Walki, co ułatwia odpowiednie ułożenie figurki na tej planszy.",0.748
+728,COMBAT BOARD,PLANSZA WALKI,0.357
+729,MINIATURE BASE ORIENTATION,ORIENTACJA PODSTAWKI FIGURKI,0.598
+730,"In this example, Mirah (1) moves from the front sector to an adjacent flank sector (2).",W tym przykładzie Mirah (1) Porusza się z przedniego sektora do sąsiadującego z nim bocznego sektora (2).,0.93
+731,"Later in the game, the monster changes its orientation by turning to Thoreg (1). This means that Thoreg is now in the front sector, while Dareon (2) is in the flank sector and Mirah is to the rear (3).","W późniejszym etapie rozgrywki Potwór zmienia ułożenie, obracając się w stronę Thorega. Oznacza to, że Thoreg (1) znajduje się w przednim sektorze, Dareon (2) w bocznym, a Mirah (3) w tylnym sektorze.",0.933
+732,"The natural environment of the combat scene is represented by terrain tokens. The setup rules for each scenario will indicate the type and exact number of terrain tokens to be placed, as well as their position on the board.","Środowisko naturalne obszaru Walki odzwierciedlają żetony Terenu. Zasady przygotowywania każdego Scenariusza zawierają informacje o rodzaju, dokładnej liczbie oraz pozycji żetonów Terenu, które należy umieścić na planszy Walki.",0.84
+733,"Each terrain token will be placed in one of the sectors of the board, and applies special game effects to that sector (the rules for each terrain are explained in detail in the Additional Rules section on page 89). 【B】Note:【/B】 There are special types of terrain that will be dynamically added to the board over the course of the fight (e.g. a monster may breathe fire across the board or fill the environment with dust!).","Żeton Terenu umieszczany jest w jednym z sektorów na planszy Walki i sprawia, że danym sektorze aktywne są określone efekty. (zasady dotyczące każdego z rodzajów Terenu zostały szczegółowo opisane w sekcji Zasady dodatkowe na str. 89). 【B】Uwaga!【/B】 Istnieją również specjalne rodzaje Terenu, które są dodawane na planszę Walki dynamicznie w trakcie Walki (np. Potwór może zionąć Ogniem lub przykryć cały obszar warstwą Pyłu).",0.863
+734,"Terrain examples: Cyricae, Baethanis and Brush terrain tokens","Przykłady żetonów Terenu: Cyricae, Baethanis oraz Zarośla.",0.809
+735,"During the fight, the hunters can move around the monster between adjacent sectors of the board (movement rules are explained in detail on page 19). Since monsters‘ and hunters’ abilities can depend on the sectors, tactical positioning is crucial for the players to gain an advantage over the monster or to evade its attacks.","Podczas Walki Łowcy mogą poruszać się wokół Potwora pomiędzy sąsiadującymi sektorami na planszy Walki (zasady dotyczące Ruchu zostały opisane na str. 19). Ponieważ zdolności Łowców jak i Potwora powiązane są z sektorami, zajmowanie odpowiednich pozycji jest kluczowe w uzyskaniu przewagi nad Potworem oraz unikaniu jego Ataków.",0.863
+736,MOVEMENT AND POSITIONING,RUCH I POZYCJA,0.724
+737,ENVIRONMENT AND TERRAIN,ŚRODOWISKO I TEREN,0.832
+738,Combat board,plansza Walki,0.459
+739,"To setup and play the Prologue scenario, you need only the components presented below. Any other components will be used in the Campaign and Expedition modes, so can be kept in the box for now. 【B】Note:【/B】 A full components list can be found on page 39.","Do przygotowania i rozegrania Scenariusza: Prolog, wymagane są wyłącznie przedstawione poniżej komponenty. Wszystkie pozostałe komponenty zostaną wykorzystane w trybie Kampanii i Wyprawy, więc na ten moment nie trzeba wyjmować ich z pudełka. 【B】Uwaga!【/B】 Kompletna lista komponentów znajduje się na stronie 39.",0.884
+740,Attrition deck (10x cards),talia Wyniszczenia (10 kart),0.714
+741,9x Behavior cards,9 kart Zachowania,0.597
+742,"3x Stance cards (I, II, III)","3 karty Postawy (I, II, III)",0.838
+743,You can identify Vryraxen’s monster board and cards using the trophy icon and monster name.,Planszę oraz figurkę Potwora Vyraxena można rozpoznać po symbolu Trofeum i nazwie Potwora.,0.844
+744,"While selecting cards, take only:","Wybierając karty, wybierzcie tylko wymienione poniżej:",0.861
+745,"• Stance I, Stance II and Stance III cards that display the symbol 0[[ICON1]] (aggression level) on the top left of the card. These are double-sided cards, so use the side with the correct symbol.","• Karty Postawy I, II i III z symbolem 0[[ICON1]] (poziom Agresji) w lewym górnym rogu. Są to dwustronne karty, więc należy użyć strony z odpowiednim symbolem.",0.903
+746,"• Behavior cards that display the following aggression icons: [[ICON1]] , [[ICON2]] or [[ICON3]] (a total of 9 behavior cards).","• Karty Zachowania z następującymi symbolami Agresji: [[ICON1]], [[ICON2]] lub [[ICON3]] (łącznie 9 kart Zachowania).",0.84
+747,"• The peril and objective cards, using the side with the aggression icon [[ICON1]].",• Karty Opresji i Celu na stronie z symbolem Agresji [[ICON1]].,0.728
+748,GENERAL COMPONENTS,KOMPONENTY OGÓLNE,0.902
+749,Vyraxen monster board,plansza i figurka Potwora: Vyraxen,0.616
+750,PROLOGUE SETUP,PRZYGOTOWANIE PROLOGU,0.82
+751,VYRAXEN COMPONENTS,KOMPONENTY POTWORA: VYRAXEN,0.686
+752,8x Stamina token,8 żetonów Energii,0.518
+753,4x Strain token,4 żetony Nadwyrężenia,0.618
+754,20x Damage token (1/5),20 żetonów Obrażeń (1/5),0.767
+755,25x Counter,25 żetonów Licznika,0.56
+756,10x Damage token (10/50),10 żetonów Obrażeń (10/50),0.782
+757,1x Brush terrain token,1 żeton Terenu:,0.606
+758,4x KO token,4 żetony Powalenia,0.507
+759,Stun token,żeton Ogłuszenia,0.445
+760,Blind token,żeton Oślepienia,0.562
+761,8x Deplete token,8 żetonów Zużycia,0.499
+762,token,(Broń),0.278
+763,"Each hunter has their own starter deck for the Prologue, consisting of 24 action cards associated with a specific mastery card. Starter decks only include cards displaying the card ID ""S"" on the bottom right of the card. 【B】Note:【/B】 The rest of the cards will become available to the players as upgrades as they play through the campaign.","Na potrzeby Prologu każdy Łowca ma własną talię Początkową, składającą się z 24 kart Akcji, powiązanych z konkretną kartą Mistrzostwa. Talie Początkowe składają się wyłącznie z kart oznaczonych literą „P” w prawym dolnym rogu karty. 【B】Uwaga!【/B】 Pozostałe karty staną się dostępne dla graczy jako Ulepszenia w miarę postępów w Kampanii.",0.873
+764,"Each hunter’s starting equipment for the Prologue includes a level 1 base weapon (take the one that matches your hunter class icon), base armor and a base helm. Each hunter also takes 1 Alemore potion card.","Początkowy Ekwipunek każdego Łowcy w Prologu składa się z: Podstawowej Broni Poziomu 1 (gracze wybierają taką, która odpowiada symbolowi klasy ich Łowców), Podstawowej Zbroi oraz Podstawowego Hełmu. Każdy Łowca dobiera również kartę Eliksiru: Alemore.",0.913
+765,4x Base Armor cards,4 karty Podstawowego Hełmu,0.794
+766,4x Alemore potion cards,4 karty Podstawowej Zbroi,0.566
+767,Relentless Assault (mastery card),Nieustający Atak (karta Mistrzostwa),0.789
+768,Dareon starter deck (24 action cards),Talia Początkowa Dareona (24 karty Akcji),0.881
+769,STARTER DECK AND EQUIPMENT,TALIA POCZĄTKOWA I EKWIPUNEK,0.778
+770,Mirah starter deck (24 action cards),Talia Początkowa Mirah (24 karty Akcji),0.907
+771,Ultimate Shot (mastery card),Strzał Ostateczny (karta Mistrzostwa),0.822
+772,Thoreg starter deck (24 action cards),Talia Początkowa Thorega (24 karty Akcji),0.882
+773,Massive Blow (mastery card),Potężne Uderzenie (karta Mistrzostwa),0.778
+774,Ljonar starter deck (24 action cards),Talia Początkowa Ljonara (24 karty Akcji),0.896
+775,Shield Master (mastery card),Mistrz Tarczy (karta Mistrzostwa),0.784
+776,"7.1 Place the monster board near the combat board, as shown in the image.","7.1 Umieśćcie planszę Potwora w pobliżu planszy Walki, zgodnie ze wskazaniem na ilustracji.",0.876
+777,7.2 Place the health marker on 10 on the Health track on the monster board.,7.2 Umieśćcie znacznik Punktów Życia na polu „10” na torze Punktów Życia na planszy Potwora.,0.839
+778,7.3 Shuffle the behavior cards to form the behavior deck and place it near the monster board.,"7.3 Potasujcie karty Zachowania, tworząc z nich talię Zachowania i umieśćcie ją w pobliżu planszy Potwora.",0.837
+779,7.4 Place the Stance I card and its associated peril and objective cards below the monster board. Any other stance and peril cards will be used later in the game.,7.4 Umieśćcie pod planszą Potwora kartę Postawy I oraz powiązane z nią karty Opresji i Celów. Inne karty Opresji i Celów zostaną wykorzystane w późniejszym etapie rozgrywki.,0.923
+780,7.5 Shuffle the base attrition cards to form the attrition deck and place it near the monster board.,"7.5 Potasujcie Podstawowe karty Wyniszczenia, tworząc z nich talię Wyniszczenia i umieśćcie ją w pobliżu planszy Potwora.",0.865
+781,SETUP INSTRUCTIONS,PRZYGOTOWANIE ROZGRYWKI,0.565
+782,8. Each player performs the following steps:,8. Każdy gracz wykonuje poniższe kroki:,0.959
+783,8.1 Place your hunter board in front of you on the table.,8.1 Umieść przed sobą twoją planszę Łowcy.,0.858
+784,8.2 Place your starting equipment and potion cards on your hunter board in the spaces that correspond to their icons.,8.2 Umieść na odpowiednich polach na twojej planszy Łowcy karty twojego Początkowego Ekwipunku.,0.795
+785,8.3 Shuffle your action deck and place it to the left of your hunter board.,8.3 Potasuj twoją talię Akcji i umieść ją po lewej stronie twojej planszy Łowcy.,0.891
+786,8.4 Place the mastery card associated with your action deck face down (i.e. with the unfocused side face up) to the right of your hunter board.,8.4 Umieść po prawej stronie twojej planszy Łowcy zakrytą kartę Mistrzostwa powiązaną z twoją talią Akcji (Nieskupioną stroną ku górze).,0.878
+787,STEP 2: MONSTER UPKEEP,KROK 2. PRZYGOTOWANIE POTWORA,0.698
+788,Resolve the following steps in order:,Wykonajcie poniższe kroki w podanej kolejności:,0.834
+789,"2. 【B】Struggle:【/B】 The monster gains 1[[ICON1]] struggle (i.e. 1 struggle ""per player""; see Player Count Icon for more details). Each time the monster gains struggle, place that number of struggle tokens onto the monster board.","2. 【B】Starcie:【/B】 Potwór zyskuje żetony Starcia o łącznej wartości równej 1 [[ICON1]] (czyli 1 żeton Starcia o wartości 1 „na gracza”; zob. ramkę Symbol liczby graczy obok). Za każdym razem, gdy Potwór otrzymuje żetony Starcia, umieśćcie na planszy Potwora żetony Starcia o wskazanej łącznej wartości.",0.824
+790,STEP 3: PLAYER TURNS,KROK 3. TURY GRACZY,0.774
+791,"At the start of this step, the player with the aggro token becomes the first player and so receives the first player token.",Na początku tego kroku gracz ze znacznikiem Wrogiego Gracza zostaje Pierwszym Graczem i otrzymuje znacznik Pierwszego Gracza.,0.839
+792,"The player’s turn structure is explained in detail in the next section (on page 19). 【B】Note:【/B】 The round does not have a step for the monster’s turn. During the game, the monster dynamically reacts to the players’ actions, based on its behavior cards in play. The reaction system is explained in detail on page 31.","Struktura Tury gracza została szczegółowo opisana w sekcji na następnej stronie. 【B】Uwaga!【/B】 Runda nie obejmuje żadnych kroków dotyczących Tury Potwora. W trakcie rozgrywki Potwór w oparciu o swoje karty Zachowania, dynamicznie reaguje na poczynania graczy. System reakcji Potwora został szczegółowo opisany na str. 31.",0.879
+793,STEP 4: END OF ROUND,KROK 4. KONIEC RUNDY,0.894
+794,"When all players have taken their turns, all ""At the end of the round"" effects are triggered. Then the round is over: Advance the round marker by 1 along the Round track and begin a new round from step 1.","Gdy wszyscy gracze wykonają swoje Tury, aktywowane są wszystkie efekty: Na koniec Rundy. Następnie Runda dobiega końca – przesuńcie znacznik Rundy na torze Rundy. Jeśli właśnie zakończona Runda nie była ostatnią w Scenariuszu, rozpocznijcie kolejną Rundę od kroku 1.",0.854
+795,[[ICON1]]The icon [[ICON2]] is frequently used in the game and refers to the number of players who started the scenario. The designation X[[ICON3]] indicates an amount equal to X multiplied by the player count.,"[[ICON1]]W grze często pojawia się symbol [[ICON2]], który odnosi się do liczby graczy, którzy rozpoczęli dany Scenariusz. Oznaczenie X [[ICON3]] równe jest wartości X pomnożonej przez liczbę graczy.",0.87
+796,Refresh value (behavior card back),Wartość Odświeżenia (karta Zachowania – rewers),0.828
+797,"The game is played in a series of rounds. A round consists of the following steps, which must be resolved in order.","Rozgrywka składa się z serii Rund. Każda Runda składa się z szeregu kroków, które należy wykonywać w podanej kolejności.",0.823
+798,STEP 1: CONSUME,KROK 1. WYKORZYSTANIE,0.859
+799,ROUND STRUCTURE,STRUKTURA RUNDY,0.916
+800,"A scenario consists of 10 rounds, in which players win by reducing the monster’s health to 0 (success and failure conditions are explained in detail on page 35).","Każdy Scenariusz składa się z 10 Rund, w trakcie których gracze muszą zredukować liczbę Punktów Życia Potwora do 0, aby odnieść zwycięstwo (warunki zwycięstwa i porażki opisano szczegółowo na str. 35).",0.82
+801,"This section provides a detailed explanation of the rules for playing a scenario. It begins by presenting the structure of a round and explaining each step. Then it covers the player’s turn in depth, and finally, it explains how the monster behaves during the game. By the end of this section, you should have a thorough understanding of the game and will be able to play the Prologue scenario.","W tej sekcji szczegółowo wyjaśniono zasady rozgrywania Scenariusza. Na początku opisana jest struktura Rundy i wszystkie jej kroki. W dalszej części znajdują się szczegółowe informacje o Turach oraz wyjaśnienia dotyczące Zachowania Potwora podczas rozgrywki. Po zapoznaniu się z tymi informacjami, powinniście rozumieć zasady gry oraz być w stanie rozegrać Scenariusz: Prolog.",0.853
+802,HOW TO PLAY,JAK GRAĆ,0.731
+803,"1. All players immediately suffer [[ICON1]] (i.e. the monster’s damage value indicated in the current stance, as explained in detail on page 27).","1. Każdy gracz natychmiast otrzymuje [[ICON1]] (Obrażenia o wartości Obrażeń wskazanej przez aktualną Postawę Potwora, co zostało szczegółowo wyjaśnione na str. 27).",0.871
+804,Struggle token,Żetony Starcia,0.374
+805,Potion cards are an important resource for the players. They give them powerful advantages for a limited time.,Karty Eliksirów są ważnym zasobem graczy. Zapewniają potężne korzyści na określony czas.,0.815
+806,"Some monsters focus on accumulating struggle to perform Unleash, while others just spend struggle to boost their behavior card effect (the boost effect is explained in detail on page 32).","Niektóre Potwory skupiają się na gromadzeniu żetonów Starcia, aby wywoływać efekt Wyzwolenia, inne zaś wydają żetony Starcia na Wzmacnianie swoich efektów kart Zachowania (efekt Wzmocnienia został opisany na str. 32).",0.778
+807,Alemore Potion card,Karta Eliksiru: Alemore,0.807
+808,CONSUMING A POTION,WYKORZYSTANIE ELIKSIRU,0.605
+809,STRUGGLE AND UNLEASH,STARCIE I WYZWOLENIE,0.783
+810,Staying in the same sector is dangerous as it makes you an easy target for the monster!,Pozostawanie w tym samym sektorze jest niebezpieczne – czyni cię to łatwym celem dla Potwora!,0.868
+811,"While you are threatened, you have a higher risk of suffering attrition damage (the Attrition phase is explained in detail on page 27). In addition, some behavior and peril cards interact with your threatened status, meaning that threatened players experience the harshest effects.","Gdy znajdujesz się w stanie Zagrożenia, ponosisz większe ryzyko otrzymania Obrażeń Wyniszczenia (faza Wyniszczenia została szczegółowo opisana na str. 27). Ponadto, niektóre karty Zachowania i Opresji odnoszą się bezpośrednio do stanu Zagrożenia, co sprawia, że gracze w stanie Zagrożenia są podatni na najbardziej dotkliwe efekty.",0.822
+812,Threatened token,Żeton Zagrożenia,0.674
+813,"【B】How to remove your threatened status:【/B】 Players can remove their threatened status by moving on the board. When you move, immediately discard the threatened token to indicate that you are no longer threatened.","【B】Usuwanie stanu Zagrożenia:【/B】 Gracze mogą usunąć swój stan Zagrożenia poprzez poruszanie się po planszy Walki. Gdy się poruszasz, natychmiast odrzuć twój żeton Zagrożenia, aby wskazać, że nie jesteś już w tym stanie.",0.856
+814,PLAYER’S TURN STRUCTURE,STRUKTURA TURY GRACZA,0.684
+815,Summary: Move into an adjacent sector or remain in your current position on the board.,Porusz się do sąsiadującego sektora albo pozostań na swojej pozycji na planszy,0.757
+816,THREATENED,ZAGROŻENIE,0.642
+817,"During your Movement phase, you choose whether you want to move or stay in your current sector on the board.","Podczas fazy Ruchu decydujesz czy chcesz się poruszyć, czy pozostajesz w bieżącym sektorze na planszy Walki.",0.83
+818,MOVEMENT PHASE,FAZA RUCHU,0.732
+819,Stamina cost example:,Przykład kosztu Energii:,0.802
+820,Playing a card,Zagranie karty,0.9
+821,The action cards in your hand represent both your combat options and your amount of stamina.,"Karty Akcji, które masz na ręce, odzwierciedlają zarówno twoje możliwości w Walce, jak i liczbę punktów Energii.",0.738
+822,Many situations in the game will require you to pay a stamina cost (common examples are moving on the board or playing an action card from your hand).,Wiele sytuacji w grze będzie wymagać opłacenia kosztu Energii (typowe przykłady to poruszenie się na planszy Walki lub zagranie karty Akcji z ręki).,0.859
+823,"Ironblast has a stamina cost of 3. If you want to play that card, you will have to generate 3 stamina by discarding cards from your hand.","Karta Żelazomiot kosztuje 3 punkty Energii. Jeśli chcesz zagrać tę kartę, musisz wygenerować 3 punkty Energii, odrzucając karty ze swojej ręki.",0.806
+824,"Stamina cost example: Movement Alice controls Mirah (1). She wants to move from the front sector to an adjacent flank sector (2). She must pay 1 stamina, and to do that she discards Acrobatics ( [[ICON1]]) from her hand.",Przykład kosztu Energii: Poruszenie się Alicja kontroluje Mirah (1). Chce Poruszyć się z sektora przedniego do sąsiadującego z nim sektora bocznego (2). Musi zapłacić 1 punkt Energii – w tym celu odrzuca Akrobacje ( [[ICON1]]) ze swojej ręki.,0.873
+825,STAMINA COST,KOSZT ENERGII,0.508
+826,ACTION PHASE,FAZA AKCJI,0.898
+827,"During the Action phase, you may perform any of the following actions, in any order. Each action (apart from Revive) may be performed as many times as you wish.",Podczas fazy Akcji możesz wykonać dowolne z poniższych Akcji w dowolnej kolejności. Każdą Akcję (poza Ocuceniem) możesz wykonać wielokrotnie.,0.881
+828,• Play an action card from your hand.,• Zagranie karty Akcji z twojej ręki.,0.92
+829,• Activate an ability that begins with the keyword 【B】Action.【/B】,"• Aktywowanie zdolności, której opis zaczyna się od słowa kluczowego 【B】Akcja【/B】.",0.893
+830,"When you play an aggro card in your sequence, immediately take the aggro token. This means you have drawn the monster’s attention (it will turn to your sector at the end of your turn, as described on page 30).","Gdy zagrywasz kartę Wrogości w swojej sekwencji, natychmiast weź znacznik Wrogiego Gracza. Oznacza to, że przyciągnąłeś uwagę Potwora (na koniec twojej Tury obróci się w twoją stronę, zgodnie z opisem na str. 30).",0.828
+831,Aggro icons,Symbole Wrogości,0.6
+832,AGGRO CARDS,KARTY WROGOŚCI,0.751
+833,"During your Action phase, you can play up to 5 action cards from your hand, resolving them one at a time. The row of cards you play from left to right is called your sequence. The order in which you play your action cards in your sequence is important for many game effects (e.g. triggering abilities, monsters’ reactions and more).","Podczas fazy Akcji możesz zagrać ze swojej ręki maksymalnie 5 kart Akcji, rozpatrując je pojedynczo. Każdą zagraną kartę Akcji umieszczaj po prawej stronie poprzednio zagranej przez ciebie karty. Rząd zagranych przez ciebie kart od lewej do prawej nazywany jest twoją sekwencją. Kolejność zagranych przez ciebie kart w twojej sekwencji ma duże znaczenie dla wielu efektów w grze (np. aktywowanie zdolności, reakcje Potwora i inne).",0.911
+834,[[ICON1]]Maneuver (Blue): Remove 1 struggle token from the monster board.,[[ICON1]]Manewr (Niebieski): Usuń z planszy Potwora żeton Starcia o wartości 1.,0.864
+835,PLAYING ACTION CARDS,ZAGRYWANIE KART AKCJI,0.783
+836,"【B】Exposed side: Example 1【/B】 According to the exposure diagram on the stance card, the front and rear sides are exposed. So Dareon (1) and Mirah (2) are in a sector on one of the monster’s exposed sides.","【B】Strona odsłonięta: Przykład 1【/B】 Schemat Wrażliwości na karcie Postawy wskazuje, że sektor przedni i tylny to strony odsłonięte. Dareon (1) oraz Mirah (2) znajdują się po obu odsłoniętych stronach.",0.873
+837,"Stance cards feature an exposure diagram that represents each side of the monster (oriented with the front sector, i.e. the monster’s front side, at the bottom). It indicates which of the monster’s sides are exposed (in red), and which are protected (in black). The exposure diagram is important so you can establish if players are able to play attack cards based on their position on the board.","Na kartach Postawy znajduje się schemat Wrażliwości, wskazujący każdą stronę Potwora (zorientowany wg przedniego sektora znajdującego się na dole). Schemat ten wskazuje, które strony Potwora są odsłonięte (czerwone), a które są chronione (czarne). Schemat Wrażliwości jest ważny, ponieważ definiuje czy gracz znajdujący się w danym sektorze może zagrać karty Ataku.",0.882
+838,"【B】Exposed side: Example 2【/B】 The monster is oriented toward Ljonar’s sector (3). According to the exposure diagram, the monster’s exposed sides are the front and the rear. This means only Ljonar (3) and Thoreg (4) are in a sector on one of the monster’s exposed sides.","【B】Strona odsłonięta: Przykład 2【/B】 Potwór jest zwrócony w kierunku sektora Ljonara (3). Schemat Wrażliwości wskazuje, że odsłonięte strony Potwora znajdują się w sektorach przednim i tylnym. Oznacza to, że tylko Ljonar (3) i Thoreg (4) znajdują się w sektorach po odsłoniętej stronie Potwora.",0.934
+839,Example 1: Combat board,Przykład 1: plansza Walki,0.929
+840,Example 2: Combat board,Przykład 2: plansza Walki,0.93
+841,EXPOSED SIDES,ODSŁONIĘTE STRONY,0.851
+842,1. Reduce the monster’s health by 1.,1. Zmniejsz liczbę Punktów Życia Potwora o 1.,0.707
+843,2. Remove an amount of damage tokens equal to the toughness value.,2. Usuń z karty Postawy żetony Obrażeń o łącznej wartości równej Wartości Wytrzymałości Potwora.,0.762
+844,"【B】As it suffers wounds, the monster will become increasingly dangerous.【/B】 When the monster’s health reaches the progression value indicated on the stance card, the current stance is complete and the monster advances to the next one:","【B】W miarę zadawania Ran, Potwór będzie stawał się coraz bardziej niebezpieczny.【/B】 Gdy wartość Punktów Życia Potwora osiągnie wartość Rozwoju, wskazaną na aktualnej karcie Postawy, aktualna Postawa zostanie zakończona, a Potwór awansuje na kolejną Postawę:",0.828
+845,"In this example, it equals 7.",W tym przykładzie wynosi ona 7.,0.886
+846,DAMAGE AND WOUNDS,OBRAŻENIA I RANY,0.822
+847,"Damage and wounds: Example This example shows a two-player game, with Vyraxen in Stance I, with 9 health.","Ten przykład przedstawia rozgrywkę dwuosobową przeciwko Vyraxenowi, aktualnie w Postawie I i z 9 Punktami Życia.",0.747
+848,"1. Let’s assume that Alice deals 13 damage to Vyraxen with a single attack. She places 13 damage tokens on the stance card, which is enough to inflict a wound (the toughness value is 2 per player, which in a two-player game makes it 4). Alice reduces the monster’s health by 1 and then removes 4 damage tokens from the stance card. There are still 9 damage tokens on the stance card, which is still enough to inflict a second wound: Alice brings the monster’s health down to 7 and removes another 4 damage tokens from the stance card.","1. Załóżmy, że Alicja zadaje w pojedynczym Ataku 13 Obrażeń Vyraxenowi. Umieszcza na karcie Postawy żetony Obrażeń o łącznej wartości 13, co wystarcza do zadania Rany (wartość Wytrzymałości wynosi 2 na gracza, czyli 4). Alicja zmniejsza Punkty Życia Potwora o 1, a następnie usuwa z karty Postawy żetony Obrażeń o łącznej wartości 4. Po tym na karcie Postawy wciąż znajdują się żetony Obrażeń o łącznej wartości 9, co wystarcza na zadanie kolejnej Rany. Alicja zmniejsza Punkty Życia Potwora do 7 i usuwa z karty Postawy kolejne żetony Obrażeń o łącznej wartości 4.",0.892
+849,"2. At this point, there are still 5 damage tokens on the current stance card, but the stance progression value has been reached, so Vyraxen advances to Stance II. Any remaining damage is carried over from Stance I to Stance II, but the toughness value in Stance II is 6 (3 per player), and so the remaining damage is not enough to inflict a third wound.","2. W tym momencie na karcie Postawy wciąż znajdują się żetony Obrażeń o łącznej wartości 5. Jednak ponieważ została osiągnięta wartość Rozwoju, Potwór przechodzi w Postawę II. Choć wszystkie żetony Obrażeń z Postawy I pozostają na Postawie II, to wartość Wytrzymałości wynosi teraz 6 (po 3 na gracza). Oznacza to, że pozostałe Obrażenia nie wystarczą na zadanie trzeciej Rany.",0.861
+850,"To sum up: The total of 13 damage was enough to inflict 2 wounds, with 5 damage remaining.",Podsumowując: Łącznie 13 Obrażeń wystarczyło na zadanie 2 Ran i pozostało 5 Obrażeń.,0.914
+851,"2. Next, Alice plays Dragon Strike. It is an aggro card ( [[ICON1]]), so Alice takes the aggro token. By playing an attack card ( [[ICON2]]), she triggers the card abilities of both Reactive Guard and Aurean Blade (her equipped weapon card). Dragon Strike also features a card ability: The triggering icon [[ICON3]] [[ICON4]] means that the ability is triggered if the card follows a parry card ( [[ICON5]]) in your sequence. Alice chooses the order in which she resolves the three abilities. She looks and discard the top card of the attrition deck (Aurean Blade’s ability), and then she draws 2 cards (1 for the Dragon Strike ability, and 1 for the Reactive Guard ability). Finally, Dragon Strike, being an attack card, deals damage equal to Alice’s weapon damage, which is 4. 【B】Note:【/B】 The keyword Assist has no effect when the card is played in your sequence (see below for more details).","2. Następnie Alicja zagrywa Smocze Uderzenie. Jest to karta Wrogości ( [[ICON1]]), dlatego Alicja bierze znacznik Wrogiego Gracza. Zagrywając kartę Ataku ( [[ICON2]]), Alicja aktywuje zdolności Reaktywnej Ochrony oraz Aureańskiego Ostrza (czyli karty Broni, której aktualnie używa). Smocze Uderzenie również ma zdolność: Symbol aktywacji [[ICON3]] [[ICON4]] oznacza, że zdolność aktywuje się, gdy karta ta zostanie zagrana jako kolejna karta po karcie Parowania ( [[ICON5]]) w sekwencji. Alicja wybiera kolejność rozpatrywania 3 zdolności. Odrzuca wierzchnią kartę z talii Wyniszczenia (zdolność Aureańskiego Ostrza), a następnie dobiera 2 karty (1 za zdolność Smoczego Uderzenia i 1 za zdolność Reaktywnej Ochrony). Na koniec Smocze Uderzenie, ponieważ jest kartą Ataku, zadaje Obrażenia równe Obrażeniom Broni Alicji, czyli w tym przypadku 4 Obrażenia. 【B】Uwaga!【/B】 Słowo kluczowe „Asysta” nie wywołuje żadnego efektu, gdy karta z tym słowem kluczowym zagrywana jest w twojej sekwencji (więcej szczegółów znajduje się poniżej).",0.869
+852,Sequence: Example 1,Sekwencja: Przykład 1,0.917
+853,Assist is a very common keyword that features on many action cards.,"Asysta to słowo kluczowe, które często pojawia się na kartach Akcji.",0.748
+854,"During another player’s Action phase, before or after any action, you may support the active player by discarding a card with the Assist keyword from your hand. If you do, the active player immediately draws 1 card.","Podczas fazy Akcji innego gracza, przed albo po wykonaniu przez niego Akcji, możesz zapewnić mu Asystę, odrzucając z twojej ręki kartę ze słowem kluczowym Asysta. Jeśli to zrobisz, aktywny gracz natychmiast dobiera 1 kartę.",0.86
+855,【B】Note:【/B】 All keywords featured on the card ability texts are explained in the Glossary on page 106.,【B】Uwaga!【/B】 Wszystkie słowa kluczowe występujące w opisach zdolności kart zostały szczegółowo omówione w Glosariuszu na str. 106.,0.895
+856,Assist keyword,Słowo kluczowe Asysta,0.676
+857,SEQUENCE AND TRIGGERED ABILITIES,SEKWENCJA I AKTYWOWANE ZDOLNOŚCI,0.758
+858,ASSIST,ASYSTA,0.681
+859,Sequence: Example 2,Sekwencja: Przykład 2,0.926
+860,"1. Bob plays Whirlwind and so takes the aggro token. The card ability is triggered if Bob plays a maneuver and an attack card in that order ( [[ICON1]] [[ICON2]]) as the next cards in his sequence. As he has played a maneuver card, he removes 1 struggle from the monster board.","1. Bartek zagrywa Młynek i bierze znacznik Wrogiego Gracza. Zdolność karty zostanie aktywowana, jeśli następnymi kartami zagranymi przez Bartka w sekwencji będą karty Manewru i Ataku w podanej kolejności ( [[ICON1]] [[ICON2]]). Po zagraniu karty Manewru Bartek usuwa żeton Starcia o wartości 1 z planszy Potwora.",0.766
+861,"2. Next, Bob plays Charge. He resolves the card ability by choosing another player to draw 1, and then removes 1 struggle.","2. Następnie Bartek zagrywa Szarżę. Rozpatruje zdolność tej karty, wybierając gracza, który dobiera 1 kartę, a następnie usuwa żeton Starcia o wartości 1.",0.724
+862,"[[ICON1]] ) refer to your weapon level. So for example, when controlling Thoreg, if you are instructed to increase the damage the attack deals by 3 [[ICON2]], that means you have to add an amount equal to three times your weapon level.","[[ICON1]]) odnoszą się do twojego Poziomu Broni. Na przykład jeśli kontrolujesz Thorega i otrzymasz polecenie zwiększenia zadawanych Obrażeń o 3 [[ICON2]], dodaj Obrażenia równe trzykrotności Poziomu twojej Broni.",0.866
+863,HOW TO FOCUS YOUR MASTERY,SKUPIENIE MISTRZOSTWA,0.328
+864,"When you do not want to or cannot perform any more actions, your Action phase ends.","Jeśli nie chcesz lub nie możesz wykonać więcej Akcji, twoja faza Akcji się kończy.",0.883
+865,"At the end of your Action phase, if you have 2 cards or more left in your hand, you gain 1 stamina token, which you place on your hunter board.","Na koniec twojej fazy Akcji, jeśli pozostały ci co najmniej 2 karty na ręce, zyskujesz 1 żeton Energii. Umieść go na twojej planszy Łowcy.",0.889
+866,END OF THE ACTION PHASE,KONIEC FAZY AKCJI,0.912
+867,Some card abilities are triggered based on specific triggering conditions. A triggering condition indicates a particular event in the game or a specific situation that must occur for the ability to activate. A triggering condition can be denoted by:,"Niektóre zdolności kart zostają aktywowane, gdy zostaną spełnione ich warunki aktywacji. Warunki aktywacji to określone zdarzenia lub sytuacje w grze, które muszą wystąpić, aby dana zdolność została aktywowana. Warunek aktywacji można rozpoznać po:",0.857
+868,• A triggering icon. All keywords and icons are listed and explained in detail in the Glossary section on page 103. Below are a few examples of triggering conditions for action card abilities.,Wszystkie słowa kluczowe i symbole zostały szczegółowo opisane w Glosariuszu na str. 103. Poniżej przedstawiono kilka przykładów warunków aktywacji zdolności kart Akcji.,0.741
+869,Example of bold text at the beginning of the ability,Przykład pogrubionego tekstu rozpoczynającego opis zdolności,0.741
+870,Example of a triggering keyword (Opening),Przykład aktywującego słowa kluczowego (Otwarcie),0.918
+871,TRIGGERING CONDITIONS,WARUNKI AKTYWACJI,0.427
+872,"Revive is an action that allows you to help other players recover faster from their KO status (for more details on being KO’d, see page 29). Reviving a KO’d player helps them get back in the fight.","Ocucenie to Akcja, która pozwala ci pomóc innym graczom szybciej zregenerować się po Powaleniu (Powalenie zostało szczegółowo opisane na str. 29). Ocucenie Powalonego gracza pomaga mu wrócić do Walki.",0.836
+873,REVIVE ACTION,AKCJA OCUCENIA,0.644
+874,"The more aggressively you play, the more likely you are to suffer attrition damage.","Im bardziej agresywnie grasz, tym większe prawdopodobieństwo, że otrzymasz Obrażenia Wyniszczenia.",0.831
+875,"During the Attrition phase, the active player must perform an attrition check. To perform an attrition check, you resolve the following steps in order:","Podczas fazy Wyniszczenia aktywny gracz musi przeprowadzić Próbę Wyniszczenia. Aby przeprowadzić Próbę Wyniszczenia, wykonaj poniższe kroki w podanej kolejności:",0.88
+876,1. Reveal the top card of the attrition deck.,1. Odkryj wierzchnią kartę z talii Wyniszczenia.,0.829
+877,2. Suffer attrition damage unless you have a number of defensive cards ( [[ICON1]] or [[ICON2]]) in your sequence equal to or higher than the attrition value revealed. The attrition damage is equal to [[ICON3]] (i.e. the monster’s damage value which is shown in the current stance card).,"2. Otrzymujesz Obrażenia Wyniszczenia, chyba że w twojej sekwencji masz karty defensywne ( [[ICON1]] lub [[ICON2]]) w liczbie równej lub wyższej od wartości Wyniszczenia na odkrytej karcie. Obrażenia Wyniszczenia oznaczone są symbolem [[ICON3]] (wartość Obrażeń Potwora, wskazana na aktualnej karcie Postawy).",0.885
+878,3. Discard the attrition card revealed.,3. Odrzuć odkrytą kartę Wyniszczenia.,0.89
+879,Attrition card,Karta Wyniszczenia,0.718
+880,ATTRITION PHASE,FAZA WYNISZCZENIA,0.786
+881,"【B】Note:【/B】 If you are instructed to reveal the top card of the attrition deck but it is empty, reshuffle the attrition discard pile to form a new deck and then reveal the card.","【B】Uwaga!【/B】 Jeśli masz odkryć wierzchnią kartę talii Wyniszczenia, a talia ta jest pusta, potasuj jej stos kart odrzuconych, tworząc nową talię, a następnie odkryj kartę.",0.8
+882,The damage the monster deals depends on the current stance and so will vary throughout the course of the game.,"Wartość Obrażeń zadawanych przez Potwora zależy od jego aktualnej Postawy, dlatego będzie ona różna na różnych etapach rozgrywki.",0.757
+883,Stance card,Karta Postawy,0.75
+884,MONSTER’S DAMAGE VALUE,WARTOŚĆ OBRAŻEŃ POTWORA,0.63
+885,Alice’s sequence,Sekwencja Alicji,0.738
+886,Attrition deck,Talia Wyniszczenia,0.385
+887,"【B】Attrition: Example 2【/B】 Bob is threatened, so he reveals 2 attrition cards instead of 1 from the attrition deck. He must use the higher attrition value, which is 2. Since he has only 1 defensive card in his sequence, Bob suffers attrition damage which is equal to 1 (i.e. the current stance card’s damage value).","【B】Próba Wyniszczenia: Przykład 2【/B】 Bartek jest w stanie Zagrożenia, więc odkrywa 2 karty z talii Wyniszczenia, zamiast 1. Musi użyć karty o wyższej wartości Wyniszczenia – w tym przypadku: 2. Ponieważ Bartek ma w swojej sekwencji tylko 1 kartę defensywną, otrzymuje 1 Obrażenie (tyle wynosi wartość Obrażeń Potwora na aktualnej karcie Postawy).",0.86
+888,Bob’s sequence,Sekwencja Bartka,0.469
+889,Threatened token,żeton Zagrożenia,0.636
+890,"Each time you suffer damage, place that number of damage tokens on your hunter board. When your total sustained damage reaches or exceeds your health value (e.g. the sum of your equipped armor’s and helm’s health points), you are knocked out (KO’d).","Za każdym razem, gdy otrzymujesz Obrażenia, umieść na twojej planszy Łowcy żetony Obrażeń o łącznej wartości otrzymanych Obrażeń. Gdy łączna wartość otrzymanych Obrażeń osiągnie albo przekroczy wartość twoich Punktów Życia (tj. sumę Punktów Życia twojej Zbroi i Hełmu), zostajesz Powalony.",0.857
+891,"When you are KO’d, perform the following steps in order:","Gdy zostajesz Powalony, wykonaj poniższe kroki w podanej kolejności:",0.859
+892,"1. If you are the active player, your turn ends immediately (skip any other turn steps).","1. Jeśli jesteś aktywnym graczem, twoja Tura kończy się natychmiast (pomiń pozostałe kroki Tury).",0.917
+893,"3. Discard your entire hand of cards, and any cards in your sequence.",3. Odrzuć wszystkie karty z twojej ręki oraz wszystkie karty z twojej sekwencji.,0.883
+894,4. Add a Wound card to your discard pile and then reshuffle your discard pile into your deck.,"4. Dodaj kartę Rany do twojego stosu kart odrzuconych, a następnie wtasuj go do twojej talii.",0.822
+895,5. Choose either your armor or helm card that is not currently depleted and place a deplete token on that card (deplete tokens are explained in detail on page 30).,"5. Wybierz twoją kartę Zbroi albo Hełmu, która nie jest jeszcze Zużyta i umieść na niej żeton Zużycia (działanie żetonów Zużycia zostało szczegółowo opisane na str. 30).",0.846
+896,6. Lay your miniature down on the board to indicate your hunter is knocked out.,"6. Przewróć figurkę twojego Łowcy na planszy Walki, aby wskazać, że ten Łowca jest Powalony.",0.716
+897,7. Take a KO token and place it on your hunter board (red side face up).,7. Weź żeton Powalenia i umieść go na twojej planszy Łowcy (czarno-czerwoną stroną ku górze).,0.847
+898,8. The monster turns to the aggro player.,8. Obróć Potwora w stronę Wrogiego Gracza.,0.821
+899,"While you are KO’d, you cannot be the target of any card ability or game effect (apart from Revive).","Gdy jesteś Powalony, nie możesz być celem żadnej zdolności karty ani efektu gry (poza Ocuceniem).",0.881
+900,"When it would be your turn but you are knocked out, just flip your KO token to its black side. Play then passes straight to the next player. If your KO token is already on its black side, you rise, by following these steps:","Gdy ma nastąpić twoja Tura, a jesteś Powalony, odwróć żeton Powalenia na stronę czarno-białą ku górze. Następnie Tura przechodzi do kolejnego gracza. Jeśli twój żeton Powalenia już znajduje się na stronie czarno-białej, wykonaj Akcję Powstania, wykonując poniższe kroki:",0.772

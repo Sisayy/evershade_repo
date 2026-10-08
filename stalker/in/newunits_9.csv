@@ -1,0 +1,226 @@
+﻿id,en,pl,sim
+1,RULES SUMMARY,SKRÓT REGUŁ,0.749
+2,"Your goal is to build a new State in this post-apocalyptic world. Whether you command merciless Mutants or brave New Yorkers, your aim is always simple and clear – conquer new lands, incorporate new regions, and destroy everyone who is of no value. How will you achieve this? It’s pretty simple.","Twoim zadaniem jest stworzenie nowego Stanu w tym postapokaliptycznym świecie. Możesz dowodzić bezlitosnymi Mutantami lub dzielnymi Nowojorczykami, ale cel masz zawsze taki sam: musisz podbijać nowe ziemie, anektować terytoria i pozbywać się mięczaków. W jaki sposób osiągnąć cel? To dość proste.",0.844
+3,"Many cards in the game will let you gain Victory Points. Use them as often as you can because when any player reaches 25 Victory Points, they will trigger the End Game Sequence. You finish the round, and then gain 1 Victory Point for each card you have in your State, and you add it to your score.","Wiele kart z talii zapewni ci Punkty Zwycięstwa (PZ). Używaj ich, kiedy tylko się da, bo kiedy jeden z graczy zgromadzi 25 Punktów Zwycięstwa, zaczyna się Sekwencja końcowa. Na koniec gry za każdą kartę w swoim Stanie otrzymujesz 1 Punkt Zwycięstwa.",0.88
+4,"And now the most important thing – the highest score wins the game. Pretty novel, huh?","Teraz najważniejsze — gracz, który ma najwięcej Punktów Zwycięstwa, wygrywa. Niesamowite, nie?",0.768
+5,1. Lookout phase,1. Faza Wypatrywania,0.907
+6,2. Production phase,2. Faza Produkcji,0.962
+7,3. Action phase,3. Faza Akcji,0.913
+8,200 CARDS (63X88),200 KART (63X88),0.974
+9,4 VICTORY POINT MARKERS,4 ŻETONY PUNKTACJI,0.83
+10,1 VICTORY POINT BOARD,1 TOR PUNKTÓW ZWYCIĘSTWA,0.78
+11,1 FIRST PLAYER TOKEN,1 ŻETON PIERWSZEGO GRACZA,0.801
+12,4 FACTION BOARDS,4 PLANSZE FRAKCJI,0.788
+13,88 51ST STATE BASE CARDS,88 KART 51. STANU,0.639
+14,12 CONNECTION CARDS,12 KART POŁĄCZEŃ (6 KART KAŻDEGO KOLORU),0.657
+15,50 NEW ERA CARDS,50 KART Z ROZSZERZENIA NOWA ERA,0.903
+16,FRONT,PRZÓD,0.835
+17,DOUBLE-SIDED,DWUSTRONNE,0.528
+18,BACK,TYŁ,0.557
+19,THIS RULEBOOK,INSTRUKCJA,0.499
+20,COMPONENTS OVERVIEW,ZAWARTOŚĆ PUDEŁKA,0.472
+21,1 BORGO ROUND MARKER 1 BORGO VICTORY POINT MARKER,1 ZNACZNIK RUNDY BORGO 1 ŻETON PUNKTACJI BORGO,0.888
+22,USED ONLY IN BORGO 2.0 VARIANT,UŻYWANE TYLKO W WARIANCIE BORGO 2.0,0.947
+23,GOODS MARKERS & TOKENS,ZNACZNIKI I ŻETONY ZASOBÓW,0.775
+24,MIN. 30 BRICK PIECES,MIN. 30 DREWNIANYCH ZNACZNIKÓW BUDULCA,0.741
+25,MIN. 30 FUEL PIECES,MIN. 30 DREWNIANYCH ZNACZNIKÓW PALIWA,0.797
+26,13 AMMO TOKENS,13 ZNACZNIKÓW NABOI,0.695
+27,20 RED CONTACT TOKENS,20 CZERWONYCH ŻETONÓW KONTAKTU,0.915
+28,MIN. 30 GUN PIECES,MIN. 30 DREWNIANYCH ZNACZNIKÓW BRONI,0.744
+29,BONUS TOKEN,ŻETON BONUSOWY,0.856
+30,MIN. 30 IRON PIECES,MIN. 30 DREWNIANYCH ZNACZNIKÓW ŻELAZA,0.794
+31,9 DEVELOPMENT TOKENS,9 ŻETONÓW PRZEBUDOWY,0.846
+32,10 SHIELD TOKENS,10 ŻETONÓW TARCZY,0.83
+33,20 BLUE CONTACT TOKENS,20 NIEBIESKICH ŻETONÓW KONTAKTU,0.818
+34,7 UNIVERSAL CONTACT TOKENS,7 UNIWERSALNYCH ŻETONÓW KONTAKTU,0.937
+35,4 MULTIPLIER TOKENS,4 ŻETONY MNOŻENIA,0.737
+36,30 GREY CONTACT TOKENS,30 SZARYCH ŻETONÓW KONTAKTU,0.89
+37,MIN. 38 WORKER PIECES,MIN. 38 DREWNIANYCH ZNACZNIKÓW ROBOTNIKÓW,0.845
+38,"The owner of the game may write their name on this token and place it in front of them during the game. It has no bearing on the gameplay, but could be useful if some scumbag wants to pretend this game belongs to them. It does not.","Właściciel gry może napisać na tym żetonie swoje imię i położyć go przed sobą podczas gry. Nie ma to żadnego wpływu na rozgrywkę, ale może się przydać, jeśli jakaś szuja będzie utrzymywała, że ta gra należy do niej. No więc nie należy.",0.877
+39,GOODS ICONS,IKONY ZASOBÓW,0.771
+40,ANATOMY OF A CARD,ANATOMIA KARTY,0.88
+41,CATEGORY,KATEGORIA,0.981
+42,"(Production, Feature, or Action)","(Produkcja, Cecha lub Akcja)",0.926
+43,Location. These are important when Developing the Location into something new and hopefully better.,"to ważne, gdy Przebudowujesz tę Lokację, aby stworzyć nową, lepszą Lokację.",0.732
+44,with the Location.,Umowy z tą Lokacją.,0.612
+45,Ability of the card.,Zdolność karty.,0.946
+46,"[[ICON1]] FUEL,",[[ICON1]] ŻELAZO,0.495
+47,"[[ICON1]] GUN,",[[ICON1]] BROŃ,0.556
+48,[[ICON1]] BRICK,[[ICON1]] BUDULEC,0.474
+49,[[ICON1]] WORKER.,[[ICON1]] ROBOTNIK,0.722
+50,[[ICON1]] CARD.,[[ICON1]] KARTA,0.8
+51,[[ICON1]] CONTACT tokens.,[[ICON1]] Żetony KONTAKTU,0.736
+52,[[ICON1]] DEVELOPMENT token.,[[ICON1]] Żeton PRZEBUDOWY,0.443
+53,[[ICON1]] SHIELD token.,[[ICON1]] PUNKT ZWYCIĘSTWA,0.304
+54,[[ICON1]] etc. LOCATION Type icons.,[[ICON1]] itd. ikony Typu LOKACJI,0.866
+55,These are called Resources.,czyli Surowce podstawowe.,0.473
+56,"To gain a Ruins (for example via a production card), you draw a card from the Deck and place it face down in your State (you do not have to care about where in your State you place this card). You may look at the front of any of your Ruins to check what card it is.","Aby zdobyć Ruiny (na przykład dzięki lokacji Produkcyjnej), dobierasz kartę z talii i umieszczasz ją zakrytą w swoim stanie (możesz ją umieścić w dowolnym miejscu swojego stanu). W każdej chwili możesz oglądać awersy swoich Ruin.",0.763
+57,GAINING RUINS,ZDOBYWANIE RUIN,0.731
+58,CARDS OVERVIEW,CO ZNAJDUJE SIĘ NA KARCIE?,0.388
+59,MANAGING YOUR LOCATIONS,ZARZĄDZANIE LOKACJAMI,0.767
+60,"As you can see from the picture here, you are going to be Building a lot of Locations! To make it easier for you to manage – and no, I am not telling you that you don’t look smart or something – we divided them into three Categories:","Po tej ilustracji już widzisz, że będziesz budować wiele Lokacji! Aby ci się nimi łatwiej zarządzało (wcale nie umniejszam twojej inteligencji), to Lokacje podzieliłem na trzy kategorie: Produkcyjne, z Cechą i z Akcją. Lokacje układaj obok siebie w rzędach wg kategorii to się nie pogubisz. Lokacje Produkcyjne ustaw w górnym rzędzie, Lokacje z Cechami — pośrodku, a Lokacje z Akcjami — na dole. No i super.",0.733
+61,"Ah, one more thing!",Jeszcze jedno!,0.906
+62,"Separate the Connection cards by color and shuffle them into two separate piles. Place these piles face down near the Deck which, as you might remember, is next to the VP track which is next to the Resources and tokens...","Rozdziel karty Połączeń w zależności od koloru, przetasuj je i ułóż z nich dwie talie. Połóż te talie zakryte obok Talii, która – jak być może pamiętasz – znajduje się obok Toru Punktów Zwycięstwa, który z kolei znajduje się obok Surowców i innych żetonów...",0.793
+63,DECK,TALIA,0.504
+64,BLUE CONNECTION CARDS,NIEBIESKA TALIA KART POŁĄCZEŃ,0.538
+65,RED CONNECTION CARDS,CZERWONA TALIA KART POŁĄCZEŃ,0.734
+66,INTERACT WITH LOCATION CARDS IN 3 DIFFERENT WAYS,3 RODZAJE INTERAKCJI Z KARTAMI LOKACJI,0.741
+67,"You can Build a Location. Put the card in front of you and use the Ability in every round of the game. The more Locations you Build, the more Abilities you gain and your power will grow. Sounds good, right?","Lokację możesz Wybudować. Połóż kartę przed sobą i w każdej turze będziesz mógł użyć jej Zdolności. Więcej wybudowanych Lokacji to więcej Zdolności zwiększających twoją potęgę. Nieźle, nie?",0.898
+68,"You can Raze a Location. Discard the card from your hand and get the Goods shown in the Spoils field. The Location is burnt to the ground, and you took their stuff. Pity, huh?","Lokację możesz Splądrować. Odrzuć kartę z ręki i pobierz Zasoby widoczne w polu Łupy. Splądrowana Lokacja jest całkowicie niszczona, a Ty zabierasz wszystko, co znajdziesz. Takie życie.",0.746
+69,"You can make a Deal with a Location. Put the card under your Faction board so that only the blue Deal field shows. This Location is not part of your State and does not provide you with an Ability. Instead, The card provides you with the Good shown on the Deal field of the card. I don’t want to complain, but that’s exactly what happens when you try to be a nice scout and you don’t Raze people. You should Raze them. Raze them all!","Z Lokacją możesz podpisać Umowę. Jeśli podpisujesz Umowę, to wsuń kartę Lokacji pod swoją planszę Frakcji tak, aby wystawała tylko jej niebieska część dotycząca Umowy. Taka Lokacja jest teraz częścią twojego Stanu i nie możesz korzystać już z jej Zdolności. Jednak zapewnia Ci ona Zasoby przedstawione w części karty dotyczącej Umowy. Nie narzekam, ale właśnie tak się to kończy, kiedy chcesz być uprzejmy i nie Plądrujesz Lokacji. Plądruj. Zawsze plądruj! Wszystkich!",0.779
+70,"If you want to Build, Raze, or make a Deal with a Location you will need Contact tokens. They represent your means of interacting with the Locations. There are Blue tokens that represent your merchants and are used for making Deals. The Grey tokens represent your Building skills and are used to Build Locations. There are also Red Contact tokens – all your gangers, mutants, and mercenaries that you use to Raze Locations.","Budowanie, Plądrowanie i podpisywanie Umów wymaga użycia żetonów Kontaktu. Żetony te pozwalają na interakcję z Lokacjami. Niebieskie żetony Kontaktu to kupcy, którzy podpisują Umowy. Szare żetony Kontaktu to umiejętności budowlane pozwalające Budować Lokacje. Czerwone żetony Kontaktu to gangi, mutanci i najemnicy, którzy Plądrują Lokacje.",0.825
+71,BURN THEM TO THE GROUND!,ROZERWIJ ICH NA STRZĘPY!,0.858
+72,"In the game, you will also be able to Raze the other player’s Locations. It’s 51st State bro, either you burn them, or they burn you. There is no middle ground.",Podczas gry możesz też Plądrować Lokacje należące do innych graczy. Taki już jest 51. Stan — zniszczysz wroga albo polegniesz. To nie jest stan dla miękkich ludzi.,0.798
+73,FLOW OF A ROUND,PRZEBIEG TURY,0.548
+74,2. Production,2. Faza Produkcji,0.803
+75,3. Action,3. Faza Akcji,0.73
+76,4. Cleanup,4. Faza Czyszczenia,0.794
+77,1. LOOKOUT PHASE,1. FAZA WYPATRYWANIA,0.823
+78,"• Reveal the top card of each Connection pile. Place it on top of the pile, or beside it, whatever works best for you.",• Odkryj wierzchnią kartę z obydwu talii kart Połączeń. Umieść ją na wierzchu talii albo obok niej — jak wolisz.,0.8
+79,"• Draw a number of cards from the Deck equal to the number of players, plus 1 (e.g. 4 cards in a 3-player game) and place them face-up in the center of the playing area. Starting with the first player and proceeding clockwise, each player selects one card from those revealed and adds it to their hand.","• Z talii podstawowej odkryj tyle kart, ilu graczy bierze udział w grze plus 1, (czyli przy 3 graczach odkrywasz 4 karty) i połóż je odkryte pośrodku obszaru gry. Pierwszy gracz wybiera jedną z odkrytych kart i dokłada do swoich kart na ręce, następnie kolejni gracze zgodnie z kierunkiem ruchu wskazówek zegara zabierają po jednej karcie. Ostatnia karta jest odkładana odkryta na stos kart odrzuconych.",0.866
+80,"• Again, draw a number of cards from the Deck equal to the number of players, plus 1 and place them face-up in the center of the playing area. This time, starting with the last player and proceeding counter-clockwise, everyone again chooses one card and adds it to their hand. Once again, discard the remaining card.","• Ponownie z talii podstawowej odkryj tyle kart, ilu graczy bierze udział w grze plus 1, i połóż je odkryte pośrodku obszaru gry. Jednak teraz ostatni gracz jako pierwszy wybiera kartę, a następne karty są pobierane przez graczy w kolejności odwrotnej do kierunku ruchu wskazówek zegara. Ostatnia pozostała karta ponownie jest odrzucana na stos kart odrzuconych.",0.859
+81,2. PRODUCTION PHASE,2. FAZA PRODUKCJI,0.93
+82,"Faction board – your board shows your Faction’s basic Production. Mutants do Guns, Merchants do Fuel. It’s really pretty simple, it’s not rocket science.","Plansza Frakcji – na planszy Frakcji widać, co produkuje dana Frakcja. Mutanci produkują Broń, a Kupcy – Paliwo. Nie ma w tym żadnej wielkiej filozofii.",0.748
+83,Production Locations – each Production Location produces Goods. Have an Oil Station? You’ll get Fuel. Simple as that.,Lokacje Produkcyjne – każda Lokacja Produkcyjna wytwarza Zasoby. Masz stację benzynową? No to dostaniesz Paliwo. Proste jak drut.,0.944
+84,"If you like order, perform the Production Phase starting with the First player and continuing clockwise. If you value your time, do it simultaneously. It’s really easy, check your Faction board, check your Deals, check your Production Locations, gather your Goods and you are done!","Jeśli lubisz porządek, to wykonaj fazę Produkcji w kolejności od pierwszego gracza, zgodnie z kierunkiem ruchu wskazówek zegara. Jeśli szanujesz swój czas, to pozwól wszystkim graczom wykonać tę fazę jednocześnie. To nic trudnego: rzuć okiem na planszę Frakcji, sprawdź Umowy, przyjrzyj się Lokacjom Produkcyjnym, pobierz Zasoby i gotowe!",0.831
+85,"The Production on some cards depends on the Goods you have in your possession. Always resolve their Production first, before gaining Goods from any other sources. There’s no point in explaining why it is important. Just trust me and do what I say.","Produkcja z niektórych kart zależy od posiadanych przez ciebie Zasobów. Zawsze rozstrzygaj ich Produkcję jako pierwszą, przed zdobyciem Zasobów z jakichkolwiek innych źródeł. Nie ma sensu tłumaczyć, dlaczego jest to ważne. Po prostu zaufaj mi i rób to, co mówię.",0.91
+86,RULES OF PLAY,ZASADY GRY,0.506
+87,"FOR EXAMPLE: Angelina is playing the Mutant’s Union. She also has one SCHOOL, one PUB and two Deals in play. From her Faction, she gains 3 [[ICON1]], 1 [[ICON2]], 1 [[ICON3]] and 1 [[ICON4]]. From her Deals, she gains 1 [[ICON5]] and 1 [[ICON6]]. From her Locations, she gets 1 [[ICON7]] and 1 [[ICON8]]. So in total Angelina takes 2 [[ICON9]], 4 [[ICON10]], 2 [[ICON11]], 1 [[ICON12]] and 1 [[ICON13]].","PRZYKŁADOWO: Angelina gra Sojuszem mutantów. Ma również SZKOŁĘ, PUB i dwie podpisane Umowy. Dzięki swojej Frakcji otrzymuje więc: 3 [[ICON1]], 1 [[ICON2]], 1 [[ICON3]] i 1 [[ICON4]]. Z racji podpisanych Umów otrzymuje: 1 [[ICON5]] i 1 [[ICON6]]. Lokacje zapewniają jej: 1 [[ICON7]] i 1 [[ICON8]]. W sumie Angelina otrzymuje: 2 [[ICON9]], 4 [[ICON10]], 2 [[ICON11]], 1 [[ICON12]] i 1 [[ICON13]].",0.896
+88,3. ACTION PHASE,3. FAZA AKCJI,0.912
+89,"Starting with the First Player, and continuing clockwise, each player performs one Action at a time. You can perform any of the following Actions.","Począwszy od pierwszego gracza i dalej zgodnie z kierunkiem ruchu wskazówek zegara, każdy gracz po kolei wykonuje po jednej dowolnej Akcji spośród dostępnych.",0.836
+90,• Make a Deal,• Budowa Lokacji,0.567
+91,• Raze a Location,• Podpisanie Umowy,0.504
+92,• Use an Action from your Faction board,• Wykonanie Akcji zawartej na planszy Frakcji,0.713
+93,• Take or play a Connection card,• Pobranie lub użycie karty Połączenia,0.856
+94,• Pass,• Pas,0.866
+95,The Action Phase continues until all players have passed.,Po tym jak wszyscy gracze Spasują faza Akcji się kończy.,0.76
+96,BUILD A LOCATION,BUDOWA LOKACJI,0.8
+97,There are two ways you can place a Location into your State.,Lokacje można umieszczać w Stanie na dwa sposoby.,0.831
+98,"CONSTRUCT: Choose a card from your hand and discard a number of [[ICON1]] tokens equal to its Distance value. Put the card in front of you. Then, smile and say something nice to your opponents.","KONSTRUKCJA: Wybierz kartę z ręki i odrzuć tyle żetonów [[ICON1]], ile wynosi Dystans karty. Wybraną kartę połóż przed sobą w odpowiednim rzędzie (Produkcja, Cecha, Akcja). Uśmiechnij się i powiedz coś miłego przeciwnikom.",0.802
+99,New Location cards are placed next to your Faction board according to their Category:,Nowe karty Lokacji są umieszczane obok planszy Frakcji zgodnie z kategoriami:,0.892
+100,• Action Locations are built in the bottom row.,• Lokacje z Akcjami ustaw w dolnym rzędzie.,0.773
+101,"DEVELOP: Choose one card from your hand and one Location you already have in your State that shares a Type with it. Spend 1 Brick* and then remove this Location from your State and place it on the discard pile. Then, put the card from your hand in front of you in the appropriate row. As a reward you get 1 Victory Point. Voilà! You did it, you are awesome. You developed your old Location into something new and magnificent.","PRZEBUDOWA: Wybierz kartę z ręki oraz jedną Lokację, która już znajduje się w twoim Stanie. Minimum jeden Typ Lokacji wybranej z ręki i Lokacji znajdującej się w Stanie muszą być takie same. Zapłać 1 Budulcem* i usuń Lokację ze Stanu, odkładając ją na stos kart odrzuconych. Umieść kartę z ręki przed sobą w odpowiednim rzędzie. W nagrodę dostajesz 1 Punkt Zwycięstwa. Voila! Dobra robota. Przebudowałeś starą Lokację w coś zupełnie nowego i wspaniałego...",0.875
+102,"* Instead of 1 Brick you can discard 1 Development token [[ICON1]]. If you do this, the cards don’t need to share a common Type. Development tokens are cool.","* Zamiast 1 Budulca możesz odrzucić 1 żeton [[ICON1]]. Jeśli wybierasz tę opcję, to Lokacje nie muszą być tego samego Typu. Żetony Przebudowy są świetne.",0.77
+103,NOTE 1: Most cards have 2 Types. You only need to match 1 Type to Develop a Location.,"UWAGA 1: Większość kart jest opisana za pomocą 2 Typów. Aby Przebudować Lokację, wystarczy 1 zgodny Typ.",0.889
+104,NOTE 2: The new card does not have to be the same Category as the one you are replacing and may therefore be placed into a different row.,"UWAGA 2: Kategorie karty nowej i zastępowanej mogą się różnić, więc nową kartę można umieścić w innym rzędzie.",0.836
+105,NOTE 3: Ruins (see next page – Raze Location) are treated as if they have any Type. You Build over them with whatever Type you want.,UWAGA 3: Ruiny (rzuć okiem na następną stronę – Plądrowanie Lokacji) są uznawane za Lokacje bez Typu. Można je Przebudować z użyciem Lokacji dowolnego Typu.,0.81
+106,"NOTE 4: If there were any Goods on the Location you Developed (if they were used for activation), return them to the general supply or place them in your personal supply (if they were stored there).","UWAGA 4: Jeśli na Przebudowanej Lokacji znajdowały się jakieś Zasoby, zwróć je do Puli Ogólnej (jeśli zostały użyte do aktywacji) lub umieść w swojej Puli Osobistej (jeśli były na niej przechowywane).",0.896
+107,"REMEMBER: Each time you Develop a Location, you gain 1 Victory Point!",PAMIĘTAJ: Każda Przebudowa Lokacji daje 1 Punkt Zwycięstwa!,0.914
+108,"NOTE 1: If a Production Location also has a Building Bonus, you gain both benefits when you Build it.","UWAGA 1: Jeśli Lokacja Produkcyjna daje również bonus za zbudowanie, to po wybudowaniu Lokacji otrzymujesz obydwie premie.",0.897
+109,I am tired. We are done with Building.,Mam dosyć. Koniec z budowaniem.,0.677
+110,MAKE A DEAL,PODPISANIE UMOWY,0.435
+111,"FOR EXAMPLE: if Charlize wants to make a Deal with the SCHOOL, she must discard 1 [[ICON1]]. She places the card under her Faction board so only the blue area with the [[ICON2]] is visible. She immediately takes 1 [[ICON3]] from the supply.","PRZYKŁADOWO: jeśli Charlize chce podpisać Umowę ze SZKOŁĄ, musi odrzucić 1 znacznik [[ICON1]]. Wsuwa tę kartę pod swoją planszę Frakcji, aby widać było tylko niebieskie pole z [[ICON2]]. Natychmiast bierze też 1 [[ICON3]] z Puli Ogólnej.",0.894
+112,Spend 1 [[ICON1]].,Wydaj 1 [[ICON1]].,0.833
+113,"EXAMPLE OF DEVELOPING: The RUINED LIBRARY and the MURDERERS’ PUB share a matching Type. Therefore, you can spend 1 [[ICON1]] to Develop the Location.","PRZYKŁAD PRZEBUDOWY: RUINY BIBLIOTEKI oraz KNAJPA MORDERCÓW mają jeden wspólny Typ. Możesz wydać 1 [[ICON1]], by przebudować Lokację.",0.805
+114,FOR EXAMPLE: Megan has the Location BOILER ROOM. Eva wants to use it.,PRZYKŁADOWO: Megan ma Lokację KOTŁOWNIA. Eva chce użyć tej Lokacji.,0.872
+115,She places one of her,Ustawia na niej swojego,0.778
+116,RAZE LOCATION,PLĄDROWANIE LOKACJI,0.736
+117,"You can Raze Locations from your hand or you can Raze your opponent’s Locations. No pressure, but if I were you, I’d focus on razing your opponent’s... Either way, you get the Goods shown in the Spoils field.","Możesz Splądrować Lokacje z ręki lub Lokacje przeciwnika. Nic nie sugeruję, ale przyłożyłbym się do plądrowania wrogów... W każdym przypadku po Splądrowaniu otrzymujesz Zasoby widoczne w polu Łupy.",0.837
+118,"NOTE 1: Once a player has passed, their Locations may not be Razed by the other players for the rest of that round.","UWAGA 1: Jeśli gracz spasuje, inni gracze nie mogą Plądrować jego Lokacji do końca tury.",0.875
+119,"NOTE 2: Any tokens on the Location that was Razed (from activations) are returned to the general supply. If there were tokens stored on the card, the owner gets to keep them. It’s not fair, huh? Why wouldn’t you get them?! Who wrote these damn rules?!","UWAGA 2: Wszystkie żetony ze Splądrowanej Lokacji (pochodzace z aktywacji) są zwracane do Puli Ogólnej. Jeśli na karcie przechowywano żetony, właściciel zatrzymuje je. To nie fair, prawda? Czemu ty ich nie dostajesz?! Kto wymyślił takie porąbane zasady?!",0.893
+120,NOTE 3: [[ICON1]] tokens increase the Defense of a Location by 1. Don’t forget this when you go Raze your opponents. You’ll have to spend 1 extra [[ICON2]] token to Raze a Location with a  Shield on it. There can only be 1 [[ICON3]] on the Location.,"UWAGA 3: Żetony [[ICON1]] zwiększają Obronę Lokacji o 1. Nie zapomnij o tym, kiedy się wybierasz na Plądrowanie. Aby Splądrować Lokację z Tarczą musisz wydać 1 żeton [[ICON2]] więcej, niż wynosi wartość Obrony. Na Lokacji może się znajdować tylko 1 żeton [[ICON3]].",0.898
+121,"FOR EXAMPLE: Salma has one SCHOOL in her State and Penelope wants to Raze it. The SCHOOL is a Production Location, and therefore has a Defense of 3. The SCHOOL also has a [[ICON1]] token on it. To Raze it, Penelope discards 4 [[ICON2]] tokens and takes 2 [[ICON3]]from the supply. Salma takes 1 [[ICON4]] from supply, and turns the SCHOOL face down. It is now a Ruins.","PRZYKŁADOWO: W Stanie Salmy jest 1 SZKOŁA, którą Penelope chce Splądrować. SZKOŁA to Lokacja Produkcyjna ustawiona w górnym rzędzie, więc jej Obrona wynosi 3. Na karcie SZKOŁA znajduje się również żeton [[ICON1]]. Aby Splądrować SZKOŁĘ, Penelope odrzuca 4 żetony [[ICON2]] i z Puli Ogólnej pobiera 2 [[ICON3]]. Salma zabiera 1 [[ICON4]] z Puli Ogólnej i odwraca SZKOŁĘ rewersem do góry. SZKOŁA stała się Ruinami.",0.859
+122,USE AN ACTION FROM A LOCATION OR YOUR FACTION BOARD,WYKONANIE AKCJI OPISANEJ NA KARCIE LOKACJI LUB PLANSZY FRAKCJI,0.694
+123,"Some Locations provide you with the ability to perform an 【B】Action【/B】. They give you Victory Points or Contact tokens or other weird stuff the designer came up with. To use these Action, you must spend the Goods indicated and place them on the card. That way you won’t forget you already used the Location this round. Smart, huh?","Niektóre Lokacje pozwalają na wykonanie 【B】Akcji【/B】. Dają one Punkty Zwycięstwa lub żetony Kontaktu albo inne cuda, które wymyślił projektant. Aby użyć Akcji opisanej na Lokacji, należy wydać wskazane na niej Zasoby, czyli pobrać je z własnej Puli i umieścić na Lokacji. Dzięki temu nie zapomnisz, że ta Lokacja już została wykorzystana w tej turze. Cwane, nie?",0.864
+124,USE ANOTHER PLAYER’S OPEN PRODUCTION LOCATION,WYSYŁANIE ROBOTNIKA DO LOKACJI Z OTWARTĄ PRODUKCJĄ NALEŻĄCEJ DO INNEGO GRACZA,0.64
+125,[[ICON1]] on the Generators. She takes 2 [[ICON2]] from the supply. Megan also takes 1 [[ICON3]] from the supply.,[[ICON1]]. Pobiera 2 [[ICON2]] Puli Ogólnej. Megan również pobiera 1 [[ICON3]] z Puli Ogólnej.,0.72
+126,NOTE 1: You cannot send a Worker to use your own Open Production Locations.,UWAGA 1: Nie można wysyłać Robotnika do własnej Lokacji z Otwartą Produkcją.,0.886
+127,Defense value of Production Locations,Wartość Obrony Lokacji Produkcyjnych,0.917
+128,TAKE OR PLAY A CONNECTION CARD,POBRANIE LUB UŻYCIE KARTY POŁĄCZENIA,0.853
+129,"You can spend 2 [[ICON1]]to take one of the face-up Connection cards to your hand. If there aren’t any face-up, you can’t do this. And no taking from the discard pile either. Man, why would you even try?","Możesz odrzucić 2 [[ICON1]] i w zamian pobrać jedną z odkrytych kart Połączenia. Jeśli żadne karty Połączenia nie są odkryte, nie możesz wykonać tej Akcji. Nie możesz też pobrać karty Połączenia ze stosu kart odrzuconych.",0.728
+130,"NOTE: If there is a cost to use this card you must discard the Goods when using it, not when taking it.","WAŻNE: Jeśli użycie karty wymaga wydania jakichś Zasobów, to określone Zasoby odrzucasz podczas używania karty, a nie podczas jej pobierania.",0.77
+131,OTHER OPTIONS,INNE OPCJE,0.977
+132,"Whenever a Location with a [[ICON1]] is 【B】Razed【/B】 or 【B】Developed【/B】, return that [[ICON2]] to the general supply.","Kiedy Lokacja z [[ICON1]] jest 【B】Plądrowana【/B】 lub 【B】Przebudowywana【/B】, zwróć ten [[ICON2]] do Puli Ogólnej.",0.763
+133,PASSING,PASOWANIE,0.83
+134,"Yes, I am serious. You can’t be Razed.  You are out for the round. Your opponents must find themselves another target and stop whining.",Poważnie. Twoje Lokacje nie mogą być celem Plądrowania. Nie bierzesz udziału w turze. Przeciwnicy muszą sobie znaleźć inne cele i przestać marudzić.,0.731
+135,"Once everyone has passed, the Action Phase is over, and you proceed to the Cleanup Phase.","Gdy wszyscy już skończą swoje Akcje, faza Akcji się kończy i zaczyna się faza Czyszczenia.",0.811
+136,4. CLEANUP PHASE,4. FAZA CZYSZCZENIA,0.856
+137,Discard all face-up Connection cards that were not taken in the round and place them on the Connection discard pile. You missed your chance bub.,"Wszystkie odkryte karty Połączeń, które nie zostały pobrane podczas tury, odrzuć na stos odrzuconych kart Połączeń. Znowu szansa przeszła obok.",0.795
+138,Pass the first player token to the left and start a new round.,Żeton pierwszego gracza podaj graczowi po lewej stronie i zacznijcie nową turę.,0.888
+139,"FOR EXAMPLE: Megan, after using her Actions, still has 3 [[ICON1]],1 [[ICON2]] and 1 [[ICON3]] on her Faction board. Luckily she has the HIBERNATION CHAMBERS built in her State so there is no need to discard her [[ICON4]]. She discards the [[ICON5]] and the [[ICON6]]. She also removes all the Goods from the Action Locations she used and the opponent’s Workers from her Open Production cards.","PRZYKŁADOWO: Megan wykorzystała swoje Akcje, ale nadal ma 3 [[ICON1]],1 [[ICON2]] oraz 1 [[ICON3]]. Na szczęście w jej Stanie są KOMORY HIBERNACYJNE, więc nie musi odrzucać swoich [[ICON4]]. Pozbywa się znaczników [[ICON5]] oraz [[ICON6]]. Usuwa także wszystkie Zasoby z wykorzystanych Lokacji z Akcjami oraz Robotników przeciwnika ze swoich kart z Otwartą Produkcją.",0.863
+140,"The game end is triggered when any player reaches 25 Victory Points. When this happens, finish the current Action Phase but skip Cleanup. If a player reaches 25 points during the Production Phase, proceed to the Action Phase as normal. After the Action Phase is completed, skip the Cleanup Phase and calculate the final score of each player.","Faza zakończenia gry rozpoczyna się, gdy dowolny gracz uzyska 25 Punktów Zwycięstwa. Wtedy należy standardowo dokończyć aktualną fazę Akcji, ale pominąć fazę Czyszczenia. Jeśli gracz zgromadzi 25 Punktów Zwycięstwa podczas fazy Produkcji, należy standardowo rozegrać fazę Akcji. Po zakończeniu fazy Akcji należy pominąć fazę Czyszczenia i obliczyć wynik każdego gracza.",0.909
+141,The player with the highest score is the winner. Of course.,Wygrywa gracz z największą liczbą Punktów Zwycięstwa. To chyba jasne.,0.785
+142,"In the case of a tie, the player with the most total Goods is the winner. If the tie persists, the player among those ties with the most Locations wins. If there is still a tie, all tied players share the victory. Now kiss. Isn’t that just adorable?","W przypadku remisu wygrywa gracz z większą liczbą Zasobów. Jeśli podliczenie Zasobów nie wyłania zwycięzcy, to wygrywa gracz z największą liczbą Lokacji. Jeśli nadal jest remis, to gracze wspólnie wygrywają. Buziaczek. Słodko się zrobiło.",0.75
+143,• You can only Raze Locations from your hand or Locations built in opponent’s States. You cannot Raze Locations built in your own State.,• Plądrować można tylko własne Lokacje z ręki oraz Lokacje wybudowane w Stanach przeciwników. Nie można Plądrować Lokacji wybudowanych we własnym Stanie.,0.892
+144,• You may have multiple Locations with the same name in your State.,• W jednym Stanie może się znajdować wiele Lokacji o takiej samej nazwie.,0.895
+145,• There is no hand limit.,• Na ręce można mieć dowolną liczbę kart.,0.619
+146,"• When stealing an opponent’s Production (e.g. SUPPLIERS), if that Location provides Goods according to the number of Locations of a certain type, count the Locations of the Location’s owner.","• Jeśli okradana Lokacja przeciwnika (np. karta DOSTAWCY) zapewnia liczbę Zasobów uzależnioną od liczby Lokacji danego Typu, należy przeliczyć Lokacje należące do właściciela okradanej Lokacji.",0.778
+147,GOAL,CEL,0.466
+148,"When you decide to play a game without any other meaty players, your goal is to have more victory points than the virtual player at the end of the game. The Virtual Player collects points by Razing your Locations, and Building his own Locations. The game end is triggered when either you or the Virtual Player reaches 25 points. Complete the Action Phase of that round, then add the number of Locations in each player’s State to their total score.","Na koniec gry uzyskać więcej Punktów Zwycięstwa niż wirtualny przeciwnik. Wirtualny przeciwnik uzyskuje punkty za Plądrowanie Lokacji gracza i budowanie swoich Lokacji. Faza zakończenia gry rozpoczyna się, gdy wirtualny przeciwnik lub gracz uzyska 25 Punktów Zwycięstwa. Należy wtedy dokończyć fazę Akcji w rozpoczętej turze, a następnie do uzyskanych już punktów dodać punkty za Lokacje w Stanie każdego gracza.",0.86
+149,LOOKOUT PHASE,FAZA WYPATRYWANIA,0.711
+150,PRODUCTION PHASE,FAZA PRODUKCJI,0.928
+151,"The Virtual Player doesn’t receive Goods during Production. You do, though…","Wirtualny przeciwnik podczas fazy Produkcji nie otrzymuje Zasobów. Ty jednak otrzymujesz... Zrealizuj to tak, jak w rozgrywce dla wielu graczy.",0.787
+152,ACTION PHASE,FAZA AKCJI,0.898
+153,"You always play first during the Action Phase. You have the first player token, right? When you Raze a Virtual Player’s Location, it is discarded. They don’t keep the card as a Ruins nor gain Goods depicted in the Deal field.","W fazie Akcji zawsze grasz pierwszy. Masz przecież żeton pierwszego gracza. Jeśli Splądrujesz Lokację wirtualnego przeciwnika, jest ona odrzucana i nie staje się Ruinami, a wirtualny przeciwnik nie otrzymuje żadnych Zasobów z umowy.",0.837
+154,"• On the Virtual Player’s turn, they will claim a Connection card if there is one available. It costs them nothing and scores them 2 [[ICON1]]. Discard the card. If there is more than one Connection card for the Virtual Player to choose from, choose one at random and return the other card back face up onto its pile.","• W turze wirtualnego przeciwnika otrzyma on kartę Połączenia, jeśli jakaś jest dostępna. Nic go to nie kosztuje i daje mu 2 [[ICON1]]. Odrzuć kartę Połączenia. Jeśli wirtualny przeciwnik może wybrać spośród kilku kart Połączeń, należy wybrać czerwoną.",0.835
+155,"• Once there are no Connection cards left to take in that round, the Virtual Player will proceed to attack you. Are you ready? This is going to hurt.","• Kiedy w turze już nie będzie kart Połączeń do wyboru, wirtualny przeciwnik przystępuje do ataku. Gotowy? Będzie boleć.",0.806
+156,"• To execute the Virtual Player’s attack, reveal one card from the Deck and place it nearby to form an attack pile. Each attack by the Virtual Player in the round adds another card to this pile, and once it contains 3 cards, the Virtual Player will pass on their next Action. At that point, discard the cards in the attack pile to the discard pile.","• Aby przeprowadzić atak wirtualnego przeciwnika, odkryj jedną kartę z głównej talii i umieść ją w pobliżu talii, tworząc stos ataku. Każdy atak wirtualnego przeciwnika w turze dodaje kolejną kartę do tego stosu. Gdy na stosie będą 3 karty, wirtualny przeciwnik pasuje w kolejnej Akcji. Odrzuć wtedy karty ze stosu ataku na stos kart odrzuconych.",0.9
+157,1. The card with the greater Distance,1. Karta o większym Dystansie,0.903
+158,2. Unused Actions,2. Nieużyte Akcje,0.901
+159,3. Used Actions,3. Użyte Akcje,0.934
+160,4. Features,4. Cechy,0.97
+161,5. Productions,5. Produkcja,0.911
+162,"7. Okay, if you make it here, take a picture and share it with us because we don’t believe you. If two Locations give exactly the same Goods when Razed, you can decide which is destroyed… or pick randomly. Chances are they are the same Location anyway… we really don’t care which one you lose.","7. Dobra, jeśli dotarłeś aż tutaj, to zrób zdjęcie i prześlij mi je, bo nie wierzę, że to możliwe. Jeśli dwie Lokacje zapewniają taką samą liczbę Zasobów podczas Plądrowania, możesz wybrać, która zostanie zniszczona. Prawdopodobnie będą to dwie takie same Lokacje, więc wybór jednej z nich raczej nie będzie trudny.",0.798
+163,• Discard the card drawn for the attack.,• Odrzuć kartę użytą do zaatakowania.,0.893
+164,STANDARD VARIANT,ROZGRYWKA JEDNOOSOBOWA,0.406
+165,SOLO GAMES RULES,ROZGRYWKA JEDNOOSOBOWA,0.476
+166,ACHIEVEMENT TABLE,TABELA OSIĄGNIĘĆ,0.811
+167,【B】Monica’s turn:【/B】 As her first Action Monica sends 2 [[ICON1]] and claims 1 Connection Card. 【B】Virtual Player’s turn:【/B】 The Virtual Player claims the remaining Connection Card.,【B】Monika【/B】 w swojej pierwszej Akcji wysyła 2 [[ICON1]] i dobiera 1 kartę Połączenia. 【B】Wirtualny przeciwnik【/B】 dobiera pozostałą kartę Połączenia.,0.825
+168,【B】Virtual Player’s turn:【/B】 The Virtual Player attacks again. Monica draws one more card from the deck and places it on top of the previous one. She is not that lucky this time and one of her Locations is Razed. She flips it over to make it a Ruins. The Virtual Player scores 2 [[ICON1]].,"【B】Wirtualny przeciwnik【/B】 ponownie atakuje. Monika dobiera kartę z talii i umieszcza ją na wierzchu poprzedniej. Tym razem nie ma tyle szczęścia, bo jedna z jej Lokacji zostaje splądrowana. Odwraca ją, tworząc z niej Ruiny. Wirtualny Przeciwnik zdobywa 2 [[ICON1]].",0.866
+169,"【B】Monica’s turn:【/B】 She sends 1 Worker to an Open Production Location of the Virtual Player. The Virtual Player does not take a [[ICON1]], but scores a [[ICON2]] instead.","【B】Monika【/B】 wysyła 1 Robotnika do Lokacji z Otwartą Produkcją wirtualnego przeciwnika. Wirtualny przeciwnik nie dostaje [[ICON1]], ale otrzymuje [[ICON2]].",0.811
+170,Execute the Cleanup Phase as normal but you keep the first player token. It’s your special little power.,"Standardowo przeprowadź fazę Czyszczenia, ale zostaw sobie żeton pierwszego gracza. To taka Twoja mała supermoc.",0.853
+171,GAME END,FAZA CZYSZCZENIA,0.568
+172,SOLITAIRE VARIANTS,DODATKOWE WARIANTY ROZGRYWKI JEDNOOSOBOWEJ,0.465
+173,"When playing solo, you can choose to play against one of the following four factions.",Przygotowując się do rozgrywki jednoosobowej możesz zagrać przeciwko jednej z czterech poniższych Frakcji.,0.764
+174,"Choose one, and apply the rules to your solitaire play.",Wybierz jedną z nich i graj zgodnie z jej zasadami podanymi poniżej.,0.645
+175,【B】Rules:【/B】 The virtual player will try to attack 5 times each round before giving up.,"【B】Zasady:【/B】 Wirtualny przeciwnik spróbuje zaatakować do 5 razy w każdej rundzie, zanim spasuje.",0.885
+176,MUTANTS,SOJUSZ MUTANTÓW,0.666
+177,NEW YORK,NOWY JORK,0.822
+178,MERCHANTS,GILDIA KUPCÓW,0.345
+179,APPALACHIANS,FEDERACJA APPALACHÓW,0.518
+180,The biohazard banner has been seen at the borders of your state. Once again mad leader Borgo has united numerous bands of roaming mutants and cyborgs created by Moloch. Now you must ready your people to repel these highly mutated and engineered beings. Will you survive the onslaught?,Na granicy twojego stanu podniesiono flagę zagrożenia biologicznego. Po raz kolejny szalony Borgo zgromadził wokół siebie tłum mutantów i cyborgów Molocha. Przygotuj swoich ludzi do walki z tymi wysoce zmutowanymi i sztucznie zmodyfikowanymi istotami. Czy uda ci się przetrwać atak?,0.872
+181,"Remember, extinction is the rule, survival the exception. This Solo mode is much more complex and difficult than the regular one. The difference is that the Automa actions are not scripted and predictable. Borgo’s actions are randomly determined by the drawing of a card, and the number of Brawlers it has. It is efficient and ruthless. We strongly recommend playing your first few games using the regular Solo mode before facing the Borgo Automa.","Jak wiadomo przetrwanie jest wyjątkiem, zaś regułą śmierć. Ten tryb solo jest bardziej złożony i trudniejszy niż standardowa rozgrywka jednoosobowa. Różnica polega na tym, że działania wirtualnego przeciwnika są nieprzewidywalne. Akcje Borgo są określane poprzez losowo dobierane karty oraz zmieniającą się liczbę jego awanturników. Borgo jest skuteczny i bezwzględny. Polecamy najpierw zagrać w zwykły tryb jednoosobowy, a dopiero potem przeciwko Borgo.",0.86
+182,"You may combine this mode with any expansion, but the best way to dive into its rules is learning them while playing the base game. All changes provided by certain expansions are clearly marked by different colors.","Tryb ten można łączyć z dowolnymi dodatkami, ale najlepiej poznać jego zasady w rozgrywce z samą grą podstawową. Wszelkie zmiany, jakie wnoszą określone dodatki, są wyraźnie zaznaczone różnymi kolorami.",0.855
+183,"• If you activate Borgo’s Open Production [[ICON1]], add 1 Brawler to Borgo’s State.","• Aktywując [[ICON1]] Borgo z Otwartą Produkcją, dodaj 1 Awanturnika do Stanu Borgo.",0.908
+184,"• If you Raze Borgo’s Location, flip it to its Ruins side. Borgo does not gain any Goods.","• Jeśli Splądrowałeś Lokację Borgo, odwróć ją na stronę Ruin. Borgo nie zyskuje żadnych Zasobów.",0.839
+185,"• When Borgo Razes an Outpost, he automatically Builds a level 2 Outpost on that territory.","• Kiedy Borgo Plądruje Posterunek, automatycznie Buduje Posterunek poziomu 2 na tym Obszarze.",0.904
+186,• Borgo must follow adjacency rules for Building and attacking Outposts.,"• Borgo musi przestrzegać zasad sąsiedztwa, aby Budować lub Plądrować Posterunki.",0.835
+187,"• If at any time Borgo needs to remove a Brawler and none are available, Borgo immediately passes.","• Jeśli w dowolnym momencie Borgo musi usunąć Awanturnika, a żaden nie jest dostępny, Borgo natychmiast pasuje.",0.9
+188,"• When you pass, Borgo also passes during his next turn.","• Kiedy ty pasujesz, Borgo w swojej kolejnej turze również pasuje.",0.872
+189,NOTE: Rules marked in blue are applied only while playing with the Moloch expansion. Rules marked in brown are applied only while playing with the No Man’s Land expansion.,UWAGA: Zasady zaznaczone na niebiesko są stosowane tylko podczas gry z dodatkiem Moloch. Zasady zaznaczone na brązowo są stosowane tylko podczas gry z dodatkiem Ziemia Niczyja.,0.875
+190,BORGO AUTOMA,WIRTUALNY PRZECIWNIK: BORGO,0.482
+191,BY JOE LEONE,AUTOR TRYBU: JOE LEONE,0.841
+192,COMPONENTS,KOMPONENTY,0.954
+193,BORGO’S SPECIAL RULES,ZASADY SPECJALNE BORGO,0.838
+194,Prepare the game as in the regular Solo mode with following exceptions:,"Przygotuj grę w standardowy sposób dla rozgrywki jednoosobowej, z poniższymi zmianami.",0.73
+195,• Place the Round marker on space 1 on the Victory Point board.,• Umieść znacznik Rundy na polu “1” na Torze Punktów Zwycięstwa.,0.899
+196,• Give Borgo a set of Outpost markers.,• Przydziel Borgo zestaw znaczników Posterunku.,0.887
+197,"The Lookout phase is resolved as in the game for two players, except 【B】Borgo【/B】 picks a random card and immediately Builds it for free.",Faza Wypatrywania jest rozpatrywana jak w grze dla dwóch graczy. 【B】Borgo【/B】 wybiera swoje karty losowo i natychmiast buduje je za darmo.,0.843
+198,Place a number of [[ICON1]] in Borgo’s State equal to the Round number. Borgo’s Workers are called 【B】Brawlers【/B】.,Umieść w Stanie Borgo liczbę [[ICON1]] równą numerowi aktualnej Rundy. Robotnicy Borgo to 【B】Awanturnicy【/B】.,0.818
+199,"At the end of the Lookout phase, Borgo Builds one Outpost. His first Outpost is placed in the vertically opposite corner to yours. (e.g.: if you Build in the SW corner, Borgo will Build in the NW corner). In the following Lookout phases he Builds toward your nearest Outpost.","Na koniec fazy Wypatrywania Borgo Buduje jeden Posterunek. Umieść jego pierwszy Posterunek w narożniku po przeciwnej stronie od twojego Posterunku w pionie (np.: jeśli Budujesz Posterunek w południowo-zachodnim narożniku, Borgo Buduje w północno-zachodnim narożniku). W kolejnych fazach Wypatrywania buduje w kierunku twojego najbliższego Posterunku.",0.888
+200,"If you want to play a more challenging variant, place 1 additional Brawler during the Lookout phase.","Jeśli interesuje cię bardziej wymagające wyzwanie, przydziel Borgo 1 dodatkowego Awanturnika w trakcie fazy Wypatrywania.",0.791
+201,3. ASSAULT PHASE,3. FAZA ATAKU,0.825
+202,Resolve Assault effects of the Deployed Machines. Deployed Machines ignore Borgo.,Rozpatrz efekty Ataku rozmieszczonych Maszyn. Rozmieszczone Maszyny ignorują Borgo.,0.836
+203,4. DEPLOY PHASE,4. FAZA ROZMIESZCZENIA,0.84
+204,Deploy new Machines according to the chosen difficulty level.,Rozmieść nowe Maszyny zgodnie z wybranym poziomem trudności.,0.908
+205,No Man’s Land – Borgo discards 1 Brawler and Razes a random adjacent,Ziemia Niczyja – Borgo odrzuca 1 Awanturnika i Plądruje sąsiadujący,0.765
+206,Outpost with the lowest level. If the chosen Outpost has a,Posterunek najniższego poziomu. Jeśli wybrany Posterunek posiada,0.836
+207,"No [[ICON1]], [[ICON2]], or [[ICON3]].","Brak [[ICON1]], [[ICON2]], lub [[ICON3]].",0.846
+208,Action.,Borgo.,0.322
+209,Action.,Wykonaj,0.533
+210,5. ACTION PHASE,5. FAZA AKCJI,0.924
+211,Alternate your Actions with Borgo as usual. Your turns are resolved as usual.,"Wykonuj swoje Akcje na przemian z Borgo, rozpatrując je w standardowy sposób.",0.778
+212,BORGO’S ACTIONS,AKCJE BORGO,0.844
+213,"If there is a Connection card available, discard it. Borgo scores 2 [[ICON1]].","Jeśli dostępna jest karta Połączenia, odrzuć ją. Borgo otrzymuje 2 [[ICON1]].",0.886
+214,"Otherwise, discard 1 Brawler. Borgo scores 1 [[ICON1]].",W przeciwnym razie odrzuć 1 Awanturnika. Borgo otrzymuje 1 [[ICON1]].,0.814
+215,1. Discard 1 Brawler.,1. Odrzuć 1 Awanturnika.,0.832
+216,"a. If there is no such Location nor Outpost, Borgo scores 1 [[ICON1]].","a. Jeśli nie ma pasującej Lokacji ani Posterunku, Borgo otrzymuje 1 [[ICON1]].",0.845
+217,"b. If there is a [[ICON1]] on the targeted Location, discard it. Borgo scores 0 [[ICON2]].","b. Jeśli na celu znajduje się [[ICON1]], odrzuć ją. Borgo otrzymuje 0 [[ICON2]].",0.867
+218,"c. Otherwise, Borgo Razes the targeted Location or Outpost and scores 2 [[ICON1]]. Flip the targeted Location and gain the Good from the Deal field or discard the Outpost token.",c. W przeciwnym razie Borgo Plądruje docelową Lokację albo Posterunek i otrzymuje 2 [[ICON1]]. Odwróć splądrowaną Lokację i otrzymaj Zasoby z jej Umowy lub odrzuć żeton Posterunku.,0.836
+219,Draw the top card from the deck. Borgo immediately Builds it for free.,Dobierz wierzchnią kartę z talii. Borgo natychmiast buduje ją za darmo.,0.834
+220,Borgo activates an available Open Production Location and then resolves an Action depending on the expansion used.,"Borgo aktywuje dostępną Lokację z Otwartą Produkcją, a następnie wykonuje Akcję zależną od użytego dodatku.",0.866
+221,Winter – add 1 Brawler to Borgo’s State.,Gra podstawowa – brak efektu Zima – dodaj 1 Awanturnika do stanu Borgo.,0.743
+222,"New Era – place a [[ICON1]] on the Location in Borgo’s State with the highest Distance. If there are multiple available cards, pick Action Locations, then Feature Locations, and finally Production Locations.","Nowa Era – połóż [[ICON1]] na Lokacji z największym Dystansem w Stanie Borgo. Jeśli jest kilka dostępnych kart, wybierz Lokację z Akcją, następnie Lokację z Cechą, a na końcu Lokację Produkcyjną.",0.923
+223,Scavengers – Borgo discards 1 Brawler. Then Borgo Builds the top card from your personal discard pile (if possible).,Zgliszcza – Borgo odrzuca 1 Awanturnika. Następnie Borgo Buduje wierzchnią kartę ze swojego osobistego stosu kart odrzuconych (jeśli to możliwe).,0.892
+224,"Allies – resolve Borgo’s Attack, but Borgo may only target the Locations of any Alliance. If you don’t have such a Location, Borgo scores 1 [[ICON1]].","Sojusznicy – rozpatrz Atak Borgo, ale Borgo może wybrać za cel tylko Lokacje dowolnego Sojuszu. Jeśli nie masz takiej Lokacji, Borgo otrzymuje 1 [[ICON1]].",0.93
+225,"Moloch – Borgo discards 1 Brawler. Borgo Hacks a random Deployed Machine and places it with the Hacked side face up in Borgo’s State. If there are no Deployed Machines, Borgo scores 1 [[ICON1]].","Moloch – Borgo odrzuca 1 Awanturnika. Hakuje losową rozmieszczoną Maszynę i umieszcza ją w swoim Stanie zhakowaną stroną ku górze. Jeśli nie ma żadnych rozmieszczonych Maszyn, Borgo otrzymuje 1 [[ICON1]].",0.903

@@ -1,0 +1,226 @@
+﻿id,en,pl,sim
+901,1. Discard the KO token.,1. Odrzuć twój żeton Powalenia.,0.71
+902,2. Draw up to your hand size limit.,2. Dobierz karty do twojego limitu kart na ręce.,0.723
+903,3. Stand your miniature up on the board to indicate that you are not KO’d anymore.,"3. Postaw figurkę twojego Łowcy na planszy Walki, aby wskazać, że nie jest już Powalony.",0.765
+904,KO token (front side),Żeton Powalenia (awers),0.528
+905,KO token (back side),Żeton Powalenia (rewers),0.322
+906,BACK IN THE FIGHT!,POWRÓT DO WALKI!,0.776
+907,"KO and Rise: Example At a certain point in the game, Bob is knocked out. He takes a KO token and places it on his hunter board (red side face up).",Powalenie i Powstanie: Przykład W pewnym momencie gry Bartek zostaje Powalony. Bierze żeton Powalenia i umieszcza go na swojej planszy Łowcy (czarno-czerwoną stroną ku górze).,0.743
+908,"1. At the beginning of what would be his next turn, Bob flips his KO token to its black side and then play passes to the next player.","1. Na początku swojej następnej Tury Bartek odwraca żeton Powalenia na stronę czarno-białą, a następnie Tura przechodzi do kolejnego gracza.",0.74
+909,"2. At the beginning of what would be his next turn, Bob discards the KO token and rises: He draws up to his hand size limit and stands up his hunter miniature on the board.",2. Na początku swojej następnej Tury Bartek odrzuca swój żeton Powalenia i wykonuje Akcję Powstania: stawia figurkę swojego Łowcy na planszy Walki i dobiera karty na rękę do swojego limitu.,0.731
+910,SUFFERING DAMAGE AND BEING KNOCKED OUT,OTRZYMYWANIE OBRAŻEŃ I POWALENIE,0.658
+911,DEPLETE TOKENS,ŻETONY ZUŻYCIA,0.497
+912,"Wound cards are special cards that are added to your deck as a consequence of being KO’d. They clog up your deck, making it less efficient, and represent the serious injuries that your hunter has suffered.","Karty Ran to specjalne karty dodawane do talii gracza w wyniku Powalenia. Zajmują miejsce w talii, zmniejszając jej skuteczność, i odzwierciedlają poważne rany odniesione przez Łowcę gracza.",0.808
+913,Each player has their own reserve of 2 Wound cards (identify which are yours by checking the hunter class icon on the back).,"Każdy gracz ma własny zapas 2 kart Rany (może rozpoznać, które karty należą do niego, sprawdzając symbol klasy Łowcy na rewersach kart).",0.859
+914,Wound card,Karta Rany,0.592
+915,WOUND CARDS,KARTY RAN,0.761
+916,"At the end of your turn, follow the steps below:",Po zakończeniu swojej Tury wykonaj poniższe kroki:,0.779
+917,1. 【B】Discard your sequence:【/B】 Discard all cards from your sequence in the order you played them (the last card you played in your sequence becomes the top card of your discard pile).,1. 【B】Odrzuć twoją sekwencję:【/B】 Odrzuć wszystkie karty z twojej sekwencji w kolejności ich zagrywania (ostatnia karta z sekwencji będzie wierzchnią kartą na twoim stosie kart odrzuconych).,0.914
+918,"2. 【B】Refill your hand:【/B】 Draw cards from your deck until you reach your hand size limit (which is 5 by default). If you empty your deck this way, reshuffle your discard pile to form a new deck and then draw any remaining cards.","2. 【B】Uzupełnij rękę:【/B】 Dobieraj karty z twojej talii do momentu, aż osiągniesz twój limit kart na ręce (domyślnie wynosi 5). Jeśli twoja talia stanie się w ten sposób pusta, przetasuj twój stos kart odrzuconych, aby utworzyć nową talię i dobierz pozostałe karty. Uwaga! Jeśli przed uzupełnieniem twojej ręki masz na niej więcej kart, niż wynosi twój limit, musisz odrzucić nadmiarowe karty.",0.883
+919,"Play now passes to the next player. When each player has completed their turn, the round ends.","Swoją Turę wykonuje kolejny gracz. Gdy każdy gracz wykonał swoją Turę, Runda się kończy.",0.781
+920,END OF THE PLAYER’S TURN,FAZA KOŃCA TURY,0.723
+921,The game is based around a dynamic reaction system in which the monster’s behavior cards are triggered in response to specific events and players’ actions.,"Gra opiera się na dynamicznym systemie reakcji, w którym karty Zachowania Potwora są aktywowane w odpowiedzi na określone zdarzenia i Akcje graczy.",0.861
+922,Each behavior card has a reaction icon on the back that represents a specific triggering condition.,"Na rewersie każdej takiej karty znajduje się symbol reakcji, odpowiadający konkretnemu warunkowi aktywacji.",0.784
+923,[[ICON1]]Trigger: After a player plays an attack card in their sequence.,[[ICON1]]Aktywacja: Po zagraniu przez gracza karty Ataku w jego sekwencji.,0.807
+924,[[ICON1]]Trigger: After a player plays a maneuver card in their sequence.,[[ICON1]]Aktywacja: Po zagraniu przez gracza karty Manewru w jego sekwencji.,0.802
+925,[[ICON1]]Trigger: After a player plays a parry card in their sequence.,[[ICON1]]Aktywacja: Po zagraniu przez gracza karty Parowania w jego sekwencji.,0.793
+926,Trigger: After a player plays a dodge card in [[ICON1]]their sequence.,[[ICON1]]Aktywacja: Po zagraniu przez gracza karty Uniku w jego sekwencji.,0.739
+927,[[ICON1]]Trigger: At the end of the round.,[[ICON1]]Aktywacja: Na koniec Rundy.,0.785
+928,[[ICON1]]Trigger: When a player starts their turn in the front sector.,[[ICON1]]Aktywacja: Gdy gracz rozpoczyna swoją Turę w przednim sektorze.,0.837
+929,[[ICON1]]Trigger: When a player starts their turn in the flank sector.,[[ICON1]]Aktywacja: Gdy gracz rozpoczyna swoją Turę w bocznym sektorze.,0.838
+930,[[ICON1]]Trigger: When a player starts their turn in the rear sector.,[[ICON1]]Aktywacja: Gdy gracz rozpoczyna swoją Turę w tylnym sektorze.,0.848
+931,[[ICON1]]Trigger: When you resolve another behavior card in play (see the Rampage step of the Behavior Card Resolution on the next page). 【B】Note:【/B】 Behavior cards with this reaction icon are called rampage cards.,[[ICON1]]Aktywacja: Gdy gracz rozpatruje inną kartę Zachowania będącą w grze (zob. krok Szału w sekcji Rozpatrywania kart Zachowania na następnej stronie). 【B】Uwaga!【/B】 Karty Zachowania z tym symbolem reakcji nazywane są kartami Szału.,0.82
+932,MONSTER REACTION SYSTEM,SYSTEM REAKCJI POTWORA,0.773
+933,Some behavior cards feature a boost effect at the bottom of the card. This is an additional ability that is resolved during the Reaction step of the card resolution.,"W dolnej części niektórych kart Zachowania znajduje się efekt Wzmocnienia. Jest to dodatkowa zdolność, która jest rozpatrywana podczas kroku Reakcji.",0.777
+934,"To resolve the boost effect, remove an amount of struggle tokens from the monster equal to the related boost cost ( [[ICON1]] ) and then resolve the boost ability text.","Aby rozpatrzyć efekt Wzmocnienia, usuń z planszy Potwora żetony Starcia o łącznej wartości równej kosztowi tego Wzmocnienia ( [[ICON1]] ), a następnie rozpatrz ten efekt Wzmocnienia.",0.735
+935,"When a behavior card in play is triggered, reveal that card (turn it face up) and resolve it by performing the following steps in order:","Gdy karta Zachowania będąca w grze zostaje aktywowana, odkryj tę kartę (odwróć awersem ku górze) i rozpatrz ją, wykonując poniższe kroki w podanej kolejności:",0.786
+936,1. Reaction: Apply its effect by resolving the card base ability text and its boost effect (if any).,"1. Reakcja: Zastosuj efekt karty, rozpatrując jej opis zdolności Podstawowej oraz jej efekt Wzmocnienia (jeśli występuje i dotyczy).",0.839
+937,2. Rampage: Trigger any rampage cards in play (rampage cards are explained in detail on the next page).,"2. Szał: Aktywuj wszystkie karty Szału, które są w grze (karty Szału zostały szczegółowo omówione na następnej stronie).",0.852
+938,Behavior Card Resolution: Example,Rozpatrzenie karty Zachowania: Przykład,0.761
+939,1. Alice plays a maneuver card in her sequence and resolves all effects related to that maneuver card (including any triggered abilities on her cards in play).,1. Alicja zagrywa w swojej sekwencji kartę Manewru i rozpatruje wszystkie powiązane z nią efekty (w tym wszystkie aktywowane zdolności swoich kart w grze).,0.851
+940,"2. By playing a [[ICON1]], she triggers the behavior card in the leftmost slot.","2. Zagrywając [[ICON1]], Alicja aktywuje kartę Zachowania znajdującą się najbardziej z lewej strony na planszy Potwora.",0.731
+941,3. Alice reveals the triggered behavior and performs the Reaction step by resolving the card ability text and boost effect.,"3. Alicja odkrywa aktywowaną kartę Zachowania i wykonuje krok Reakcji, rozpatrując opis zdolności karty oraz efekt Wzmocnienia.",0.78
+942,"4. Since there are no rampage cards in play (behavior cards with the [[ICON1]] icon), nothing happens during the Rampage step.","4. Ponieważ aktualnie w grze nie ma kart Szału (kart Zachowania z symbolem [[ICON1]]), podczas kroku Szału nic się nie dzieje.",0.887
+943,5. Alice discards the triggered behavior card and refills the behavior slot with the top card of the behavior deck.,"5. Alicja odrzuca aktywowaną kartę Zachowania, a następnie w jej miejsce umieszcza wierzchnią kartę z talii kart Zachowania.",0.788
+944,BEHAVIOR CARD RESOLUTION,ROZPATRYWANIE KART ZACHOWANIA,0.679
+945,BOOST EFFECT,EFEKT WZMOCNIENIA,0.864
+946,"Behavior cards that feature the [[ICON1]] reaction icon are called rampage cards. Rampage cards are triggered and revealed during the Rampage step of the resolution of another behavior card in play, which is called the triggering behavior.","Karty Zachowania z symbolem reakcji [[ICON1]] zwane są kartami Szału. Karty Szału są aktywowane i odkrywane podczas kroku Szału w trakcie Rozpatrywania innej karty Zachowania w grze, co nazywane jest Zachowaniem aktywującym.",0.79
+947,"When a rampage card is triggered, follow these special rules:","Gdy karta Szału jest aktywowana, wykonaj poniższe kroki zasad specjalnych:",0.815
+948,• A triggered rampage card must be revealed and resolved immediately: Turn it face up and apply its effect by resolving its base ability text and any boost effect.,"• Aktywowana karta Szału musi zostać odkryta i rozpatrzona natychmiast: Odkryj kartę i zastosuj jej efekty, rozpatrując jej opis zdolności podstawowej oraz efekt Wzmocnienia.",0.794
+949,"【B】Note:【/B】 If multiple rampage cards are triggered, reveal and resolve those cards one at a time, in the order of your choice. Then discard all triggered rampage cards (and replenish their behavior slots) along with the triggering behavior card during the final step of that card’s resolution.","• Aktywowana karta Szału jest odrzucana (a miejsce na kartę Zachowania jest uzupełniane) podczas kroku Odrzucenia i uzupełnienia w trakcie rozpatrywania tej karty. 【B】Uwaga!【/B】 Jeśli więcej kart Szału jest aktywowanych jednocześnie, odkrywaj i rozpatruj je pojedynczo, jedną po drugiej, w dowolnej kolejności. Następnie odrzuć wszystkie aktywowane karty Szału (i uzupełnij ich miejsce nowymi kartami z talii kart Zachowania) wraz z aktywującą kartą Zachowania podczas ostatniego kroku rozpatrywania tej karty.",0.799
+950,Rampage: Example,Szał: Przykład,0.833
+951,"1. After playing a [[ICON1]] in his sequence and resolving all effects related to that card, Bob triggers the behavior card in the leftmost slot.","1. Po zagraniu [[ICON1]] w swojej sekwencji i rozpatrzeniu wszystkich powiązanych z kartą efektów, Bartek aktywuje kartę Zachowania na miejscu najbardziej z lewej.",0.763
+952,2. Bob reveals the triggered behavior card and performs the Reaction step by resolving the card ability text and its boost effect.,"2. Bartek odkrywa aktywowaną kartę Zachowania i wykonuje krok Reakcji, rozpatrując opis zdolności karty i jej efekt Wzmocnienia.",0.781
+953,3. Bob resolves the Rampage step by triggering the rampage card in play. Bob immediately reveals the triggered rampage card: He turns it face up and resolves its ability text and boost effect.,"3. Bartek rozpatruje krok Szału, aktywując kartę Szału w grze. Bartek natychmiast odkrywa aktywowaną kartę Szału i rozpatruje jej opis zdolności podstawowej oraz efekt Wzmocnienia.",0.728
+954,RAMPAGE CARDS,KARTY SZAŁU,0.789
+955,ESCALATION,ESKALACJA,0.832
+956,"When multiple behavior cards in play are triggered, reveal and resolve those cards one at a time, in the order of your choosing. You can use the trigger tokens to indicate that a behavior card has been triggered: Simply place the trigger token on the card and then remove it once you reveal that card. This is useful for keeping track of multiple triggered behavior cards or when time elapses between the triggering event and the behavior card reveal.","Gdy aktywowanych zostanie kilka kart Zachowania w grze, odkrywaj i rozpatruj je pojedynczo, jedną po drugiej, w dowolnej kolejności. Możesz użyć żetonów Aktywacji, aby oznaczać karty Zachowania, które zostały aktywowane. W tym celu po prostu umieść na aktywowanej karcie Zachowania żeton Aktywacji i odrzuć go po odkryciu danej karty. Ta metoda pomaga kontrolować, które karty zostały aktywowane oraz pamiętać o tym fakcie, gdy od momentu aktywacji do rozpatrzenia danej karty wystąpią inne efekty.",0.825
+957,The new behavior card that enters play is a rampage card (in the leftmost slot).,"Nowa karta Zachowania, która weszła do gry, to karta Szału (na miejscu najbardziej z lewej).",0.77
+958,"3. Charlie reveals and resolves the remaining triggered behavior card: They remove the trigger token, turn the card face up and resolve its effect.","3. Czarek odkrywa i rozpatruje kolejną aktywowaną kartę Zachowania, rozpatruje wszystkie jej efekty i odrzuca żeton Aktywacji.",0.715
+959,Multiple Behavior Card Resolution: Example,Rozpatrywanie wielu kart Zachowania: Przykład,0.774
+960,"1. After playing an attack card in their sequence and resolving all effects related to that card, Charlie triggers both behavior cards in play that have the [[ICON1]] reaction icon. To keep track of multiple behavior cards to be revealed, Charlie places a trigger token on each of those cards.","1. Po zagraniu karty Ataku w swojej sekwencji i rozpatrzeniu wszystkich powiązanych z tą kartą efektów, Czarek aktywuje obie karty Zachowania w grze, na których widoczny jest symbol reakcji [[ICON1]] Aby pamiętać, które karty Zachowania mają zostać odkryte, Czarek umieszcza na każdej z nich żeton Aktywacji.",0.815
+961,Trigger token,Żeton Aktywacji,0.639
+962,MULTIPLE BEHAVIOR CARD RESOLUTION,ROZPATRYWANIE WIELU KART ZACHOWANIA,0.652
+963,"• If you reach the end of round 10, you failed the scenario (the hunters are no longer able to sustain the battle against the monster).","• Skończyła się Runda 10, a gracze nie pokonali Potwora (Łowcy nie są już w stanie odpierać ataków Potwora).",0.839
+964,"Note: Some monsters might feature special failure conditions. If this is the case, those conditions are explained on the corresponding cards.",Uwaga! W przypadku niektórych Potworów mogą obowiązywać specjalne warunki porażki. W takiej sytuacji są one wyjaśnione na odpowiednich kartach.,0.859
+965,SUCCESS AND FAILURE CONDITIONS,WARUNKI ZWYCIĘSTWA I PORAŻKI,0.65
+966,"Don’t get discouraged if you lose! The monsters are tough and are designed to provide a challenging experience. If you fail, repeat the combat until you successfully complete the Prologue. You need to do this before you start your first campaign.","Porażka to nie powód do poddania się! Potwory są trudnymi przeciwnikami, a walka z nimi ma stanowić wyzwanie. Jeśli poniesiesz porażkę, powtarzaj Prolog, aż odniesiesz zwycięstwo. Musisz tego dokonać, nim rozpoczniesz swoją pierwszą Kampanię.",0.815
+967,TRY AGAIN!,SPRÓBUJ JESZCZE RAZ!,0.806
+968,"It could be that multiple card abilities trigger at the same time. When that occurs, unless otherwise specified by the card text, the cards are resolved in the following order of priority, from left to right:","Może się zdarzyć, że w tym samym momencie zostaną aktywowane zdolności kilku kart. W takiej sytuacji, o ile opis karty nie stanowi inaczej, karty należy rozpatrywać we wskazanej poniżej kolejności priorytetu, od lewej do prawej:",0.857
+969,This means a player can maximize their combos and synergies by choosing the order in which they resolve any simultaneous effects.,"Oznacza to, że gracz może jak najlepiej wykorzystać swoje kombinacje i synergie, wybierając kolejność rozpatrywania wszelkich efektów działających w tym samym czasie.",0.782
+970,CARD RESOLUTION TIMING,KOLEJNOŚĆ ROZPATRYWANIA KART,0.732
+971,LET’S PLAY!,ZAGRAJMY!,0.889
+972,Congratulations on completing the Prologue!,Gratulujemy ukończenia Prologu!,0.93
+973,This begins your adventure into the world of Thyrea.,To dopiero początek twojej przygody w świecie Thyrei.,0.879
+974,END OF PROLOGUE,KONIEC PROLOGU,0.919
+975,"You have never faced a monster of such size and ferocity. It was a Vyraxen. One of the seekers had theorized its existence, but a live specimen had never been sighted. Etched into your memories, its flaming eyes still seem to be burning.","Nigdy wcześniej nie przyszło wam mierzyć się z tak wielkim i wściekłym Potworem. To był Vyraxen. Jeden z Poszukiwaczy już dawno temu wysnuł teorię o jego istnieniu, ale jeszcze nikt nigdy nie widział żywego okazu na własne oczy. Jego ognisty wzrok wrył się wam w pamięć, a oczy zdają się nadal płonąć.",0.846
+976,CAMPAIGN RULES,ZASADY KAMPANII,0.704
+977,CAMPAIGN OBJECTIVE,CEL KAMPANII,0.661
+978,"You will be able to replay a campaign as often as you wish. After you have completed a campaign for the first time, there will still remain much to be discovered. The background story will be the same, but playing through a campaign multiple times will give you the opportunity to encounter different monsters, unlock different quest paths and rewards, and uncover more details about the lore of the game.","Kampanię można powtarzać dowolną liczbę razy. Po ukończeniu Kampanii po raz pierwszy, jeszcze wiele sekretów pozostanie do odkrycia. Choć tło fabularne się nie zmienia, ponowne rozgrywanie Kampanii daje możliwość napotkania innych Potworów, odblokowania innych Wypraw i Nagród oraz poznania kolejnych informacji na temat świata gry.",0.853
+979,Campaign book,Księga Kampanii,0.914
+980,"As players progress through the chapters, they will fight numerous different monsters, gather resources, upgrade their equipment and customize their hunter.","Czyniąc postępy w Rozdziałach, gracze będą walczyć z licznymi Potworami, zbierać Zasoby, ulepszać Ekwipunek i personalizować swoich Łowców.",0.871
+981,"In Campaign mode, players commence an adventure within the world of Thyrea that unfolds across multiple game sessions, with each game impacting subsequent games.","W trybie Kampanii gracze przeżywają przygodę w świecie Thyrei, składającą się z wielu rozgrywek, z których każda wpływa na kolejną.",0.861
+982,"A campaign is structured in 11 Chapters. Each Chapter moves the story forward and offers the players different quests to choose from, which each correspond to a unique game scenario.","Kampania podzielona jest na 11 Rozdziałów. Każdy z nich posuwa fabułę do przodu i oferuje graczom do wyboru różne Wyprawy, z których każda odpowiada unikalnemu Scenariuszowi gry.",0.894
+983,CAMPAIGN OVERVIEW,OMÓWIENIE KAMPANII,0.736
+984,"The Prologue is a necessary step into the Campaign mode. Each time you start a new campaign, you begin with the Prologue scenario (page 3).","Aby móc rozegrać Kampanię, konieczne jest ukończenie Prologu. Za każdym razem, gdy rozpoczynasz nową Kampanię, zacznij od Scenariusza Prologu (str. 3).",0.843
+985,PLAY THE PROLOGUE,ROZEGRANIE PROLOGU,0.795
+986,"The Campaign mode offers a narrative experience that enriches the gameplay of the scenarios, immersing players in the world of Primal: The Awakening.","Kampania oferuje wciągającą fabułę, która wzbogaca rozgrywkę i pozwala graczom zanurzyć się w świecie gry Primal: Przebudzenie.",0.813
+987,APPROACHING THE LORE,JAK ODNALEŹĆ SIĘ W ŚWIECIE GRY,0.353
+988,COMPONENT LIST,LISTA KOMPONENTÓW,0.938
+989,6x Dareon Mastery card,6 kart Mistrzostwa Dareona,0.671
+990,6x Mirah Mastery card,6 kart Mistrzostwa Mirah,0.7
+991,6x Thoreg Mastery card,6 kart Mistrzostwa Thorega,0.657
+992,6x Ljonar Mastery card,6 kart Mistrzostwa Ljonara,0.673
+993,44x Mirah Action card,44 karty Akcji Dareona,0.638
+994,1x Combat board,1 plansza Walki,0.613
+995,Mirah hunter board,Figurka i plansza Łowcy: Mirah,0.541
+996,Thoreg hunter board,Figurka i plansza Łowcy: Thoreg,0.523
+997,Ljonar hunter board,Figurka i plansza Łowcy: Ljonar,0.463
+998,6x Kharja Stance card,6 kart Postawy Kharji,0.643
+999,1x Orouxen Objective card,1 karta Celu Orouxena,0.735
+1000,3x Vyraxen Peril card,3 karty Opresji Vyraxena,0.595
+1001,2x Toramat Peril card,2 karty Opresji Toramata,0.687
+1002,3x Korowon Peril card,3 karty Opresji Korowona,0.656
+1003,3x Dygorax Peril card,3 karty Opresji Dygoraxa,0.63
+1004,3x Orouxen Peril card,3 karty Opresji Orouxena,0.677
+1005,6x Felaxir Stance card,6 kart Postawy Felaxira,0.685
+1006,6x Hurom Stance card,6 kart Postawy Huroma,0.69
+1007,6x Jekoros Stance card,6 kart Postawy Jekorosa,0.699
+1008,5x Ozew Swarm card,5 kart Roju Ozewa,0.701
+1009,6x Ozew Stance card,6 kart Postawy Ozewa,0.691
+1010,40x Damage token (1/5),40 żetonów Obrażeń (1/5),0.778
+1011,16x Damage token (10/50),16 żetonów Obrażeń (10/50),0.8
+1012,4x Burning token,4 żetony Podpalenia,0.678
+1013,4x Disrupt token,4 żetony Zakłócenia,0.651
+1014,4x Exhaust token,4 żetony Wyczerpania,0.646
+1015,4x Acceleration token,4 żetony Przyspieszenia,0.738
+1016,4x Threatened token,4 żetony Zagrożenia,0.698
+1017,1x Hardening marker,1 znacznik Utwardzenia,0.803
+1018,1x Charge marker,1 znacznik Naładowania,0.867
+1019,1x Vulnerable token,1 żeton Wrażliwości,0.623
+1020,1x First Player token,1 znacznik Pierwszego Gracza,0.872
+1021,76x Armor card,76 kart Zbroi,0.61
+1022,8x Helm card (special set),8 zestawów Specjalnych (Hełm),0.718
+1023,8x Armor card (special set),8 zestawów Specjalnych (Zbroja),0.73
+1024,144x Item card,144 karty Przedmiotu,0.836
+1025,25x Reward card,25 kart Nagrody,0.753
+1026,2x Wildmaw terrain token,2 żetony Dzikiej Paszczy (Teren),0.602
+1027,2x Plateau terrain token,2 żetony Płaskowyżu (Teren),0.68
+1028,2x Baethanis terrain token,2 żetony Baethanis (Teren),0.721
+1029,30x Quest card,30 kart Wyprawy,0.73
+1030,14x Special Attrition card,14 specjalnych kart Wyniszczenia,0.756
+1031,10x Attrition card,10 kart Wyniszczenia,0.632
+1032,The Awakened miniature,Figurka Potwora:,0.281
+1033,2x The Awakened monster board,2 plansze Potwora: Przebudzony,0.588
+1034,3x The Awakened Objective card,3 karty Celu Przebudzonego,0.687
+1035,2x Awakening card,2 karty Przebudzenia,0.767
+1036,6x The Awakened Peril card,6 kart Opresji Przebudzonego,0.636
+1037,4x Ballista token,4 żetony Balisty,0.595
+1038,1x Storm marker,1 znacznik Burzy,0.812
+1039,1x Envelope,1 koperta,0.805
+1040,"In this section, we introduce the Forge, the Herbalist, the deckbuilding rules and the quest cards. These are important concepts that you need to learn in order to play the Campaign mode. Once you have assimilated them, you will be ready to learn how to set up and play your first campaign.","W tej sekcji opiszemy Kuźnię, Chatę Zielarki, zasady budowania talii oraz karty Wyprawy. To ważne pojęcia, które musisz znać, aby grać w trybie Kampanii. Gdy już się z nimi zapoznasz, będziesz gotów na przygotowanie i rozegranie twojej pierwszej Kampanii.",0.876
+1041,"The Forge represents the location where you will craft any weaponry you might use in battle. As you progress through the campaign, you will specialize in crafting unique equipment, based on the monsters you have slain. Each monster in the game is associated with a specific element (for example: Vyraxen, the monster you encountered in the Prologue, is associated with the element of fire [[ICON1]]). As a reward for defeating a monster, players will be instructed to unlock the forge card associated with that monster’s element. Once unlocked, a forge card becomes available for all players to use, for the remainder of the campaign.","Kuźnia to lokacja w której będziesz wytwarzać wszelkiego rodzaju Bronie, które będziesz mógł wykorzystać w trakcie Walki. Wraz z postępem Kampanii, będziesz się specjalizować w wytwarzaniu unikalnego Ekwipunku, w oparciu o Potwory, jakie zostały pokonane. Każdy Potwór w grze powiązany jest z konkretnym żywiołem (np. Vyraxen, Potwór, który pojawia się w Prologu, powiązany jest z żywiołem ognia [[ICON1]]). Jako Nagrodę za pokonanie Potwora gracze mogą odblokować kartę Kuźni odpowiadającej żywiołowi tego Potwora. Po odblokowaniu karty Kuźni, mogą z niej korzystać wszyscy gracze do końca Kampanii.",0.855
+1042,"Each forge card represents a unique enhancement of the Forge and, in particular, the ability to craft equipment of a specific element. A forge card lists the pieces of equipment you can craft during the campaign if you have the required materials it indicates. It features a weapon for each hunter class, armor [[ICON1]], a helm [[ICON2]] and two items [[ICON3]].","Każda karta Kuźni reprezentuje unikalne ulepszenie Kuźni, a w szczególności możliwość tworzenia Ekwipunku danego żywiołu. Na karcie Kuźni znajduje się lista Ekwipunku, jaki możesz wytworzyć podczas Kampanii, o ile posiadasz wymagane materiały. Na tej liście znajduje się Broń dla każdej klasy Łowcy, Zbroja [[ICON1]], Hełm [[ICON2]] oraz dwa Przedmioty [[ICON3]].",0.836
+1043,Forge card,Karta Kuźni,0.542
+1044,Element,Żywioł,0.644
+1045,Forge cards,Karty Kuźni,0.681
+1046,KEY CONCEPTS,PODSTAWOWE POJĘCIA,0.584
+1047,THE FORGE,KUŹNIA,0.551
+1048,Horn,Róg,0.605
+1049,Zima,Zimno,0.894
+1050,Level 1,Poziom 1,0.962
+1051,Level 2,Poziom 2,0.966
+1052,Level 3,Poziom 3,0.966
+1053,Bones,Kości,0.726
+1054,Crystal,Kryształ,0.885
+1055,Blood,Krew,0.624
+1056,Fire,Ogień,0.919
+1057,• Materials: All monsters drop a combination of materials obtained from its body parts.,• Materiały: Każdy Potwór po pokonaniu pozostawia po sobie zestaw surowców powiązanych z jego częściami ciała.,0.835
+1058,UPGRADING THE FORGE,ULEPSZENIE KUŹNI,0.639
+1059,Coral,Koralowiec,0.678
+1060,"Crafting equipment is a way for players to customize their character and their playstyle. Players can craft equipment cards by spending elements and materials from their crafting reserve. To craft a piece of equipment listed on a forge card, you must:","Wytwarzanie Ekwipunku to sposób na dostosowywanie Postaci i jej stylu gry do preferencji gracza. Gracze mogą Wytwarzać karty Ekwipunku, wydając żywioły i materiały ze swojej rezerwy surowców. Aby wytworzyć konkretny Ekwipunek wskazany na karcie Kuźni, musisz:",0.817
+1061,"When you craft a piece of equipment, take the corresponding equipment card from the box and add it to the set of equipment cards you already have. Those cards form your equipment deck. Each time you craft a piece of equipment, update your crafting reserve on your character sheet by removing the amount of resources spent (for more details on the character sheet, see page 57).","Wytwarzając Ekwipunek, weź z pudełka odpowiednią kartę Ekwipunku i dodaj ją do zestawu kart Ekwipunku, które już posiadasz. Te karty tworzą twoją talię Ekwipunku. Za każdym razem, gdy wytwarzasz Ekwipunek, musisz odpowiednio zaktualizować twoją rezerwę surowców na karcie Postaci, odejmując z niej wszystkie surowce, które wykorzystałeś do wytworzenia Ekwipunku (karta Postaci została szczegółowo omówiona na str. 57).",0.855
+1062,"【B】Crafting Equipment: Example【/B】 Alice wants to craft the Red Scale Armor listed on the Level 1 Fire forge card. First, she spends 1 Fire element ([[ICON1]]) from her crafting reserve. Then she spends the materials listed in the Red Scale Armor’s requirement list: 1 Scales ( [[ICON2]]) and 1 Blood ( [[ICON3]]).","【B】Wytwarzanie Ekwipunku: Przykład【/B】 Alicja chce wytworzyć Zbroję z Czerwonej Łuski widoczną na karcie Kuźni Poziomu 1. Najpierw wydaje 1 Ogień ([[ICON1]]) ze swojej rezerwy surowców. Następnie wydaje wymagane materiały, wymienione przy Zbroi z Czerwonej Łuski: 1 Łuskę ( [[ICON2]]) i 1 Krew ( [[ICON3]]).",0.883
+1063,HOW TO CRAFT EQUIPMENT,WYTWARZANIE EKWIPUNKU,0.473
+1064,Level 1 Flame Tongue,Język Ognia – Poziom 1,0.774
+1065,Level 2 Flame Tongue,Język Ognia – Poziom 2,0.785
+1066,• Spend 1 element of any type in place of any 1 material. Example: You may spend 1 Fire element ([[ICON1]]) in place of 1 Scales ( [[ICON2]]).,• Wydaj 1 dowolny żywioł zamiast 1 dowolnego materiału. Przykład: Możesz wydać 1 Ogień ([[ICON1]]) zamiast 1 Łuski ( [[ICON2]]).,0.925
+1067,• Spend 2 materials of any type in place of any 1 material. Example: You may spend 1 Zima ( [[ICON1]]) and 1 Iride ( [[ICON2]]) in place of 1 Scales ( [[ICON3]]).,• Wydaj 2 dowolne materiały zamiast 1 dowolnego materiału. Przykład: Możesz wydać 1 Zimno ( [[ICON1]]) i 1 Iride ( [[ICON2]]) zamiast 1 Łuski ( [[ICON3]]).,0.93
+1068,"• Discard an equipment card you already own instead of spending any 1 material. Example: You may discard your Great Sword base weapon card instead of spending 1 Scales ( [[ICON1]]) 【B】Note:【/B】 When you discard an equipment card to obtain a resource, return that card to the box.","• Odrzuć kartę Ekwipunku, którą już posiadasz, zamiast wydawania 1 dowolnego materiału. Przykład: Możesz odrzucić kartę podstawowej Broni: Wielki Miecz, zamiast wydawania 1 Łuski ( [[ICON1]]). 【B】Uwaga!【/B】 Gdy odrzucasz kartę Ekwipunku jako surowiec, odłóż tę kartę do pudełka.",0.88
+1069,"If you want to craft a higher-level version of an equipment card you already own, you are upgrading that equipment. When you upgrade a piece of equipment, you do not need to spend any elements (due to the Resource conversion rules). Simply discard the lower-level card (return it to the box) and spend the materials indicated in the requirements list for the upgraded equipment.","Jeśli chcesz wytworzyć kartę Ekwipunku wyższego Poziomu niż ta, którą już posiadasz, dokonujesz ulepszenia tego Ekwipunku. Ulepszając Ekwipunek nie wydajesz żywiołu na to ulepszenie (zgodnie z zasadami przekształcania surowców). Po prostu odrzuć kartę niższego Poziomu (odłóż ją do pudełka) i wydaj niezbędne materiały wskazane przy ulepszanym Ekwipunku.",0.828
+1070,1x Scales,1x Łuska,0.781
+1071,Great Sword card in place of [[ICON1]],Karta Wielkiego Miecza w zamian za [[ICON1]],0.832
+1072,Level 1 Red Scale Armor,Zbroja z Czerwonej Łuski – Poziom 1,0.784
+1073,HOW TO UPGRADE EQUIPMENT,JAK ULEPSZAĆ EKWIPUNEK,0.705
+1074,1x Blood,1x Krew,0.855
+1075,Herbalist card,Karta Chaty Zielarki,0.376
+1076,Level,Poziom,0.915
+1077,Receipt,Receptura,0.828
+1078,Potions,Eliksiry,0.596
+1079,"As a reward for successfully completing a quest, players will gain plant resources that can be combined to obtain the different types of potions listed on the herbalist card.","Jako Nagrodę za ukończenie Wyprawy, gracze otrzymują składniki, których różne kombinacje pozwalają na przyrządzanie Eliksirów wskazanych na karcie Chaty Zielarki.",0.72
+1080,"The regions of Thyrea are rich in herbs and plants with special properties, which will be obtained as rewards for completing a quest. The entire collection of plant resources a player holds is called their plant reserve and is tracked on your character sheet (for more details on the character sheet, see page 57). Below is the list of plant resources and their corresponding icons:","Ziemie Thyrei są bogate w zioła i roślinność o wyjątkowych właściwościach, które gracze mogą zdobyć za ukończenie Wyprawy. Wszystkie składniki, jakie posiadasz, tworzą twoją rezerwę składników, którą śledzisz na twojej karcie Postaci (karta Postaci została szczegółowo opisana na str. 57). Poniżej znajduje się lista składników i odpowiadających im symboli:",0.833
+1081,The herbalist card represents the ability to prepare powerful potions for use in combat.,Karta Chaty Zielarki reprezentuje zdolność do przyrządzania silnych Eliksirów możliwych do użycia w Walce.,0.718
+1082,THE HERBALIST,CHATA ZIELARKI,0.396
+1083,PLANT RESOURCES,SKŁADNIKI,0.433
+1084,"Unlike the equipment cards, potion cards are single-use effect cards: Once you use them in combat through their Consume ability, they are removed from the game (return them to the box). You will have to prepare them again in order to use them in later scenarios!","W przeciwieństwie do kart Ekwipunku, karty Eliksiru to karty z jednorazowym efektem: Gdy w trakcie Walki używasz karty ze zdolnością Wykorzystania, ta karta jest usuwana z gry (odłóż ją do pudełka). Będziesz musiał ponownie przygotować ten Eliksir, jeśli będziesz chciał skorzystać z niego w przyszłych Scenariuszach!",0.831
+1085,"Starting with Imperia, Alice spends 1 Anthemon and 1 Nillea as shown in the requirements list. To prepare Evok, she must spend 1 Tarmaret and then chooses whether to use Anthemon or Mellis. She has no Anthemon left in her reserve, so she spends 1 Mellis.","Alicja rozpoczyna przyrządzanie Eliksiru Imperia i wydaje: 1 Anthemon i 1 Nillea, zgodnie z wymaganiami na liście. Aby przyrządzić Eliksir Evok musi wydać 1 Tarmaret, a następnie zdecydować, czy chce wydać Anthemon, czy Mellis. Aktualnie nie ma Anthemonu w swojej rezerwie, więc wydaje 1 Mellis.",0.875
+1086,Level 1 Imperia,Imperia – Poziom 1,0.863
+1087,Level 1 Evok,Evok – Poziom 1,0.845
+1088,HOW TO PREPARE A POTION,JAK PRZYRZĄDZIĆ ELIKSIR?,0.611
+1089,SINGLE-USE EFFECTS,EFEKTY JEDNORAZOWE,0.88
+1090,"Each hunter has a unique set of upgrade cards, comprising 20 action cards and 5 mastery cards. These cards represent the hunter becoming stronger and more skilful, and they are structured as a skill tree that has 5 different branches, with 2 upgrade steps on each branch.","Każdy Łowca posiada unikalny zestaw kart Ulepszeń, składający się z 20 kart Akcji oraz 5 kart Mistrzostwa. Reprezentują one to, jak Łowca zwiększa swoją siłę i poprawia swoje zdolności. Zestaw tych kart ma strukturę drzewka umiejętności z 5 różnymi ścieżkami i 2 stopniami ulepszeń na każdej ze ścieżek.",0.903
+1091,"Each upgrade card is identified by a 【B】Card ID【/B】 (in the bottom right corner of the card), which has a letter (A, B, C, D or E) that identifies the branch, and a number that identifies the upgrade step within that branch (1 = the first step, or 2 = the second step).","Każda karta Ulepszenia ma 【B】identyfikator【/B】 (w prawym dolnym rogu karty) złożony z litery (A, B, C, D albo E) wskazującej ścieżkę oraz liczby odzwierciedlającej stopień ulepszenia w ramach danej ścieżki (1 oznacza stopień 1, 2 stopień 2).",0.864
+1092,The first upgrade step of each branch enables you to unlock 2 new action cards and gives you access to the next step. The second step enables you to unlock 2 new action cards and a new mastery card.,Ulepszenie stopnia 1 każdej ścieżki odblokowuje 2 nowe karty Akcji i zapewnia dostęp do kolejnego stopnia w ramach danej ścieżki. Ulepszenie stopnia 2 umożliwia odblokowanie 2 nowych kart Akcji oraz nowej karty Mistrzostwa.,0.823
+1093,"Card Pool Upgrade: Example At a certain point in the campaign, Alice is instructed to upgrade her card pool. She chooses branch E, unlocks the two corresponding cards showing Card ID 【B】E1【/B】, and adds those cards to her card pool.","Ulepszenie puli kart: W pewnym momencie Kampanii Alicja otrzymała polecenie, by ulepszyła swoją pulę kart. Wybiera ścieżkę E, odblokowując 2 odpowiednie karty z identyfikatorami 【B】E1【/B】 i dodaje te karty do swojej puli kart.",0.838
+1094,Upgrade step 1,Ulepszenie stopnia 1,0.843
+1095,SKILL TREE,DRZEWKO UMIEJĘTNOŚCI,0.682
+1096,Upgrade step 2,Ulepszenie stopnia 2,0.84
+1097,Branch A,Ścieżka A,0.718
+1098,Branch B,Ścieżka B,0.752
+1099,Branch C,Ścieżka C,0.743
+1100,Branch D,Ścieżka D,0.739
+1101,Branch E,Ścieżka E,0.701
+1102,"Each player begins the campaign with their mastery card and the action cards in their character’s starter deck (the one they used in the Prologue). Those cards form their starting card pool, which is the set of cards they can use to build their deck. When you reach certain chapters of the campaign, you will be instructed to upgrade your card pool by adding upgrade cards specific to your character. When you are instructed to upgrade your card pool, choose a branch of your skill tree and unlock the corresponding upgrade cards.","Każdy gracz rozpoczyna Kampanię z kartą Mistrzostwa oraz z kartami Akcji w talii Początkowej swojej Postaci (talii, której używał w Prologu). Jest to początkowa pula kart, które gracze mogą wykorzystać do budowania swoich talii. Gdy gracze dotrą w trakcie Kampanii do konkretnych Rozdziałów, zostaną poinstruowani, by ulepszyli swoje pule kart poprzez dodanie do nich kart Ulepszeń odpowiednich dla danej Postaci. Gdy to nastąpi, każdy gracz wybierze ścieżkę na swoim drzewku umiejętności i odblokuje odpowiednie karty Ulepszenia. Karty Ulepszenia można rozpoznać po identyfikatorze w prawym dolnym rogu karty",0.88
+1103,DECKBUILDING,BUDOWANIE TALII,0.529
+1104,HUNTER’S SKILL TREE,DRZEWKO UMIEJĘTNOŚCI ŁOWCY,0.642
+1105,Skill tree structure for upgrade cards (action cards in black and mastery cards in orange),"Struktura drzewka umiejętności z kartami Ulepszeń (czarne to karty Akcji, pomarańczowe to karty Mistrzostwa)",0.836
+1106,Customizing your action deck is a way for players to play out unique and personalized strategies.,Budowanie swoich własnych talii Akcji pozwala graczom na tworzenie unikalnych i spersonalizowanych strategii.,0.773
+1107,"To build a custom deck for a campaign scenario, simply follow these steps in order:","Aby stworzyć własną talię do Scenariusza Kampanii, po prostu postępuj zgodnie z poniższymi krokami w podanej kolejności:",0.879
+1108,"1. Choose 1 weapon card, 1 armor ( [[ICON1]]), 1 helm ( [[ICON2]]) and 1 item ( [[ICON3]]) from your equipment deck.","1. Wybierz 1 kartę Broni, 1 kartę Zbroi ( [[ICON1]]), 1 kartę Hełmu ( [[ICON2]]) oraz 1 kartę Przedmiotu ( [[ICON3]]) z twojej talii Ekwipunku.",0.895
+1109,2. Choose 1 mastery from your card pool.,2. Wybierz 1 kartę Mistrzostwa z twojej puli kart.,0.86
+1110,"The level 1 Flame Tongue says you must have exactly 6 [[ICON1]] (attack cards), 4 [[ICON2]] (maneuver cards), 5 [[ICON3]] (parry cards) and 5 [[ICON4]] (dodge cards) in your deck","Na Języku Ognia Poziomu 1 widać, że gracz musi mieć dokładnie 6 [[ICON1]] (kart Ataku) 4 [[ICON2]] (karty Manewru), 5 [[ICON3]] (kart Parowania) i 5 [[ICON4]] (kart Uniku) w swojej talii",0.897
+1111,DECKBUILDING RULES,ZASADY BUDOWANIA TALII,0.497
+1112,"Each monster has its own specific elemental weaknesses, which are shown in the top left corner of its monster board.","Każdego Potwora cechuje wrażliwość na konkretne żywioły, wskazane w lewym górnym rogu planszy danego Potwora.",0.726
+1113,"When building your deck for a scenario, check how many equipment cards you have that are effective against the monster.","Podczas budowania talii do Scenariusza, sprawdź, ile kart Ekwipunku, które posiadasz, jest skutecznych przeciwko danemu Potworowi.",0.833
+1114,"A piece of equipment is effective if the monster is weak against that equipment’s element (this is the case for each of your equipment cards: Weapons, armor, helms and items).","Ekwipunek jest skuteczny przeciwko Potworowi, jeśli Potwór jest wrażliwy na ten Ekwipunek (dotyczy to każdej karty Ekwipunku: Broni, Zbroi, Hełmu i Przedmiotów).",0.782
+1115,"For each 2 pieces of equipment that are effective against the monster, you gain the following deck advantage: You may add or remove 1 card of any color from your deck, modifying the color restrictions of your weapon.","Za każde 2 Karty Ekwipunku skuteczne przeciwko danemu Potworowi, zyskujesz następującą przewagę talii: Możesz dodać do talii lub usunąć z niej 1 kartę dowolnego koloru, zmieniając wymagania kolorystyczne twojej Broni.",0.87
+1116,"Elemental Weakness: Example 1 Alice controls Dareon, with the equipment shown in the image.",Wrażliwość na żywioły: Przykład 1 Alicja kontroluje Dareona posiadającego Ekwipunek widoczny na ilustracji.,0.821
+1117,"In a scenario against Vyraxen, she would have 3 effective equipment cards: Reefbound Helm ( [[ICON1]]), Dragon Claw ( [[ICON2]]), and Big Jaws ( [[ICON3]]).","W Scenariuszu przeciwko Vyraxenowi będzie miała 3 skuteczne karty Ekwipunku: Hełm Strażnika Rafy ( [[ICON1]]), Szpon Smoka ( [[ICON2]]) i Wielka Paszcza ( [[ICON3]]).",0.886
+1118,"This means Alice would have 1 deck advantage, for which she may decide to add or remove a card of any color from her action deck.","Oznacza to, że Alicja posiada 1 przewagę talii, która daje jej możliwość dodania do talii albo usunięcia z niej 1 karty w dowolnym kolorze.",0.855
+1119,"Elemental Weakness: Example 2 This time Alice has 4 effective equipment cards against Vyraxen, since her weapon, armor, helm and item all indicate [[ICON1]] or [[ICON2]], which are both elements against which the monster is weak.","Wrażliwość na żywioły: Przykład 2 Tym razem na każdej karcie Ekwipunku Alicji znajduje się [[ICON1]] lub [[ICON2]], na które Vyraxen jest wrażliwy, co oznacza, że Alicja ma 4 skuteczne karty Ekwipunku.",0.761
+1120,This means Alice has 2 deck advantages.,Alicja ma więc 2 przewagi talii.,0.771
+1121,"She could use those advantages to add 2 cards of any color to her deck (e.g. two [[ICON1]], bringing the total number of attack cards in her deck from 5 to 7). However, she decides to do something else instead: She uses her first advantage to add 1 [[ICON2]] to her deck and then uses her second advantage to remove 1 [[ICON3]].","Może użyć ich, aby dodać 2 karty dowolnego koloru do swojej talii (np. 2 [[ICON1]], co sprawi, że całkowita liczba kart Ataku w jej talii wzrośnie z 5 do 7). Decyduje się jednak na coś innego: pierwszą przewagę wykorzystuje, aby dodać 1 [[ICON2]] do swojej talii, a dzięki drugiej przewadze usuwa ze swojej talii 1 [[ICON3]].",0.897
+1122,EFFECTIVE EQUIPMENT AND DECK ADVANTAGE,SKUTECZNOŚĆ EKWIPUNKU I PRZEWAGA TALII,0.677
+1123,Below is a table that shows the monsters that are weak against each element in the game.,Poniżej znajduje się tabela wskazująca wrażliwość Potworów na konkretne żywioły w grze.,0.713
+1124,ELEMENTAL WEAKNESS,WRAŻLIWOŚĆ NA ŻYWIOŁY,0.553
+1125,Thunder,Grzmot,0.317

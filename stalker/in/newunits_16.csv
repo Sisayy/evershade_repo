@@ -1,0 +1,226 @@
+﻿id,en,pl,sim
+1576,The current attrition level is the attrition value of the top card of the attrition discard pile. Some card abilities (such as the Alemore potion card) interact with this value.,Aktualny poziom Wyniszczenia to wartość Wyniszczenia wierzchniej karty na stosie odrzuconych kart Wyniszczenia. Niektóre zdolności kart odnoszą się do tej wartości (np. karta Eliksiru Alemore).,0.86
+1577,Escalation: [Ability],Eskalacja: [Zdolność],0.937
+1578,"Your hand size limit is the maximum number of cards you can have in your hand at the end of your turn. Check your hand during the refill step at the end of your turn, and either discard down to or draw up to your hand size limit.","Twój limit kart na ręce to maksymalna liczba kart, jaką możesz mieć na ręce na koniec twojej Tury. Na koniec twojej Tury, podczas kroku Uzupełniania, odrzuć karty z ręki, jeśli masz ich więcej, niż wynosi twój limit albo dobierz karty do twojego limitu, jeśli masz ich mniej.",0.801
+1579,"• Each time you convert damage into wounds, remove all damage the monster currently sustains (i.e. any excess damage is not retained).","• Za każdym razem, gdy przekształcasz Obrażenia w Rany, usuń wszystkie żetony Obrażeń, które Potwór aktualnie posiada (nadmiarowe Obrażenia nie zostają zachowane).",0.883
+1580,"This is a keyword ability. When you are instructed to Heal X, remove X damage tokens from your hunter board.","To zdolność słowa kluczowego. Gdy zostajesz poinstruowany, aby uleczyć X Obrażeń, usuń z twojej planszy Łowcy żetony Obrażeń o łącznej wartości X.",0.841
+1581,Exposed side,Odsłonięta strona,0.8
+1582,"After you play a card with the keyword Finisher in your sequence, your Action phase ends (you cannot take any more actions).","Po tym, jak zagrasz w twojej sekwencji kartę ze słowem kluczowym „Wykończenie”, twoja faza Akcji się kończy (nie możesz wykonać więcej żadnych Akcji).",0.886
+1583,【B】Firestorm【/B】 (Vyraxen),【B】Burza Ognia【/B】 (Vyraxen),0.903
+1584,First player,Pierwszy Gracz,0.938
+1585,"After the Monster Upkeep phase of each round, the aggro player becomes the first player for the current round and they take the first player token (placing it next to their hunter board). In each round, the players take turns clockwise, starting with the first player.","Po fazie Przygotowania Potwora w każdej Rundzie, Wrogi Gracz zostaje Pierwszym Graczem. Bierze on znacznik Pierwszego Gracza i umieszcza w pobliżu swojej planszy Łowcy. W każdej Rundzie gracze rozgrywają swoje Tury w kolejności zgodnej z kierunkiem ruchu wskazówek zegara, zaczynając od Pierwszego Gracza.",0.832
+1586,【B】Note:【/B】 The first player token is useful for keeping track of the player order during the round. (See also: Trait),【B】Uwaga!【/B】 Znacznik Pierwszego Gracza pomaga śledzić kolejność graczy w trakcie Rundy. (Zob. także: Cecha),0.825
+1587,【B】Impetus【/B】 (Thoreg),【B】Impet【/B】 (Thoreg),0.91
+1588,"During the Monster Upkeep phase of the round, if a peril card with the keyword Infuriate is in play, the monster gains additional struggle based on the number of aggro cards ( [[ICON1]]) the players collectively have in their hands (i.e. consider the total number of aggro cards the players as a group have in their hands). If they collectively have at least X, but fewer than Y aggro cards, the monster gains 1 additional struggle. If they have at least Y, but fewer than Z aggro cards, the monster gains 2 additional struggle. If they have at least Z aggro cards, the monster gains 3 additional struggle.","Jeśli podczas fazy Przygotowania Potwora w grze znajduje się karta Opresji ze słowem kluczowym „Rozwścieczenie”, Potwór otrzymuje dodatkowe żetony Starcia o łącznej wartości zależnej od liczby kart Wrogości ( [[ICON1]]), które wszyscy gracze mają na swoich rękach (suma wszystkich takich kart, jakie mają na ręce wszyscy gracze). Jeśli gracze mają łącznie X kart Wrogości, ale mniej niż Y, Potwór otrzymuje żeton Starcia o wartości 1. Jeśli gracze mają łącznie co najmniej Y kart Wrogości, ale mniej niż Z, Potwór otrzymuje żetony Starcia o łącznej wartości 2. Jeśli gracze mają łącznie co najmniej Z kart Wrogości, Potwór otrzymuje żetony Starcia o łącznej wartości 3.",0.85
+1589,"1. If you are the active player, your turn ends immediately (skip the rest of your turn).","1. Jeśli jesteś aktywnym graczem, twoja Tura kończy się natychmiast (pomiń pozostałe kroki Tury).",0.908
+1590,"3. Discard your entire hand of cards, as well as any cards in your sequence.",3. Odrzuć wszystkie karty z twojej ręki oraz wszystkie karty z twojej sekwencji.,0.868
+1591,4. Add a Wound card to your discard pile and then shuffle your discard pile into your deck.,"4. Dodaj kartę Rany do twojego stosu kart odrzuconych, a następnie wtasuj go do twojej talii.",0.831
+1592,"5. Choose either your armor or helm card, but not one that is currently depleted, and place a deplete token on that card.","5. Wybierz twoją kartę Zbroi albo Hełmu, która nie jest jeszcze Zużyta i umieść na niej żeton Zużycia.",0.808
+1593,7. Take a KO token and place it on your hunter board (red side visible).,7. Weź żeton Powalenia i umieść go na twojej planszy Łowcy (czarno-czerwoną stroną ku górze).,0.829
+1594,"While you are KO'd, you cannot be the target of any card ability or game effect (apart from the Revive action). When it would normally be your turn but you are KO'd, simply flip your KO token to its black side. Play then passes to the next player. If your KO token is already on its black side, you rise instead.","8. Obróć Potwora w stronę Wrogiego Gracza. Gdy jesteś Powalony, nie możesz być celem żadnej zdolności karty ani efektu gry (poza Ocuceniem). Gdy ma nastąpić twoja Tura, a jesteś Powalony, odwróć żeton Powalenia na stronę czarno-białą ku górze. Następnie Tura przechodzi do kolejnego gracza. Jeśli twój żeton Powalenia już znajduje się na stronie czarno-białej, wykonaj zamiast tego Akcję Powstania.",0.804
+1595,Move / Movement,Ruch / Poruszanie się,0.885
+1596,"When a card ability or other game effect says you must/may move, that means you must/may perform a movement that places your hunter in a sector adjacent to your current one. Unless otherwise specified, moving always cost 1 stamina. (See also: Paying a stamina cost)","Gdy zdolność karty lub inny efekt w grze pozwala ci lub zmusza cię do poruszenia się, odpowiednio możesz albo musisz wykonać ruch, poruszając twojego Łowcę do sąsiadującego sektora. Ruch zawsze kosztuje 1 punkt Energii, chyba że wyraźnie zaznaczono inaczej. (Zob. także: Opłacanie kosztu Energii)",0.831
+1597,Opening: [Ability],Otwarcie: [Zdolność],0.962
+1598,A card ability that begins with the keyword Opening means the [Ability] is only triggered if that card is the first card in your sequence.,"Jeśli zdolność karty rozpoczyna się od słowa kluczowego „Otwarcie”, oznacza to, że [zdolność] jest aktywowana tylko, jeśli ta karta jest pierwszą kartą w sekwencji gracza.",0.858
+1599,Protected side,Chroniona strona,0.918
+1600,Each behavior card has a reaction icon (on the back of the card) that indicates a specific triggering condition. All behavior card reaction icons are explained on page 93.,"Na rewersie każdej karty zachowania znajduje się symbol Reakcji, który określa konkretny warunek aktywacji. Zasady dotyczące wszystkich symboli Reakcji na kartach Zachowania zostały szczegółowo omówione na str. 93.",0.826
+1601,"This is a keyword ability. When you are instructed to Recycle X, you may discard X cards of your choice from your hand to draw X.","To zdolność słowa kluczowego. Gdy masz Przetworzyć X, możesz odrzucić X wybranych kart z twojej ręki, aby dobrać X kart.",0.862
+1602,"【B】Note:【/B】 Some card abilities may force you to perform Recycle by saying ""you must recycle X"". In those cases, you have to discard X and then draw X.","【B】Uwaga!【/B】 Niektóre zdolności kart (których opis zawiera frazę „musisz Przetworzyć X”) wymuszają na tobie wykonanie Przetworzenia. W takich sytuacjach musisz odrzucić X kart, a następnie dobrać X kart.",0.884
+1603,Retaliate [Color]: [Ability],Odwet [Kolor]: [Zdolność],0.923
+1604,"This is a keyword ability. A card ability text that begins with the keyword Retaliate followed by a specific color requirement means that whenever you suffer [[ICON1]], you may reveal the corresponding [Color] from your hand to trigger the [Ability].","To zdolność słowa kluczowego. Jeśli opis zdolności karty zaczyna się od słowa kluczowego „Odwet”, po którym występuje konkretne wymaganie koloru, oznacza to, że za każdym razem, gdy otrzymujesz [[ICON1]], możesz ujawnić z twojej ręki kartę tego [koloru], aby aktywować [zdolność].",0.813
+1605,"【B】Note:【/B】 For each [[ICON1]] you suffer, you can only trigger the [Ability] once (even if you revealed multiple [Color]).","【B】Uwaga!【/B】 Dla każdych [[ICON1]], które otrzymujesz, możesz aktywować [zdolność] tylko raz, nawet jeśli ujawniłeś kilka [kolorów].",0.866
+1606,"If multiple cards are required, you must reveal all those exact cards in those specific colors, at the same time, to be able to trigger the [Ability].","Jeśli wymaganych jest kilka kart, musisz ujawnić jednocześnie wszystkie te karty we wskazanych kolorach, aby móc aktywować [zdolność].",0.882
+1607,1. Reveal the top card of the attrition deck and the top card of your action deck.,1. Odkryj wierzchnią kartę talii Wyniszczenia oraz wierzchnią kartę z twojej talii kart Akcji.,0.809
+1608,"2. Compare the attrition value of the revealed attrition card with the number of stamina icons on the revealed action card. If the number of stamina icons is equal to or higher than the attrition value, deal your weapon damage to the monster and choose a sector on the board to place your miniature in. If it is lower, suffer [[ICON1]] and place your miniature in the front sector.","2. Porównaj wartość Wyniszczenia na odkrytej karcie Wyniszczenia z liczbą symboli Energii na odkrytej karcie Akcji. Jeśli liczba symboli Energii jest równa lub większa od wartości Wyniszczenia, zadaj Potworowi Obrażenia twojej Broni, wybierz sektor na planszy Walki i umieść tam figurkę twojego Łowcy. Jeśli liczba symboli Energii jest mniejsza, otrzymujesz [[ICON1]] i umieszczasz twoją figurkę w sektorze przednim.",0.831
+1609,"During your Action phase, you can play up to 5 action cards from your hand, resolving them one at a time. The row of cards you play from left to right is called your sequence.","Podczas twojej fazy Akcji możesz zagrać do 5 kart Akcji z twojej ręki, rozpatrując je pojedynczo. Rząd zagranych przez ciebie kart od lewej do prawej nazywany jest twoją sekwencją. Sekwencja wskazuje kolejność w jakiej zagrywałeś kolejne karty, co ma znaczenie dla wielu efektów w grze (np. aktywowanie zdolności, Reakcje Potwora itd.).",0.849
+1610,"【B】Note:【/B】 Your standard sequence limit is 5, which means you cannot play more than 5 action cards per turn. However, there are specific card abilities and game effects that increase/decrease your sequence limit, thereby modifying the maximum number of cards you can play during your turn.","【B】Uwaga!【/B】 Twój standardowy limit sekwencji wynosi 5, co oznacza, że nie możesz zagrać więcej niż 5 kart Akcji na Turę. Są jednak konkretne zdolności kart i efekty w grze, które zwiększają bądź zmniejszają twój limit sekwencji, modyfikując w ten sposób maksymalną liczbę kart, które możesz zagrać w twojej Turze.",0.916
+1611,Setup: [Instructions],Przygotowanie: [Instrukcje],0.877
+1612,"Each time any source of damage deals damage to the monster, reduce that damage by X if the current stance card has the keyword Shield X.","Jeśli aktualna karta Postawy zawiera słowo kluczowe „Tarcza X”, za każdym razem, gdy Potwór ma otrzymać Obrażenia z dowolnego źródła, zmniejszcie wartość tych Obrażeń o X.",0.824
+1613,【B】Slash【/B】 (Dareon),【B】Cięcie【/B】 (Daren),0.826
+1614,Source of damage,Źródło Obrażeń,0.907
+1615,A source of damage is any effect in the game that causes the monster (or any hunter) to suffer damage. The most common examples of sources of damage are attack cards or any card abilities that say “deal damage”.,"Źródło Obrażeń to dowolny efekt w grze, który sprawia, że Potwór (lub dowolny Łowca) otrzymuje Obrażenia. Najpowszechniejszymi źródłem Obrażeń są karty Ataku i zdolności kart, które zawierają w opisie frazę „zadaj Obrażenia” lub „otrzymujesz X Obrażeń”.",0.849
+1616,"Many effects in the game require players to pay a stamina cost (moving or playing action cards in your sequence are the most common examples). To pay a stamina cost, a player must generate stamina by discarding cards from their hand (or by discarding stamina tokens, if they have any).","Wiele efektów w grze (na przykład ruch czy zagrywanie kart Akcji w sekwencji) wymaga od graczy opłacenia kosztu Energii. Aby opłacić koszt Energii, gracz musi wygenerować Energię, odrzucając ze swojej ręki karty (lub żetony Energii, jeśli takie posiada).",0.807
+1617,"【B】Note 1:【/B】 A printed stamina cost of X on an action card means that you can decide the value of that stamina cost (you can also choose it to be 0). As the ability text will explain, that card ability will depend upon the cost you decide to pay.","【B】Uwaga 1!【/B】 Jeśli koszt Energii na karcie Akcji określony jest jako „X”, oznacza to, że możesz sam zdecydować o wysokości tego kosztu Energii (możesz nawet wybrać wartość „0”). Zgodnie z opisem zdolności",0.812
+1618,【B】Note 2:【/B】 Card abilities cannot reduce the stamina cost of cards with printed cost of X.,"【B】Uwaga 2!【/B】 Zdolności kart nie mogą obniżyć kosztu Energii kart, których koszt określony jest jako „X”.",0.853
+1619,"【B】Note 3:【/B】 When a card ability text or a game effect says a player must pay [[ICON1]], that [[ICON2]] is a stamina cost. (See also: Generate stamina, Stamina token, [[ICON3]])","【B】Uwaga 3!【/B】 Jeśli opis zdolności karty lub efekt w grze wskazuje, że gracz musi opłacić [[ICON1]], ten symbol [[ICON2]] odnosi się do kosztu Energii. (Zob. także: Energia (generowanie Energii), Energia, żeton, [[ICON3]]).",0.824
+1620,Stance II/III: [Ability],Postawa II/III: [Zdolność],0.954
+1621,"When a card ability begins with the keyword Stance II/III, it means you can only resolve the [Ability] if the monster is in Stance II or III.","Jeśli zdolność karty rozpoczyna się od słów kluczowych „Postawa II/III”, oznacza to, że możesz rozpatrzyć tę [zdolność] tylko wtedy, gdy Potwór jest w Postawie II albo III.",0.891
+1622,Start: [Ability],Początek: [Zdolność],0.956
+1623,A card ability that begins with the keyword Start means the [Ability] is triggered at the start of your turn.,"Jeśli zdolność karty rozpoczyna się od słowa kluczowego „Początek”, oznacza to, że ta [zdolność] jest aktywowana na początku twojej Tury.",0.818
+1624,"【B】Note:【/B】 If multiple card abilities with this keyword are triggered, you can decide the order in which you resolve those abilities.","【B】Uwaga!【/B】 Jeśli jednocześnie aktywowanych jest kilka zdolności z tym słowem kluczowym, możesz zdecydować o kolejności w jakiej rozpatrzysz te zdolności.",0.809
+1625,"This is a keyword ability. When you play an action card with the keyword Stealth in your sequence, that card do not trigger reaction icons containing color or card type icons (i.e. [[ICON1]], [[ICON2]], [[ICON3]], [[ICON4]] [[ICON5]], etc.). All the behavior reaction icons are explained in detail on page 93.","To zdolność słowa kluczowego. Gdy zagrywasz w twojej sekwencji kartę ze słowem kluczowym „Ukrycie”, ta karta nie aktywuje żadnych symboli Reakcji zawierających symbole koloru lub rodzaju karty (np. [[ICON1]], [[ICON2]], [[ICON3]], [[ICON4]] [[ICON5]] itd.). Zasady dotyczące wszystkich symboli Reakcji kart Zachowania zostały szczegółowo omówione na str. 93.",0.807
+1626,"When you take a strain token, place it on your hunter board. Then the next time you refill your hand, discard all your strain tokens and draw one card fewer for each strain token discarded this way.","Gdy bierzesz żeton Nadwyrężenia, umieść go na twojej planszy Łowcy. Gdy następnym razem będziesz uzupełniać swoją rękę, odrzuć wszystkie twoje żetony Nadwyrężenia i dobierz 1 kartę mniej za każdy odrzucony w ten sposób żeton.",0.867
+1627,"If a game effect or any card ability is directed towards a game element, that element is said to be the target of that effect or ability.","Jeśli efekt gry lub dowolnej zdolności karty skierowany jest na konkretny komponent gry, ten komponent nazywany jest celem tego efektu lub zdolności.",0.873
+1628,"This is a keyword ability. During another player’s turn, you may taunt the monster by discarding a card with the keyword Taunt from your hand. If you do, the active player draws 1, you take the aggro token and the monster immediately turns to your sector.","To zdolność słowa kluczowego. Podczas Tury innego gracza możesz Sprowokować Potwora, odrzucając z twojej ręki kartę ze słowem kluczowym „Prowokacja”. Jeśli to zrobisz, aktywny gracz dobiera 1 kartę, ty bierzesz znacznik Wrogiego Gracza, a Potwór odwraca się w stronę twojego sektora.",0.836
+1629,【B】Note:【/B】 You may only taunt the monster once per turn.,【B】Uwaga!【/B】 Możesz Sprowokować Potwora tylko raz na Turę.,0.805
+1630,"When you become threatened, take a threatened token and place it on your hunter board.","Gdy stajesz się Zagrożony, weź żeton Zagrożenia i umieść go na twojej planszy Łowcy.",0.828
+1631,"During the attrition check, if you are threatened, you must draw 2 attrition cards instead of 1 and use the attrition card that gives the worst outcome in terms of avoiding attrition damage.","Jeśli jesteś Zagrożony w trakcie twojej Próby Wyniszczenia, musisz dobrać 2 karty Wyniszczenia, zamiast 1 i rozpatrzyć tę, której wartość Wyniszczenia sprawi, że trudniej ci będzie uniknąć Obrażeń Wyniszczenia.",0.818
+1632,"【B】Note 1:【/B】 When you move, discard your threatened token.","【B】Uwaga 1!【/B】 Gdy się poruszysz, odrzuć twój żeton Zagrożenia.",0.86
+1633,"【B】Note 2:【/B】 If you would normally become threatened but are already threatened, keep the threatened token (each player can only have a maximum of 1 threatened token) and trigger any effects that are activated by you becoming threatened. (See also: Attrition check, Avoid attrition damage, Move/Movement)","【B】Uwaga 2!【/B】 Gdy miałbyś stać się Zagrożony, a posiadasz już żeton Zagrożenia (każdy gracz może posiadać tylko 1 taki żeton), zachowaj swój żeton Zagrożenia i aktywuj wszystkie efekty, które są aktywowane w momencie stania się Zagrożonym. (Zob. także: Próba Wyniszczenia, Unikanie Obrażeń Wyniszczenia, Ruch/poruszanie)",0.871
+1634,Threatened sector,Zagrożony sektor,0.897
+1635,"Each stance card has a toughness value, which determines how difficult it is to inflict a wound on the monster. To inflict a wound, players must deal a cumulative amount of damage to the monster equal to the toughness value.","Na każdej karcie Postawy znajduje się wartość Wytrzymałości, która określa, jak trudno jest zadać Ranę Potworowi. Aby zadać Ranę, gracze muszą zadać Potworowi Obrażenia o łącznej wartości równej wartości Wytrzymałości.",0.828
+1636,【B】Note:【/B】 The toughness value is always given by a number displayed on the stance card multiplied by the number of players (more details about dealing damage and inflicting wounds are on page 23). (See also: Wound),【B】Uwaga!【/B】 Wartość Wytrzymałości zawsze jest obliczana poprzez pomnożenie liczby wskazanej na karcie Postawy przez liczbę graczy (zadawanie Obrażeń i Ran zostało szczegółowo omówione na str. 23). (Zob. także: Rana),0.86
+1637,1. All players immediately suffer [[ICON1]] (this damage is referred to as Unleash damage).,1. Każdy gracz natychmiast otrzymuje [[ICON1]]. (Te Obrażenia nazywane są Obrażeniami Wyzwolenia).,0.874
+1638,【B】Water Cycle【/B】 (Korowon),【B】Cykl Wody【/B】 (Korowon),0.809
+1639,Weapon damage/+X damage,Obrażenia Broni / +X Obrażeń,0.856
+1640,The weapon damage is the printed damage value on your weapon card plus any modifiers from card abilities or other effects in the game.,"Obrażenia Broni to wartość Obrażeń wskazana na karcie Broni, powiększona o wszystkie modyfikatory zapewniane przez zdolności kart lub inne efekty w grze.",0.828
+1641,"【B】Note:【/B】 If a weapon gains +X damage (or is said to have +X damage) as the result of a card ability, the weapon damage is modified by +X for the duration specified in that ability text (if it is not specified, the weapon damage is modified for the entire duration of the scenario). You may place the bonus damage tokens (","【B】Uwaga!【/B】 Jeśli w wyniku zdolności karty Obrażenia Broni są zwiększane o X Obrażeń, czas działania tego modyfikatora określony jest w tekście zdolności karty. Jeśli czas działania nie został konkretnie określony, modyfikator działa w trakcie całego Scenariusza. Możesz umieszczać żetony Dodatkowych Obrażeń (",0.825
+1642,"Your weapon level (i.e. level 1, level 2 or level 3) is shown in the top right corner of your weapon card, below the weapon name. (See also: Weapon damage, [[ICON1]] , [[ICON2]] , [[ICON3]] , [[ICON4]])","Twój poziom Broni (tj. 1, 2 albo 3) wskazany jest w prawym górnym rogu twojej karty Broni, pod jej nazwą. (Zob. także: Obrażenia Broni, [[ICON1]], [[ICON2]], [[ICON3]], [[ICON4]])",0.829
+1643,When focused: [Ability],Gdy Skupiona: [Zdolność],0.846
+1644,"If your mastery ability text begins with ""When focused"", it means the [Ability] is triggered when you focus that mastery card (i.e. immediately after you flip it and unlock the ability).","Jeśli tekst zdolności na twojej karcie Mistrzostwa zaczyna się od „Gdy Skupiona”, oznacza to, że [zdolność] jest aktywowana, gdy ta karta Mistrzostwa zostaje Skupiona (tj. natychmiast po odwrócenia na Skupioną stronę i odblokowaniu zdolności).”",0.841
+1645,"When you complete a stance, you reveal the card that corresponds to the next stance. If that card ability begins with ""When revealed"", trigger its [Ability].","Gdy ukończysz Postawę, odkrywasz kartę powiązaną z kolejną Postawą. Jeśli zdolność tej karty zaczyna się od słów: „Po odkryciu”, aktywuj tę [zdolność].",0.828
+1646,"【B】Note:【/B】 When a stance card is revealed, if the monster currently sustains enough damage to suffer a wound, inflict that wound before triggering the ""When revealed"" ability.","【B】Uwaga!【/B】 Jeśli w momencie odkrycia karty Postawy, wartość Obrażeń zadanych Potworowi wystarcza, by ten odniósł Ranę, dzieje się to przed aktywowaniem zdolności „Po odkryciu”.",0.829
+1647,Wound/Inflict a wound/Suffer a wound,Rana / Zadawanie Rany / Odnoszenie Rany,0.866
+1648,"Every time the monster suffers a wound, reduce the monster’s health by 1. When the monster is reduced to 0 health, you have defeated it and immediately win the scenario.","Za każdym razem, gdy Potwór odnosi Ranę, zmniejszcie liczbę Punktów Życia Potwora o 1. Gdy zredukujecie liczbę Punktów Życia Potwora do 0, pokonujecie go i natychmiast odnosicie zwycięstwo w Scenariuszu.",0.817
+1649,There are two ways that the monster can suffer a wound:,"Są dwa sposoby, w jakie Potwór może odnieść Ranę:",0.857
+1650,• Players can inflict a wound by dealing the amount of damage required by the stance’s toughness value (dealing damage and inflicting wounds are explained in detail on page 23).,• Gracze mogą zadać Ranę Potworowi zadając mu Obrażenia o wartości wymaganej przez wartość Wytrzymałości Potwora (zadawanie Obrażeń i Ran zostało szczegółowo omówione na str. 23).,0.856
+1651,"• A card ability might say that the monster suffers a wound under specific game conditions. When a card ability says that the monster suffers a wound, players must immediately reduce the monster’s health by 1 and then check the current stance progression value to see if the monster advances to the next stance. (See also: Health (monster), Hardened).","• Opis zdolności karty może wskazywać, że Potwór odnosi Ranę, jeśli spełnione są określone warunki w grze. Jeśli Potwór odnosi Ranę w wyniku działania zdolności karty, natychmiast obniżcie wartość Punktów Życia Potwora o 1, a następnie sprawdźcie aktualną wartość Rozwoju, aby określić czy Potwór przechodzi do kolejnej Postawy. (Zob. także: Utwardzony).",0.845
+1652,"Rulebook: Tommaso Mondadori, Giovanni Gambarelli Rulebook Proofreading: Board Game Circus (Harriet Cooper)","Projekt i rozwój gry: Tommaso Mondadori, Alberto Parisi Instrukcja: Tommaso Mondadori, Giovanni Gambarelli Korekta instrukcji: Board Game Circus (Harriet Cooper)",0.839
+1653,"Worldbuilding and Narrative Design: Tommaso Mondadori, Giovanni Gambarelli, Laura Valdinoci","Kierownictwo artystyczne: Tommaso Mondadori, Laura Valdinoci Projekt świata i fabuły: Tommaso Mondadori, Giovanni Gambarelli, Laura Valdinoci",0.887
+1654,"English Translation and Proofreading: Ciarán Michael Durkan, Margherita Zottola for Centro Linguistico Cesena","Tłumaczenie na język angielski i korekta: Ciarán Michael Durkan, Margherita Zottola for Centro Linguistico Cesena",0.966
+1655,"Art: Daniel Comerci, Consuelo Pecchenino, Francesco Sala, Arianna Gelloni,","Ilustracje: Daniel Comerci, Consuelo Pecchenino, Francesco Sala, Arianna Gelloni, Camille Alquier, Leonardo Casciarola",0.87
+1656,"Sculpting: Daniele Angelozzi, Alessandro Depaoli, Andrea Di Natale","Modele 3D: Daniele Angelozzi, Alessandro Depaoli, Andrea Di Natale",0.859
+1657,Miniatures Consultant: Michael King,Konsultant ds. figurek: Michael King,0.869
+1658,Rulebook,Instrukcja,0.676
+1659,Gain 1 random Estate from the bag,"Otrzymujesz 1 losową Plantację z woreczka,",0.71
+1660,"8x Role tiles (Captain,","8 kafelków Ról (Kapitan,",0.724
+1661,"Trader, 2x Adventurer,","Kupiec, 2 Poszukiwaczy,",0.69
+1662,"Planter, Builder,","Plantator, Budowniczy,",0.928
+1663,"Recruiter, Craftsman)","Werbownik, Rzemieślnik)",0.766
+1664,44x Regular Buildings,44 zwykłe Budynki,0.809
+1665,4x Regular alternative Buildings,4 alternatywne zwykłe Budynki,0.822
+1666,Gain 1/2/3/5 Coins if you produce 2/3/4/5 different Goods.,2/3/4/5 różnych Towarów.,0.932
+1667,[[ICON1]]City Hall,[[ICON1]]Ratusz,0.713
+1668,[[ICON1]]CAPTAIN,[[ICON1]]KAPITAN,0.838
+1669,Build 1 Building,Wybuduj 1 Budynek,0.876
+1670,ADVANTAGE,PRZYWILEJ,0.638
+1671,[[ICON1]]Tobacco,[[ICON1]]Kukurydza,0.266
+1672,[[ICON1]]School,[[ICON1]] Szkoła,0.978
+1673,Gain 1/2/3/5 Coins if you produce 2/3/4/5 different Goods.,Otrzymujesz 1/2/3/5 Monet za wyprodukowanie 2/3/4/5 różnych Towarów.,0.498
+1674,PUERTO RICO 1897 SPECIAL EDITION,PUERTO RICO 1897 EDYCJA SPECJALNA,0.948
+1675,"At the end of this Rulebook, you will find further information on the history of Puerto Rico.",Na ko cu niniejszej Instrukcji znajdziesz więcej informacji dotyczących historii Portoryko.,0.784
+1676,CORE GAME:,GRA PODSTAWOWA:,0.708
+1677,1x Estate bag,1 woreczek Plantacji,0.722
+1678,1x Rulebook,1 Instrukcja,0.709
+1679,5x Double-layered Player boards,5 dwuwarstwowych plansz graczy,0.783
+1680,5x Double-sided Player Portrait tiles,5 dwustronnych kafelków portretów graczy,0.79
+1681,1x Double-sided Main board,1 dwustronna plansza główna,0.778
+1682,4x Cardboard Personal Ship token (2 types),4 kartonowe żetony Osobistych Statków (2 typy),0.805
+1683,5x Help cards,5 kart pomocy,0.815
+1684,58x Countryside tiles,58 kafelków Obszarów,0.638
+1685,[[ICON1]] 10x Corn Estate,[[ICON1]] 10 Plantacji Kukurydzy,0.652
+1686,[[ICON1]] 12x Fruit Estate,[[ICON1]] 12 Plantacji Owoców,0.726
+1687,[[ICON1]] 11x Sugar Estate,[[ICON1]] 11 Plantacji Cukru,0.634
+1688,[[ICON1]] 9x Tobacco Estate,[[ICON1]] 9 Plantacji Tytoniu,0.622
+1689,[[ICON1]] 8x Coffee Estate,[[ICON1]] 8 Plantacji Kawy,0.641
+1690,• 43x Silver (“1”) Coins,• 43 srebrne Monety („1”),0.893
+1691,• 8x Gold (“5”) Coins,• 8 złotych Monet („5”),0.841
+1692,• 31x 1 VP,• 31 znaczników z 1 PZ,0.664
+1693,• 19x 5 VP,• 19 znaczników z 5 PZ,0.663
+1694,(4 types),(4 rodzaje),0.983
+1695,4x VP & Workers trays,4 tacki Robotników i PZ,0.601
+1696,51x Metal Coins,51 metalowych Monet,0.792
+1697,COINS DESIGN:,PROJEKT MONET:,0.656
+1698,1x Governor marker model (First player token),1 znacznik Gubernatora (znacznik pierwszego gracza),0.825
+1699,3x Cargo Ship model,3 figurki Statków Towarowych,0.547
+1700,1x Work Register,1 Rejestr Robotników,0.689
+1701,1x Trading House,1 Przedsiębiorstwo Handlowe,0.702
+1702,1x Building tray,1 tacka Budynków,0.489
+1703,Coins minted for Puerto Rico by Royal Mint of Madrid in 1895-1896,Monety wybite dla Portoryko przez Mennicę Kr lewską w Madrycie w latach 1895–1896,0.85
+1704,Inspired cardboard Coins for Puerto Rico 1897 board game,Inspirowane oryginalnymi kartonowe monety do gry planszowej Puerto Rico 1897,0.859
+1705,Metal Coins for Puerto Rico 1897 board game,Metalowe monety do gry planszowej Puerto Rico 1897,0.93
+1706,2x Expanded,2 zaawansowane,0.651
+1707,Buildings,Budynki,0.968
+1708,EXPANSION III:,DODATEK III:,0.88
+1709,EXPANSION IV:,DODATEK IV:,0.857
+1710,THE FESTIVAL,FESTIWAL,0.827
+1711,EXPANSION VI:,DODATEK VI:,0.839
+1712,ACHIEVEMENTS,OSIĄGNIĘCIA,0.8
+1713,EXPANSION V:,DODATEK V: AKTYWNOÓCI,0.695
+1714,Festival,Festiwal,0.947
+1715,Hidden Market,Czarny Rynek,0.651
+1716,Lilla,Willa,0.486
+1717,Score 1/3/6/10 VP if you have 1/2/3/4 sets of 3 matching Countryside tiles.,"Zdobywasz 1/3/6/10 PZ, jeśli masz 1/2/3/4 grupy 3 pasujących kafelków Obszarów.",0.797
+1718,Town Square,Plac Miejski,0.821
+1719,SMUGGLER,PRZEMYTNIK,0.501
+1720,1x Festival board,1 plansza Festiwalu,0.797
+1721,1x Expanded Building,1 zaawansowany Budynek,0.785
+1722,20x Citizen models (2 types),20 figurek Obywateli (2 rodzaje),0.785
+1723,30x Achievement cards,30 kart Osiągnięć,0.695
+1724,12x Festival cards,12 kart Festiwalu,0.78
+1725,3x Cardboard double-sided Ships,3 dwustronne kartonowe Statki,0.775
+1726,100x Wooden Workers,100 drewnianych znaczników Robotników,0.678
+1727,51x Cardboard Coins,51 kartonowych Monet,0.743
+1728,1x Plastic base,1 plastikowa podstawka,0.854
+1729,for a total of 75 VP & 58 Workers.,na łączną liczbę 75 PZ i 58 Robotników.,0.92
+1730,• 4-player game: trays marked with 2,• gra 4-osobowa: tacki oznaczone jako 2,0.93
+1731,[[ICON1]] Place the Building tray near the Main board.,[[ICON1]] Umieść tackę Budynków w pobliżu planszy głównej.,0.716
+1732,[[ICON1]] Place the Resource tray near the Main board.,[[ICON1]] Umieść tackę Zasobów w pobliżu planszy głównej.,0.678
+1733,[[ICON1]] Place the VP & Workers trays near the Main board. Make sure that you are using trays suitable for the number of players in the game.,"[[ICON1]] Umieść tackę Robotników i PZ w pobliżu planszy głównej. Upewnij się, że używasz tacek przeznaczonych dla właściwej liczby graczy.",0.815
+1734,• 3-player game: trays marked with 2 [[ICON1]] and 3,• gra 3-osobowa: tacki oznaczone jako 2 [[ICON1]] i 3,0.927
+1735,"[[ICON1]] Take 3, 4, or 5 Workers (equal to the number of players) from the VP & Workers tray and place them on the Work Register slot.","[[ICON1]] Weź 3, 4 albo 5 Robotników (w liczbie równej liczbie graczy) z tacek Robotników i PZ, a następnie umieść ich w strefie Rejestru Robotników.",0.815
+1736,EXAMPLE OF A MAIN BOARD SETUP FOR A 3-PLAYER GAME,PRZYKŁAD PRZYGOTOWANIA PLANSZY GŁÓWNEJ W ROZGRYWCE 3-OSOBOWEJ,0.695
+1737,• 3-player game: 6 tiles (all except the 2 Adventurers),• gra 3-osobowa: 6 kafelków (wszystkie oprócz 2 Poszukiwaczy),0.91
+1738,• 4-player game: 7 tiles (all except 1 Adventurer),• gra 4-osobowa: 7 kafelków (wszystkie oprócz 1 Poszukiwacza),0.903
+1739,• 5-player game: all 8 tiles,• gra 5-osobowa: wszystkie 8 kafelków,0.958
+1740,"• 3-player game: decks marked with numbers 4, 5, and 6","• gra 3-osobowa: pokłady oznaczone numerami 4, 5 i 6",0.941
+1741,"• 4-player game: decks marked with numbers 5, 6, and 7","• gra 4-osobowa: pokłady oznaczone numerami 5, 6 i 7",0.946
+1742,"• 5-player game: decks marked with numbers 6, 7, and 8","• gra 5-osobowa: pokłady oznaczone numerami 6, 7 i 8",0.948
+1743,"[[ICON1]] Randomly draw 4, 5, or 6 Estate tiles (one more than the number of players) from the Estate bag and place them on the Main board.","[[ICON1]] Losowo dobierz 4, 5 albo 6 kafelków Plantacji (o jeden więcej niż liczba graczy) z woreczka Plantacji i umieść je na planszy głównej.",0.883
+1744,[[ICON1]] Place all 8 Quarry tiles face-up in a stack on the Main board.,[[ICON1]] Umieść wszystkie 8 kafelków Kamieniołomów awersami do góry w stosie na planszy głównej.,0.734
+1745,[[ICON1]] Place Role tiles on the board face-up.,[[ICON1]] Umieść na planszy kafelki Ról awersami do góry.,0.677
+1746,[[ICON1]] Insert the Cargo Ship decks into the Ship models according to the number of players. Then place the Ships in the designated slots on the Main board.,[[ICON1]] Umieść pokłady statków w figurkach Statków Towarowych zgodnie z liczbą graczy. Następnie umieść Statki we wskazanych miejscach na planszy głównej.,0.784
+1747,• 3-player game: 1st and 2nd players each take a Fruit Estate tile; 3rd player takes a Corn Estate tile,• gra 3-osobowa: pierwszy i drugi gracz otrzymują po kafelku Plantacji Owoców; trzeci gracz otrzymuje kafelek Plantacji Kukurydzy.,0.905
+1748,• 4-player game: 1st and 2nd players each take a Fruit Estate tile; 3rd and 4th players each take a Corn Estate tile,• gra 4-osobowa: pierwszy i drugi gracz otrzymują po kafelku Plantacji Owoców; trzeci i czwarty gracz otrzymują po kafelku Plantacji Kukurydzy.,0.918
+1749,"• 5-player game: 1st, 2nd, and 3rd players each take a Fruit Estate tile; 4th and 5th players each take a Corn Estate tile","• gra 5-osobowa: pierwszy, drugi i trzeci gracz otrzymują po kafelku Plantacji Owoców; czwarty i piąty gracz otrzymują po kafelku Plantacji Kukurydzy.",0.91
+1750,[[ICON1]] Choose a starting player and give that player the Governor marker.,[[ICON1]] Wybierz pierwszego gracza i wręcz mu znacznik Gubernatora.,0.834
+1751,[[ICON1]] Give each player:,[[ICON1]] Daj każdemu graczowi:,0.939
+1752,"a) 1 Player board & 1 Player portrait. b) 2, 3, or 4 Coins (one fewer than the number of players). Each player places gained Coins on their Player board visible to all players. c) 1 Estate tile as specified below, starting with the player with the Governor marker and proceeding clockwise.","a) 1 planszę gracza i 1 portret gracza. b) 2, 3 albo 4 Monety (jedną mniej niż liczba graczy). Każdy gracz umieszcza otrzymane Monety na swojej planszy gracza, tak by były widoczne dla wszystkich. c) 1 kafelek Plantacji przydzielany na podstawie poniższych zasad, zaczynając od gracza ze znacznikiem Gubernatora, a następnie kolejnym graczom zgodnie z ruchem wskazówek zegara:",0.92
+1753,Each player places their taken Estate tile face-up on any of the 12 Countryside slots in the top section of their Player board.,Każdy gracz umieszcza otrzymany kafelek Plantacji awersem do góry na dowolnym z 12 pól Obszarów w górnej części planszy gracza.,0.813
+1754,[[ICON1]] Return all unused pieces to the box.,[[ICON1]] Zwróć nieużywane elementy do pudełka.,0.856
+1755,Building slot,Miejsce na Budynki,0.766
+1756,Countryside slots,Pola Obszar w,0.53
+1757,Character slot,Miejsce na Towary,0.33
+1758,[[ICON1]]Victory Points,[[ICON1]]Miejsce na Punkty,0.663
+1759,PLAYER BOARD EXPLANATION,OBJAÓNIENIE PLANSZY GRACZA,0.58
+1760,Countryside,Kafelki Obszar w,0.376
+1761,Estate tiles,Kafelki Plantacji,0.456
+1762,Quarry tiles Forest tiles,Kafelki Kamieniołom w,0.486
+1763,GAMEPLAY,TURY I ROLE,0.336
+1764,Gain 1 Quarry instead,Otrzymujesz 1 Plantację,0.594
+1765,Role Icon,Ikona Roli,0.943
+1766,GAMEPLAY,ROZGRYWKA,0.598
+1767,"At the beginning of each round the Governor takes their turn by choosing a Role tile and performs its action and Advantage. In clockwise order, all other players perform that action (without the Advantage).","Na początku każdej rundy Gubernator wybiera kafelek Roli, a następnie wykonuje przypisaną do niej akcję i korzysta z Przywileju. Zgodnie z ruchem wskazówek zegara wszyscy pozostali gracze wykonują tę samą akcję (jednak nie mogą już skorzystać z Przywileju).",0.832
+1768,"Then, the player to the left of the one who previously chose the role selects one of the remaining Roles and performs the associated action (and Advantage). In clockwise order, all other players performs actions related to that Role.","Potem gracz po lewej od osoby, która wybierała poprzednią rolę, wybiera jedną z pozostałych Ról i wykonuje akcję (wraz z Przywilejem) powiązaną z daną Rolą. Zgodnie z ruchem wskazówek zegara wszyscy gracze również mogą wykonać akcję tej Roli.",0.875
+1769,"After each player has chosen a Role tile and all players have performed the Roles’ actions, the round is over.","Kiedy wszyscy gracze wybrali Role i wykonali przypisane do nich akcje, runda dobiega końca.",0.832
+1770,Return all the Role tiles to the Main board.,Zwróć wszystkie kafelki Ról na planszę główną.,0.761
+1771,Pass the Governor marker to the left.,Przekaż znacznik Gubernatora graczowi po lewej.,0.74
+1772,[[ICON1]] PLANTER (DEVELOP THE COUNTRYSIDE),[[ICON1]] PLANTATOR (ROZBUDUJ OBSZARY),0.827
+1773,Starting with the Planter and proceeding in clockwise order each player may take one of the face-up Estate tiles on the Main board and place it on their Player board. The Planter may use their Advantage to select a Quarry tile instead of one of the face-up Estate tiles on the Main board.,"Zaczynając od Plantatora i idąc zgodnie z ruchem wskazówek zegara, każdy gracz może wziąć jeden z odkrytych kafelków Plantacji z planszy głównej i umieścić go na swojej planszy gracza. Plantator może wykorzystać Przywilej i wziąć kafelek Kamieniołomu zamiast odkrytego kafelka Plantacji z planszy głównej.",0.819
+1774,"Countryside tiles can be placed on any empty Countryside space. Once placed, a tile can be moved, but not removed, from a Player board. (The arrangement of the tiles on the Player board has no impact on gameplay.)","Kafelki Obszaru można umieścić na pustym polu Obszarów. Po umieszczeniu kafelka na planszy gracza można go przenieść w inne miejsce, ale nie można go stamtąd usunąć (ułożenie kafelków na planszy gracza nie ma wpływu na rozgrywkę).",0.856
+1775,"When all players have completed or skipped this action, the Planter discards all remaining Estate tiles. Then they draw Estate tiles from the Estate bag equal to the number of players +1 and place them in Estate slots on the Main board. If the Estate tiles run out during the game, return all discarded Estate tiles back to the Estate bag. If the discard pile also runs out, players can still choose this Role (for example, to gain Coins from it) but cannot perform its action.","Kiedy wszyscy gracze wykonają lub pominą tę akcję, Plantator odrzuca wszystkie pozostałe kafelki Plantacji. Następnie dobiera kafelki Plantacji z woreczka Plantacji w liczbie graczy +1 i umieszcza je na polach Plantacji na planszy głównej. Jeśli w trakcie rozgrywki kafelki Plantacji się wyczerpią, należy zwrócić wszystkie odrzucone kafelki Plantacji z powrotem do woreczka Plantacji. Jeśli stos odrzuconych kafelków również się wyczerpie, gracze wciąż mogą wybierać tę Rolę (przykładowo, aby otrzymywać z niej Monety), ale nie mogą już wykonywać jej akcji.",0.898
+1776,Notes:,Uwagi:,0.913
+1777,[[ICON1]]RECRUITER (RECRUIT WORKERS),[[ICON1]]WERBOWNIK (WERBUJ ROBOTNIKÓW),0.821
+1778,Example for a 4-player game:,Przykład z rozgrywki 4-osobowej:,0.922
+1779,PLANTER,PLANTATOR,0.921
+1780,Advantage: You may take a Quarry tile instead of an Estate tile.,Przywilej: Możesz wziąć kafelek Kamieniołomu zamiast kafelka Plantacji.,0.879
+1781,"At the end of the Planter phase, draw Estate tiles from the Estate bag equal to the number of players +1 and place them in Estate slots on the Main board.",Na koniec fazy Plantatora dobierz kafelki Plantacji z woreczka Plantacji w liczbie graczy +1 i umieść je na polach Plantacji na planszy głównej.,0.886
+1782,Gain Workers from the Work Register,Otrzymujesz Robotnik w z Rejestru Robotnik w,0.617
+1783,Gain 1 Worker from the supply,Otrzymaj 1 Robotnika z puli,0.781
+1784,RECRUITER,WERBOWNIK,0.593
+1785,Action: Each player gains 1 Worker from the Work Register starting with the Recruiter and going clockwise until all Workers are gone. Then place or move all your Workers.,"Akcja: Każdy gracz otrzymuje 1 Robotnika z Rejestru Robotników, zaczynając od Werbownika i idąc zgodnie z ruchem wskazówek zegara, do momentu rozdysponowania wszystkich Robotników. Następnie rozmieść lub przesuń wszystkich swoich Robotników.",0.839
+1786,Advantage: Take 1 additional Worker from the supply at the start of the phase.,Przywilej: Na początku fazy weź 1 dodatkowego Robotnika z puli.,0.858
+1787,"At the end of the Recruiter phase, repopulate the Work Register.",Na koniec fazy Werbownika uzupełnij Rejestr Robotników.,0.769
+1788,Action:,Akcja: Wybuduj,0.699
+1789,Build 1 Building.,1 Budynek.,0.83
+1790,Advantage: Pay,Przywilej: Zapłać,0.792
+1791,1 Coin less than the Building’s cost.,1 Monetę mniej niż wynosi koszt tego Budynku.,0.898
+1792,"There are no more Workers in the Work Register. At this point, the Recruiter has gained a total of 3 Workers (including the initial Worker from the supply).",W Rejestrze Robotników nie ma już żadnego Robotnika. Werbownik otrzymał do tej pory łącznie 3 Robotników (wliczając Robotnika otrzymanego z puli).,0.785
+1793,[[ICON1]] BUILDER (DEVELOP BUILDINGS),[[ICON1]] Budowniczy (Rozwiń Budynki),0.807
+1794,"Starting with the Builder and proceeding in clockwise order, each player may build 1 Building by paying its price in Coins and placing it on their Player board. The Builder pays 1 Coin less.","Zaczynając od Budowniczego i idąc zgodnie z ruchem wskazówek zegara, każdy gracz może wybudować 1 Budynek, płacąc jego koszt w Monetach, a następnie umieścić go na swojej planszy gracza. Budowniczy płaci o 1 Monetę mniej.",0.882
+1795,"A player cannot build a Building they already have. Building tiles can be placed on any empty Building slot. Expanded Buildings require 2 adjacent empty slots. Once placed, a tile can be moved, but not removed from a Player board.","Gracz nie może wybudować Budynku, który już ma. Kafelki Budynków można umieszczać na dowolnych pustych miejscach na Budynki. Zaawansowane Budynki wymagają 2 sąsiadujących pustych miejsc. Po umieszczeniu kafelka na planszy gracza można go przenieść w inne miejsce, ale nie można go stamtąd usunąć (ułożenie kafelków nie ma wpływu na rozgrywkę). Więcej informacji odnośnie do unikalnych funkcji Budynków znajdziesz w części poświęconej Budynkom.",0.85
+1796,"【B】Quarry Discount【/B】 During the Builder phase, for each occupied Quarry, the player pays 1 Coin less for the Building with the following limitations: the cost of Buildings worth 1 VP can only be reduced using a maximum of 1 Quarry (-1 Coin), Buildings worth 2 VP by 2 Quarries (-2 Coins), Buildings worth 3 VP by 3 Quarries (-3 Coins), and expanded Buildings by 4 Quarries (-4 Coins).","【B】Zniżka za Kamieniołom【/B】 Za każdy obsadzony Kamieniołom gracz będący jego posiadaczem płaci o 1 Monetę mniej za Budynki wybudowane w fazie Budowniczego, jednak z następującymi ograniczeniami: koszt Budynków wartych 1 PZ można zmniejszyć, wykorzystując maksymalnie 1 Kamieniołom (-1 Moneta), Budynki warte 2 PZ o 2 Kamieniołomy (-2 Monety), Budynki warte 3 PZ o 3 Kamieniołomy (-3 Monety), a zaawansowane Budynki o 4 Kamieniołomy (-4 Monety).",0.904
+1797,"Example: A player with 3 occupied Quarries could pay the following Building costs: Builder’s Yard (1 VP Building costing 2 Coins) for 1 Coin, Office (2 VP Building costing 5 Coins) for 3 Coins, Harbor (3 VP Building costing 8 Coins) for 5 Coins, City Hall (expanded Building costing 10 Coins) for 7 Coins.","Przykład: Gracz mający 3 obsadzone Kamieniołomy może zapłacić następujący koszt za Budynki: Skład Budowlany (Budynek dający 1 PZ i kosztujący 2 Monety) za 1 Monetę, Biuro (Budynek dający 2 PZ i kosztujący 5 Monet) za 3 Monety, Port (Budynek dający 3 PZ i kosztujący 8 Monet) za 5 Monet, Ratusz (zaawansowany Budynek kosztujący 10 Monet) za 7 Monet.",0.932
+1798,[[ICON1]]CRAFTSMAN (PRODUCE GOODS),[[ICON1]] Rzemieślnik (PRodukuj TowaRy),0.469
+1799,"【B】Production Ability【/B】 A player’s production ability is determined by how many occupied Estates and Production Buildings are on their Player board. For each occupied Corn Estate, take 1 Crate of Corn. For Fruit, Sugar, Tobacco, and Coffee, take 1 Crate for each pair of Workers on an Estate and matching Production Building.","【B】Zdolność produkcyjna【/B】 Zdolność produkcyjną gracza określa liczba obsadzonych Plantacji i Budynków Produkcyjnych na jego planszy. Za każdą obsadzoną Plantację Kukurydzy weź 1 Skrzynię Kukurydzy. W przypadku Owoców, Cukru, Tytoniu i Kawy weź 1 Skrzynię za każdą parę Robotników na Plantacji i w odpowiadającym Budynku Produkcyjnym.",0.865
+1800,Produces Sugar.,Produkuje Cukier.,0.864
