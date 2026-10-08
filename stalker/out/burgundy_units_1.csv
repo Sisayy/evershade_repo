@@ -1,0 +1,21 @@
+id,decision,pl_fixed
+27,DROP,
+34,FIX,"Rzut kośćmi pozwoli odkryć dostępne opcje i znaleźć strategię, która doprowadzi cię do zwycięstwa. Niezależnie od tego, czy zdecydujesz się na handel, rolnictwo, budowę, czy badania, każda z tych dróg może doprowadzić do bogactwa i sławy."
+41,DROP,
+43,FIX,"Strona przeznaczona do gry dla 2 graczy oznaczona jest symbolem [[ICON1]]. Różni się ona wyłącznie liczbą pól w każdym magazynie, także w czarnym."
+45,FIX,"Jeżeli czytasz niniejszą instrukcję po raz pierwszy, możesz pominąć tekst w ramkach znajdujących się na marginesach stron."
+48,DROP,
+70,DROP,
+79,DROP,
+81,DROP,
+89,FIX,"2. Przesuń swój znacznik kolejności w rundzie o jedno pole naprzód. Jeżeli pole to jest już zajęte, umieść swój znacznik na znajdujących się tam już znacznikach. Jeżeli sprawi to, że zostaniesz graczem rozpoczynającym, weź białą kość."
+90,DROP,
+99,DROP,
+100,DROP,
+103,DROP,
+104,DROP,
+105,FIX,"Uwaga: Kiedy gracz przekroczy pole z liczbą 100 na torze punktów zwycięstwa, musi położyć na tym polu swój żeton stroną z liczbą 100 do góry. Kiedy ten gracz zdobędzie 200 punktów, musi odwrócić swój żeton na drugą stronę."
+117,DROP,
+119,DROP,
+154,DROP,
+169,DROP,
