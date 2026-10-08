@@ -1,0 +1,24 @@
+id,decision,pl_fixed
+2,DROP,
+12,DROP,
+13,DROP,
+14,DROP,
+15,DROP,
+35,DROP,
+37,DROP,
+42,DROP,
+83,DROP,
+123,DROP,
+124,DROP,
+136,DROP,
+137,DROP,
+160,DROP,
+166,DROP,
+188,DROP,
+193,DROP,
+208,FIX,"Działający potajemnie dywersanci Daidoji posuwają się do sabotażu, zabójstw czy fałszerstw, by zwyciężyć nim jeszcze dojdzie do bitwy."
+222,DROP,
+237,FIX,"【B】Obrońca.【/B】 Gracz, którego terytorium zostało najechane."
+239,FIX,"[[ICON1]] 【B】Zachowaj kość.【/B】 Na koniec gracz decyduje, które z kości zachowa. Zachowuje tyle kości, ile ma symboli [[ICON2]]. Gracz aktualizuje swoje wartości [[ICON3]], [[ICON4]] i [[ICON5]] na liczniku walki, dodając symbole widoczne na zachowanych kościach."
+244,DROP,
+270,DROP,
