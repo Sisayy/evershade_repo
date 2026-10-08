@@ -1,0 +1,169 @@
+﻿id,en,pl,sim
+339,Deck Customization Rules,Zasady tworzenia talii,0.552
+340,[[ICON1]] Each player must observe any other “Deckbuilding Requirements” on the back of their investigator card.,"[[ICON1]] Każdy gracz musi przestrzegać „Wymogów tworzenia talii”, opisanych na odwrocie karty swojego badacza.",0.818
+341,"[[ICON1]] At the beginning of a campaign, an investigator may only include level 0 cards in their deck (see “Card Levels” to the right).",[[ICON1]] Na początku kampanii badacz może umieścić w swojej talii jedynie karty o poziomie 0 (patrz „Poziomy kart” po prawej).,0.923
+342,"An investigator’s “signature cards” are cards that are only available to that investigator, and cannot be included in another investigator deck. This includes player cards with the text “[Investigator Name] deck only,” as well as non-basic weaknesses that are listed under “Deckbuilding Requirements” and therefore can only be included in that investigator deck.","„Karty osobiste” badacza są dostępne tylko dla tego konkretnego badacza i żaden inny nie może zawrzeć ich w swojej talii. Mowa tu o kartach gracza, których opis zdolności mówi „Tylko talia [imię badacza]” oraz o nie-podstawowych osłabieniach, wymienionych w „Wymogach tworzenia talii”.",0.794
+343,"[[ICON1]] If a game effect would force a player to take control of a card with another investigator’s signature card attached to it, that effect fails and the signature card is discarded instead.","[[ICON1]] Jeśli jakiś efekt gry miałby spowodować, że badacz przejmie kontrolę nad kartą, do której dołączona jest karta osobista innego badacza, wówczas taki efekt jest nieudany i należy zamiast tego odrzucić tę kartę osobistą.",0.855
+344,Card Levels,Poziomy kart,0.934
+345,A card’s level is indicated by the presence of white pips beneath its cost. The card level is equal to the number of such pips on the card.,"Poziom karty jest oznaczony za pomocą białych kropek, obecnych poniżej kosztu danej karty. Poziom karty jest równy ich liczbie.",0.855
+346,"In campaign play, investigators may be rewarded with experience points upon the completion of a scenario. Investigators may spend these points to purchase higher level cards to use in their decks during that campaign. (See “Earning and Spending Experience” on page 22.)","Badacze mogą je wydać na zakup kart wyższego poziomu, aby móc ich użyć w swojej talii podczas rozgrywania dalszej części kampanii (patrz „Otrzymywanie i wydawanie doświadczenia” na stronie 22).",0.718
+347,ASSET,ATUT,0.572
+348,Two white pips indicate this is a level 2 card.,"2 białe kropki wskazują, że jest to karta 2. poziomu.",0.892
+349,Most investigators have a deckbuilding requirement that instructs the player to add a random basic weakness to their deck.,"Większość badaczy ma określone wymogi dotyczące budowania talii, które zmuszają gracza do dodania do niej losowego podstawowego osłabienia.",0.806
+350,"Unlike investigator-specific weaknesses, basic weaknesses are identified by this symbol:","W odróżnieniu od osobistego osłabienia badacza, podstawowe osłabienia są oznaczone następującym symbolem:",0.792
+351,"To select a random basic weakness, take the ten basic weaknesses in this core set, shuffle them together, and draw one at random to add to your investigator deck. Some Arkham Horror: The Card Game expansions add additional basic weakness cards to your collection. Simply add these basic weaknesses to the ten basic weaknesses found in the core set when selecting random basic weaknesses in the future.","Aby wylosować podstawowe osłabienie, należy wziąć zestaw dziesięciu podstawowych osłabień zawartych w niniejszym zestawie podstawowym, potasować je i wylosować z nich jedno, a następnie dodać je do talii badacza. Niektóre dodatki do Horroru w Arkham: Gry karcianej wprowadzają dodatkowe podstawowe osłabienia do twojej kolekcji kart. Takie karty należy po prostu dodać do dziesięciu kart z zestawu podstawowego podczas losowania podstawowego osłabienia.",0.89
+352,"Do not select an investigator’s basic weakness until all other cards in that investigator’s deck have been chosen. In campaign mode, the selected weakness remains a part of that investigator’s deck for the entire campaign, unless it is removed by a card ability. In addition, scenario instructions and card abilities may direct an investigator to become the bearer of additional basic weaknesses and/or campaign-specific weaknesses.","Osłabienie wylosowane zgodnie z opisanym powyżej procesem jest dodawane do talii gracza na koniec procesu budowy talii po tym, jak wszystkie pozostałe karty zostały już wybrane. W trybie kampanii wylosowane osłabienie pozostaje częścią talii badacza przez całą kampanię, chyba że zostanie usunięte przez zdolność jakiejś karty. Ponadto instrukcje niektórych scenariuszy oraz zdolności kart mogą nakazać, aby badacz został posiadaczem dodatkowych podstawowych osłabień i/lub osłabień związanych z daną kampanią.",0.805
+353,Remember: An investigator’s signature weaknesses are 【B】never【/B】 added to the pool of random basic weaknesses.,Ważne: Osobistych osłabień badaczy nie należy 【B】nigdy【/B】 dodawać do puli podstawowych osłabień.,0.744
+354,BASIC WEAKNESS,PODSTAWOWE OSŁABIENIE,0.707
+355,"If you are a long-time player of Arkham Horror: The Card Game, this section is intended to get you up to speed on changes from the previously released core sets.","Jeśli jesteś wieloletnim graczem Horroru w Arkham: Gry karcianej, to w tej sekcji znajdziesz zestawienie zmian w stosunku do wcześniej wydanych zestawów podstawowych.",0.854
+356,"The game has expanded greatly since its initial release through player card and expansion design. While this new core set keeps all essentials of the game intact, a few quality-of-life improvements have been made to card templating, wording, and game rules to reflect the evolving nature of the game. Changes of note include the following:","Gra znacznie się rozwinęła od czasu jej pierwszego wydania dzięki dużej liczbie kart gracza oraz rozszerzeń kampanijnych. Niniejszy nowy zestaw podstawowy zachowuje kluczowe elementy i sedno rozgrywki, wprowadzając jednocześnie kilka usprawnień w wyglądzie kart, stosowanym słownictwie oraz zasadach, aby oddać ideę żywej gry karcianej. Zmiany te są następujące:",0.859
+357,"This is not a new edition of Arkham Horror: The Card Game. All previously released content is compatible with cards in this core set as well as in all future releases going forward. This core set and all current releases form a “current environment”: a smaller cardpool that is the recommended way to play the game. These reduced options provide players with an everchanging set of cards that create a true experience of a ‘living’ card game. Campaigns and scenario content are optimized with an eye to the “current environment” to create a tight, challenging experience.","Niniejszy zestaw podstawowy nie jest nową edycją Horroru w Arkham: Gry karcianej. Cała dotychczas wydana zawartość gry jest w pełni kompatybilna z kartami z obecnego wydania jak również z tymi z przyszłych rozszerzeń. Niniejszy zestaw podstawowy oraz wszystkie bieżące wydania tworzą „środowisko bieżące”: mniejszą pulę kart, z której gracze powinni korzystać. Dzięki temu mają oni zapewniony stale zmieniający się zestaw kart, co tworzy prawdziwe doświadczenie „żywej” gry karcianej. Kampanie oraz scenariusze są balansowane z myślą o „środowisku bieżącym”, aby stworzyć wymagające doświadczenie.",0.917
+358,A list of modified reprints can be found in the Arkham Grimoire online.,Listę zmodyfikowanych kart można znaleźć w Grymuarze Arkham w sieci.,0.835
+359,"Some cardtypes, such as skills and enemies, have updated templates. These cardtypes are the same as before, and all player cards with new templates are compatible with previously released cards.","Niektóre rodzaje kart, takie jak umiejętności oraz wrogowie, zyskały zaktualizowany wygląd. Co do zasady działają one w identyczny sposób, więc karty ze zaktualizowanym wyglądem są w pełni kompatybilne z tymi znanymi wcześniej.",0.772
+360,"This core set includes two new types of player tokens: connector tokens and investigator tokens. Connector tokens allow players to visually indicate which locations are connected to which, rather than referencing location connection icons every time an investigator wishes to move.","W tym zestawie podstawowym zawarto dwa nowe rodzaje żetonów graczy: żetony połączeń oraz żetony badaczy. Te pierwsze pozwalają graczom na fizyczne oznaczenie połączeń między lokalizacjami, zamiast śledzenie ich poprzez symbole połączeń za każdym razem, gdy badacze chcą się gdzieś poruszyć.",0.837
+361,"Additionally, players may now use either their investigator mini-card or one of the included player tokens to indicate their position on the map.",Ponadto gracze mogą od teraz używać swojej małej karty badacza lub jednego z dołączonych żetonów badacza do oznaczania swojego położenia w grze.,0.867
+362,Reward Cards,Karty nagród,0.882
+363,"Campaign expansions may feature a unique subtype of player 【B】card【/B】: the campaign reward card. Campaign reward cards are neutral cards that can be added to any investigator’s deck once unlocked. 【B】Reward Cards cannot【/B】 be added to a player’s collection until that player has unlocked that card, usually by winning the campaign in which they were included. For more information on this subject, see “Reward Cards” on page 23.","Kampanie mogą zawierać unikatowy podrodzaj kart gracza: Nagrody. Są to karty neutralne, które po odblokowaniu mogą zostać dodane do talii dowolnego badacza. 【B】Gracz nie może dodać karty nagrody do【/B】 【B】swojej kolekcji przed jej odblokowaniem【/B】. Zazwyczaj ma to miejsce po wygraniu kampanii, w której dana karta się znajduje. Więcej informacji na ten temat znajduje się w akapicie „Karty nagród” na stronie 23.",0.877
+364,By the power of the ancients am I reborn anew.,Mocą starożytnych odrodziłem się na nowo.,0.822
+365,"As an additional cost to commit Soul Link, take 1 horror.",Jako dodatkowy koszt przeznaczenia Więzi duszy do testu otrzymaj 1 punkt przerażenia.,0.73
+366,Innate. Spell.,Wrodzona. Zaklęcie.,0.781
+367,ENEMY,WRÓG,0.481
+368,Humanoid. Elite.,Humanoid. Elitarny.,0.943
+369,Raging Fury,Wściekła furia,0.846
+370,Victory 2.,Zwycięstwo 2,0.845
+371,Updated skill card and enemy card templates,Zaktualizowany wygląd kart umiejętności i wrogów,0.813
+372,"“The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.”","„Największym dobrodziejstwem naszego świata wydaje mi się to, że człowiek nie potrafi objąć go rozumem. Żyjemy sobie na spokojnej wysepce niewiedzy śród czarnych mórz nieskończoności i nie powinniśmy wypuszczać się z niej za daleko”.",0.82
+373,"—H. P. Lovecraft, The Call of Cthulhu","—H. P. Lovecraf, Zew Cthulhu",0.871
+374,"Now that you have played your first game (or campaign) of Arkham Horror: The Card Game, you may have additional questions about certain card interactions, timing, or other elements. This rulebook is not intended to be the definitive source on how to play the game. Instead, you can find a full living rules reference online in the form of the Arkham Grimoire.","Teraz, gdy rozegrałeś już swoją pierwszą grę (lub kampanię) w Horror w Arkham: Grze karcianej, możesz mieć dodatkowe pytania o rozmaite interakcje między kartami, kolejność rozpatrywania efektów lub inne elementy. W tej instrukcji nie znajdziesz wszystkich wyjaśnień na temat tego, jak grać. Zamiast tego w internecie zamieściliśmy Grymuar Arkham, który pełni rolę kompletnej, żywej księgi zasad.",0.916
+375,"The Arkham Grimoire is a comprehensive collection of rulings covering all known situations in the game. It is maintained online and updated regularly as new cards and interactions are introduced or discovered. The following pages serve as an introduction to the Arkham Grimoire, presenting many of the core concepts and essentials of the game. The first section expands on several more core rules and concepts; the second presents a detailed card anatomy; the final section contains a glossary of terms you may encounter when playing the game.","Grymuar Arkham jest kompletnym zbiorem zasad opisującym wszystkie znane sytuacje w grze. Znajduje się w sieci i jest na bieżąco aktualizowany, w miarę jak pojawiają się nowe karty lub odkrywane są nowe interakcje pomiędzy nimi. Kilka kolejnych stron to wprowadzenie do Grymuaru Arkham, na których omówiono kilka kluczowych założeń i najważniejszych aspektów gry. Pierwsza część to omówienie następnych kluczowych założeń gry, druga to przedstawienie budowy kart, zaś ostatnia zawiera słowniczek pojęć, na które możesz natrafić podczas gry.",0.885
+376,The following section includes some important rules for playing the game as intended.,"W poniższym rozdziale zawarto istotne zasady, które należy znać, aby grać poprawnie.",0.821
+377,"If the text of a card directly contradicts the text of this rulebook, the text of the card takes precedence.","Jeśli treść karty stoi w sprzeczności z treścią niniejszej instrukcji, to pierwszeństwo mają zasady opisane na karcie.",0.773
+378,"If two cards directly contradict one another in a way that is impossible to reconcile, the encounter card takes precedence over the player card. If both cards are encounter cards or both are player cards, the lead investigator decides which takes precedence.","Jeśli dwie karty są ze sobą bezpośrednio sprzeczne w sposób niemożliwy do pogodzenia, karta spotkania ma pierwszeństwo względem karty gracza. Jeśli obie karty to karty spotkania lub karty gracza, główny badacz decyduje, która ma pierwszeństwo.",0.89
+379,"If players are unable to find the answer to (or come to a consensus on) a rules or timing conflict in the Arkham Grimoire, resolve the conflict in the manner that the players perceive as the worst possible at that moment with regards to winning the scenario, then continue with the game.","Jeśli gracze nie mogą znaleźć odpowiedzi na swoje pytanie lub wyjaśnienia konfliktu kolejności (albo nie mogą dojść do porozumienia), wówczas powinni rozwiązać zaistniałą sytuację w sposób, który w danym momencie wydaje im się najgorszy z perspektywy zwycięstwa. Następnie powinni dalej kontynuować grę.",0.796
+380,"When investigators are forced to make a choice and there are multiple valid options, the lead investigator decides among those options. The Grim Rule does not play a part in these choices.","Gdy badacze są zmuszeni do dokonania wyboru i istnieje kilka równoważnych opcji, główny badacz decyduje, którą z nich wybrać. W tej sytuacji Ponura zasada nie obowiązuje!",0.726
+381,The Grim Rule is 【B】not【/B】 an exhaustive answer to rules/timing conflicts. The Grim Rule is designed to keep the game moving when looking up the correct answer would be too time-consuming or inconvenient.,"Ponura zasada 【B】nie służy【/B】 do ostatecznego rozstrzygania konfliktów zasad/ kolejności . Została ona stworzona po to, aby ograniczyć czasochłonne poszukiwanie właściwej odpowiedzi i zapewnić rozgrywce płynny przebieg.",0.745
+382,A Cooperative Game,Gra kooperacyjna,0.923
+383,"There are many possible choices of what to do during the investigation phase. New threats, enemies, and situations may emerge during the mythos phase beforehand, and it falls to the investigators to work together to overcome them!","W fazie badaczy dostępnych jest wiele możliwych wyborów. W fazie Mitów mogą pojawić się nowe zagrożenia, wrogowie lub sytuacje, które wymuszą na badaczach kooperację, aby im sprostać!",0.816
+384,"Investigators are encouraged to collaborate and plan out what they hope to accomplish each round. The order in which the investigators take their turns, and the actions each investigator performs during their turn, can mean the difference between success and failure.","Badacze powinni współpracować ze sobą i planować, co chcieliby osiągnąć w każdej rundzie. Kolejność, w której badacze wykonują swoje tury, oraz wykonywane przez nich akcje mogą stanowić o zwycięstwie lub przegranej.",0.752
+385,"While the investigators may plan their turns as a group, each individual player has final authority over the actions their investigator performs. Some of the most memorable moments of the game arise when one investigator finds themselves in over their head, forcing the group to adapt its plans.","Chociaż badacze mogą planować swoje tury jako grupa, każdy gracz ma ostateczny głos w odniesieniu do akcji wykonywanych przez jego badacza. Niektóre z najbardziej pamiętnych momentów w grze pojawiają się, gdy jeden z badaczy znajdzie się w sytuacji, z którą sam nie jest w stanie sobie poradzić, co zmusi grupę do zmiany planów.",0.778
+386,"For further guidelines on investigator communication, see “Table Talk” on the next page.",Więcej wskazówek dotyczących sposobu komunikowania się między badaczami omówiono w punkcie „Rozmowy przy stole” na kolejnej stronie.,0.821
+387,Table Talk,Rozmowy przy stole,0.775
+388,"Arkham Horror: The Card Game is a cooperative experience in which each player is encouraged to roleplay their specific investigator. The nature of the game encourages players to work together and communicate, but players are also encouraged to stay “in character” as much as possible during play. The game’s areas of hidden information (the cards in a player’s hand and deck) exist to maintain the feeling that each investigator is a unique individual in the game world, and makes their decisions without complete and perfect knowledge of what everyone else knows or is thinking. A good means of maintaining this illusion is to not name, read off, or allude to specific cards that are hidden information (e.g., in a player’s hand or deck).","Horror w Arkham: Gra karciana to gra, której celem jest stworzenie przy stole atmosfery rodem z gry fabularnej, w której każdy gracz wciela się w określonego badacza. Gra w swej naturze zachęca graczy do współpracy i dyskutowania ze sobą, ale jednocześnie radzimy, aby czyniąc to, możliwie najbardziej „wczuli się w rolę”. Występujące w grze obszary tajności (karty na ręce gracza i w jego talii) są wprowadzone po to, aby podtrzymać uczucie, że każdy badacz to występująca w świecie gry unikatowa postać, podejmująca własne decyzje, nieposiadająca przy tym całkowitej wiedzy odnośnie tego, co wiedzą i myślą inni badacze. Dobrym sposobem na zachowanie w grze niniejszej iluzji jest nienazywanie, nieodczytywanie ani niesugerowanie treści kart, które pozostają tajne (np. karty na ręce gracza).",0.893
+389,"For example: Isabelle wants her fellow investigator, Joe, to fight an enemy engaged with her, and she wants to relay the fact that she can help. Instead of saying something like, “Take a fight action against that enemy; I can commit Unexpected Courage” or, “Fight the Servant of Flame; I can contribute two icons,” Isabelle stays in character by saying, “Be brave! I can help you take them down!”","Na przykład: Isabelle chciałaby, aby jej towarzysz Joe wykonał akcję walki z wrogiem, z którym jest ona w zwarciu i jednocześnie chce mu zakomunikować, że może mu w tym pomóc. Zamiast mówić „Wykonaj akcję walki, mogę zagrać Niespodziewaną odwagę” albo „Walcz ze Sługą płomienia, mogę dodać ci dwa symbole”, Isabelle pozostaje wierna swej roli i mówi „Bądź dzielny! Pomogę ci w tej walce!”",0.895
+390,When any encounter card triggers a resolution—indicated by the text “【B】(→R#)【/B】”—players have completed the scenario and they must refer to the resolution text matching that number in the campaign guide to discover the outcome of the current scenario.,Kiedy karta spotkania aktywuje zakończenie – co jest oznaczone treścią „【B】(→Z#)【/B】” – gracze ukończyli scenariusz i muszą odnieść się do wskazanego zakończenia w Księdze kampanii. Odnajdą tam informacje na temat skutków bieżącego scenariusza.,0.764
+391,"Should all investigators be eliminated during a scenario, use the “if no resolution was reached” outcome for that scenario in the campaign guide.","Jeśli wszyscy badacze zostali pokonani w trakcie scenariusza, należy odnieść się do sekwencji „Nie udało się osiągnąć żadnego zakończenia” dla danego scenariusza w Księdze kampanii.",0.729
+392,"If you are just learning the game, here are some important rules that new players (and even some seasoned veterans) of Arkham Horror: The Card Game can forget:","Jeśli dopiero zaczynasz swoją przygodę z grą, poniżej znajdziesz ważne zasady, o których początkujący (a nawet zaawansowani)",0.718
+393,Card Anatomy,Opis kart,0.564
+394,"This section presents a detailed anatomy of each cardtype. Pages 34–35 detail scenario cards, and pages 36–37 detail investigator and player cards.","W tej części znajduje się szczegółowy opis kart wszystkich rodzajów. Na stronach 34–35 opisano karty scenariuszy, a na stronach 36–37 karty badaczy/graczy.",0.878
+395,"Scenario cards include act cards, agenda cards, location cards, treachery cards, enemy cards, and scenario reference cards.","Do kart scenariusza należą akty, tajemnice, lokalizacje, podstępy, wrogowie oraz karty pomocy scenariusza.",0.817
+396,"Player cards include investigator cards, investigator mini cards, asset cards, event cards, and skill cards.","Do kart graczy należą karty badaczy, małe karty badaczy, atuty, wydarzenia oraz umiejętności.",0.833
+397,Unrevealed Location,Nieodkryta lokalizacja,0.882
+398,LOCATION,LOKLIZACJA,0.756
+399,The dorm is quickly filling with smoke.,Akademik szybko wypełnia się dymem.,0.799
+400,[[ICON1]]: 【B】Engage【/B】. Choose an enemy at a connecting location. That enemy moves to this location and engages you. This action does not provoke attacks of opportunity.,[[ICON1]]: 【B】Wejście w zwarcie【/B】. Wybierz wroga w połączonej lokalizacji. Dany wróg porusza się do tej lokalizacji i wchodzi z tobą w zwarcie. Ta akcja nie wywołuje ataków towarzyszących.,0.872
+401,LOCATION,LOKLIZACJA,0.756
+402,Illus. William Thomas Arnold,Illus. William Tomas Arnold,0.99
+403,Agenda 1a,Tajemnica 1a,0.716
+404,Act 1a,Akt 1a,0.953
+405,"You are searching the dormitories for any sign of your friend. 【B】Objective –【/B】 At the end of the round, investigators may spend the requisite clues, as a group, to advance.","Przeszukujecie akademiki w poszukiwaniu jakichkolwiek śladów waszego przyjaciela. 【B】Cel –【/B】 Na koniec rundy badacze mogą wydać, jako grupa, wymaganą liczbę wskazówek, aby spowodować postęp talii aktów.",0.81
+406,AGENDA,TAJEMNICA,0.629
+407,ACT 1b,AKT 1b,0.91
+408,"You find your friend’s satchel, scorched with a stylized emblem of an open palm. Wherever your friend is, you imagine they didn’t go willingly. As you turn to leave, you are confronted by a masked figure wreathed in flame. As the room erupts into flames around you, they let out a chilling wail. Discard each enemy in play.","Znajdujecie torbę waszego przyjaciela oznakowaną wypalonym, stylizowanym emblematem otwartej dłoni. Jesteście pewni, że gdziekolwiek jest, nie poszedł tam dobrowolnie. Już macie odejść, gdy nagle wyrasta przed wami postać spowita płomieniem. Kiedy pokój staje w ogniu, postać wydaje z siebie mrożące krew w żyłach zawodzenie. Odrzuć każdego wroga w grze.",0.828
+409,Put the set-aside Dormitories and Miskatonic Quad locations into play. Spawn the set-aside Servant of Flame enemy at the Dormitories. Attach 1 set-aside copy of Fire! to Your Friend’s Room. Place each other set-aside copy of Fire! in the encounter discard pile.,Umieść odłożone na bok lokalizacje Akademiki i Dziedziniec Miskatonic w grze. Rozstaw odłożonego na bok wroga Sługę płomienia w Akademikach. Dołącz 1 kopię odłożonej na bok karty Pali się! do Pokoju waszego przyjaciela. Umieść każdą inną odłożoną na bok kopię karty Pali się! na stosie kart odrzuconych.,0.851
+410,ENEMY,WRÓG,0.481
+411,Raging Fury,Wściekła furia,0.846
+412,Victory 2.,Zwycięstwo 2,0.845
+413,“I can’t stop now.,„Nie mogę się teraz poddać.,0.903
+414,Not when I’m so close,Nie gdy jestem tak blisko prawdy”.,0.73
+415,Investigator,Badacz,0.822
+416,Player Card Anatomy Key,Opis karty gracza,0.558
+417,Seeker,BADACZ,0.296
+418,INVESTIGATOR,Poszukiwacz,0.615
+419,Detective.,Detektyw.,0.963
+420,EVENT,WYDARZ.,0.776
+421,ASSET,ATUT,0.572
+422,Aloof is a keyword ability.,Czujny to słowo kluczowe.,0.534
+423,Attachments,Dodatki,0.879
+424,"A card including the phrase “attach to” indicates that as it enters play, it must be attached to (placed beneath and slightly overlapped by) the target game element. Once attached, such a card is referred to as an attachment. An attachment remains attached until either the attachment or the game element it is attached to leaves play (in which case the attachment is discarded), unless a card ability explicitly detaches the card.","Jeśli karta używa zwrotu „dołącz do”, to w momencie wejścia do gry musi zostać dołączona do wskazanego elementu gry (tzn. umieszczona pod nim i częściowo przez niego zasłonięta). Po dołączeniu taka karta jest określana jako dodatek. Karta dodatku pozostaje dołączona, dopóki ten dodatek lub element gry, do którego jest dołączony, nie opuści gry (w takim wypadku dodatek jest odrzucany) lub dopóki zdolność karty wyraźnie nie odłączy tego dodatku.",0.858
+425,Costs,Koszty,0.982
+426,Doomed is a keyword ability.,Nieuchwytny to słowo kluczowe.,0.602
+427,Elimination,Odkrycie,0.497
+428,Hunter is a keyword ability.,Powściągliwy to słowo kluczowe.,0.562
+429,Surge is a keyword ability.,Zdolność stała to rodzaj zdolności karty.,0.483
+430,"【B】Art Direction:【/B】 Jeff Lee Johnson, Tim Flanders, Stephen Somers, and","【B】Kierownictwo artystyczne:【/B】 Jeff Lee Johnson, Tim Flanders, Stephen",0.884
+431,Kate Swazee with Jake Murray,"Somers, Kate Swazee i Jake Murray",0.844
+432,Credits,Twórcy,0.421
+433,【B】Proofreading:【/B】 Kelley Curry,【B】Redakcja:【/B】 Andrea Dell’Agnese,0.34
+434,【B】Cover Art:【/B】 Mauro Dal Bo,【B】Okładka:【/B】 Mauro Dal Bo,0.927
+435,【B】Production Management:【/B】 Justin Anger and Austin Litzler,【B】Zarządzanie produkcją:【/B】 Justin Anger i Austin Litzler,0.94
+436,【B】Director of Studio Operations:【/B】 John Franz-Wichlacz,【B】Starszy kierownik projektu:【/B】 John Franz-Wichlacz,0.8
+437,"® & © 2026 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, the FFG logo, Living Card Game, LCG, and the LCG logo are ® Fantasy Flight Games. Gamegenic and the Gamegenic logo are ® and © Gamegenic GmbH, Germany. Fantasy Flight Games is located at 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown.","® i © 2026 Fantasy Flight Games. Horror w Arkham, Fantasy Flight Games, logo FFG, Living Card Game, LCG i logo LCG są ® Fantasy Flight Games. Gamegenic i logo Gamegenic są ® i © Gamegenic GmbH, Niemcy. Fantasy Flight Games mieści się przy 1995 West County Road B2, Roseville, Minnesota, 55113, USA. Rzeczywiste elementy mogą się różnić od przedstawionych.",0.96
+438,Playtesters,Testerzy,0.727
+439,"Rita Asangarani, Leonard Ash, David Avilés, John Bagley, Tanner Barth, Gilles Belhassen, Ryan Billington, Brian Blair, Marc Blanchard, Ryan Blood, Rafa Cerrato, Ann Christensen, Anthony Clark, Aaron Creller, Shelley Danielle, Ricardo Basilio Donoso, Tiago Basilio Donoso, Johannes Duckeck, Robert Evans, Nachum Fisch, Charlie Fox, Adam Fraser, Sam Fuhrman, Alfredo Gómez, Paul Grimes, Angelo Bevilacqua Neves Guidugli, Richard Harris, Josh Harry, Grégory Henriques, Josh Jones, Bob Juranek, Álvaro Korta, Christopher Leigh, Craig Lincoln, Jules Mallette, Zacarías M.Martinez, Josh McCluey, Joseph McNeil, Pax Meier, Sonny Mikszath, Travis Milam, Christian Møhlenberg, Arthur Rodrigues Moraes, Cliff Orme, Josh Parrish, Michael Pelfrey, Chad A. Reverman, Tyler Romeo, Michael Santoroski, Vincent Schwartz, Jimmie Sharp, Zev Shields, Christopher Smith, Jordi Solera, Addison Stumpf, Tauan Tinti, Deyannira Tirado, Henrique Trein, Marcelo Trein, Egoitz Uribeetxebarria, Edu V.M, Paul Wallwork, Owen Weldon, Finian Westergaard, Ben Wiebracht, and Alex Xöul","Rita Asangarani, Leonard Ash, David Avilés, John Bagley, Tanner Barth, Gilles Belhassen, Ryan Billington, Brian Blair, Marc Blanchard, Ryan Blood, Rafa Cerrato, Ann Christensen, Anthony Clark, Aaron Creller, Shelley Danielle, Ricardo Basilio Donoso, Tiago Basilio Donoso, Johannes Duckeck, Robert Evans, Nachum Fisch, Charlie Fox, Adam Fraser, Sam Fuhrman, Alfredo Gómez, Paul Grimes, Angelo Bevilacqua Neves Guidugli, Richard Harris, Josh Harry, Grégory Henriques, Josh Jones, Bob Juranek, Álvaro Korta, Christopher Leigh, Craig Lincoln, Jules Mallete, Zacarías M.Martinez, Josh McCluey, Joseph McNeil, Pax Meier, Sonny Mikszath, Travis Milam, Christian Møhlenberg, Arthur Rodrigues Moraes, Cliff Orme, Josh Parrish, Michael Pelfrey, Chad A. Reverman, Tyler Romeo, Michael Santoroski, Vincent Schwartz, Jimmie Sharp, Zev Shields, Christopher Smith, Jordi Solera, Addison Stumpf, Tauan Tinti, Deyannira Tirado, Henrique Trein, Marcelo Trein, Egoitz Uribeetxebarria, Edu V.M, Paul Wallwork, Owen Weldon, Finian Westergaard, Ben Wiebracht i Alex Xöul",1.0
+440,"【B】Uses (X)【/B】: The uses keyword indicates a number of resource tokens to be placed on the card when it enters play, of a specified type (ammo, charges, etc.). These tokens are used in conjunction with the rest of the card’s ability.","【B】Zużywalny (X)【/B】: Słowo kluczowe Zużywalny wskazuje i definiuje określony rodzaj żetonów (naboje, ładunki itp.), które należy umieścić na karcie, kiedy ta wchodzi do gry. Żetony te są wykorzystywane w połączeniu z opisaną zdolnością karty.",0.893
+441,【B】Free Trigger【/B】 ([[ICON1]]): Does not cost an action to use this ability.,【B】Darmowa aktywacja【/B】 ([[ICON1]]): Użycie tej zdolności nie kosztuje akcji.,0.862
+442,"【B】Reaction Trigger【/B】 ([[ICON1]]): Does not cost an action, but this ability can only be used when its triggering condition is met.","【B】Aktywacja w reakcji【/B】 ([[ICON1]]): Użycie tej zdolności nie kosztuje akcji, ale można jej użyć tylko raz za każdym razem, kiedy wystąpi określona sytuacja.",0.835
+443,Mystic,Mistyk,0.801
+444,Character Classes,Klasy postaci,0.886
+445,Intellect,Intelekt,0.951
+446,Combat,Walka,0.428
+447,Wild,Joker,0.294
+448,Elder Sign,Znak Starszych,0.913
+449,Skull,Bogów,0.324
+450,Elder Thing,Starsza Istota,0.638
+451,Action Types,Rodzaje akcji,0.87
+452,【B】Resource【/B】. Gain 1 resource.,【B】Zyskanie zasobu【/B】. Zyskaj 1 zasób.,0.838
+453,Pyramid,Piramida,0.91
+454,Temple,Świątynia,0.893
+455,Unlocked Ankh Power,Odblokowana Moc Ankh,0.92
+456,Locked Ankh Power,Zablokowana Moc Ankh,0.932
+457,• Move Figures,• Ruch Jednostek,0.624
+458,• Summon Figure,• Przyzwanie Jednostki,0.637
+459,• Gain Followers,• Pozyskanie Wyznawców,0.783
+460,• Unlock Ankh Power,• Odblokowanie Mocy Ankh,0.937
+461,God of Egypt and their player wins the game.,"Egiptu, a kontrolujący go gracz wygrywa grę.",0.71
+462,"➤If all gods are forgotten, Egypt becomes an atheistic","➤Jeśli wszyscy Bogowie zostają zapomniani, Egipt",0.823
+463,AMUN,AMON,0.784
+464,Judge of the Dead,Sędzia Zmarłych,0.919
+465,Protectress,Opiekunka,0.658
+466,OSIRIS,OZYRYS,0.693
+467,Game Design: Eric M. Lang,Autor gry: Eric M. Lang,0.884
+468,Art: Adrian Smith,Ilustracje: Adrian Smith,0.857
+469,Lead Producer: Thiago Aranha,Kierownictwo produkcji: Thiago Aranha,0.865
+470,Move each of your figures up to 3 spaces.,Porusz każdą ze swoich jednostek na Mapie o maksymalnie 3 pola.,0.775
+471,6 Battle Tracking,6 znaczników walki,0.716
+472,tokens and 3 blue,3 niebieskie –,0.718
+473,2. Place the Order Card,2. Umieszczenie karty rozkazu,0.914
+474,3a. Activate a Column,3a. Aktywowanie kolumny,0.913
+475,3b. Take a Noble Action,3b. Wykonanie akcji zwoju,0.808
+476,Special Orders,Rozkazy specjalne,0.847
+477,Clan Fort Spot,fortu klanu,0.621
+478,Village Territory,terytorium wioski terytorium,0.762
+479,(During Battle),(Podczas bitwy),0.924
+480,"Roll 3, Keep 2","Rzuć 3 kośćmi, zachowaj 2 kości",0.701
+481,Recruit 1 Troop,Zrekrutuj 1 wojownika,0.79
+482,1 Movement,1 ruch,0.878
+483,1 Movement,1 ruch,0.878
+484,1 Movement,1 ruch,0.878
+485,Buy Buildings with,Zbuduj budowle,0.64
+486,Unique Building:,Unikatowa budowla,0.749
+487,Each clan has their own unique building.,Każdy klan ma swoją unikatową budowlę.,0.916
+488,"Before or after each movement you use, you may pay",Przed albo po każdym rozpatrzonym ruchu gracz może wydać,0.766
+489,“Knowledge cannot save you.,„Wiedza cię nie ocali.,0.935
+490,Magic cannot save you.,Magia cię nie ocali.,0.92
+491,Nothing can save you.”,Nic już cię nie ocali”.,0.897
+492,Yes,Tak,0.934
+493,Yes,Tak,0.934
+494,Game Design:,Autorzy gry:,0.675
+495,Ben Rosset & Matthew O’Malley,Ben Rosset i Matthew O’Malley,0.98
+496,Development:,Rozwój gry:,0.76
+497,Illustration:,Ilustracje:,0.904
+498,Cover Art:,Okładka:,0.754
+499,Graphic Design:,Projekt graficzny:,0.885
+500,Sculpting:,Figurki:,0.677
+501,Art Direction:,Dyrektorzy artystyczni:,0.731
+502,Production:,Marketing:,0.652
+503,Board Game Arena Development:,Opracowanie wersji na Board Game Arena:,0.851
+504,"Ellie Gentry, Guadalupe Gonzalez, Mike Hummel, Waleed Ma’arouf,","Emile de Maat, Halley Feil, Thomas Gallecier, Miguel Gonzalez,",0.704
+505,Noble action,Akcja zwoju,0.627
+506,Asterisk denoting additional information,Gwiazdka oznaczająca dodatkowe informacje,0.879
