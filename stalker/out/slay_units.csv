@@ -1,0 +1,33 @@
+id,decision,pl_fixed
+15,DROP,
+16,DROP,
+17,DROP,
+18,DROP,
+19,DROP,
+20,DROP,
+21,DROP,
+22,DROP,
+23,DROP,
+24,DROP,
+25,DROP,
+26,DROP,
+32,DROP,
+40,DROP,
+42,DROP,
+45,DROP,
+61,DROP,
+64,DROP,
+70,DROP,
+75,DROP,
+76,DROP,
+82,FIX,• Początek Tury
+85,FIX,• Rozgrywka
+86,FIX,• Koniec Tury
+90,DROP,
+97,DROP,
+119,DROP,
+129,FIX,"Żeton Cudu[[ICON1]] może być użyty w dowolnym momencie, aby pozyskać 1 punkt Energii [[ICON2]]. Nie możesz mieć jednocześnie więcej niż 5[[ICON3]] Żetony Cudu zdobywasz zagrywając karty lub ze zdolności z ikoną[[ICON4]] Twoja początkowa zdolność zapewnia ci[[ICON5]] Możesz użyć Cudów do przekroczenia limitu punktów Energii (maks. 6), jeśli zostaną one natychmiast wykorzystane do zapłacenia za zagranie karty."
+154,DROP,
+161,DROP,
+162,DROP,
+163,DROP,
