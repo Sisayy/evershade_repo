@@ -1,0 +1,19 @@
+id,decision,pl_fixed
+20,DROP,
+111,FIX,"Następnie obok kart wybranych Strażników umieśćcie odpowiednią liczbę ich figurek, zależną od liczby graczy: ➤2 graczy: użyjcie po 1 figurce Strażnika każdego rodzaju ➤3 graczy: użyjcie po 2 figurki Strażników każdego rodzaju ➤4 lub 5 graczy: użyjcie wszystkich dostępnych figurek Strażników każdego rodzaju (3 dla Strażników z małą podstawką, 2 dla Strażników z dużą podstawką)."
+71,DROP,
+316,FIX,"Ponieważ w niebieskiej części toru Uwielbienia pozostało dwoje Bogów: Ozyrys i Izyda-Ra, gra toczy się dalej, dopóki jeden z Bogów nie osiągnie najwyższego pola toru Uwielbienia lub do końca 5. wydarzenia Konfliktu."
+37,FIX,"Każda jednostka ma podstawową siłę równą 1, ale indywidualne zdolności Strażnika, moce Boga lub moce Ankh mogą zwiększyć tę wartość."
+169,FIX,Przykład: Grający Amonem wykonuje akcję Odblokowanie Mocy Ankh.
+84,DROP,
+92,DROP,
+150,DROP,
+186,DROP,
+334,DROP,
+397,FIX,"KOCIE MUMIE Jeśli Kocie Mumie zostaną zabite przez jakikolwiek efekt, WSZYSCY gracze, za wyjątkiem ich właściciela, natychmiast tracą po 1 punkcie Uwielbienia."
+407,DROP,
+415,DROP,
+422,DROP,
+426,DROP,
+438,DROP,
+453,DROP,
