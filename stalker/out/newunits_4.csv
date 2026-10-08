@@ -1,0 +1,23 @@
+id,decision,pl_fixed
+171,FIX,LOKALIZACJA
+173,DROP,
+174,FIX,LOKALIZACJA
+178,DROP,
+185,DROP,
+190,DROP,
+207,DROP,
+211,DROP,
+213,DROP,
+216,FIX,"Jeśli w grze nie ma żadnych wrogów, należy od razu przejść do fazy utrzymania. W przeciwnym razie należy rozpatrzyć po kolei poniższe kroki:"
+221,FIX,Zwycięstwo 2.
+228,DROP,
+243,FIX,Zwycięstwo 2.
+246,DROP,
+247,DROP,
+262,FIX,"12. 【B】Przygotowanie talii aktów.【/B】 Talię aktów należy przygotować poprzez ułożenie w kolejności kart aktów stroną z grafiką ku górze tak, aby „akt 1a” znalazł się na wierzchu. Następnie należy odczytać tekst fabularny z aktu 1a."
+265,FIX,"Kampania to dłuższa historia osadzona w złowieszczym uniwersum mitów Lovecrafta, która rozwija się w ramach serii powiązanych ze sobą scenariuszy. Wraz z postępem kampanii każdy badacz będzie zyskiwał punkty doświadczenia oraz otrzymywał traumy, co będzie odzwierciedlane poprzez zmiany zachodzące w jego talii. Decyzje, zwycięstwa i porażki są zapisywane w Dzienniku kampanii i mogą mieć daleko idące konsekwencje."
+290,DROP,
+291,FIX,"Każdy scenariusz może być rozegrany w trybie samodzielnej rozgrywki, w ramach pojedynczej partii. Rozgrywając scenariusz w ten sposób, należy podczas przygotowania gry stosować się do wszelkich zasad „trybu samodzielnej rozgrywki”. Szczegółowe informacje na ten temat znajdują się w Grymuarze Arkham w sieci."
+297,DROP,
+304,DROP,
+329,DROP,
