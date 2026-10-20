@@ -1,0 +1,3714 @@
+{
+ "hekaton": {
+  "_uwagi": "Transkrypcja ze skanów kart Hekatona (AI x18 + Signature + Routine, BP x18). Ψ=FATE, Ω=RAGE, Λ=DANGER. 'tgt' sprawdzane od góry. Ikony zasobów w rogu kart BP odczytane do pola res (icon_bubbles/icon_plume/icon_chunk); nazwy zasobów do uzupełnienia.",
+  "ai_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6,
+   "uwaga": "w samouczku: najpierw Cold Open"
+  },
+  "targety": {
+   "F": "najbliższy tytan z przodu, w zasięgu",
+   "S": "najbliższy tytan w polu widzenia",
+   "P": "tytan z tokenem priorytetu, w zasięgu"
+  },
+  "ai": [
+   {
+    "id": "AR0394",
+    "n": "Left Hook",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "knockback 5",
+    "name": {
+     "en": "Left Hook",
+     "pl": "Lewy Sierpowy"
+    },
+    "flavor": {
+     "en": "The Hekaton clenches its mighty fist.",
+     "pl": "Hekaton zaciska potężną pięść."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nKnockback 5.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nKnockback 5."
+    }
+   },
+   {
+    "id": "AR0395",
+    "n": "Right Hook",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "knockback 5",
+    "name": {
+     "en": "Right Hook",
+     "pl": "Prawy Sierpowy"
+    },
+    "flavor": {
+     "en": "The Hekaton clenches its mighty fist.",
+     "pl": "Hekaton zaciska potężną pięść."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nKnockback 5.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nKnockback 5."
+    }
+   },
+   {
+    "id": "AR0396",
+    "n": "One, Two Punch",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "perform signature",
+    "name": {
+     "en": "One, Two Punch",
+     "pl": "Raz-Dwa"
+    },
+    "flavor": {
+     "en": "A fist jabs at you from the left, immediately folllowed by a right cross.",
+     "pl": "Pięść wyprowadza prosty z lewej, a zaraz po nim pada prawy krzyżowy."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nPerform Signature.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nPerform Signature."
+    }
+   },
+   {
+    "id": "AR0397",
+    "n": "Thunderpunch",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_pushback": [
+     3,
+     3
+    ],
+    "danger": 1,
+    "knockdown": true,
+    "name": {
+     "en": "Thunderpunch",
+     "pl": "Gromowy Cios"
+    },
+    "flavor": {
+     "en": "The Hekaton rears on its hind arms and delivers a powerful downward blow.",
+     "pl": "Hekaton staje na tylnych ramionach i zadaje potężny cios z góry."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: Pushback 3]\nEach hit deals 1Λ.\n[!] Knockdown.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: Pushback 3]\nKażde trafienie zadaje 1Λ.\n[!] Knockdown."
+    }
+   },
+   {
+    "id": "AR0398",
+    "n": "Cold Open",
+    "lvl": 1,
+    "dice": 4,
+    "diff": 6,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "pushback 3",
+    "name": {
+     "en": "Cold Open",
+     "pl": "Zimny Start"
+    },
+    "flavor": {
+     "en": "It goes from zero to ten in a heartbeat and the punches keep on coming.",
+     "pl": "Od zera do dziesięciu w jedno uderzenie serca, a ciosy wciąż spadają."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nPushback 3.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nPushback 3."
+    }
+   },
+   {
+    "id": "AR0399",
+    "n": "Smash",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 2,
+    "after": "knockback 5",
+    "name": {
+     "en": "Smash",
+     "pl": "Grzmotnięcie"
+    },
+    "flavor": {
+     "en": "The Hekaton smashes his front hands as if with frustration.",
+     "pl": "Hekaton z frustracją grzmoci przednimi dłońmi."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 2Λ.\n[!] After Attack\nKnockback 5.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Po Ataku\nKnockback 5."
+    }
+   },
+   {
+    "id": "AR0400",
+    "n": "Omnipunch",
+    "lvl": 2,
+    "type": "simultaneous",
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "all adjacent"
+    ],
+    "no_target": "perform signature",
+    "danger": 1,
+    "fate_danger": [
+     4,
+     2
+    ],
+    "knockback": 5,
+    "name": {
+     "en": "Omnipunch",
+     "pl": "Wszechcios"
+    },
+    "flavor": {
+     "en": "As if it was a sea urchin, the Primordial extends all of its limbs in every direction, punching everything at arms' length.",
+     "pl": "Niczym jeżowiec Prapoczątkowy wyrzuca kończyny we wszystkie strony, okładając wszystko na wyciągnięcie ręki."
+    },
+    "text": {
+     "en": "Target: All adjacent Titans\nNo Target: Perform Signature\n[!] Attack\nEach hit deals 1Λ. [Ψ4+: 2Λ instead]\n[!] Knockback 5.",
+     "pl": "Cel: wszyscy sąsiadujący Tytani\nBrak celu: Perform Signature\n[!] Atak\nKażde trafienie zadaje 1Λ. [Ψ4+: zamiast tego 2Λ]\n[!] Knockback 5."
+    },
+    "card_type": "Simultaneous Attack"
+   },
+   {
+    "id": "AR0401",
+    "n": "Furious Smash",
+    "lvl": 2,
+    "dice": 4,
+    "diff": 8,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "danger": 1,
+    "fate_danger": [
+     4,
+     2
+    ],
+    "after": "pushback 3",
+    "name": {
+     "en": "Furious Smash",
+     "pl": "Wściekłe Grzmotnięcie"
+    },
+    "flavor": {
+     "en": "The Primordial delivers a blow with its mighty armored fist.",
+     "pl": "Prapoczątkowy zadaje cios potężną, opancerzoną pięścią."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 1Λ. [Ψ4+: 2Λ instead]\n[!] After Attack\nPushback 3.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 1Λ. [Ψ4+: zamiast tego 2Λ]\n[!] Po Ataku\nPushback 3."
+    }
+   },
+   {
+    "id": "AR0402",
+    "n": "Rumble Strike",
+    "lvl": 2,
+    "type": "zone",
+    "zone": 2,
+    "dice": 2,
+    "diff": 9,
+    "danger": 1,
+    "knockdown": true,
+    "after_final": "perform signature",
+    "name": {
+     "en": "Rumble Strike",
+     "pl": "Dudniące Uderzenie"
+    },
+    "flavor": {
+     "en": "The Hekaton starts smashing the ground in a rhythmic fashion.",
+     "pl": "Hekaton zaczyna rytmicznie tłuc w ziemię."
+    },
+    "text": {
+     "en": "Target: Zone 2\n[!] Attack\nEach hit deals 1Λ.\n[!] Knockdown.\n[!] After Final Attack\nPerform Signature.",
+     "pl": "Cel: Strefa 2\n[!] Atak\nKażde trafienie zadaje 1Λ.\n[!] Knockdown.\n[!] Po Ostatnim Ataku\nPerform Signature."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0403",
+    "n": "Chainfist",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "jeśli zadano DANGER, powtórz Chainfist (raz)",
+    "name": {
+     "en": "Chainfist",
+     "pl": "Łańcuchowa Pięść"
+    },
+    "flavor": {
+     "en": "The monster cartwheels into you like a giant ball of fists and pain.",
+     "pl": "Potwór toczy się na ciebie jak olbrzymia kula pięści i bólu."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nIf Λ was dealt, repeat Chainfist (once).",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nJeśli zadano Λ, powtórz Chainfist (raz)."
+    }
+   },
+   {
+    "id": "AR0404",
+    "n": "Suckerpunch",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "danger": 2,
+    "fate_danger": [
+     5,
+     3
+    ],
+    "knockdown": true,
+    "after": "knockback 5",
+    "name": {
+     "en": "Suckerpunch",
+     "pl": "Cios z Zaskoczenia"
+    },
+    "flavor": {
+     "en": "It knows where it hurts the most.",
+     "pl": "Wie, gdzie boli najbardziej."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 2Λ. [Ψ5+: 3Λ instead]\n[!] Knockdown.\n[!] After Attack\nKnockback 5.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 2Λ. [Ψ5+: zamiast tego 3Λ]\n[!] Knockdown.\n[!] Po Ataku\nKnockback 5."
+    }
+   },
+   {
+    "id": "AR0405",
+    "n": "Solarplexar",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 2,
+    "knockdown": true,
+    "after": "jeśli zadano 2+ DANGER, dobierz kartę Kratos",
+    "name": {
+     "en": "Solarplexar",
+     "pl": "Splotosłoneczny"
+    },
+    "flavor": {
+     "en": "Somehow the creature understands your connection to the Titan and attacks the most vulnarable neural plexus.",
+     "pl": "Stwór jakimś cudem rozumie twoją więź z Tytanem i atakuje najbardziej wrażliwy splot nerwowy."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 2Λ.\n[!] Knockdown.\n[!] After Attack\nIf 2+ Λ was dealt, draw a Kratos card.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Knockdown.\n[!] Po Ataku\nJeśli zadano 2+ Λ, dobierz kartę Kratos."
+    }
+   },
+   {
+    "id": "AR0406",
+    "n": "Death from a Hundred Fists",
+    "lvl": 3,
+    "dice": 5,
+    "diff": 7,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "special": "rzuć dodatkowe kości uniku = liczba trafień; powtarzaj aż 0 trafień; potem każde trafienie zadaje DANGER",
+    "danger": 1,
+    "fate_danger": [
+     6,
+     2
+    ],
+    "after": "pushback 4",
+    "name": {
+     "en": "Death from a Hundred Fists",
+     "pl": "Śmierć od Stu Pięści"
+    },
+    "flavor": {
+     "en": "Mindless and unrelentless, it comes at you with all of its might. You may endure one, two, ten punches. One hundred is madness.",
+     "pl": "Bezmyślny i nieustępliwy, napiera na ciebie z całą mocą. Można wytrzymać jeden, dwa, dziesięć ciosów. Sto to szaleństwo."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nRoll as many additional Evasion Dice as there are hits. Repeat until there are no hits. Then each hit deals 1Λ. [Ψ6+: 2Λ instead]\n[!] After Attack\nPushback 4.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nRzuć tyle dodatkowych Kości Uniku, ile jest trafień. Powtarzaj, aż nie będzie trafień. Potem każde trafienie zadaje 1Λ. [Ψ6+: zamiast tego 2Λ]\n[!] Po Ataku\nPushback 4."
+    }
+   },
+   {
+    "id": "AR0407",
+    "n": "Thunderclash",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "danger": 3,
+    "fate_danger": [
+     6,
+     4
+    ],
+    "knockdown": true,
+    "after": "knockback 8",
+    "name": {
+     "en": "Thunderclash",
+     "pl": "Gromowe Starcie"
+    },
+    "flavor": {
+     "en": "The Hekaton winds around, almost turning to you with its side. Then the hook comes knocking.",
+     "pl": "Hekaton bierze zamach, niemal odwracając się do ciebie bokiem. A potem nadlatuje sierpowy."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 3Λ. [Ψ6+: 4Λ instead]\n[!] Knockdown.\n[!] After Attack\nKnockback 8.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 3Λ. [Ψ6+: zamiast tego 4Λ]\n[!] Knockdown.\n[!] Po Ataku\nKnockback 8."
+    }
+   },
+   {
+    "id": "AR0408",
+    "n": "Backbreaker",
+    "lvl": 3,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "fate_death": 8,
+    "danger": 2,
+    "obol_instead_of_trauma": true,
+    "after": "knockdown",
+    "name": {
+     "en": "Backbreaker",
+     "pl": "Łamacz Krzyży"
+    },
+    "flavor": {
+     "en": "One of the mighty front hands bends inwards, almost as if the Hekaton was kneeling. The other hands raise you in the air, then slam down.",
+     "pl": "Jedna z potężnych przednich dłoni zgina się do środka, jakby Hekaton przyklękał. Pozostałe unoszą cię w powietrze i ciskają w dół."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\n[Ψ8+: You Die] If you didn't die, each hit deals 2Λ, then draw an Obol instead of a regular Trauma Draw.\n[!] After Attack\nKnockdown.",
+     "pl": "Cel: [Priority Target] Cel Priorytetowy w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\n[Ψ8+: Giniesz] Jeśli nie zginąłeś, każde trafienie zadaje 2Λ, a potem dobierz Obol zamiast zwykłego dobrania Traumy.\n[!] Po Ataku\nKnockdown."
+    }
+   },
+   {
+    "id": "AR0409",
+    "n": "Solarsuplexar",
+    "lvl": 3,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 7,
+    "danger": 1,
+    "forced_vault": true,
+    "knockdown": true,
+    "after": "jeśli zadano DANGER, dobierz kartę Kratos",
+    "name": {
+     "en": "Solarsuplexar",
+     "pl": "Słoneczny Suplex"
+    },
+    "flavor": {
+     "en": "It knows you're just controlling the Titan and it intends to break that connection - with flair.",
+     "pl": "Wie, że tylko sterujesz Tytanem, i zamierza zerwać tę więź — z rozmachem."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ7+: +1 die]\nEach hit deals 1Λ.\n[!] Forced Vault.\n[!] Knockdown.\n[!] After Attack\nIf Λ was dealt, draw a Kratos card.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ7+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Forced Vault.\n[!] Knockdown.\n[!] Po Ataku\nJeśli zadano Λ, dobierz kartę Kratos."
+    }
+   },
+   {
+    "id": "AR0410",
+    "n": "Skullcrusher",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 8,
+    "danger": 4,
+    "knockdown": true,
+    "after": "knockback 8",
+    "name": {
+     "en": "Skullcrusher",
+     "pl": "Miażdżyczaszka"
+    },
+    "flavor": {
+     "en": "The mighty hands of the monster clutch your helmeted head and squeeze. The screech of metal is deafening.",
+     "pl": "Potężne dłonie potwora chwytają twoją głowę w hełmie i ściskają. Zgrzyt metalu ogłusza."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ8+: +1 die]\nEach hit deals 4Λ.\n[!] Knockdown.\n[!] After Attack\nKnockback 8.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ8+: +1 kość]\nKażde trafienie zadaje 4Λ.\n[!] Knockdown.\n[!] Po Ataku\nKnockback 8."
+    }
+   },
+   {
+    "id": "AR0411",
+    "n": "Hekatosmasher",
+    "lvl": 3,
+    "type": "zone",
+    "zone": 3,
+    "dice": 2,
+    "diff": 8,
+    "fate_die": 7,
+    "danger": 2,
+    "knockdown": true,
+    "fate_knockback": [
+     5,
+     5
+    ],
+    "after_final": "dobierz kolejną kartę AI",
+    "name": {
+     "en": "Hekatosmasher",
+     "pl": "Hekatomiażdżyciel"
+    },
+    "flavor": {
+     "en": "The Primordial moves all its weight onto one side and delivers the mother of all haymakers.",
+     "pl": "Prapoczątkowy przenosi cały ciężar na jedną stronę i wyprowadza matkę wszystkich zamachów."
+    },
+    "text": {
+     "en": "Target: Zone 3\n[!] Attack [Ψ7+: +1 die]\nEach hit deals 2Λ.\n[!] Knockdown.\n[!] [Ψ5+: Knockback 5]\n[!] After Final Attack\nDraw another AI card.",
+     "pl": "Cel: Strefa 3\n[!] Atak [Ψ7+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Knockdown.\n[!] [Ψ5+: Knockback 5]\n[!] Po Ostatnim Ataku\nDobierz kolejną kartę AI."
+    },
+    "card_type": "Zone Attack"
+   }
+  ],
+  "signature": {
+   "id": "AR0412",
+   "n": "Swat",
+   "dice": 2,
+   "diff": 9,
+   "tgt": [
+    "F",
+    "S"
+   ],
+   "fate_die": 3,
+   "danger": 1,
+   "after": "knockback 5",
+   "name": {
+    "en": "Swat",
+    "pl": "Pacnięcie"
+   },
+   "flavor": {
+    "en": "The Hekaton does what it was made to do: SMASH!",
+    "pl": "Hekaton robi to, do czego go stworzono: MIAŻDŻY!"
+   },
+   "text": {
+    "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nKnockback 5.",
+    "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nKnockback 5."
+   },
+   "card_type": "Signature",
+   "lvl": "X"
+  },
+  "routine": {
+   "id": "AR0413",
+   "n": "Idle Hands",
+   "efekt": "Argo traci -1 Hull (ikona dziobu statku)",
+   "name": {
+    "en": "Idle Hands",
+    "pl": "Bezczynne Ręce"
+   },
+   "flavor": {
+    "en": "Devil's playthings.",
+    "pl": "Diabelskie zabawki."
+   },
+   "text": {
+    "en": "Argo loses -1 [Hull].",
+    "pl": "Argo traci -1 ⛵."
+   },
+   "card_type": "Routine",
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "hull",
+       "n": -1
+      }
+     ]
+    }
+   ],
+   "uncertain": "Icon after -1 looks like a ship prow (Hull) per legend; small at scan resolution.",
+   "lvl": "X"
+  },
+  "mnestis_routine": {
+   "n": "Cow Toss",
+   "efekt": "najdalszy tytan: knockdown, DANGER do 9, losuje Obol; Hekaton podchodzi do najbliższego tytana (SPEED bez limitu). Tylko bitwa Mnestis Theatre."
+  },
+  "bp_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6
+  },
+  "bp": [
+   {
+    "id": "AS0415",
+    "n": "One of a Hundred",
+    "lvl": 1,
+    "at": 2,
+    "fail": "pushback 2",
+    "crit": "+2 RAGE",
+    "name": {
+     "en": "One of a Hundred",
+     "pl": "Jedna ze Stu"
+    },
+    "text": {
+     "en": "Fail: Pushback 2.\nCritical: Gain +2Ω.",
+     "pl": "Fail: Pushback 2.\nCritical: zyskaj +2Ω."
+    },
+    "crit_flavor": {
+     "en": "As you rip the arm away, you feel power brimming!",
+     "pl": "Gdy wyrywasz ramię, czujesz wzbierającą moc!"
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0416",
+    "n": "The Runt",
+    "lvl": 1,
+    "at": 2,
+    "fail": "pushback 2",
+    "crit": "w drugim oknie umiejętności dodaj 2 dodatkowe żetony Opening lub Break do puli Kratos",
+    "name": {
+     "en": "The Runt",
+     "pl": "Cherlak"
+    },
+    "text": {
+     "en": "Fail: Pushback 2.\nCritical: During the second ability window place 2 additional Opening or Break tokens in the Kratos Pool.",
+     "pl": "Fail: Pushback 2.\nCritical: w drugim oknie zdolności połóż 2 dodatkowe żetony Opening lub Break w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "You've destroyed a weak support arm riddled with sirenshell slivers. The monster is left wide open!",
+     "pl": "Zniszczyłeś słabe ramię podporowe, naszpikowane odłamkami syreniej muszli. Potwór jest całkiem odsłonięty!"
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0417",
+    "n": "Right Mighty Fist",
+    "lvl": 1,
+    "at": 3,
+    "wound": "pushback 1, +1 DANGER, knockback 5",
+    "crit": "Hekaton: 1 ujemny żeton Precision",
+    "name": {
+     "en": "Right Mighty Fist",
+     "pl": "Prawa Potężna Pięść"
+    },
+    "text": {
+     "en": "Wound: Pushback 1. Gain +1Λ.\n[!] Knockback 5.\nCritical: Hekaton gains 1 negative Precision token.",
+     "pl": "Wound: Pushback 1. Zyskaj +1Λ.\n[!] Knockback 5.\nCritical: Hekaton zyskuje 1 ujemny żeton Precision."
+    },
+    "crit_flavor": {
+     "en": "The fingers break and puncture the skin, turning the fist into a bloody mash.",
+     "pl": "Palce łamią się i przebijają skórę, zamieniając pięść w krwawą miazgę."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0418",
+    "n": "Left Mighty Fist",
+    "lvl": 1,
+    "at": 3,
+    "wound": "pushback 1, +1 DANGER, knockback 5",
+    "crit": "1 dodatni żeton Precision (atakującego)",
+    "name": {
+     "en": "Left Mighty Fist",
+     "pl": "Lewa Potężna Pięść"
+    },
+    "text": {
+     "en": "Wound: Pushback 1. Gain +1Λ.\n[!] Knockback 5.\nCritical: Gain 1 positive Precision token.",
+     "pl": "Wound: Pushback 1. Zyskaj +1Λ.\n[!] Knockback 5.\nCritical: zyskaj 1 dodatni żeton Precision."
+    },
+    "crit_flavor": {
+     "en": "As the rain of cut giant fingers falls upon you, you feel baptized.",
+     "pl": "Gdy spada na ciebie deszcz odciętych olbrzymich palców, czujesz się jak ochrzczony."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0419",
+    "n": "Right Shield Fist",
+    "lvl": 1,
+    "at": 4,
+    "fail": "+1 FATE, knockdown",
+    "crit": "do końca bitwy atak z tylnego pola: Hekaton ma -1 TO HIT",
+    "name": {
+     "en": "Right Shield Fist",
+     "pl": "Prawa Pięść-Tarcza"
+    },
+    "text": {
+     "en": "Fail: Gain +1Ψ.\n[!] Knockdown.\nCritical: Until the end of Battle, when attacked from a Rear space, the Hekaton has -1[To Hit].",
+     "pl": "Fail: zyskaj +1Ψ.\n[!] Knockdown.\nCritical: do końca Bitwy, gdy Hekaton jest atakowany z pola Tylnego, ma -1[To Hit]."
+    },
+    "crit_flavor": {
+     "en": "The maze plate breaks like shattered glass, revealing the fleshy insides.",
+     "pl": "Labiryntowa płyta pęka jak rozbite szkło, odsłaniając mięsiste wnętrze."
+    },
+    "res": [
+     "icon_bubbles"
+    ],
+    "uncertain": "Icon after -1 in Critical is the same octopus-face glyph as the to-hit badge; read as To Hit (matches ref)."
+   },
+   {
+    "id": "AS0420",
+    "n": "Left Shield Fist",
+    "lvl": 1,
+    "at": 4,
+    "wound": "+1 FATE, knockdown",
+    "crit": "1 zasób Ancient Shell (rzadki); można wykonać atak bonusowy",
+    "name": {
+     "en": "Left Shield Fist",
+     "pl": "Lewa Pięść-Tarcza"
+    },
+    "text": {
+     "en": "Wound: Gain +1Ψ.\n[!] Knockdown.\nCritical: Gain 1 Ancient Shell Rare resource. You may perform a Bonus Attack!",
+     "pl": "Wound: zyskaj +1Ψ.\n[!] Knockdown.\nCritical: zyskaj 1 rzadki zasób Ancient Shell. Możesz wykonać Atak Dodatkowy!"
+    },
+    "crit_flavor": {
+     "en": "The hardened skin of the mazeflesh parts under your attack, revealing a sirenshell splinter. The monster is wide open for a follow up!",
+     "pl": "Stwardniała skóra labiryntowego ciała rozstępuje się pod twoim atakiem, odsłaniając drzazgę syreniej muszli. Potwór jest odsłonięty na kolejny cios!"
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0421",
+    "n": "Shoulderhands",
+    "lvl": 2,
+    "at": 5,
+    "wound": "pushback 1, +2 DANGER, knockback 5",
+    "crit": "wyłącz Pushbacki Hekatona",
+    "name": {
+     "en": "Shoulderhands",
+     "pl": "Ramiodłonie"
+    },
+    "text": {
+     "en": "Wound: Pushback 1. Gain +2Λ.\n[!] Knockback 5.\nCritical: Disable Hekaton's Pushbacks.",
+     "pl": "Wound: Pushback 1. Zyskaj +2Λ.\n[!] Knockback 5.\nCritical: wyłącz Pushbacki Hekatona."
+    },
+    "crit_flavor": {
+     "en": "You hack at the outer layer of hands, they fall to the ground like dead leeches.",
+     "pl": "Rąbiesz zewnętrzną warstwę dłoni, a te spadają na ziemię jak martwe pijawki."
+    },
+    "res": [
+     "icon_plume"
+    ]
+   },
+   {
+    "id": "AS0422",
+    "n": "Exposed Back Arms",
+    "lvl": 2,
+    "at": 4,
+    "fail": "pushback 1, +2 DANGER, knockback 5",
+    "crit": "dodatkowa pojedyncza rana",
+    "name": {
+     "en": "Exposed Back Arms",
+     "pl": "Odsłonięte Tylne Ramiona"
+    },
+    "text": {
+     "en": "Fail: Pushback 1. Gain +2Λ.\n[!] Knockback 5.\nCritical: Deal an additional Single Wound.",
+     "pl": "Fail: Pushback 1. Zyskaj +2Λ.\n[!] Knockback 5.\nCritical: zadaj dodatkową Pojedynczą Ranę."
+    },
+    "crit_flavor": {
+     "en": "Your strike goes through the protective arms and punctures the drum-heart.",
+     "pl": "Twój cios przechodzi przez ochronne ramiona i przebija serce-bęben."
+    },
+    "res": [
+     "icon_plume"
+    ]
+   },
+   {
+    "id": "AS0423",
+    "n": "Calcified Maze Plates",
+    "lvl": 2,
+    "at": 6,
+    "fail": "DANGER równy poziomowi prymordiala",
+    "crit": "karta Shieldblade (Secret Deck 2, nr 10) + ruch przeciwnika (Adversary)",
+    "name": {
+     "en": "Calcified Maze Plates",
+     "pl": "Zwapniałe Płyty Labiryntu"
+    },
+    "text": {
+     "en": "Fail: Gain Λ equal to the Primordial LVL.\nCritical: Gain the Shieldblade [weapon] card (Secret Deck 2, card 10), [Adversary] (Move the Adversary)!",
+     "pl": "Fail: zyskaj Λ równe poziomowi Prapoczątkowego.\nCritical: zyskaj kartę Shieldblade [broń] (Tajna Talia 2, karta 10), [Adversary] (przesuń Adversary)!"
+    },
+    "crit_flavor": {
+     "en": "You rip the massive maze plate of the giant hand as if you would a fingernail.",
+     "pl": "Zrywasz masywną labiryntową płytę z olbrzymiej dłoni, jakby to był paznokieć."
+    },
+    "res": [
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0424",
+    "n": "Knuckle Teeth",
+    "lvl": 2,
+    "at": 5,
+    "fail": "DANGER równy poziomowi prymordiala",
+    "crit": "token priorytetu; można wykonać atak bonusowy",
+    "name": {
+     "en": "Knuckle Teeth",
+     "pl": "Zęby z Knykci"
+    },
+    "text": {
+     "en": "Fail: Gain Λ equal to the Primordial LVL.\nCritical: Gain the [Priority Target] Priority Target token. You may perform a Bonus Attack!",
+     "pl": "Fail: zyskaj Λ równe poziomowi Prapoczątkowego.\nCritical: zyskaj żeton [Priority Target] Celu Priorytetowego. Możesz wykonać Atak Dodatkowy!"
+    },
+    "crit_flavor": {
+     "en": "You don't knock these teeth out, you cleave them clean!",
+     "pl": "Nie wybijasz tych zębów — ścinasz je na gładko!"
+    },
+    "res": [
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0425",
+    "n": "Muscular Biceps Thighs",
+    "lvl": 2,
+    "at": 5,
+    "wound": "pushback 1, +2 DANGER, knockback 5",
+    "crit": "Hekaton: 1 ujemny żeton TO HIT",
+    "name": {
+     "en": "Muscular Biceps Thighs",
+     "pl": "Muskularne Bicepsy-Uda"
+    },
+    "text": {
+     "en": "Wound: Pushback 1. Gain +2Λ.\n[!] Knockback 5.\nCritical: Hekaton gains 1 negative To Hit token.",
+     "pl": "Wound: Pushback 1. Zyskaj +2Λ.\n[!] Knockback 5.\nCritical: Hekaton zyskuje 1 ujemny żeton To Hit."
+    },
+    "crit_flavor": {
+     "en": "A giant gash leaves the Primordial bleeding black fluids and limping.",
+     "pl": "Olbrzymia rana sprawia, że Prapoczątkowy krwawi czarnymi płynami i kuleje."
+    },
+    "res": [
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0426",
+    "n": "Hand-Feet",
+    "lvl": 2,
+    "at": 4,
+    "fail": "pushback 1, +2 DANGER, knockback 5",
+    "crit": "Hekaton: 1 ujemny żeton Speed",
+    "name": {
+     "en": "Hand-Feet",
+     "pl": "Dłonio-Stopy"
+    },
+    "text": {
+     "en": "Fail: Pushback 1. Gain +2Λ.\n[!] Knockback 5.\nCritical: Hekaton gains 1 negative Speed token.",
+     "pl": "Fail: Pushback 1. Zyskaj +2Λ.\n[!] Knockback 5.\nCritical: Hekaton zyskuje 1 ujemny żeton Speed."
+    },
+    "crit_flavor": {
+     "en": "You break several of the tiny hands that keep the monster balanced.",
+     "pl": "Łamiesz kilka maleńkich dłoni, które utrzymują potwora w równowadze."
+    },
+    "res": [
+     "icon_plume"
+    ]
+   },
+   {
+    "id": "AS0427",
+    "n": "One in a Hundred",
+    "lvl": 3,
+    "at": 6,
+    "fail": "pushback 2, +3 DANGER, knockback 5",
+    "crit": "dodatkowa pojedyncza rana",
+    "name": {
+     "en": "One in a Hundred",
+     "pl": "Jedna na Sto"
+    },
+    "text": {
+     "en": "Fail: Pushback 2. Gain +3Λ.\n[!] Knockback 5.\nCritical: Deal an additional Single Wound.",
+     "pl": "Fail: Pushback 2. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: zadaj dodatkową Pojedynczą Ranę."
+    },
+    "crit_flavor": {
+     "en": "As you cut the arm at the elbow, you notice it is different. Blackened from decay but somehow more human.",
+     "pl": "Gdy odcinasz ramię w łokciu, zauważasz, że jest inne. Poczerniałe od rozkładu, a jednak jakby bardziej ludzkie."
+    },
+    "res": [
+     "icon_plume",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0428",
+    "n": "Corruption's Root",
+    "lvl": 3,
+    "at": 8,
+    "instinct": "+1 FATE, pushback 2, +3 DANGER, knockback 5",
+    "crit": "Hekaton ginie",
+    "name": {
+     "en": "Corruption's Root",
+     "pl": "Korzeń Zepsucia"
+    },
+    "text": {
+     "en": "Instinct: Gain +1Ψ. Pushback 2. Gain +3Λ.\n[!] Knockback 5.\nCritical: The Hekaton dies!",
+     "pl": "Instinct: zyskaj +1Ψ. Pushback 2. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: Hekaton ginie!"
+    },
+    "crit_flavor": {
+     "en": "You've ripped the labyrinthine root out! Without it, the monster curls into a ball and dies.",
+     "pl": "Wyrwałeś labiryntowy korzeń! Bez niego potwór zwija się w kłębek i umiera."
+    },
+    "res": [
+     "icon_chunk",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0429",
+    "n": "Hand-Head",
+    "lvl": 3,
+    "at": 5,
+    "instinct": "pushback 3, +3 DANGER, knockback 5",
+    "crit": "Hekaton: 2 ujemne żetony Precision; do końca bitwy wszystkie AI celują w losowego tytana w zasięgu",
+    "name": {
+     "en": "Hand-Head",
+     "pl": "Dłonio-Głowa"
+    },
+    "text": {
+     "en": "Instinct: Pushback 3. Gain +3Λ.\n[!] Knockback 5.\nCritical: Hekaton gains 2 negative Precision tokens. Until the end of Battle, all AI cards target a random Titan in range.",
+     "pl": "Instinct: Pushback 3. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: Hekaton zyskuje 2 ujemne żetony Precision. Do końca Bitwy wszystkie karty AI celują w losowego Tytana w zasięgu."
+    },
+    "crit_flavor": {
+     "en": "You've smashed the hand-head!",
+     "pl": "Zmiażdżyłeś dłonio-głowę!"
+    },
+    "res": [
+     "icon_plume",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0430",
+    "n": "Drum-Heart",
+    "lvl": 3,
+    "at": 6,
+    "wound": "pushback 2, +3 DANGER, knockback 5",
+    "crit": "na początku każdej następnej rundy prymordiala rzuć k10: 7+ → Hekaton dostaje pojedynczą ranę, eskaluj 1 i natychmiast zakończ rundę prymordiala",
+    "name": {
+     "en": "Drum-Heart",
+     "pl": "Serce-Bęben"
+    },
+    "text": {
+     "en": "Wound: Pushback 2. Gain +3Λ.\n[!] Knockback 5.\nCritical: At the start of each following Primordial Round, roll a d10. On a 7+ the Hekaton gains a Single Wound, then Escalate 1 and immediately end the Primordial Round.",
+     "pl": "Wound: Pushback 2. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: na początku każdej kolejnej Rundy Prapoczątkowego rzuć k10. Przy 7+ Hekaton otrzymuje Pojedynczą Ranę, potem Eskaluj 1 i natychmiast zakończ Rundę Prapoczątkowego."
+    },
+    "crit_flavor": {
+     "en": "You've stabbed the drumming heart!",
+     "pl": "Przebiłeś bijące serce-bęben!"
+    },
+    "res": [
+     "icon_chunk",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0431",
+    "n": "Spinal Finger Column",
+    "lvl": 3,
+    "at": 5,
+    "fail": "+1 FATE, pushback 2, +3 DANGER, knockback 5",
+    "crit": "wyłącz ataki strefowe Hekatona",
+    "name": {
+     "en": "Spinal Finger Column",
+     "pl": "Kręgosłup z Palców"
+    },
+    "text": {
+     "en": "Fail: Gain +1Ψ. Pushback 2. Gain +3Λ.\n[!] Knockback 5.\nCritical: Disable Hekaton's Zone Attacks.",
+     "pl": "Fail: zyskaj +1Ψ. Pushback 2. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: wyłącz Ataki Strefowe Hekatona."
+    },
+    "crit_flavor": {
+     "en": "You cut at the column of fingers and see the monster convulse in pain.",
+     "pl": "Tniesz kolumnę palców i widzisz, jak potwór wije się z bólu."
+    },
+    "res": [
+     "icon_plume",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0432",
+    "n": "Humanity",
+    "lvl": 3,
+    "at": 7,
+    "instinct": "pushback 2, +3 DANGER, knockback 5",
+    "crit": "Hekaton: +1 dodatni żeton Danger, Attack Die i Precision; po walce Special Event 'No Mercy for the Centimanes'",
+    "name": {
+     "en": "Humanity",
+     "pl": "Człowieczeństwo"
+    },
+    "text": {
+     "en": "Instinct: Pushback 2. Gain +3Λ.\n[!] Knockback 5.\nCritical: Hekaton gains 1 positive Danger token, 1 positive Attack Die token and 1 positive Precision token. After the fight resolve the No Mercy for the Centimanes Special Event.",
+     "pl": "Instinct: Pushback 2. Zyskaj +3Λ.\n[!] Knockback 5.\nCritical: Hekaton zyskuje 1 dodatni żeton Danger, 1 dodatni żeton Attack Die i 1 dodatni żeton Precision. Po walce rozpatrz Wydarzenie Specjalne No Mercy for the Centimanes."
+    },
+    "crit_flavor": {
+     "en": "You've destroyed the only thing that kept this monster in check.",
+     "pl": "Zniszczyłeś jedyną rzecz, która trzymała tego potwora w ryzach."
+    },
+    "res": [
+     "icon_chunk",
+     "icon_bubbles"
+    ]
+   }
+  ]
+ },
+ "trauma": {
+  "_uwagi": "Znak +/- z ikony w prawym dolnym rogu. Minor: strzałka w lewym dolnym rogu = kierunek losowy (N/W/E/S, wybierz = ⟲). Major: delve = numer w lewym dolnym rogu (Pharos delve). Brakuje numerów AM0343 i AM0349 w skanie Grave.",
+  "talia": {
+   "minor": [
+    {
+     "id": "AM0307",
+     "n": "Kratos Whisper",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Gain +1 RAGE.",
+     "strzałka": "N",
+     "name": {
+      "en": "Kratos Whisper",
+      "pl": "Szept Kratosa"
+     },
+     "flavor": {
+      "en": "\"The Moirai are watching.\"",
+      "pl": "„Mojry patrzą.”"
+     },
+     "text": {
+      "en": "Gain +1Ω.",
+      "pl": "Zyskaj +1Ω."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.rage",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0308",
+     "n": "Insulted",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz natychmiast wykonać atak bonusowy. Jeśli masz Knockdown (falling down), wstań zamiast tego.",
+     "strzałka": "W",
+     "name": {
+      "en": "Insulted",
+      "pl": "Obrażony"
+     },
+     "text": {
+      "en": "You may immediately perform a Bonus Attack!\nIf you have the Knockdown (falling down) Condition card, immediately stand up instead.",
+      "pl": "Możesz natychmiast wykonać Atak Dodatkowy!\nJeśli masz kartę Stanu Knockdown (falling down), zamiast tego natychmiast wstań."
+     }
+    },
+    {
+     "id": "AM0309",
+     "n": "Gash",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Gain +1 DANGER. Przetasuj tę kartę z powrotem do talii Trauma, potem rozpatrz Trauma Draw ponownie.",
+     "strzałka": "E",
+     "name": {
+      "en": "Gash",
+      "pl": "Rozcięcie"
+     },
+     "text": {
+      "en": "Gain +1Λ. Shuffle this card back into the the Trauma deck, then resolve the Trauma Draw again.",
+      "pl": "Zyskaj +1Λ. Wtasuj tę kartę z powrotem do talii Traumy, potem ponownie rozpatrz dobranie Traumy."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.danger",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0310",
+     "n": "Thrown Off-Balance",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Wyczerp wszystkie swoje wyczerpywalne Weapon [broń]. Jeśli ta karta nie wyczerpała żadnej Weapon, Knockdown.",
+     "strzałka": "S",
+     "name": {
+      "en": "Thrown Off-Balance",
+      "pl": "Wytrącony z Równowagi"
+     },
+     "text": {
+      "en": "Exhaust all your exhaustable [weapon]. If no [weapon] was exhausted by this card, Knockdown.",
+      "pl": "Wyczerp wszystkie swoje wyczerpywalne [broń]. Jeśli ta karta nie wyczerpała żadnego [broń], Knockdown."
+     }
+    },
+    {
+     "id": "AM0311",
+     "n": "Feign Death",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Natychmiast Chain Break ataku prymordiala, weź Knockdown (standing up).",
+     "strzałka": "N",
+     "name": {
+      "en": "Feign Death",
+      "pl": "Udawana Śmierć"
+     },
+     "text": {
+      "en": "Immediately Chain Break the Primordial Attack, gain the Knockdown (standing up) Condition card.",
+      "pl": "Natychmiast wykonaj Chain Break Ataku Prapoczątkowego, zyskaj kartę Stanu Knockdown (standing up)."
+     }
+    },
+    {
+     "id": "AM0312",
+     "n": "Feint",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Połóż do 2 żetonów Opening i/lub Break w puli Kratos.",
+     "strzałka": "W",
+     "name": {
+      "en": "Feint",
+      "pl": "Zwód"
+     },
+     "flavor": {
+      "en": "\"Look, a three-headed goat!\"",
+      "pl": "„Patrz, trójgłowa koza!”"
+     },
+     "text": {
+      "en": "Place up to 2 Opening and/or Break tokens in the Kratos Pool.",
+      "pl": "Połóż do 2 żetonów Opening i/lub Break w Puli Kratos."
+     }
+    },
+    {
+     "id": "AM0313",
+     "n": "Marked for Glory",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz wziąć token priorytetu; jeśli tak, +1 dodatni żeton Precision. Jeśli już masz token priorytetu, +1 dodatni żeton Precision.",
+     "strzałka": "E",
+     "name": {
+      "en": "Marked for Glory",
+      "pl": "Naznaczony do Chwały"
+     },
+     "text": {
+      "en": "You may gain the [Priority Target] Priority Target token. If you do, gain 1 positive Precision token.\nIf you already have the [Priority Target] Priority Target token, gain 1 positive Precision token.",
+      "pl": "Możesz zyskać żeton [Priority Target] Celu Priorytetowego. Jeśli to zrobisz, zyskaj 1 dodatni żeton Precision.\nJeśli już masz żeton [Priority Target] Celu Priorytetowego, zyskaj 1 dodatni żeton Precision."
+     }
+    },
+    {
+     "id": "AM0314",
+     "n": "Battle Cry",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Inny tytan może ruszyć się do 2 pól lub wstać.",
+     "strzałka": "S",
+     "name": {
+      "en": "Battle Cry",
+      "pl": "Okrzyk Bojowy"
+     },
+     "text": {
+      "en": "Another Titan may move up to 2 spaces or stand up.",
+      "pl": "Inny Tytan może przesunąć się o maksymalnie 2 pola albo wstać."
+     }
+    },
+    {
+     "id": "AM0315",
+     "n": "Unexpected Help",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz położyć 1 ładunek na dowolnej zdolności Argo (nawet ponad startową liczbę).",
+     "strzałka": "N",
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Unexpected Help",
+      "pl": "Niespodziewana Pomoc"
+     },
+     "text": {
+      "en": "You may immediately place 1 [charge] on any Argo Ability (even above the starting number of charges).",
+      "pl": "Możesz natychmiast położyć 1 [ładunek] na dowolnej Zdolności Argo (nawet ponad startową liczbę ładunków)."
+     }
+    },
+    {
+     "id": "AM0316",
+     "n": "Glimpse Weak Spot",
+     "deck": "minor",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Zajrzyj do wierzchniej karty talii BP. Możesz odłożyć ją na wierzch lub na stos odrzuconych.",
+     "strzałka": "W",
+     "name": {
+      "en": "Glimpse Weak Spot",
+      "pl": "Dostrzeżony Słaby Punkt"
+     },
+     "text": {
+      "en": "Look at the top card of the BP deck. You may put it back on top of the BP deck or onto the discard pile.",
+      "pl": "Obejrzyj wierzchnią kartę talii BP. Możesz odłożyć ją z powrotem na wierzch talii BP albo na stos odrzuconych."
+     }
+    },
+    {
+     "id": "AM0317",
+     "n": "Fateful Wound",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "condition_body",
+     "tekst": "Wszystkie twoje ataki dostają: Crit Miss: +1 DANGER i natychmiast pełne pudło.",
+     "strzałka": "E",
+     "name": {
+      "en": "Fateful Wound",
+      "pl": "Brzemienna Rana"
+     },
+     "text": {
+      "en": "All your Attacks gain: \"Crit Miss: Gain +1Λ and immediately fully miss the Attack.\"",
+      "pl": "Wszystkie twoje Ataki zyskują: „Crit Miss: zyskaj +1Λ i natychmiast całkowicie chybiasz Ataku.”"
+     },
+     "card_type": "Condition Trauma (Body)"
+    },
+    {
+     "id": "AM0318",
+     "n": "Fear",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Weź kartę Condition Fear.",
+     "strzałka": "S",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Fear",
+      "pl": "Strach"
+     },
+     "text": {
+      "en": "Gain the Fear Condition card.",
+      "pl": "Zyskaj kartę Stanu Fear."
+     }
+    },
+    {
+     "id": "AM0319",
+     "n": "Maze Emergence",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Połóż kafel Labiryntu L pod swoim tytanem.",
+     "strzałka": "wybierz",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Maze Emergence",
+      "pl": "Wyłonienie Labiryntu"
+     },
+     "text": {
+      "en": "Place an L Labyrinth tile under your Titan.",
+      "pl": "Połóż kafel Labiryntu L pod swoim Tytanem."
+     },
+     "uncertain": "Bottom-left icon is a circular arrow (⟲) = choose direction (as in ref \"wybierz\")."
+    },
+    {
+     "id": "AM0320",
+     "n": "Maze Emergence",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Połóż kafel Labiryntu Z pod swoim tytanem.",
+     "strzałka": "wybierz",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Maze Emergence",
+      "pl": "Wyłonienie Labiryntu"
+     },
+     "text": {
+      "en": "Place a Z Labyrinth tile under your Titan.",
+      "pl": "Połóż kafel Labiryntu Z pod swoim Tytanem."
+     }
+    },
+    {
+     "id": "AM0321",
+     "n": "Seed of Despair",
+     "deck": "minor",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Weź 1 żeton Despair.",
+     "strzałka": "wybierz",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Seed of Despair",
+      "pl": "Ziarno Rozpaczy"
+     },
+     "text": {
+      "en": "Gain 1 Despair token.",
+      "pl": "Zyskaj 1 żeton Rozpaczy."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.despair",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "major": [
+    {
+     "id": "AM0322",
+     "n": "Kratos Glimpse",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Gain +2 RAGE.",
+     "delve": 1,
+     "name": {
+      "en": "Kratos Glimpse",
+      "pl": "Przebłysk Kratosa"
+     },
+     "flavor": {
+      "en": "\"Your fate is beckoning.\"",
+      "pl": "„Twój los cię wzywa.”"
+     },
+     "text": {
+      "en": "Gain +2Ω.",
+      "pl": "Zyskaj +2Ω."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.rage",
+         "n": 2,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0323",
+     "n": "Marked for Death",
+     "deck": "major",
+     "znak": "-",
+     "typ": "condition_fate",
+     "tekst": "Weź tę kartę i token priorytetu. Dopóki ją masz, nie możesz go stracić.",
+     "delve": 2,
+     "name": {
+      "en": "Marked for Death",
+      "pl": "Naznaczony na Śmierć"
+     },
+     "text": {
+      "en": "Gain this card and the [Priority Target] Priority Target token. While you have this card, you cannot lose this token.",
+      "pl": "Zyskaj tę kartę i żeton [Priority Target] Celu Priorytetowego. Dopóki masz tę kartę, nie możesz stracić tego żetonu."
+     },
+     "card_type": "Condition Trauma (Fate)"
+    },
+    {
+     "id": "AM0324",
+     "n": "Call to Arms",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Inny tytan może ruszyć się do 3 pól lub wstać.",
+     "delve": 3,
+     "name": {
+      "en": "Call to Arms",
+      "pl": "Wezwanie do Broni"
+     },
+     "text": {
+      "en": "Another Titan may move up to 3 spaces or stand up.",
+      "pl": "Inny Tytan może przesunąć się o maksymalnie 3 pola albo wstać."
+     }
+    },
+    {
+     "id": "AM0325",
+     "n": "Giant Gash",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Gain +1 DANGER. Przetasuj kartę z powrotem do talii Trauma, potem rozpatrz Trauma Draw ponownie.",
+     "delve": 4,
+     "name": {
+      "en": "Giant Gash",
+      "pl": "Olbrzymie Rozcięcie"
+     },
+     "text": {
+      "en": "Gain +1Λ. Shuffle this card back into the Trauma deck, then resolve the Trauma Draw again.",
+      "pl": "Zyskaj +1Λ. Wtasuj tę kartę z powrotem do talii Traumy, potem ponownie rozpatrz dobranie Traumy."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.danger",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0326",
+     "n": "Inner Strength",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Lose -1 DANGER i wstań. Możesz natychmiast wykonać atak bonusowy.",
+     "delve": 5,
+     "name": {
+      "en": "Inner Strength",
+      "pl": "Wewnętrzna Siła"
+     },
+     "text": {
+      "en": "Lose -1Λ and stand up. You may immediately perform a Bonus Attack!",
+      "pl": "Strać -1Λ i wstań. Możesz natychmiast wykonać Atak Dodatkowy!"
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.danger",
+         "n": -1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0327",
+     "n": "Show of Willpower",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz odrzucić 2 żetony Condition, kartę Condition bez żetonów albo żeton Ambrosia, albo lose -2 FATE.",
+     "delve": 6,
+     "name": {
+      "en": "Show of Willpower",
+      "pl": "Pokaz Siły Woli"
+     },
+     "text": {
+      "en": "You may discard 2 Condition tokens, a tokenless Condition card or an Ambrosia token, or lose -2Ψ.",
+      "pl": "Możesz odrzucić 2 żetony Stanu, kartę Stanu bez żetonów albo żeton Ambrozji, albo stracić -2Ψ."
+     }
+    },
+    {
+     "id": "AM0328",
+     "n": "Counterattack",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz natychmiast ruszyć się do 3 pól i wykonać atak bonusowy. Jeśli masz Knockdown (falling down), wstań zamiast tego.",
+     "delve": 7,
+     "name": {
+      "en": "Counterattack",
+      "pl": "Kontratak"
+     },
+     "text": {
+      "en": "You may immediately move up to 3 spaces and perform a Bonus Attack!\nIf you have the Knockdown (falling down) Condition card, immediately stand up instead.",
+      "pl": "Możesz natychmiast przesunąć się o maksymalnie 3 pola i wykonać Atak Dodatkowy!\nJeśli masz kartę Stanu Knockdown (falling down), zamiast tego natychmiast wstań."
+     }
+    },
+    {
+     "id": "AM0329",
+     "n": "Flood of Memories",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Gain +1 węzeł Mnemos dla wybranego Mnemos, potem go odnów (unexhaust).",
+     "delve": 1,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Flood of Memories",
+      "pl": "Powódź Wspomnień"
+     },
+     "flavor": {
+      "en": "\"Your past comes rushing.\"",
+      "pl": "„Twoja przeszłość nadciąga falą.”"
+     },
+     "text": {
+      "en": "Gain +1 Mnemos node for a chosen Mnemos. Then unexhaust that Mnemos.",
+      "pl": "Zyskaj +1 węzeł Mnemos dla wybranego Mnemos. Potem odnów tego Mnemos."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.mnemosNode",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0330",
+     "n": "Predict Moves",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Zajrzyj do wierzchniej karty talii BP lub AI. Możesz odłożyć ją na wierzch lub na stos odrzuconych tej talii.",
+     "delve": 2,
+     "name": {
+      "en": "Predict Moves",
+      "pl": "Przewidzenie Ruchów"
+     },
+     "text": {
+      "en": "Look at the top card of the BP or AI deck. You may put it back on top of the corresponding deck or onto the corresponding discard pile.",
+      "pl": "Obejrzyj wierzchnią kartę talii BP lub AI. Możesz odłożyć ją z powrotem na wierzch odpowiedniej talii albo na odpowiedni stos odrzuconych."
+     }
+    },
+    {
+     "id": "AM0331",
+     "n": "Dolos Cunning",
+     "deck": "major",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Połóż do 3 żetonów Opening i/lub Break w puli Kratos.",
+     "delve": 3,
+     "name": {
+      "en": "Dolos Cunning",
+      "pl": "Przebiegłość Dolosa"
+     },
+     "text": {
+      "en": "Place up to 3 Opening and/or Break tokens in the Kratos Pool.",
+      "pl": "Połóż do 3 żetonów Opening i/lub Break w Puli Kratos."
+     }
+    },
+    {
+     "id": "AM0332",
+     "n": "Heroic Death",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Pierwsza runda: zignoruj kartę, znajdź i rozpatrz Feign Death (Minor). Inna runda: giniesz, ale najpierw natychmiast wstań, ruszaj do 3 pól i wykonaj atak bonusowy; potem przetasuj kartę do talii i zgiń. Jeśli masz technologię Spark of the Dead Gods, rzuć k10: 10 = Awaken.",
+     "delve": 4,
+     "name": {
+      "en": "Heroic Death",
+      "pl": "Bohaterska Śmierć"
+     },
+     "text": {
+      "en": "First Round Only: Ignore this card, find and resolve the Feign Death Minor Trauma card instead.\nAny Other Round: You die, but you won't sell your life cheap! Immediately stand up, move up to 3 spaces and perform a Bonus Attack! Then, shuffle this card back into the Trauma deck and die. If you have the Spark of the Dead Gods Technology card, roll a d10. On a '10' you Awaken, [Awaken].",
+      "pl": "Tylko Pierwsza Runda: zignoruj tę kartę, znajdź i rozpatrz zamiast niej kartę Minor Trauma Feign Death.\nKażda Inna Runda: giniesz, ale drogo sprzedasz życie! Natychmiast wstań, przesuń się o maksymalnie 3 pola i wykonaj Atak Dodatkowy! Potem wtasuj tę kartę z powrotem do talii Traumy i zgiń. Jeśli masz kartę Technologii Spark of the Dead Gods, rzuć k10. Przy '10' Przebudzasz się, [Awaken]."
+     },
+     "uncertain": "Small round icon after \"you Awaken,\" (animal head in circle) — not in legend."
+    },
+    {
+     "id": "AM0333",
+     "n": "Dread",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Weź kartę Condition Dread.",
+     "delve": 8,
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Dread",
+      "pl": "Groza"
+     },
+     "text": {
+      "en": "Gain the Dread Condition card.",
+      "pl": "Zyskaj kartę Stanu Dread."
+     }
+    },
+    {
+     "id": "AM0334",
+     "n": "Maze Eruption",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Połóż kafel Labiryntu O pod tytanem i Knockdown.",
+     "delve": 5,
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Maze Eruption",
+      "pl": "Erupcja Labiryntu"
+     },
+     "text": {
+      "en": "Place an O Labyrinth tile under your Titan and suffer Knockdown.",
+      "pl": "Połóż kafel Labiryntu O pod swoim Tytanem i otrzymaj Knockdown."
+     }
+    },
+    {
+     "id": "AM0335",
+     "n": "Maze Eruption",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Połóż kafel Labiryntu Z pod tytanem i Knockdown.",
+     "delve": 6,
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Maze Eruption",
+      "pl": "Erupcja Labiryntu"
+     },
+     "text": {
+      "en": "Place a Z Labyrinth tile under your Titan and suffer Knockdown.",
+      "pl": "Połóż kafel Labiryntu Z pod swoim Tytanem i otrzymaj Knockdown."
+     }
+    },
+    {
+     "id": "AM0336",
+     "n": "Pall of Despair",
+     "deck": "major",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Weź 2 żetony Despair.",
+     "delve": 7,
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Pall of Despair",
+      "pl": "Całun Rozpaczy"
+     },
+     "text": {
+      "en": "Gain 2 Despair tokens.",
+      "pl": "Zyskaj 2 żetony Rozpaczy."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.despair",
+         "n": 2,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "grave": [
+    {
+     "id": "AM0337",
+     "n": "Deluge of Memories",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Gain +1 węzeł Mnemos dla wybranego Mnemos, potem go odnów lub przywróć do gry.",
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Deluge of Memories",
+      "pl": "Potop Wspomnień"
+     },
+     "flavor": {
+      "en": "\"You drown in the flashing images.\"",
+      "pl": "„Toniesz w migających obrazach.”"
+     },
+     "text": {
+      "en": "Gain +1 Mnemos node for a chosen Mnemos. Then unexhaust that Mnemos or return it to play if it was discarded.",
+      "pl": "Zyskaj +1 węzeł Mnemos dla wybranego Mnemos. Potem odnów tego Mnemos albo przywróć go do gry, jeśli został odrzucony."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "arg.mnemosNode",
+         "n": 1,
+         "who": "self"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0338",
+     "n": "There Will Be a Reckoning",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Dodaj kartę Obol \"You died horribly\" do talii Obol.",
+     "name": {
+      "en": "There Will Be a Reckoning",
+      "pl": "Nadejdzie Rozrachunek"
+     },
+     "text": {
+      "en": "Add the You died horribly Obol to the Obol deck.",
+      "pl": "Dodaj Obol You died horribly do talii Oboli."
+     }
+    },
+    {
+     "id": "AM0339",
+     "n": "Fused Souls",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Jeśli tytan zginie przed końcem bitwy, ginie też Argonauta (Rude Awakening). Jeśli żyje: Special Event \"The Other\".",
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Fused Souls",
+      "pl": "Stopione Dusze"
+     },
+     "flavor": {
+      "en": "\"Your soul has temporarily fused with the Titan's. Better not die today.\"",
+      "pl": "„Twoja dusza tymczasowo stopiła się z duszą Tytana. Lepiej dziś nie umieraj.”"
+     },
+     "text": {
+      "en": "If the Titan dies before the end of the Battle, so does the Argonaut. Resolve the Rude Awakening Special Event. If it lives, resolve the The Other Special Event instead.",
+      "pl": "Jeśli Tytan zginie przed końcem Bitwy, ginie też Argonauta. Rozpatrz Wydarzenie Specjalne Rude Awakening. Jeśli przeżyje, rozpatrz zamiast tego Wydarzenie Specjalne The Other."
+     }
+    },
+    {
+     "id": "AM0340",
+     "n": "Heroic Life",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Natychmiast wstań, ruszaj do 3 pól i wykonaj atak bonusowy. Jeśli zadasz ranę prymordialowi, żyjesz: lose -2 DANGER i -2 FATE. Jeśli nie, giniesz (Spark of the Dead Gods: k10, 10 = Awaken). Przetasuj kartę do talii.",
+     "name": {
+      "en": "Heroic Life",
+      "pl": "Bohaterskie Życie"
+     },
+     "text": {
+      "en": "You will probably die - but until then, you will fight the Primordial with all your being! Immediately stand up, move up to 3 spaces and perform a Bonus Attack!\nIf you deal a Wound to the Primordial, you live! And you feel a new zest for life! Lose -2Λ and -2Ψ.\nIf you do not deal a Wound, you die. If you have the Spark of the Dead Gods Technology card, roll a d10. On a '10' you Awaken, [Awaken].\nShuffle this card back into the Trauma deck.",
+      "pl": "Prawdopodobnie zginiesz — ale do tego czasu będziesz walczyć z Prapoczątkowym całym sobą! Natychmiast wstań, przesuń się o maksymalnie 3 pola i wykonaj Atak Dodatkowy!\nJeśli zadasz Prapoczątkowemu Wound, przeżywasz! I czujesz nową radość życia! Strać -2Λ i -2Ψ.\nJeśli nie zadasz Wound, giniesz. Jeśli masz kartę Technologii Spark of the Dead Gods, rzuć k10. Przy '10' Przebudzasz się, [Awaken].\nWtasuj tę kartę z powrotem do talii Traumy."
+     }
+    },
+    {
+     "id": "AM0341",
+     "n": "Disemboweled",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Giniesz. Przetasuj kartę z powrotem do talii Trauma.",
+     "name": {
+      "en": "Disemboweled",
+      "pl": "Wypatroszony"
+     },
+     "text": {
+      "en": "You die. Shuffle this card back into the Trauma deck.",
+      "pl": "Giniesz. Wtasuj tę kartę z powrotem do talii Traumy."
+     }
+    },
+    {
+     "id": "AM0342",
+     "n": "Disemboweled",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Giniesz. Przetasuj kartę z powrotem do talii Trauma.",
+     "name": {
+      "en": "Disemboweled",
+      "pl": "Wypatroszony"
+     },
+     "text": {
+      "en": "You die. Shuffle this card back into the Trauma deck.",
+      "pl": "Giniesz. Wtasuj tę kartę z powrotem do talii Traumy."
+     }
+    },
+    {
+     "id": "AM0343",
+     "n": "Burning Heart",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Wstań. Możesz stracić -2 Danger i/lub zyskać +1 Rage. Możesz natychmiast wykonać Bonus Attack.",
+     "name": {
+      "en": "Burning Heart",
+      "pl": "Płonące Serce"
+     },
+     "flavor": {
+      "en": "\"Bravely we hope, against all hope...\"",
+      "pl": "„Dzielnie żywimy nadzieję, wbrew wszelkiej nadziei…”"
+     },
+     "text": {
+      "en": "Stand up. You may lose -2Λ and/or gain +1Ω. You may immediately perform a Bonus Attack!",
+      "pl": "Wstań. Możesz stracić -2Λ i/lub zyskać +1Ω. Możesz natychmiast wykonać Atak Dodatkowy!"
+     }
+    },
+    {
+     "id": "AM0344",
+     "n": "Godly Resolve",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz odrzucić wszystkie karty Condition, żetony Condition i Ambrosia albo lose -3 FATE.",
+     "name": {
+      "en": "Godly Resolve",
+      "pl": "Boska Determinacja"
+     },
+     "flavor": {
+      "en": "\"Don't stop believing...\"",
+      "pl": "„Nie przestawaj wierzyć…”"
+     },
+     "text": {
+      "en": "You may discard all Condition cards, Condition tokens and Ambrosia tokens or lose -3Ψ.",
+      "pl": "Możesz odrzucić wszystkie karty Stanu, żetony Stanu i żetony Ambrozji albo stracić -3Ψ."
+     }
+    },
+    {
+     "id": "AM0345",
+     "n": "Push the Limit!",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Możesz natychmiast ruszyć się do 4 pól i wykonać atak bonusowy z +1 symbol Power. Jeśli masz Knockdown (falling down), wstań i weź 1 dodatni żeton Evasion zamiast tego.",
+     "name": {
+      "en": "Push the Limit!",
+      "pl": "Przekrocz Granicę!"
+     },
+     "flavor": {
+      "en": "\"Walk along the razor's edge.\"",
+      "pl": "„Stąpaj po ostrzu brzytwy.”"
+     },
+     "text": {
+      "en": "You may immediately move up to 4 spaces and perform a Bonus Attack with +1[Power]!\nIf you have the Knockdown (falling down) Condition card, immediately stand up and gain 1 positive Evasion token instead.",
+      "pl": "Możesz natychmiast przesunąć się o maksymalnie 4 pola i wykonać Atak Dodatkowy z +1[Power]!\nJeśli masz kartę Stanu Knockdown (falling down), zamiast tego natychmiast wstań i zyskaj 1 dodatni żeton Evasion."
+     }
+    },
+    {
+     "id": "AM0346",
+     "n": "Fate Worse Than Death",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "condition_fate",
+     "tekst": "Weź kartę i token priorytetu (nawet jeśli ktoś ma Marked for Death). Nie możesz go stracić. Koniec bitwy: jeśli tytan nie żyje, Special Event \"Fate Worse Than Death\".",
+     "name": {
+      "en": "Fate Worse Than Death",
+      "pl": "Los Gorszy od Śmierci"
+     },
+     "text": {
+      "en": "Gain this card and the [Priority Target] Priority Target token (even if someone has a Marked for Death Trauma card). While you have this card, you cannot lose the token.\nEnd of Battle: If your Titan is dead, resolve the Fate Worse Than Death Special Event.",
+      "pl": "Zyskaj tę kartę i żeton [Priority Target] Celu Priorytetowego (nawet jeśli ktoś ma kartę Traumy Marked for Death). Dopóki masz tę kartę, nie możesz stracić tego żetonu.\nKoniec Bitwy: jeśli twój Tytan nie żyje, rozpatrz Wydarzenie Specjalne Fate Worse Than Death."
+     },
+     "card_type": "Condition Trauma (Fate)"
+    },
+    {
+     "id": "AM0347",
+     "n": "See Pattern",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "trauma",
+     "tekst": "Zajrzyj do wierzchnich kart talii BP i AI; każdą możesz odłożyć na wierzch lub na stos odrzuconych jej talii. Gain +1 Progress (ikona: trójkąt z płomieniem, nie Break).",
+     "name": {
+      "en": "See Pattern",
+      "pl": "Dostrzeżony Wzór"
+     },
+     "text": {
+      "en": "Look at the top cards of the BP and AI decks. You may put each card back on top of its respective deck or onto the respective discard pile. Gain +1[Progress].",
+      "pl": "Obejrzyj wierzchnie karty talii BP i AI. Każdą możesz odłożyć z powrotem na wierzch jej talii albo na odpowiedni stos odrzuconych. Zyskaj +1 🔥."
+     },
+     "fx": [
+      {
+       "do": [
+        {
+         "k": "progress",
+         "n": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "AM0348",
+     "n": "Disemboweled",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Giniesz. Przetasuj kartę z powrotem do talii Trauma.",
+     "name": {
+      "en": "Disemboweled",
+      "pl": "Wypatroszony"
+     },
+     "text": {
+      "en": "You die. Shuffle this card back into the Trauma deck.",
+      "pl": "Giniesz. Wtasuj tę kartę z powrotem do talii Traumy."
+     }
+    },
+    {
+     "id": "AM0350",
+     "n": "Theseus Logic",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "condition_mind",
+     "tekst": "Do końca bitwy możesz ignorować kafle Labiryntu przy dobrowolnym ruchu i atakach.",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Theseus Logic",
+      "pl": "Logika Tezeusza"
+     },
+     "text": {
+      "en": "Until the end of Battle, you may ignore Labyrinth tiles for the purposes of voluntary movement and Attacks.",
+      "pl": "Do końca Bitwy możesz ignorować kafle Labiryntu przy dobrowolnym ruchu i Atakach."
+     },
+     "card_type": "Condition Trauma (Mind)"
+    },
+    {
+     "id": "AM0351",
+     "n": "Ariadne's Logic",
+     "deck": "grave",
+     "znak": "+",
+     "typ": "condition_fate",
+     "tekst": "Do końca bitwy, jeśli atakujesz z kafla Labiryntu, prymordial ma -1 TO HIT podczas tego ataku.",
+     "tylko_cykl1": true,
+     "samouczek_usunięta": true,
+     "name": {
+      "en": "Ariadne's Logic",
+      "pl": "Logika Ariadny"
+     },
+     "text": {
+      "en": "Until the end of Battle, if you attack from a Labyrinth tile, the Primordial has -1[To Hit] during that Attack.",
+      "pl": "Do końca Bitwy, jeśli atakujesz z kafla Labiryntu, Prapoczątkowy ma -1[To Hit] podczas tego Ataku."
+     },
+     "card_type": "Condition Trauma (Fate)"
+    },
+    {
+     "id": "AM0352",
+     "n": "Mazetouched",
+     "deck": "grave",
+     "znak": "-",
+     "typ": "trauma",
+     "tekst": "Weź Afflictions Mazetouched.",
+     "tylko_cykl1": true,
+     "name": {
+      "en": "Mazetouched",
+      "pl": "Naznaczony Labiryntem"
+     },
+     "text": {
+      "en": "Gain the Mazetouched Affliction.",
+      "pl": "Zyskaj Dolegliwość Mazetouched."
+     }
+    }
+   ]
+  }
+ },
+ "obol": {
+  "_uwagi": "Brak AM0355 w skanie (może druga You Live!/Died). Samouczek: 2 karty Obol (50% śmierci) = prawdopodobnie AM0353 + AM0354. Liczność kopii nieznana.",
+  "karty": [
+   {
+    "id": "AM0353",
+    "n": "You Live!",
+    "wynik": "żyjesz",
+    "kopii_w_talii": null,
+    "name": {
+     "en": "You Live!",
+     "pl": "Żyjesz!"
+    },
+    "flavor": {
+     "en": "\"Against all odds, you survive.\"",
+     "pl": "„Wbrew wszelkim przeciwnościom przeżywasz.”"
+    },
+    "text": {
+     "en": "",
+     "pl": ""
+    }
+   },
+   {
+    "id": "AM0354",
+    "n": "You Died",
+    "wynik": "śmierć",
+    "name": {
+     "en": "You Died",
+     "pl": "Zginąłeś"
+    },
+    "flavor": {
+     "en": "\"I have a rendezvous with Death.\"",
+     "pl": "„Mam spotkanie ze Śmiercią.”"
+    },
+    "text": {
+     "en": "",
+     "pl": ""
+    }
+   },
+   {
+    "id": "AM0356",
+    "n": "You Live!",
+    "wynik": "żyjesz",
+    "tekst": "You may lose -1 FATE (Ψ).",
+    "dodaj_gdy": "Awakened: dodaj przed Obol Draw, usuń po nim.",
+    "name": {
+     "en": "You Live!",
+     "pl": "Żyjesz!"
+    },
+    "flavor": {
+     "en": "\"By the power of the Dead Gods...\"",
+     "pl": "„Mocą Martwych Bogów…”"
+    },
+    "text": {
+     "en": "You may lose -1Ψ.\nIf you are Awakened, add this card to the deck before your Obol Draw (remove it afterwards).",
+     "pl": "Możesz stracić -1Ψ.\nJeśli jesteś Przebudzony, dodaj tę kartę do talii przed dobraniem Obola (potem ją usuń)."
+    }
+   },
+   {
+    "id": "AM0357",
+    "n": "You Died Horribly",
+    "wynik": "śmierć",
+    "tekst": "Rzuć k10: na 10 budzisz się (Awaken). Jeśli giniesz: End of Battle - rzuć na tabeli Special Event 'Fate Worse Than Death'.",
+    "dodaj_gdy": "Danger would be 14+",
+    "name": {
+     "en": "You Died Horribly",
+     "pl": "Zginąłeś Straszliwie"
+    },
+    "flavor": {
+     "en": "\"It may be he shall take my hand and lead me into his dark land.\"",
+     "pl": "„Może weźmie mnie za rękę i powiedzie do swej mrocznej krainy.”"
+    },
+    "text": {
+     "en": "Roll a d10. On a '10', you Awaken instead, [Awaken]!\nIf you die, End of Battle: Roll on the Fate Worse Than Death Special Event Table.\nAdd this card to the deck if your Danger would be 14+.",
+     "pl": "Rzuć k10. Przy '10' zamiast tego Przebudzasz się, [Awaken]!\nJeśli giniesz, Koniec Bitwy: rzuć na tabeli Wydarzenia Specjalnego Fate Worse Than Death.\nDodaj tę kartę do talii, jeśli twój Danger miałby wynieść 14+."
+    }
+   },
+   {
+    "id": "AM0358",
+    "n": "Your Gruesome Death Becomes Legend",
+    "wynik": "śmierć",
+    "tekst": "Rzuć k10: na 9-10 budzisz się (Awaken). Jeśli giniesz: End of Battle - Argonauta ginie od szoku Triskelionu, rozpatrz Special Event 'Rude Awakening'.",
+    "dodaj_gdy": "Danger would be 18+",
+    "name": {
+     "en": "Your Gruesome Death Becomes Legend",
+     "pl": "Twoja Okrutna Śmierć Staje się Legendą"
+    },
+    "flavor": {
+     "en": "\"And close my eyes and quench my breath... I have a rendezvous with Death.\"",
+     "pl": "„I zamknie mi oczy, i zgasi oddech… Mam spotkanie ze Śmiercią.”"
+    },
+    "text": {
+     "en": "Roll a d10. On a '9-10', you Awaken instead, [Awaken]!\nIf you die, End of Battle: Your Argonaut dies from Triskelion shock. Resolve the Rude Awakening Special Event.\nAdd this card to the deck if your Danger would be 18+.",
+     "pl": "Rzuć k10. Przy '9-10' zamiast tego Przebudzasz się, [Awaken]!\nJeśli giniesz, Koniec Bitwy: twój Argonauta umiera od szoku Triskelionu. Rozpatrz Wydarzenie Specjalne Rude Awakening.\nDodaj tę kartę do talii, jeśli twój Danger miałby wynieść 18+."
+    }
+   },
+   {
+    "id": "AM0359",
+    "n": "Your Death Transcends Reality",
+    "wynik": "śmierć",
+    "tekst": "Patrz Special Event 'Your Death Transcends Reality' w Storybook Cyklu I.",
+    "dodaj_gdy": "Danger would be 21+",
+    "name": {
+     "en": "Your Death Transcends Reality",
+     "pl": "Twoja Śmierć Przekracza Rzeczywistość"
+    },
+    "flavor": {
+     "en": "\"And I to my pledged word am true. I shall not fail that rendezvous.\"",
+     "pl": "„A ja danemu słowu wierny jestem. Nie zawiodę na tym spotkaniu.”"
+    },
+    "text": {
+     "en": "See the Your Death Transcends Reality Special Event in the Cycle I Storybook.\nAdd this card to the deck if your Danger would be 21+.",
+     "pl": "Zobacz Wydarzenie Specjalne Your Death Transcends Reality w Księdze Cyklu I.\nDodaj tę kartę do talii, jeśli twój Danger miałby wynieść 21+."
+    }
+   }
+  ]
+ },
+ "km": {
+  "_uwagi": "Ikony potwierdzone wg rulebook s.82.",
+  "kratos": [
+   {
+    "id": "AN0372",
+    "n": "Egolock",
+    "typ": "condition_kratos_mind",
+    "tekst": "Jesteś sparaliżowany: nie możesz ruszać się dobrowolnie, atakować ani używać akcji/zdolności. Gdy jesteś atakowany: zamiast Evasion Roll giniesz natychmiast; nie rozpatruj innych efektów trafienia, przejdź do After Attack.",
+    "rally": "RALLY: koniec twojej tury, możesz testować Courage (Ψ+). Sukces: odrzuć kartę.",
+    "name": {
+     "en": "Egolock",
+     "pl": "Ego-blokada"
+    },
+    "flavor": {
+     "en": "\"Someone - or something - is trying to wrest control.\"",
+     "pl": "„Ktoś — albo coś — próbuje przejąć kontrolę.”"
+    },
+    "text": {
+     "en": "You are paralyzed. You cannot move voluntarily, attack or use actions or abilities, unless stated otherwise.\nWhen you are attacked, instead of performing the Evasion Roll, immediately die. Do not resolve any other hit effects and proceed to After Attack.\nRALLY - End of your turn: You may test Courage (Ψ+). Success: Discard this card.",
+     "pl": "Jesteś sparaliżowany. Nie możesz dobrowolnie się ruszać, atakować ani używać akcji czy zdolności, chyba że napisano inaczej.\nGdy jesteś atakowany, zamiast wykonać Rzut Uniku natychmiast giniesz. Nie rozpatruj innych efektów trafienia i przejdź do After Attack.\nRALLY — Koniec twojej tury: możesz wykonać test Odwagi (Ψ+). Sukces: odrzuć tę kartę."
+    },
+    "card_type": "Condition Kratos (Mind)"
+   },
+   {
+    "id": "AN0373",
+    "n": "Reject Argonaut",
+    "typ": "kratos",
+    "tekst": "Wykonaj Kratos Roll. Fail: giniesz.",
+    "rally": null,
+    "name": {
+     "en": "Reject Argonaut",
+     "pl": "Odrzucenie Argonauty"
+    },
+    "flavor": {
+     "en": "\"The Titan is having a serologic reaction to the Argonaut.\"",
+     "pl": "„Tytan ma reakcję serologiczną na Argonautę.”"
+    },
+    "text": {
+     "en": "Perform a Kratos Roll.\nFail: You die.",
+     "pl": "Wykonaj Rzut Kratos.\nFail: giniesz."
+    },
+    "card_type": "Kratos"
+   },
+   {
+    "id": "AN0374",
+    "n": "Berserk",
+    "typ": "condition_kratos_mind",
+    "tekst": "Gain +2 Ω. Każdą rundę tytanów aktywujesz się pierwszy. Nie możesz Blokować. Twoja Titan Power Die jest o tier wyżej. W swojej turze musisz użyć ruchu ku najbliższemu celowi (tytan lub prymordial) najkrótszą ścieżką, potem atakować. Wolne akcje normalnie. Jeśli atakujesz tytana: nie rozpatruj Attack Sequence; ten tytan dostaje +3 Danger i Knockdown. Start tury: odnów 1 broń.",
+    "rally": "RALLY: koniec tury, test Courage lub Will (10+). Sukces: odrzuć. Koniec bitwy: jeśli nadal masz kartę, giniesz.",
+    "name": {
+     "en": "Berserk",
+     "pl": "Szał"
+    },
+    "text": {
+     "en": "Gain +2Ω.\nEach Titan Round you must activate first. You cannot Block. Your Titan Power Die is one tier higher. On your turn, you must use your [Movement] to move towards the closest Target (Titan or Primordial) along the shortest possible path, then use your [Attack] to attack it. You can perform free actions as normal. If you attack a Titan, do not resolve the Attack Sequence, instead that Titan gains +3Λ and suffers Knockdown.\nStart of your turn: Unexhaust 1 Weapon [weapon].\nRALLY - End of your turn: You may test Courage or Will (10+). Success: Discard this card.\nEnd of Battle: If you still have this card, you die.",
+     "pl": "Zyskaj +2Ω.\nW każdej Rundzie Tytanów musisz aktywować się pierwszy. Nie możesz Blokować. Twoja Kość Mocy Tytana jest o poziom wyższa. W swojej turze musisz użyć [Ruch], by ruszyć ku najbliższemu Celowi (Tytanowi lub Prapoczątkowemu) najkrótszą drogą, a potem użyć [Atak], by go zaatakować. Akcje darmowe wykonujesz normalnie. Jeśli atakujesz Tytana, nie rozpatruj Sekwencji Ataku — zamiast tego ten Tytan zyskuje +3Λ i otrzymuje Knockdown.\nPoczątek twojej tury: odnów 1 Broń [broń].\nRALLY — Koniec twojej tury: możesz wykonać test Odwagi lub Woli (10+). Sukces: odrzuć tę kartę.\nKoniec Bitwy: jeśli wciąż masz tę kartę, giniesz."
+    },
+    "card_type": "Condition Kratos (Mind)",
+    "uncertain": "[Movement]/[Attack] = two small round action icons (boot / fist), not in legend."
+   },
+   {
+    "id": "AN0375",
+    "n": "Moirosis",
+    "typ": "kratos",
+    "tekst": "Gain Ψ równe twojemu Ω. Zredukuj Ω do 0.",
+    "rally": null,
+    "name": {
+     "en": "Moirosis",
+     "pl": "Mojroza"
+    },
+    "text": {
+     "en": "Gain Ψ equal to your Ω. Reduce your Ω to 0.",
+     "pl": "Zyskaj Ψ równe twojemu Ω. Zmniejsz swoje Ω do 0."
+    },
+    "card_type": "Kratos"
+   },
+   {
+    "id": "AN0376",
+    "n": "Fate Paradox",
+    "typ": "kratos",
+    "tekst": "Gain Danger równe twojemu Ψ.",
+    "rally": null,
+    "name": {
+     "en": "Fate Paradox",
+     "pl": "Paradoks Losu"
+    },
+    "text": {
+     "en": "Gain Λ equal to your Ψ.",
+     "pl": "Zyskaj Λ równe twojemu Ψ."
+    },
+    "card_type": "Kratos"
+   },
+   {
+    "id": "AN0377",
+    "n": "Abandon",
+    "typ": "condition_kratos_mind",
+    "tekst": "Uciekasz. W swojej turze musisz użyć ruchu ku najbliższej krawędzi planszy. Nie możesz atakować ani używać innych akcji/zdolności. Jeśli miałbyś przekroczyć krawędź: usuń tytana z planszy, ucieka (traktuj jak martwego).",
+    "rally": "RALLY: koniec tury, test Courage (Ψ+). Sukces: odrzuć.",
+    "name": {
+     "en": "Abandon",
+     "pl": "Ucieczka"
+    },
+    "flavor": {
+     "en": "\"The primal urge to flee is just too strong.\"",
+     "pl": "„Pierwotna potrzeba ucieczki jest po prostu zbyt silna.”"
+    },
+    "text": {
+     "en": "You are fleeing. On your turn, you must use your [Movement] to move towards the closest Board Edge. You cannot attack or use other actions or abilities, unless stated otherwise. If you would cross the Board Edge, remove your Titan from the Board. It runs away (for all purposes treat it as dead).\nRALLY - End of your turn: You may test Courage (Ψ+). Success: Discard this card.",
+     "pl": "Uciekasz. W swojej turze musisz użyć [Ruch], by ruszyć ku najbliższej Krawędzi Planszy. Nie możesz atakować ani używać innych akcji czy zdolności, chyba że napisano inaczej. Jeśli miałbyś przekroczyć Krawędź Planszy, usuń swojego Tytana z Planszy. Ucieka (pod każdym względem traktuj go jak martwego).\nRALLY — Koniec twojej tury: możesz wykonać test Odwagi (Ψ+). Sukces: odrzuć tę kartę."
+    },
+    "card_type": "Condition Kratos (Mind)"
+   }
+  ],
+  "moiros": [
+   {
+    "id": "AO0378",
+    "n": "Fate Worse Than Death",
+    "typ": "condition_moiros_fate",
+    "tekst": "Weź kartę i token Priority Target (nawet jeśli ktoś ma Marked for Death). Póki masz kartę, nie możesz stracić tokenu. Koniec bitwy: jeśli twój tytan nie żyje, Special Event \"Fate Worse Than Death\".",
+    "name": {
+     "en": "Fate Worse Than Death",
+     "pl": "Los Gorszy od Śmierci"
+    },
+    "text": {
+     "en": "Gain this card and the [Priority Target] Priority Target token (even if someone has the Marked for Death Trauma card). While you have this card, you cannot lose this token.\nEnd of Battle: If your Titan is dead, resolve the Fate Worse Than Death Special Event.",
+     "pl": "Zyskaj tę kartę i żeton [Priority Target] Celu Priorytetowego (nawet jeśli ktoś ma kartę Traumy Marked for Death). Dopóki masz tę kartę, nie możesz stracić tego żetonu.\nKoniec Bitwy: jeśli twój Tytan nie żyje, rozpatrz Wydarzenie Specjalne Fate Worse Than Death."
+    },
+    "card_type": "Condition Moiros (Fate)"
+   },
+   {
+    "id": "AO0379",
+    "n": "Another's Thread",
+    "typ": "moiros",
+    "tekst": "Inny losowy tytan: +3 Ω, +3 Danger, +3 Ψ i Knockdown.",
+    "name": {
+     "en": "Another's Thread",
+     "pl": "Cudza Nić"
+    },
+    "text": {
+     "en": "Another random Titan gains +3Ω, +3Λ, +3Ψ and suffers Knockdown.",
+     "pl": "Inny losowy Tytan zyskuje +3Ω, +3Λ, +3Ψ i otrzymuje Knockdown."
+    },
+    "card_type": "Moiros"
+   },
+   {
+    "id": "AO0380",
+    "n": "Argo Will Suffer",
+    "typ": "moiros",
+    "tekst": "Natychmiast +1 Argo Fate i -1 Crew.",
+    "name": {
+     "en": "Argo Will Suffer",
+     "pl": "Argo Ucierpi"
+    },
+    "text": {
+     "en": "Immediately gain +1[Argo Fate] and lose -1[Crew].",
+     "pl": "Natychmiast zyskaj +1 ▼ i strać -1 ✖."
+    },
+    "card_type": "Moiros",
+    "fx": [
+     {
+      "do": [
+       {
+        "k": "argoFate",
+        "n": 1
+       },
+       {
+        "k": "crew",
+        "n": -1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "AO0381",
+    "n": "Fated Memory",
+    "typ": "moiros",
+    "tekst": "Natychmiast zdobądź kartę Fated Mnemos. Jeśli masz już 2 karty Fated Mnemos: stracisz wszystkie węzły z losowej karty Fated Mnemos.",
+    "name": {
+     "en": "Fated Memory",
+     "pl": "Przeznaczone Wspomnienie"
+    },
+    "text": {
+     "en": "Immediately gain a Fated Mnemos card. If you already have 2 Fated Mnemos cards, lose all nodes from a random Fated Mnemos instead.",
+     "pl": "Natychmiast zyskaj kartę Fated Mnemos. Jeśli masz już 2 karty Fated Mnemos, zamiast tego strać wszystkie węzły z losowego Fated Mnemos."
+    },
+    "card_type": "Moiros"
+   },
+   {
+    "id": "AO0382",
+    "n": "Argo's Days Are Numbered",
+    "typ": "moiros",
+    "tekst": "Natychmiast lose -1 Hull.",
+    "name": {
+     "en": "Argo's Days Are Numbered",
+     "pl": "Dni Argo są Policzone"
+    },
+    "text": {
+     "en": "Immediately lose -1[Hull].",
+     "pl": "Natychmiast strać -1 ⛵."
+    },
+    "card_type": "Moiros",
+    "fx": [
+     {
+      "do": [
+       {
+        "k": "hull",
+        "n": -1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "AO0383",
+    "n": "Hadeosis",
+    "typ": "moiros",
+    "tekst": "Zredukuj Ψ do 0. Po bitwie rozpatrz Special Event \"Fateful Visitant\".",
+    "name": {
+     "en": "Hadeosis",
+     "pl": "Hadeoza"
+    },
+    "text": {
+     "en": "Reduce your Ψ to 0. After Battle, resolve the Fateful Visitant Special Event.",
+     "pl": "Zmniejsz swoje Ψ do 0. Po Bitwie rozpatrz Wydarzenie Specjalne Fateful Visitant."
+    },
+    "card_type": "Moiros"
+   },
+   {
+    "id": "AO0384",
+    "n": "Fated to Die",
+    "typ": "moiros",
+    "tekst": "Spawn the Adversary. Jeśli już jest na Voyage Map: zamiast tego rozpatrz 2x ruch Adversary (ikona potwierdzona w legendzie).",
+    "name": {
+     "en": "Fated to Die",
+     "pl": "Przeznaczony na Śmierć"
+    },
+    "text": {
+     "en": "Spawn the Adversary. If it is already on the Voyage Map, instead resolve 2[Adversary].",
+     "pl": "Wprowadź Adversary. Jeśli już jest na Mapie Rejsu, zamiast tego rozpatrz 2[Adversary]."
+    },
+    "card_type": "Moiros"
+   },
+   {
+    "id": "AO0385",
+    "n": "Fatebringer",
+    "typ": "moiros",
+    "tekst": "Gain +1 Doom.",
+    "name": {
+     "en": "Fatebringer",
+     "pl": "Zwiastun Losu"
+    },
+    "text": {
+     "en": "Gain +1[Doom].",
+     "pl": "Zyskaj +1 🔺."
+    },
+    "card_type": "Moiros",
+    "fx": [
+     {
+      "do": [
+       {
+        "k": "doom",
+        "n": 1
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "titans": {
+  "_uwagi": "Karty tytanów (AK0291-0298) + legendy zdolności tabeli Kratos. Tabela: wiersz=wynik, elementy=opcje (+ = razem). Wszystkie X=1 poza R2 (Power Re-roll 2).",
+  "legenda_kratos": {
+   "Break X": "Drugie okno zdolności: połóż X żetonów Break w puli Kratos. W Power Roll każdy Break zmienia 1 symbol Potential na 1 symbol Power.",
+   "Opening X": "Drugie okno: połóż X żetonów Opening. W Attack Roll każdy Opening daje +1 do wyniku każdej kości ataku.",
+   "Power Re-roll X": "W Power Roll możesz przerzucić do X kości mocy.",
+   "Pushback X": "Obróć się ku prymordialowi, ruszaj ku niemu, pchając go X pól w linii prostej. Pierwsze lub drugie okno.",
+   "Additional Power Die": "W Power Roll dodaj 1 czerwoną kość do puli.",
+   "Provoke": "Pierwsze okno: weź token Priority Target i obróć prymordiala twarzą do siebie.",
+   "Diversion": "Drugie okno: połóż token Diversion w puli Kratos. Atakujący tytan może go użyć, by zignorować reakcje Fail do końca ataku.",
+   "Reposition X": "Drugie okno: ruszaj się do X pól.",
+   "Vault": "Jeśli sąsiadujesz z prymordialem: postaw miniaturę na wolnym polu w linii prostej po przeciwnej stronie, sąsiadującym z nim. Pierwsze lub drugie okno.",
+   "Motivate X": "Drugie okno: wybierz innego tytana; może ruszyć się do X pól.",
+   "Elation X": "Drugie okno: możesz odrzucić X żetonów Despair lub Ambrosia, by położyć X żetonów Opening w puli Kratos.",
+   "Precise": "W kroku Draw BP: po dobraniu karty możesz zamiast niej wskazać wierzchnią kartę stosu odrzuconych. Jeśli tak, przetasuj dobraną kartę do talii BP.",
+   "Overbreak X": "Drugie okno: jeśli twoje Total Power przekracza AT prymordiala o 1 lub więcej, połóż X żetonów Break.",
+   "Tireless": "Gdy masz aktywować słowo kluczowe Cumbersome, możesz je zignorować."
+  },
+  "sekwencje": {
+   "Battle": "1 Primordial Round: dobierz i rozpatrz kartę AI + efekty z arkusza/Traits; 2 Titan Round: każdy tytan po kolei wykonuje ruch i akcję bojową w dowolnej kolejności.",
+   "AI": "Draw AI, Targeting, Movement, Attack (Evasion Roll, Attack Consequences + Trauma Draw), After Attack.",
+   "Titan Attack": "1 Declare Attack/Active Weapon; 2 Raise Rage + Priority Target; 3 Attack Roll; 4 First Ability Window; 5 Draw BP; 6 Power Roll (pula, rzut, Power Re-rolls, Potentials, rozstrzygnięcie); 7 Primordial Responses; 8 Wounds and Escalation; 9 Clear Kratos Pool; 10 Second Ability Window."
+  },
+  "tytani": [
+   {
+    "id": "AK0291",
+    "n": "Herodotus",
+    "typ": "Dreamwalker",
+    "kosc": "red",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-3",
+     "4-6",
+     "7-9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "B",
+      "O"
+     ],
+     [
+      "R"
+     ],
+     [
+      "B",
+      "O"
+     ],
+     [
+      "P",
+      "R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "B",
+      "O"
+     ]
+    ],
+    "cechy": {
+     "Rush": "Move with +1 [ruch] i Melee/Reach Attack z Auto-break 1. Musisz przejść min. 3 pola i dojść do Targetu najkrótszą ścieżką. Koszt: [Λ 2+] Ψ [akcje ruch+atak] (znaczenie \"Λ 2+\" niepewne)."
+    }
+   },
+   {
+    "id": "AK0292",
+    "n": "Ulyssea",
+    "typ": "Dreamwalker",
+    "kosc": "red",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-3",
+     "4-6",
+     "7-9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "B",
+      "O"
+     ],
+     [
+      "R"
+     ],
+     [
+      "B",
+      "O"
+     ],
+     [
+      "P",
+      "R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "B",
+      "O"
+     ]
+    ],
+    "cechy": {
+     "Rush": "Move with +1 [ruch] i Melee/Reach Attack z Auto-break 1. Musisz przejść min. 3 pola i dojść do Targetu najkrótszą ścieżką. Koszt: [Λ 2+] Ψ [akcje ruch+atak] (znaczenie \"Λ 2+\" niepewne)."
+    }
+   },
+   {
+    "id": "AK0293",
+    "n": "Philoctera",
+    "typ": "Dreamwalker",
+    "kosc": "red",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-3",
+     "4-6",
+     "7-9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "B",
+      "O"
+     ],
+     [
+      "R"
+     ],
+     [
+      "B",
+      "O"
+     ],
+     [
+      "P",
+      "R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "B",
+      "O"
+     ]
+    ],
+    "cechy": {
+     "Rush": "Move with +1 [ruch] i Melee/Reach Attack z Auto-break 1. Musisz przejść min. 3 pola i dojść do Targetu najkrótszą ścieżką. Koszt: [Λ 2+] Ψ [akcje ruch+atak] (znaczenie \"Λ 2+\" niepewne)."
+    }
+   },
+   {
+    "id": "AK0294",
+    "n": "Solon",
+    "typ": "Dreamwalker",
+    "kosc": "red",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-3",
+     "4-6",
+     "7-9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "B",
+      "O"
+     ],
+     [
+      "R"
+     ],
+     [
+      "B",
+      "O"
+     ],
+     [
+      "P",
+      "R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "B",
+      "O"
+     ]
+    ],
+    "cechy": {
+     "Rush": "Move with +1 [ruch] i Melee/Reach Attack z Auto-break 1. Musisz przejść min. 3 pola i dojść do Targetu najkrótszą ścieżką. Koszt: [Λ 2+] Ψ [akcje ruch+atak] (znaczenie \"Λ 2+\" niepewne)."
+    }
+   },
+   {
+    "id": "AK0295",
+    "n": "Earthshaker",
+    "typ": "Centimane",
+    "kosc": "red",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-3",
+     "4-6",
+     "7-9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "R"
+     ],
+     [
+      "B+O"
+     ],
+     [
+      "Prov",
+      "R"
+     ],
+     [
+      "B+O"
+     ],
+     [
+      "D"
+     ],
+     [
+      "Div"
+     ],
+     [
+      "O+R"
+     ]
+    ],
+    "cechy": {
+     "Six-Armed Centimanes": "Masz 3 sloty broni [pięść] LUB 3 sloty [drugi typ].",
+     "Cold Open": "Gdy atakujesz, jeśli w puli Kratos nie ma żetonów Opening ani Break: połóż 1 Opening i 1 Break."
+    }
+   },
+   {
+    "id": "AK0296",
+    "n": "Mazerunner",
+    "typ": "Mazerunner",
+    "kosc": "red",
+    "predkosc": 6,
+    "progi_trauma": [
+     "1-2",
+     "3-5",
+     "6-8",
+     "9+"
+    ],
+    "tabela_kratos": [
+     [
+      "O+Rp"
+     ],
+     [
+      "B+Vault"
+     ],
+     [
+      "R+Mot"
+     ],
+     [
+      "O+Rp"
+     ],
+     [
+      "B+Mot",
+      "R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "O",
+      "B"
+     ]
+    ],
+    "cechy": {
+     "Maze Awareness": "Po przeżyciu Major/Grave Trauma lub Obol: 1 tymczasowy dodatni żeton Evasion. Na kaflu Terrain masz +1 Speed (prawdopodobnie).",
+     "Improved Rush": "Move with +2 [ruch] i Melee/Reach Attack z Auto-break 1 i +1 Precision. Musisz przejść min. 3 pola i dojść do Targetu najkrótszą ścieżką. Koszt: [Λ 3+] Ψ [akcje ruch+atak] (znaczenie \"Λ 2+\" niepewne)."
+    }
+   },
+   {
+    "id": "AK0297",
+    "n": "Logicbreaker",
+    "typ": "Logicbreaker",
+    "kosc": "red + Auto-break 1",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1:Obol",
+     "2-4:Minor",
+     "5-7:Major",
+     "8-9:Grave",
+     "10+:Obol"
+    ],
+    "tabela_kratos": [
+     [
+      "OB+R"
+     ],
+     [
+      "O",
+      "OB"
+     ],
+     [
+      "OB+R"
+     ],
+     [
+      "Ela",
+      "Tire"
+     ],
+     [
+      "D"
+     ],
+     [
+      "OB+R"
+     ],
+     [
+      "Ela",
+      "OB"
+     ]
+    ],
+    "cechy": {
+     "Theseus Logic": "Ψ Przy ruchu dobrowolnym ignoruj kafel Terrain przeszkody lub przepaści. Nie możesz zakończyć ruchu na przeszkodzie/przepaści.",
+     "Logicbreak": "Ψ Gdy przeżyjesz Obol, wykonaj [akcję ataku] (do 3 razy na rundę)."
+    }
+   },
+   {
+    "id": "AK0298",
+    "n": "Gamechanger",
+    "typ": "Gamechanger",
+    "kosc": "black",
+    "predkosc": 5,
+    "progi_trauma": [
+     "1-4",
+     "5-8",
+     "9",
+     "10+"
+    ],
+    "tabela_kratos": [
+     [
+      "B+O",
+      "R"
+     ],
+     [
+      "Ela"
+     ],
+     [
+      "B",
+      "O+R"
+     ],
+     [
+      "D"
+     ],
+     [
+      "B",
+      "R2"
+     ],
+     [
+      "Prec"
+     ],
+     [
+      "B+R"
+     ]
+    ],
+    "cechy": {
+     "Advanced Reflex": "[Reaction] Ψ [akcja]: ruch do 2 pól.",
+     "Unknown Might": "Możesz używać broni trzyręcznych jakby były dwuręczne. Jeśli to robisz, masz -1 slot Support.",
+     "Disturbance in Fate": "Za każdym razem, gdy wyrzucisz Crit Miss: Adversary Activation.",
+     "Ruse": "Po przeżyciu Major/Grave Trauma lub Obol połóż 1 żeton Opening w puli Kratos."
+    }
+   }
+  ],
+  "_uwagi_skan": "Brak skanów AK0291-0298 w załącznikach — sekcja przeniesiona z ref bez weryfikacji."
+ },
+ "dice": {
+  "_uwagi": "P=Power, T=Potential (trójkąt), D=symbol \"???\" (kropka, nieznany efekt). Każda kość ma 6 ścianek. Tiery: red < black < white. Rozpoznanie koloru po tle skanów; biała = skan czarne-na-białym.",
+  "red": [
+   {
+    "P": 1,
+    "T": 1
+   },
+   {
+    "P": 1
+   },
+   {
+    "T": 1
+   },
+   {
+    "P": 2,
+    "D": 1
+   },
+   {
+    "P": 1,
+    "T": 1
+   },
+   {
+    "D": 1
+   }
+  ],
+  "black": [
+   {
+    "P": 2,
+    "T": 2,
+    "D": 1
+   },
+   {
+    "P": 2,
+    "T": 1
+   },
+   {
+    "T": 1,
+    "D": 1
+   },
+   {
+    "P": 1,
+    "T": 1
+   },
+   {
+    "P": 2,
+    "D": 1
+   },
+   {
+    "P": 1,
+    "T": 1
+   }
+  ],
+  "white": [
+   {
+    "P": 1,
+    "T": 2,
+    "D": 1
+   },
+   {
+    "P": 2,
+    "T": 1,
+    "D": 1
+   },
+   {
+    "P": 1,
+    "T": 1,
+    "D": 1
+   },
+   {
+    "P": 1,
+    "T": 3
+   },
+   {
+    "P": 2,
+    "T": 3
+   },
+   {
+    "P": 3,
+    "T": 2,
+    "D": 1
+   }
+  ],
+  "d10": "ścianki 0-9 (0=10); 6 i 9 z kreską; kość ataku d10, kość krytyka biała d10",
+  "red_srednia": {
+   "P": 0.83,
+   "T": 0.5
+  },
+  "black_srednia": {
+   "P": 1.33,
+   "T": 1
+  },
+  "white_srednia": {
+   "P": 1.67,
+   "T": 2
+  },
+  "_uwagi_skan": "Brak skanów kości — sekcja przeniesiona z ref bez weryfikacji."
+ },
+ "argonauci": {
+  "_uwagi": "Karty Argonautów: front = portret + umiejętność poziomu 1; tył = bio. Skan zawiera tylko 9 imiennych + 4 puste (Chosen Skill). Arkusze Argonautów (staty, umiejętności) nie zostały jeszcze przesłane. Imiona i umiejętności sprawdzone ze skanami przodów (zgodne).",
+  "argonauci": [
+   {
+    "id": "AH0147",
+    "n": "Odys Zero",
+    "umiejetnosc": "Courage",
+    "poziom": 1,
+    "tekst": "Ostatni z czterech oryginalnych, który się obudził. Impulsywny, nonszalancki i przesadnie odważny (lub głupi). Nazywany 'Nevercaptain' - chciał dowodzić Argonautami, ale ten zaszczyt przypadł Circegard. Ostatnio śni o Zero Point Entity i błysku nad Aleksandrią. Głos szepcze: 'Follow the light of Pharos.'",
+    "name": {
+     "en": "Odys Zero",
+     "pl": "Odys Zero"
+    },
+    "skill": {
+     "en": "Courage",
+     "pl": "Courage"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0148",
+    "n": "Circegard",
+    "umiejetnosc": "Wisdom",
+    "poziom": 1,
+    "tekst": "Nie pamięta, jak straciła oko, i nie żywi urazy. Spokojna i wyrachowana, namaszczona przez radę wyrzutków na dowódcę Argo po starciu z Hermesian Pursuer. Coraz więcej czasu spędza na junctioning z Tytanem, w którym znalazła... iskrę.",
+    "name": {
+     "en": "Circegard",
+     "pl": "Circegard"
+    },
+    "skill": {
+     "en": "Wisdom",
+     "pl": "Wisdom"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0149",
+    "n": "Phenelope",
+    "umiejetnosc": "Will",
+    "poziom": 1,
+    "tekst": "Powściągliwa, śmiertelna i piękna. Ma naturalne powinowactwo do machina; czas dzieli między pole bitwy a Last Academy, gdzie pomaga odszyfrować pisma phos. Niektórzy mówią, że przypomina Silver People.",
+    "name": {
+     "en": "Phenelope",
+     "pl": "Phenelope"
+    },
+    "skill": {
+     "en": "Will",
+     "pl": "Will"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0150",
+    "n": "Telebacchus",
+    "umiejetnosc": "Endurance",
+    "poziom": 1,
+    "tekst": "Wiecznie jowialny, serce załogi, pośrednik między 'zwykłymi śmiertelnikami' a 'przebudzonymi' Argonautami. Jedyny, kto naprawdę lubi junctioning z Tytanem.",
+    "name": {
+     "en": "Telebacchus",
+     "pl": "Telebacchus"
+    },
+    "skill": {
+     "en": "Endurance",
+     "pl": "Endurance"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0151",
+    "n": "Herakleides",
+    "umiejetnosc": "Cunning",
+    "poziom": 1,
+    "tekst": "Trochę zagubiony. W odbiciu widzi starca z opłaconym długiem wobec świata, ale pamięta... nic. Jak młody chłopiec, chętny i niespokojny, by zostać wystawiony na próbę na scenie Hellady.",
+    "name": {
+     "en": "Herakleides",
+     "pl": "Herakleides"
+    },
+    "skill": {
+     "en": "Cunning",
+     "pl": "Cunning"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0152",
+    "n": "Olympia",
+    "umiejetnosc": "Fury",
+    "poziom": 1,
+    "tekst": "Dobra i łagodna dusza, nie na miejscu w świecie mroku i przemocy. Wie o tym i dlatego walczy tak mocno: by stworzyć lepszy, piękniejszy świat, jeśli nie dla niej, to dla tych, którzy przyjdą po niej.",
+    "name": {
+     "en": "Olympia",
+     "pl": "Olympia"
+    },
+    "skill": {
+     "en": "Fury",
+     "pl": "Fury"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0153",
+    "n": "Leocules",
+    "umiejetnosc": "Will",
+    "poziom": 1,
+    "tekst": "Nie wie, kim był, i nic go to nie obchodzi. Jego ciało pamięta trudy życia i przemoc. Przebudzenie z Mauzoleum traktuje jako okazję, by stać się łagodniejszym, bardziej empatycznym człowiekiem.",
+    "name": {
+     "en": "Leocules",
+     "pl": "Leocules"
+    },
+    "skill": {
+     "en": "Will",
+     "pl": "Will"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0154",
+    "n": "Raz",
+    "umiejetnosc": "Courage",
+    "poziom": 1,
+    "tekst": "Wie, że pochodzi z Zakazanego Wschodu, gdzie miało powstać pradawne Imperium. Ma niewiele wspólnego z tymi pojęciami - szuka tylko wiedzy.",
+    "name": {
+     "en": "Raz",
+     "pl": "Raz"
+    },
+    "skill": {
+     "en": "Courage",
+     "pl": "Courage"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0155",
+    "n": "Fisher",
+    "umiejetnosc": "Cunning",
+    "poziom": 1,
+    "tekst": "Mówią jej, że wygląda zimno i wyrachowanie - lubi to. Pragmatyczna i zdeterminowana; wie, że misja Argo jest większa niż jakakolwiek ambicja. Dopilnuje, by dotarło do celu, cokolwiek nim jest.",
+    "name": {
+     "en": "Fisher",
+     "pl": "Fisher"
+    },
+    "skill": {
+     "en": "Cunning",
+     "pl": "Cunning"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0623",
+    "n": "Argonaut (pusty 1)",
+    "umiejetnosc": "Chosen Skill",
+    "poziom": 1,
+    "tekst": "This is your story, yet unwritten.",
+    "name": {
+     "en": "Argonaut",
+     "pl": "Argonaut"
+    },
+    "skill": {
+     "en": "Chosen Skill",
+     "pl": "Chosen Skill"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0624",
+    "n": "Argonaut (pusty 2)",
+    "umiejetnosc": "Chosen Skill",
+    "poziom": 1,
+    "tekst": "This is your story, shrouded in Past's mists.",
+    "name": {
+     "en": "Argonaut",
+     "pl": "Argonaut"
+    },
+    "skill": {
+     "en": "Chosen Skill",
+     "pl": "Chosen Skill"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0625",
+    "n": "Argonaut (pusty 3)",
+    "umiejetnosc": "Chosen Skill",
+    "poziom": 1,
+    "tekst": "This is your story, to remember or reforge.",
+    "name": {
+     "en": "Argonaut",
+     "pl": "Argonaut"
+    },
+    "skill": {
+     "en": "Chosen Skill",
+     "pl": "Chosen Skill"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   },
+   {
+    "id": "AH0626",
+    "n": "Argonaut (pusty 4)",
+    "umiejetnosc": "Chosen Skill",
+    "poziom": 1,
+    "tekst": "Follow your dreams.",
+    "name": {
+     "en": "Argonaut",
+     "pl": "Argonaut"
+    },
+    "skill": {
+     "en": "Chosen Skill",
+     "pl": "Chosen Skill"
+    },
+    "uncertain": "Front scan shows only portrait, name and skill badge; bio text (tekst) is on the card back, which is not in the zip — kept from ref, EN not transcribed."
+   }
+  ]
+ },
+ "conditions": {
+  "_uwagi": "Karty Stanu Cyklu I (dwustronne; back = druga strona).",
+  "karty": [
+   {
+    "id": "AL0299",
+    "name": {
+     "en": "Fear",
+     "pl": "Strach"
+    },
+    "text": {
+     "en": "You have -2 Precision.\nIf you gain this Condition card a second time or you gain the Dread Condition card, flip this card.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 1 positive Precision token.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+     "pl": "Masz -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Dread, odwróć tę kartę.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 1 dodatni żeton Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+    },
+    "back": {
+     "name": {
+      "en": "Dread",
+      "pl": "Groza"
+     },
+     "text": {
+      "en": "You have -4 Precision. While on a Rear space, Weakspot or VP, you have -2 Precision instead.\nIf you gain this Condition card a second time or you gain the Fear Condition card, you die.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 2 positive Precision tokens.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+      "pl": "Masz -4 Precision. Na polu Tylnym, Weakspot lub VP masz zamiast tego -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Fear, giniesz.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 2 dodatnie żetony Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+     }
+    },
+    "card_type": "Condition (Mind)"
+   },
+   {
+    "id": "AL0300",
+    "name": {
+     "en": "Fear",
+     "pl": "Strach"
+    },
+    "text": {
+     "en": "You have -2 Precision.\nIf you gain this Condition card a second time or you gain the Dread Condition card, flip this card.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 1 positive Precision token.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+     "pl": "Masz -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Dread, odwróć tę kartę.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 1 dodatni żeton Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+    },
+    "back": {
+     "name": {
+      "en": "Dread",
+      "pl": "Groza"
+     },
+     "text": {
+      "en": "You have -4 Precision. While on a Rear space, Weakspot or VP, you have -2 Precision instead.\nIf you gain this Condition card a second time or you gain the Fear Condition card, you die.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 2 positive Precision tokens.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+      "pl": "Masz -4 Precision. Na polu Tylnym, Weakspot lub VP masz zamiast tego -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Fear, giniesz.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 2 dodatnie żetony Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+     }
+    },
+    "card_type": "Condition (Mind)"
+   },
+   {
+    "id": "AL0301",
+    "name": {
+     "en": "Fear",
+     "pl": "Strach"
+    },
+    "text": {
+     "en": "You have -2 Precision.\nIf you gain this Condition card a second time or you gain the Dread Condition card, flip this card.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 1 positive Precision token.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+     "pl": "Masz -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Dread, odwróć tę kartę.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 1 dodatni żeton Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+    },
+    "back": {
+     "name": {
+      "en": "Dread",
+      "pl": "Groza"
+     },
+     "text": {
+      "en": "You have -4 Precision. While on a Rear space, Weakspot or VP, you have -2 Precision instead.\nIf you gain this Condition card a second time or you gain the Fear Condition card, you die.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 2 positive Precision tokens.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+      "pl": "Masz -4 Precision. Na polu Tylnym, Weakspot lub VP masz zamiast tego -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Fear, giniesz.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 2 dodatnie żetony Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+     }
+    },
+    "card_type": "Condition (Mind)"
+   },
+   {
+    "id": "AL0302",
+    "name": {
+     "en": "Fear",
+     "pl": "Strach"
+    },
+    "text": {
+     "en": "You have -2 Precision.\nIf you gain this Condition card a second time or you gain the Dread Condition card, flip this card.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 1 positive Precision token.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+     "pl": "Masz -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Dread, odwróć tę kartę.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 1 dodatni żeton Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+    },
+    "back": {
+     "name": {
+      "en": "Dread",
+      "pl": "Groza"
+     },
+     "text": {
+      "en": "You have -4 Precision. While on a Rear space, Weakspot or VP, you have -2 Precision instead.\nIf you gain this Condition card a second time or you gain the Fear Condition card, you die.\nFACE YOUR FEAR: When you deal a Wound, discard this Condition card and gain 2 positive Precision tokens.\nEnd of Battle: If you still have this Condition card, draw a Fated Mnemos card.",
+      "pl": "Masz -4 Precision. Na polu Tylnym, Weakspot lub VP masz zamiast tego -2 Precision.\nJeśli zyskasz tę kartę Stanu po raz drugi albo zyskasz kartę Stanu Fear, giniesz.\nSTAWIĆ CZOŁA STRACHOWI: gdy zadasz Wound, odrzuć tę kartę Stanu i zyskaj 2 dodatnie żetony Precision.\nKoniec Bitwy: jeśli wciąż masz tę kartę Stanu, dobierz kartę Fated Mnemos."
+     }
+    },
+    "card_type": "Condition (Mind)"
+   },
+   {
+    "id": "AL0303",
+    "name": {
+     "en": "Knockdown (Falling)",
+     "pl": "Knockdown (Falling)"
+    },
+    "text": {
+     "en": "You are knocked down. Place your miniature on its side as a reminder.\nYou cannot move voluntarily, attack or use actions or abilities, unless stated otherwise.\nIf this card is discarded by another effect, stand up (see the other side of the card).\nAt the end of your next turn, flip this card.",
+     "pl": "Jesteś powalony. Połóż swoją figurkę na boku jako przypomnienie.\nNie możesz dobrowolnie się ruszać, atakować ani używać akcji czy zdolności, chyba że napisano inaczej.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań (patrz druga strona karty).\nNa koniec swojej następnej tury odwróć tę kartę."
+    },
+    "back": {
+     "name": {
+      "en": "Knockdown (Standing Up)",
+      "pl": "Knockdown (Standing Up)"
+     },
+     "text": {
+      "en": "If you move voluntarily, attack or use an action or ability, stand up.\nAt the start of your turn, stand up.\nIf this card is discarded by another effect, stand up.\nSTAND UP: Put your miniature in the normal position and discard this card.",
+      "pl": "Jeśli dobrowolnie się ruszasz, atakujesz albo używasz akcji lub zdolności, wstań.\nNa początku swojej tury wstań.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań.\nWSTAŃ: ustaw figurkę normalnie i odrzuć tę kartę."
+     }
+    },
+    "card_type": "Condition (Body)"
+   },
+   {
+    "id": "AL0304",
+    "name": {
+     "en": "Knockdown (Falling)",
+     "pl": "Knockdown (Falling)"
+    },
+    "text": {
+     "en": "You are knocked down. Place your miniature on its side as a reminder.\nYou cannot move voluntarily, attack or use actions or abilities, unless stated otherwise.\nIf this card is discarded by another effect, stand up (see the other side of the card).\nAt the end of your next turn, flip this card.",
+     "pl": "Jesteś powalony. Połóż swoją figurkę na boku jako przypomnienie.\nNie możesz dobrowolnie się ruszać, atakować ani używać akcji czy zdolności, chyba że napisano inaczej.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań (patrz druga strona karty).\nNa koniec swojej następnej tury odwróć tę kartę."
+    },
+    "back": {
+     "name": {
+      "en": "Knockdown (Standing Up)",
+      "pl": "Knockdown (Standing Up)"
+     },
+     "text": {
+      "en": "If you move voluntarily, attack or use an action or ability, stand up.\nAt the start of your turn, stand up.\nIf this card is discarded by another effect, stand up.\nSTAND UP: Put your miniature in the normal position and discard this card.",
+      "pl": "Jeśli dobrowolnie się ruszasz, atakujesz albo używasz akcji lub zdolności, wstań.\nNa początku swojej tury wstań.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań.\nWSTAŃ: ustaw figurkę normalnie i odrzuć tę kartę."
+     }
+    },
+    "card_type": "Condition (Body)"
+   },
+   {
+    "id": "AL0305",
+    "name": {
+     "en": "Knockdown (Falling)",
+     "pl": "Knockdown (Falling)"
+    },
+    "text": {
+     "en": "You are knocked down. Place your miniature on its side as a reminder.\nYou cannot move voluntarily, attack or use actions or abilities, unless stated otherwise.\nIf this card is discarded by another effect, stand up (see the other side of the card).\nAt the end of your next turn, flip this card.",
+     "pl": "Jesteś powalony. Połóż swoją figurkę na boku jako przypomnienie.\nNie możesz dobrowolnie się ruszać, atakować ani używać akcji czy zdolności, chyba że napisano inaczej.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań (patrz druga strona karty).\nNa koniec swojej następnej tury odwróć tę kartę."
+    },
+    "back": {
+     "name": {
+      "en": "Knockdown (Standing Up)",
+      "pl": "Knockdown (Standing Up)"
+     },
+     "text": {
+      "en": "If you move voluntarily, attack or use an action or ability, stand up.\nAt the start of your turn, stand up.\nIf this card is discarded by another effect, stand up.\nSTAND UP: Put your miniature in the normal position and discard this card.",
+      "pl": "Jeśli dobrowolnie się ruszasz, atakujesz albo używasz akcji lub zdolności, wstań.\nNa początku swojej tury wstań.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań.\nWSTAŃ: ustaw figurkę normalnie i odrzuć tę kartę."
+     }
+    },
+    "card_type": "Condition (Body)"
+   },
+   {
+    "id": "AL0306",
+    "name": {
+     "en": "Knockdown (Falling)",
+     "pl": "Knockdown (Falling)"
+    },
+    "text": {
+     "en": "You are knocked down. Place your miniature on its side as a reminder.\nYou cannot move voluntarily, attack or use actions or abilities, unless stated otherwise.\nIf this card is discarded by another effect, stand up (see the other side of the card).\nAt the end of your next turn, flip this card.",
+     "pl": "Jesteś powalony. Połóż swoją figurkę na boku jako przypomnienie.\nNie możesz dobrowolnie się ruszać, atakować ani używać akcji czy zdolności, chyba że napisano inaczej.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań (patrz druga strona karty).\nNa koniec swojej następnej tury odwróć tę kartę."
+    },
+    "back": {
+     "name": {
+      "en": "Knockdown (Standing Up)",
+      "pl": "Knockdown (Standing Up)"
+     },
+     "text": {
+      "en": "If you move voluntarily, attack or use an action or ability, stand up.\nAt the start of your turn, stand up.\nIf this card is discarded by another effect, stand up.\nSTAND UP: Put your miniature in the normal position and discard this card.",
+      "pl": "Jeśli dobrowolnie się ruszasz, atakujesz albo używasz akcji lub zdolności, wstań.\nNa początku swojej tury wstań.\nJeśli ta karta zostanie odrzucona przez inny efekt, wstań.\nWSTAŃ: ustaw figurkę normalnie i odrzuć tę kartę."
+     }
+    },
+    "card_type": "Condition (Body)"
+   }
+  ]
+ },
+ "technology": {
+  "_uwagi": "Karty Technologii Inward Odyssey Cyklu I (AW). Skan bez _back = strona tytułowa (flavor), _back = strona z tabelą. sheet = ikona w lewym górnym rogu (Λ = tabela Traumy, Ω = tabela Kratos).",
+  "karty": [
+   {
+    "id": "AW0284",
+    "name": {
+     "en": "Iapetan Strain",
+     "pl": "Szczep Japetowy"
+    },
+    "flavor": {
+     "en": "Do not leave anything to chance.",
+     "pl": "Nie zostawiaj niczego przypadkowi."
+    },
+    "text": {
+     "en": "Trauma table: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\n[!] ΨΨ [Trauma card]: Reflex (Move 1 space).",
+     "pl": "Tabela Traumy: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\n[!] ΨΨ [karta Traumy]: Odruch (ruch o 1 pole)."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Trauma",
+     "Strain"
+    ],
+    "trauma_table": [
+     {
+      "roll": "1-3",
+      "deck": "minor"
+     },
+     {
+      "roll": "4-6",
+      "deck": "major"
+     },
+     {
+      "roll": "7-9",
+      "deck": "grave"
+     },
+     {
+      "roll": "10+",
+      "deck": "obol"
+     }
+    ],
+    "sheet": "Λ",
+    "uncertain": "Trauma table read from icons: 1/2/3 stacked arrow-triangles = Minor/Major/Grave, skull badge = Obol. Bottom line icons: !-diamond, ΨΨ, then a card-with-curved-arrow icon (Trauma Draw?) — meaning not in legend."
+   },
+   {
+    "id": "AW0285",
+    "name": {
+     "en": "Promethean Strain",
+     "pl": "Szczep Prometejski"
+    },
+    "flavor": {
+     "en": "This Titan has somewhat improved its toughness.",
+     "pl": "Ten Tytan nieco poprawił swoją wytrzymałość."
+    },
+    "text": {
+     "en": "Trauma table: 2-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\n[Trauma card]: Lose -1Λ.",
+     "pl": "Tabela Traumy: 2-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\n[karta Traumy]: strać -1Λ."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Trauma",
+     "Strain"
+    ],
+    "trauma_table": [
+     {
+      "roll": "2-3",
+      "deck": "minor"
+     },
+     {
+      "roll": "4-6",
+      "deck": "major"
+     },
+     {
+      "roll": "7-9",
+      "deck": "grave"
+     },
+     {
+      "roll": "10+",
+      "deck": "obol"
+     }
+    ],
+    "sheet": "Λ",
+    "uncertain": "Trauma table read from icons: 1/2/3 stacked arrow-triangles = Minor/Major/Grave, skull badge = Obol. Table starts at 2 (no row for 1). Card-with-curved-arrow icon meaning not in legend."
+   },
+   {
+    "id": "AW0286",
+    "name": {
+     "en": "Mazewalker",
+     "pl": "Wędrowiec Labiryntu"
+    },
+    "flavor": {
+     "en": "This Titan has specialized in close-quarters maze fighting.",
+     "pl": "Ten Tytan wyspecjalizował się w walce wręcz w labiryncie."
+    },
+    "text": {
+     "en": "Kratos abilities: Break X, Opening X, Power Re-Roll X, Additional Power Die, Reposition X, Pushback X.\nIf moving through a Labyrinth tile, you gain +1[Movement] for this movement.",
+     "pl": "Zdolności Kratos: Break X, Opening X, Power Re-Roll X, Additional Power Die, Reposition X, Pushback X.\nJeśli ruszasz się przez kafel Labiryntu, zyskujesz +1[Ruch] na ten ruch."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Conditioning",
+     "Kratos"
+    ],
+    "kratos_table": [
+     {
+      "roll": 1,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     },
+     {
+      "roll": 2,
+      "options": [
+       "Power Re-Roll 1",
+       "Reposition 1"
+      ]
+     },
+     {
+      "roll": 3,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     },
+     {
+      "roll": 4,
+      "options": [
+       "Pushback 1",
+       "Power Re-Roll 1"
+      ]
+     },
+     {
+      "roll": 5,
+      "options": [
+       "Additional Power Die"
+      ]
+     },
+     {
+      "roll": 6,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     }
+    ],
+    "sheet": "Ω",
+    "uncertain": "Kratos table read from icons (Break=triangle+crack, Opening=triangle+eye, Re-Roll=die+arrows, Pushback=arrow right, Reposition=arrow left). [Movement] = boot-like icon."
+   },
+   {
+    "id": "AW0287",
+    "name": {
+     "en": "Dreamwalker II",
+     "pl": "Śniący Wędrowiec II"
+    },
+    "flavor": {
+     "en": "More accustomed to the Triskelion Junction, this Titan can reach higher heights.",
+     "pl": "Bardziej oswojony z Węzłem Triskelionu, ten Tytan może sięgać wyżej."
+    },
+    "text": {
+     "en": "Kratos abilities: Break X, Opening X, Power Re-Roll X, Additional Power Die, Pushback X.",
+     "pl": "Zdolności Kratos: Break X, Opening X, Power Re-Roll X, Additional Power Die, Pushback X."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Strain",
+     "Kratos"
+    ],
+    "kratos_table": [
+     {
+      "roll": 1,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     },
+     {
+      "roll": 2,
+      "options": [
+       "Power Re-Roll 1"
+      ]
+     },
+     {
+      "roll": 3,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     },
+     {
+      "roll": 4,
+      "options": [
+       "Pushback 1",
+       "Power Re-Roll 1"
+      ]
+     },
+     {
+      "roll": 5,
+      "options": [
+       "Additional Power Die"
+      ]
+     },
+     {
+      "roll": 6,
+      "options": [
+       "Break 1",
+       "Opening 1"
+      ]
+     },
+     {
+      "roll": 7,
+      "options": [
+       "Pushback 1",
+       "Power Re-Roll 1"
+      ]
+     }
+    ],
+    "sheet": "Ω",
+    "uncertain": "Kratos table read from icons, as AW0286."
+   },
+   {
+    "id": "AW0288",
+    "name": {
+     "en": "Harsh Conditioning",
+     "pl": "Surowa Zaprawa"
+    },
+    "flavor": {
+     "en": "The Centimanes held this thing at bay for centuries.",
+     "pl": "Centymanowie trzymali to coś w ryzach przez stulecia."
+    },
+    "text": {
+     "en": "Trauma table: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nAfter surviving a Major or Grave Trauma or an Obol, lose -1Ψ.",
+     "pl": "Tabela Traumy: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nPo przeżyciu Major lub Grave Trauma albo Obola strać -1Ψ."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Trauma",
+     "Conditioning"
+    ],
+    "trauma_table": [
+     {
+      "roll": "1-3",
+      "deck": "minor"
+     },
+     {
+      "roll": "4-6",
+      "deck": "major"
+     },
+     {
+      "roll": "7-9",
+      "deck": "grave"
+     },
+     {
+      "roll": "10+",
+      "deck": "obol"
+     }
+    ],
+    "sheet": "Λ",
+    "uncertain": "Trauma table read from icons: 1/2/3 stacked arrow-triangles = Minor/Major/Grave, skull badge = Obol."
+   },
+   {
+    "id": "AW0289",
+    "name": {
+     "en": "Heavy-Gear Training",
+     "pl": "Trening z Ciężkim Sprzętem"
+    },
+    "flavor": {
+     "en": "This Titan has been trained to use heavy equipment.",
+     "pl": "Ten Tytan został wyszkolony do używania ciężkiego sprzętu."
+    },
+    "text": {
+     "en": "Trauma table: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nIgnore up to -1[Movement] penalty from any 1 [weapon].",
+     "pl": "Tabela Traumy: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nZignoruj karę do -1[Ruch] z dowolnej 1 [broń]."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Trauma",
+     "Training"
+    ],
+    "trauma_table": [
+     {
+      "roll": "1-3",
+      "deck": "minor"
+     },
+     {
+      "roll": "4-6",
+      "deck": "major"
+     },
+     {
+      "roll": "7-9",
+      "deck": "grave"
+     },
+     {
+      "roll": "10+",
+      "deck": "obol"
+     }
+    ],
+    "sheet": "Λ",
+    "uncertain": "Trauma table read from icons: 1/2/3 stacked arrow-triangles = Minor/Major/Grave, skull badge = Obol."
+   },
+   {
+    "id": "AW0290",
+    "name": {
+     "en": "Aegisbred",
+     "pl": "Zrodzony z Egidy"
+    },
+    "flavor": {
+     "en": "This Titan has an affinity for armor.",
+     "pl": "Ten Tytan ma powinowactwo do pancerza."
+    },
+    "text": {
+     "en": "Trauma table: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nArmor Re-roll 1.",
+     "pl": "Tabela Traumy: 1-3 Minor, 4-6 Major, 7-9 Grave, 10+ Obol.\nArmor Re-roll 1."
+    },
+    "card_type": "Technology (Inward Odyssey, Cycle I)",
+    "keywords": [
+     "Trauma",
+     "Training"
+    ],
+    "trauma_table": [
+     {
+      "roll": "1-3",
+      "deck": "minor"
+     },
+     {
+      "roll": "4-6",
+      "deck": "major"
+     },
+     {
+      "roll": "7-9",
+      "deck": "grave"
+     },
+     {
+      "roll": "10+",
+      "deck": "obol"
+     }
+    ],
+    "sheet": "Λ",
+    "uncertain": "Trauma table read from icons: 1/2/3 stacked arrow-triangles = Minor/Major/Grave, skull badge = Obol."
+   }
+  ]
+ },
+ "terrain": {
+  "_uwagi": "Karty terenu z numerem (Cykl I).",
+  "karty": [
+   {
+    "id": "AI0361",
+    "name": {
+     "en": "Column",
+     "pl": "Kolumna"
+    },
+    "text": {
+     "en": "Size 1x1. Obstacle. Obscuring. Destructible.\nTrap: If you push the Primordial onto this tile, remove the tile and roll a d10:\n1-2: Nothing happens.\n3-8: Place 1 negative [To Hit] token in the Kratos Pool.\n9-10: Place 2 negative [To Hit] tokens in the Kratos Pool.",
+     "pl": "Rozmiar 1x1. Przeszkoda. Zasłaniająca. Zniszczalna.\nPułapka: jeśli wepchniesz Prapoczątkowego na ten kafel, usuń kafel i rzuć k10:\n1-2: nic się nie dzieje.\n3-8: połóż 1 ujemny żeton [To Hit] w Puli Kratos.\n9-10: połóż 2 ujemne żetony [To Hit] w Puli Kratos."
+    },
+    "card_type": "Terrain",
+    "size": "1x1",
+    "uncertain": "Token icon in Trap results looks like the To Hit (octopus-face) glyph; small at scan size."
+   }
+  ]
+ },
+ "skipped": [
+  "BL0663.jpg",
+  "BL0663_back.jpg",
+  "BW0974.jpg",
+  "BW0974_back.jpg",
+  "BW0976.jpg",
+  "BW0976_back.jpg",
+  "BW0977.jpg",
+  "BW0977_back.jpg",
+  "BW0978.jpg",
+  "BW0978_back.jpg",
+  "BW0979.jpg",
+  "BW0979_back.jpg",
+  "BW0980.jpg",
+  "BW0980_back.jpg",
+  "BW0981.jpg",
+  "BW0981_back.jpg",
+  "CL1291.jpg",
+  "CL1291_back.jpg",
+  "CL1295.jpg",
+  "CL1295_back.jpg",
+  "CW1550.jpg",
+  "CW1550_back.jpg",
+  "CW1551.jpg",
+  "CW1551_back.jpg",
+  "CW1552.jpg",
+  "CW1552_back.jpg",
+  "CW1553.jpg",
+  "CW1553_back.jpg",
+  "CW1554.jpg",
+  "CW1554_back.jpg",
+  "CW1555.jpg",
+  "CW1555_back.jpg",
+  "CW1556.jpg",
+  "CW1556_back.jpg",
+  "damaged_krypteia_outpost.jpg",
+  "hyperborean_ruins.jpg",
+  "maze_fissure.jpg",
+  "mnestis_cow_toss.jpg",
+  "ruined_city.jpg",
+  "termophylaed_city.jpg",
+  "terrain_abandoned_temple.jpg",
+  "terrain_ambrosia_elephant.jpg",
+  "terrain_ambrosia_pool.jpg",
+  "terrain_ambrosia_trail.jpg",
+  "terrain_argo_hull.jpg",
+  "terrain_black_glacier.jpg",
+  "terrain_black_iceberg.jpg",
+  "terrain_black_lake.jpg",
+  "terrain_city.jpg",
+  "terrain_cliff.jpg",
+  "terrain_column.jpg",
+  "terrain_cyclops_trap.jpg",
+  "terrain_floating_rocks.jpg",
+  "terrain_fortified_city.jpg",
+  "terrain_giant_black_iceberg.jpg",
+  "terrain_giant_shell.jpg",
+  "terrain_graveyard_of_the_frail.jpg",
+  "terrain_krypteia_outpost.jpg",
+  "terrain_labyrinth.jpg",
+  "terrain_maze_outcrop.jpg",
+  "terrain_minos_manos_unit.jpg",
+  "terrain_spartan_river_works.jpg",
+  "terrain_spot_of_nothingness.jpg",
+  "terrain_time_frozen_city.jpg",
+  "terrain_timefront.jpg"
+ ],
+ "skipped_reason": {
+  "BW*/CW*": "Technology Cycle II/III",
+  "BL*/CL*": "Condition Cycle II/III (B/C prefix)",
+  "bez numeru": "terrain_*, ruined_city, maze_fissure, mnestis_cow_toss itp. — pliki bez numeru karty"
+ },
+ "not_in_scans": [
+  "AM0349 (Grave Trauma)",
+  "AM0355 (Obol)",
+  "AR/AS: brak",
+  "AK0291-0298 (titans)",
+  "rewersy AH (bio)"
+ ],
+ "corrections": [
+  {
+   "id": "AR0400",
+   "field": "tgt",
+   "was": [
+    "wszyscy sąsiedzi"
+   ],
+   "is": [
+    "all adjacent"
+   ]
+  },
+  {
+   "id": "AR0410",
+   "field": "fate_die",
+   "was": 7,
+   "is": 8
+  },
+  {
+   "id": "AR0412",
+   "field": "lvl",
+   "was": null,
+   "is": "X"
+  },
+  {
+   "id": "AR0413",
+   "field": "efekt",
+   "was": "Argo traci 1 (ikona nieczytelna: załoga lub kadłub?)",
+   "is": "Argo traci -1 Hull (ikona dziobu statku)"
+  },
+  {
+   "id": "AR0413",
+   "field": "lvl",
+   "was": null,
+   "is": "X"
+  },
+  {
+   "id": "AM0310",
+   "field": "tekst",
+   "was": "Wyczerp wszystkie swoje wyczerpywalne [ikona: broń/gear?]. Jeśli niczego nie wyczerpano, Knockdown.",
+   "is": "Wyczerp wszystkie swoje wyczerpywalne Weapon [broń]. Jeśli ta karta nie wyczerpała żadnej Weapon, Knockdown."
+  },
+  {
+   "id": "AM0319",
+   "field": "n",
+   "was": "Maze Emergence (L)",
+   "is": "Maze Emergence"
+  },
+  {
+   "id": "AM0320",
+   "field": "n",
+   "was": "Maze Emergence (Z)",
+   "is": "Maze Emergence"
+  },
+  {
+   "id": "AM0334",
+   "field": "n",
+   "was": "Maze Eruption (O)",
+   "is": "Maze Eruption"
+  },
+  {
+   "id": "AM0335",
+   "field": "n",
+   "was": "Maze Eruption (Z)",
+   "is": "Maze Eruption"
+  },
+  {
+   "id": "AM0347",
+   "field": "tekst",
+   "was": "Zajrzyj do wierzchnich kart talii BP i AI; każdą możesz odłożyć na wierzch lub na stos odrzuconych jej talii. Gain +1 żeton Break (do puli Kratos; ikona trójkąt z pęknięciem - prawdopodobnie).",
+   "is": "Zajrzyj do wierzchnich kart talii BP i AI; każdą możesz odłożyć na wierzch lub na stos odrzuconych jej talii. Gain +1 Progress (ikona: trójkąt z płomieniem, nie Break)."
+  },
+  {
+   "id": "AM0353",
+   "field": "tekst",
+   "was": "Against all odds, you survive.",
+   "is": "(brak tekstu zasad; to cytat → flavor)"
+  },
+  {
+   "id": "AM0354",
+   "field": "tekst",
+   "was": "I have a rendezvous with Death.",
+   "is": "(brak tekstu zasad; to cytat → flavor)"
+  }
+ ],
+ "_about": {
+  "en": "Cycle I battle cards, based on gamedata_ref.json (field names kept). Added name/text/flavor {en,pl}; battle keywords (Knockback, Pushback, Knockdown, Fail, Wound, Critical, Instinct, Opening, Break, Precision, Perform Signature, To Hit, Speed, Evasion, Bonus...) stay in English in 'pl' as on the physical cards. [!] = sequence marker, Λ Danger, Ψ Fate, Ω Rage. corrections = fixes vs ref.",
+  "pl": "Karty bitewne Cyklu I. Klucze jak w en."
+ }
+}

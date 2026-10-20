@@ -349,8 +349,8 @@
     "pl": "Kotwica Ariadny jest ukończona, i to z zapasem czasu. Uczeni Ostatniej Akademii mogą dopracować projekt. Pole ontologiczne zdaje się mieć więcej właściwości niż tylko kotwiczenie obiektu w rzeczywistości: niektórzy filozofowie twierdzą, że można by nim wyczarować „teatralne” środowisko rzeczywistości — sen na jawie, w którym da się zgłębiać nieskończone możliwości życia. Ale to sprawa przyszłości.\nPewnego dnia uczeni znajdują na podłodze komnaty Kotwicy olbrzymi ksifos i nie mają pojęcia, skąd się tam wziął."
    },
    "text": {
-    "en": "Reach Knossos.\nGain the Theseus's Razor [helmet] card (Secret deck 2, Card 14) and the Temenos Sighting Technology card (unless you already have it). Then, immediately go on an adventure from the Dreams Laid Bare hub (if you finished this hub already, choose another hub to go on an adventure from!).\nWith the Ariadne's Anchor upgraded and operational, it is time to head to Knossos.\nReach Knossos: If the Argo is on the Knossos Map tile (027), during the Story Step, see 0104 (Warning: Point of No Return).",
-    "pl": "Dotrzyj do Knossos.\nZyskaj kartę Brzytwa Tezeusza [hełm] (Tajna talia 2, karta 14) oraz kartę Technologii Dostrzeżenie Temenosu (chyba że już ją masz). Następnie natychmiast wyrusz na przygodę z centrum Sny Obnażone (jeśli już ukończyłeś to centrum, wybierz inne centrum, z którego wyruszysz na przygodę!).\nKotwica Ariadny jest ulepszona i działa — czas ruszać do Knossos.\nDotrzyj do Knossos: jeśli Argo jest na płytce mapy Knossos (027), w Kroku Fabuły zobacz 0104 (Uwaga: Punkt Bez Powrotu)."
+    "en": "Reach Knossos.\nGain the Theseus's Razor [weapon] card (Secret deck 2, Card 14) and the Temenos Sighting Technology card (unless you already have it). Then, immediately go on an adventure from the Dreams Laid Bare hub (if you finished this hub already, choose another hub to go on an adventure from!).\nWith the Ariadne's Anchor upgraded and operational, it is time to head to Knossos.\nReach Knossos: If the Argo is on the Knossos Map tile (027), during the Story Step, see 0104 (Warning: Point of No Return).",
+    "pl": "Dotrzyj do Knossos.\nZyskaj kartę Brzytwa Tezeusza [broń] (Tajna talia 2, karta 14) oraz kartę Technologii Dostrzeżenie Temenosu (chyba że już ją masz). Następnie natychmiast wyrusz na przygodę z centrum Sny Obnażone (jeśli już ukończyłeś to centrum, wybierz inne centrum, z którego wyruszysz na przygodę!).\nKotwica Ariadny jest ulepszona i działa — czas ruszać do Knossos.\nDotrzyj do Knossos: jeśli Argo jest na płytce mapy Knossos (027), w Kroku Fabuły zobacz 0104 (Uwaga: Punkt Bez Powrotu)."
    },
    "req": [
     {
@@ -380,7 +380,7 @@
      }
     }
    ],
-   "uncertain": "Small icon after \"Theseus's Razor\" (Greek crested helmet glyph) — not in legend, transcribed as [helmet].",
+   "uncertain": "Small icon after \"Theseus's Razor\" (Greek crested helmet glyph) = Weapon icon (named on battle card AN0374).",
    "code": "AD0123"
   },
   {
