@@ -1,0 +1,3208 @@
+{
+ "_about": {
+  "en": "Cycle I map tiles transcribed from scans (front = NNN.jpg, back = NNNb.jpg; h = special variant). symbols: counts for progress/titan/doom (Exploration box bottom-left: flame triangle = progress, skull triangle = doom; balloon bubble = titan), bools for bubbles. Extra keys: symbols.adversary = head-in-circle bubble, symbols.other = icons not in legend, arrow.river = winding-river icon on arrow, back = text on back of h-variants. factions = Local Faction icon bottom-right (yarn = Hornsworn, bull = Minoans, rhombus = Labyrinthians). Two arrows with the same dir/to = two separate arrows on the same edge (upper/lower). KNOSSOS.jpg is a duplicate scan of 027 front; column.jpg is not a map tile (pillar art, no data).",
+  "pl": "Płytki mapy Cyklu I spisane ze skanów. Klucze jak w en."
+ },
+ "tiles": [
+  {
+   "id": "001",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "002",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "006",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "002",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "001",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "003",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "003",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "002",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "004",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "008",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "004",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "003",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "005",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "009",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "005",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "004",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "041",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "010",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "006",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "001",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "007",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "011",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "007",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "adversary": 1
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "006",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "008",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "012",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "008",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "003",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "007",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "009",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "013",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "009",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "004",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "008",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "010",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "010",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "014",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "two E arrows to 010 (upper and lower)"
+  },
+  {
+   "id": "009h",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "004",
+     "faction": "Hornsworn",
+     "sector": "α"
+    },
+    {
+     "dir": "W",
+     "to": "008",
+     "faction": "Minoans",
+     "sector": "α"
+    },
+    {
+     "dir": "E",
+     "to": "010",
+     "faction": "Labyrinthians",
+     "sector": "α"
+    },
+    {
+     "dir": "E",
+     "to": "010",
+     "faction": "Labyrinthians",
+     "sector": "β"
+    },
+    {
+     "dir": "S",
+     "to": "014",
+     "faction": "Minoans",
+     "sector": "β"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 009. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 009. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   }
+  },
+  {
+   "id": "010",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "005",
+     "faction": "Hornsworn",
+     "sector": "α"
+    },
+    {
+     "dir": "W",
+     "to": "009",
+     "faction": "Labyrinthians",
+     "sector": "α"
+    },
+    {
+     "dir": "E",
+     "to": "046",
+     "faction": "Hornsworn",
+     "sector": "α"
+    },
+    {
+     "dir": "W",
+     "to": "009",
+     "faction": "Labyrinthians",
+     "sector": "β"
+    },
+    {
+     "dir": "E",
+     "to": "046",
+     "faction": "Hornsworn",
+     "sector": "β"
+    },
+    {
+     "dir": "S",
+     "to": "015",
+     "faction": "Labyrinthians",
+     "sector": "β"
+    }
+   ]
+  },
+  {
+   "id": "011",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "006",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "012",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "016",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "012",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "007",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "011",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "013",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "017",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "013",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "008",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "012",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "014",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "018",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "013h",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "008",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "012",
+     "faction": "Minoans"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 013. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 013. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   },
+   "uncertain": "h-variant: labyrinth overlay covers E and S edges, no arrows there"
+  },
+  {
+   "id": "014",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "009",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "013",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "015",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "019",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "014h",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "009",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "015",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "019",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 014. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 014. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   },
+   "uncertain": "h-variant: labyrinth overlay on W edge, no W arrow"
+  },
+  {
+   "id": "015",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "010",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "014",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "051",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "uncertain": "no S arrow"
+  },
+  {
+   "id": "016",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "011",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "017",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "021",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "017",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "012",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "016",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "018",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "022",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "018",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "013",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "017",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "019",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "018h",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "017",
+     "faction": "Minoans",
+     "sector": "α"
+    },
+    {
+     "dir": "E",
+     "to": "019",
+     "faction": "Labyrinthians",
+     "sector": "β"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 018. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 018. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   },
+   "uncertain": "h-variant: no N arrow (labyrinth overlay)"
+  },
+  {
+   "id": "019",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "014",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "018",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "024",
+     "faction": "Labyrinthians",
+     "river": true,
+     "restricted": true
+    }
+   ],
+   "uncertain": "label \"*1*6\" on map"
+  },
+  {
+   "id": "020",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "056",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "025",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river icon + Labyrinthians rhombus"
+  },
+  {
+   "id": "021",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "016",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "022",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "026",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "022",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "017",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "021",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "027",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "022h",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "017",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "021",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "023",
+     "faction": "Labyrinthians",
+     "river": true,
+     "restricted": true
+    },
+    {
+     "dir": "S",
+     "to": "027",
+     "faction": "Minoans"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 022. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 022. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   }
+  },
+  {
+   "id": "023",
+   "symbols": {
+    "progress": 1,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true,
+    "other": [
+     "hammer"
+    ]
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "024",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "bubble with hammer icon (not in legend); corner: river + Labyrinthians"
+  },
+  {
+   "id": "023h",
+   "symbols": {
+    "progress": 1,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true,
+    "other": [
+     "hammer"
+    ]
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "022",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "024",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 023. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 023. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   },
+   "uncertain": "bubble with hammer icon (not in legend); corner: river + Labyrinthians; h-variant adds W arrow"
+  },
+  {
+   "id": "024",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "019",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "023",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "E",
+     "to": "025",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "025",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "020",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "W",
+     "to": "024",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "030",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "026",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "021",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "027",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "031",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "027",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "name": {
+    "en": "Knossos",
+    "pl": "Knossos"
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "022",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "026",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "032",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "028",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "029",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "033",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "029",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "028",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "034",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "030",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "025",
+     "faction": "Labyrinthians",
+     "river": true,
+     "restricted": true
+    },
+    {
+     "dir": "E",
+     "to": "066",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "035",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "uncertain": "label \"*4*7\" on map"
+  },
+  {
+   "id": "031",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "026",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "032",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "036",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "032",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "027",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "031",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "033",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "037",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "033",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "028",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "032",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "034",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "038",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "034",
+   "symbols": {
+    "progress": 1,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "029",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "033",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "035",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "039",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "035",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "030",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "034",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "071",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "040",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "035h",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "030",
+     "faction": "Labyrinthians",
+     "sector": "β"
+    },
+    {
+     "dir": "W",
+     "to": "034",
+     "faction": "Minoans",
+     "sector": "α"
+    },
+    {
+     "dir": "E",
+     "to": "071",
+     "faction": "Minoans",
+     "sector": "β"
+    },
+    {
+     "dir": "S",
+     "to": "040",
+     "faction": "Hornsworn",
+     "sector": "α"
+    }
+   ],
+   "back": {
+    "en": "This is a special version of tile 035. Do not draw this tile unless specifically instructed to.",
+    "pl": "To specjalna wersja płytki 035. Nie dobieraj tej płytki, chyba że zostanie to wyraźnie polecone."
+   }
+  },
+  {
+   "id": "036",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "adversary": 1
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "031",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "037",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "037",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "032",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "036",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "038",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "038",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "033",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "037",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "039",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "039",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "034",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "038",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "040",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "040",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "035",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "039",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "041",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "adversary": 1
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "005",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "042",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "046",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "042",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "041",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "043",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "043",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "042",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "044",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "048",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "044",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "043",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "045",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "049",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "045",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "other": [
+     "hammer"
+    ]
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "044",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "050",
+     "faction": "Hornsworn"
+    }
+   ],
+   "uncertain": "bubble with hammer icon (not in legend)"
+  },
+  {
+   "id": "046",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "041",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "010",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "010",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "047",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "051",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "uncertain": "two W arrows to 010 (upper and lower)"
+  },
+  {
+   "id": "047",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "046",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "048",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "052",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "048",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "043",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "047",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "049",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "053",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "049",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "044",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "048",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "050",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "054",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "050",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "045",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "049",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "055",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "051",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "046",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "015",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "052",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "052",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "047",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "051",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "053",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "053",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "048",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "052",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "054",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "058",
+     "faction": "Labyrinthians",
+     "river": true,
+     "restricted": true
+    }
+   ],
+   "uncertain": "label \"*3*8\" on map"
+  },
+  {
+   "id": "054",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "049",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "053",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "055",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "059",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "055",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "050",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "054",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "060",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "056",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "020",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "061",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "057",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "058",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "062",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "058",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "053",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "057",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "059",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "054",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "060",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "064",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "060",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "adversary": 1
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "055",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "059",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "065",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "061",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "056",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "E",
+     "to": "062",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "062",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "057",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "W",
+     "to": "061",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "E",
+     "to": "063",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "067",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "063",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "062",
+     "faction": "Labyrinthians",
+     "river": true
+    },
+    {
+     "dir": "S",
+     "to": "068",
+     "faction": "Labyrinthians"
+    }
+   ],
+   "uncertain": "corner: river + Labyrinthians"
+  },
+  {
+   "id": "064",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "059",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "065",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "069",
+     "faction": "Labyrinthians"
+    }
+   ]
+  },
+  {
+   "id": "065",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "060",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "064",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "070",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "066",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "030",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "071",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "faint print \"0223\" in upper right of map (art?)"
+  },
+  {
+   "id": "067",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": true,
+    "other": [
+     "hammer"
+    ]
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "062",
+     "faction": "Labyrinthians",
+     "river": true
+    }
+   ],
+   "uncertain": "bubble with hammer icon (not in legend); corner: river + Labyrinthians"
+  },
+  {
+   "id": "068",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "063",
+     "faction": "Labyrinthians",
+     "river": true,
+     "restricted": true
+    },
+    {
+     "dir": "E",
+     "to": "069",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "073",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "label \"*9*0\" on map"
+  },
+  {
+   "id": "069",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Labyrinthians"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "064",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "068",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "070",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "074",
+     "faction": "Minoans"
+    }
+   ]
+  },
+  {
+   "id": "070",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "065",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "069",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "S",
+     "to": "075",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "071",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "066",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "035",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "E",
+     "to": "072",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "076",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "072",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false,
+    "adversary": 1
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "071",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "073",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "077",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "073",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 1,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "068",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "072",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "074",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "078",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "074",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": true,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "069",
+     "faction": "Labyrinthians"
+    },
+    {
+     "dir": "W",
+     "to": "073",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "075",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "S",
+     "to": "079",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "075",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "070",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "074",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "080",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "076",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "071",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "E",
+     "to": "077",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "077",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "072",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "076",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "078",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "078",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "073",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "077",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "079",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "079",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "074",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "W",
+     "to": "078",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "E",
+     "to": "080",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "080",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Hornsworn"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "075",
+     "faction": "Hornsworn"
+    },
+    {
+     "dir": "W",
+     "to": "079",
+     "faction": "Hornsworn"
+    }
+   ]
+  },
+  {
+   "id": "T00",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [],
+   "arrows": [
+    {
+     "dir": "E",
+     "to": "T01"
+    }
+   ],
+   "uncertain": "tutorial; no faction icon"
+  },
+  {
+   "id": "T01",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "T00"
+    },
+    {
+     "dir": "E",
+     "to": "T02"
+    }
+   ],
+   "uncertain": "tutorial; no faction icon"
+  },
+  {
+   "id": "T02",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "T01"
+    },
+    {
+     "dir": "E",
+     "to": "T03"
+    }
+   ],
+   "uncertain": "tutorial; no faction icon"
+  },
+  {
+   "id": "T03",
+   "symbols": {
+    "progress": 0,
+    "titan": 1,
+    "doom": 0,
+    "adventure": false,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "T02"
+    },
+    {
+     "dir": "E",
+     "to": "T04"
+    }
+   ],
+   "uncertain": "tutorial; no faction icon"
+  },
+  {
+   "id": "T04",
+   "symbols": {
+    "progress": 1,
+    "titan": 0,
+    "doom": 1,
+    "adventure": false,
+    "rr": false,
+    "city": true,
+    "maze": false,
+    "river": false
+   },
+   "factions": [],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "T03"
+    },
+    {
+     "dir": "E",
+     "to": "T05",
+     "faction": "Minoans"
+    },
+    {
+     "dir": "S",
+     "to": "T06",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "tutorial; no faction icon"
+  },
+  {
+   "id": "T05",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "W",
+     "to": "T04"
+    },
+    {
+     "dir": "S",
+     "to": "027",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "tutorial"
+  },
+  {
+   "id": "T06",
+   "symbols": {
+    "progress": 0,
+    "titan": 0,
+    "doom": 0,
+    "adventure": true,
+    "rr": false,
+    "city": false,
+    "maze": false,
+    "river": false
+   },
+   "factions": [
+    "Minoans"
+   ],
+   "arrows": [
+    {
+     "dir": "N",
+     "to": "T04"
+    },
+    {
+     "dir": "E",
+     "to": "027",
+     "faction": "Minoans"
+    }
+   ],
+   "uncertain": "tutorial"
+  }
+ ]
+}

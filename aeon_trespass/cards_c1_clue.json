@@ -1,0 +1,567 @@
+{
+ "_about": {
+  "en": "Cycle I Clue/Pursuit/Temple/Ally cards AC0053-AC0074 transcribed from scans. Format as cards_c1_exploration.json. deck = text on card back (Story 2A = 'Clue 2A', Story 2B = 'Pursuit 2B', Story 3A = 'Temple 3A'). code = coordinate fragment printed on Estuary clues (matches '*N*N' labels on map tiles 019/030/053/068). flavor = italic text.",
+  "pl": "Karty AC0053–AC0074 spisane ze skanów. Klucze jak w en."
+ },
+ "cards": [
+  {
+   "id": "AC0053",
+   "name": {
+    "en": "Estuary Clue A",
+    "pl": "Wskazówka: Ujście A"
+   },
+   "text": {
+    "en": "6*3*\nRandom Argonaut gains 1 Despair token.",
+    "pl": "6*3*\nLosowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Clue 2A",
+   "flavor": {
+    "en": "The directions were vague at best. This is the north coast, somewhere near Knossos.",
+    "pl": "Wskazówki były co najwyżej mgliste. To północne wybrzeże, gdzieś w pobliżu Knossos."
+   },
+   "code": "6*3*"
+  },
+  {
+   "id": "AC0054",
+   "name": {
+    "en": "Estuary Clue B",
+    "pl": "Wskazówka: Ujście B"
+   },
+   "text": {
+    "en": "4*3*\nRandom Argonaut gains 1 Despair token.",
+    "pl": "4*3*\nLosowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Clue 2A",
+   "flavor": {
+    "en": "The directions were vague at best. They said it was close to Knossos, on the south coast.",
+    "pl": "Wskazówki były co najwyżej mgliste. Mówili, że to blisko Knossos, na południowym wybrzeżu."
+   },
+   "code": "4*3*"
+  },
+  {
+   "id": "AC0055",
+   "name": {
+    "en": "Estuary Clue C",
+    "pl": "Wskazówka: Ujście C"
+   },
+   "text": {
+    "en": "1*8*\nRandom Argonaut gains 1 Despair token.",
+    "pl": "1*8*\nLosowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Clue 2A",
+   "flavor": {
+    "en": "The directions were vague at best, but they mentioned it was quite far away, north-east of Knossos.",
+    "pl": "Wskazówki były co najwyżej mgliste, ale wspomnieli, że to dość daleko, na północny wschód od Knossos."
+   },
+   "code": "1*8*"
+  },
+  {
+   "id": "AC0056",
+   "name": {
+    "en": "Estuary Clue D",
+    "pl": "Wskazówka: Ujście D"
+   },
+   "text": {
+    "en": "2*2*\nRandom Argonaut gains 1 Despair token.",
+    "pl": "2*2*\nLosowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Clue 2A",
+   "flavor": {
+    "en": "The directions were vague at best. It's in the south-east of the island.",
+    "pl": "Wskazówki były co najwyżej mgliste. To na południowym wschodzie wyspy."
+   },
+   "code": "2*2*"
+  },
+  {
+   "id": "AC0057",
+   "name": {
+    "en": "River Course",
+    "pl": "Bieg Rzeki"
+   },
+   "text": {
+    "en": "Nothing happens.",
+    "pl": "Nic się nie dzieje."
+   },
+   "fx": [],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river is eerily quiet. Something isn't right.",
+    "pl": "Rzeka jest złowieszczo cicha. Coś tu nie gra."
+   }
+  },
+  {
+   "id": "AC0058",
+   "name": {
+    "en": "River Course",
+    "pl": "Bieg Rzeki"
+   },
+   "text": {
+    "en": "Nothing happens.",
+    "pl": "Nic się nie dzieje."
+   },
+   "fx": [],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river is eerily quiet. Something isn't right.",
+    "pl": "Rzeka jest złowieszczo cicha. Coś tu nie gra."
+   }
+  },
+  {
+   "id": "AC0059",
+   "name": {
+    "en": "River Course",
+    "pl": "Bieg Rzeki"
+   },
+   "text": {
+    "en": "Random Argonaut gains 1 Despair token.",
+    "pl": "Losowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river is eerily quiet. Something isn't right.",
+    "pl": "Rzeka jest złowieszczo cicha. Coś tu nie gra."
+   }
+  },
+  {
+   "id": "AC0060",
+   "name": {
+    "en": "Deadly Shallows",
+    "pl": "Zabójcze Mielizny"
+   },
+   "text": {
+    "en": "Lose -1 Hull.",
+    "pl": "Strać -1 ⛵."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "hull",
+       "n": -1
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "Even with the upgraded tech Argo has trouble navigating this part of the river.",
+    "pl": "Nawet z ulepszoną techniką Argo ma kłopot z żeglugą po tym odcinku rzeki."
+   }
+  },
+  {
+   "id": "AC0061",
+   "name": {
+    "en": "Maze Canal",
+    "pl": "Kanał Labiryntu"
+   },
+   "text": {
+    "en": "[Argo Fate 7+] Random Argonaut who is not Mazetouched gains the Mazetouched Affliction.",
+    "pl": "[▼ 7+] Losowy Argonauta, który nie jest Naznaczony Labiryntem, zyskuje Dolegliwość Naznaczony Labiryntem."
+   },
+   "fx": [
+    {
+     "if": {
+      "fate": 7
+     },
+     "manual": {
+      "en": "Random Argonaut who is not Mazetouched gains the Mazetouched Affliction",
+      "pl": "Losowy Argonauta bez Naznaczenia Labiryntem zyskuje Dolegliwość Naznaczony Labiryntem"
+     }
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river becomes a twisting, symmetrical canal.",
+    "pl": "Rzeka zmienia się w kręty, symetryczny kanał."
+   }
+  },
+  {
+   "id": "AC0062",
+   "name": {
+    "en": "Old Maze Canal",
+    "pl": "Stary Kanał Labiryntu"
+   },
+   "text": {
+    "en": "[Argo Fate 6+] Random Argonaut gains 1 Despair token.",
+    "pl": "[▼ 6+] Losowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "if": {
+      "fate": 6
+     },
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river becomes a twisting, symmetrical canal.",
+    "pl": "Rzeka zmienia się w kręty, symetryczny kanał."
+   }
+  },
+  {
+   "id": "AC0063",
+   "name": {
+    "en": "Populated Maze Canal",
+    "pl": "Zaludniony Kanał Labiryntu"
+   },
+   "text": {
+    "en": "Gain +1 Strangers.",
+    "pl": "Zyskaj +1 👤."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "strangers",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river becomes a twisting, symmetrical canal. Maze-marked people subsist on both banks.",
+    "pl": "Rzeka zmienia się w kręty, symetryczny kanał. Na obu brzegach wegetują ludzie naznaczeni Labiryntem."
+   }
+  },
+  {
+   "id": "AC0064",
+   "name": {
+    "en": "Reshaped Canal",
+    "pl": "Przekształcony Kanał"
+   },
+   "text": {
+    "en": "Gain +1 Doom.",
+    "pl": "Zyskaj +1 🔺."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "doom",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The river becomes a twisting, symmetrical canal.",
+    "pl": "Rzeka zmienia się w kręty, symetryczny kanał."
+   }
+  },
+  {
+   "id": "AC0065",
+   "name": {
+    "en": "Reshaped Lake",
+    "pl": "Przekształcone Jezioro"
+   },
+   "text": {
+    "en": "Gain +1 Strangers.",
+    "pl": "Zyskaj +1 👤."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "strangers",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "A lake was made part of the maze canal system. Even the water starts to look... angular.",
+    "pl": "Jezioro włączono do labiryntu kanałów. Nawet woda zaczyna wyglądać… kanciasto."
+   }
+  },
+  {
+   "id": "AC0066",
+   "name": {
+    "en": "Symmachy Flagship",
+    "pl": "Okręt Flagowy Symmachii"
+   },
+   "text": {
+    "en": "You found the Flagship! See 0058.",
+    "pl": "Znaleźliście okręt flagowy! Zobacz 0058."
+   },
+   "fx": [
+    {
+     "manual": {
+      "en": "See 0058",
+      "pl": "Zobacz 0058"
+     }
+    }
+   ],
+   "deck": "Pursuit 2B",
+   "flavor": {
+    "en": "The Symmachy Flagship glistens with light of a hundred torches.",
+    "pl": "Okręt flagowy Symmachii lśni blaskiem stu pochodni."
+   }
+  },
+  {
+   "id": "AC0067",
+   "name": {
+    "en": "Pristine Minotaur Statue",
+    "pl": "Nienaruszony Posąg Minotaura"
+   },
+   "text": {
+    "en": "No coordinates here! Random Argonaut gains 1 Despair token.",
+    "pl": "Tu nie ma współrzędnych! Losowy Argonauta zyskuje 1 żeton Rozpaczy."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "arg.despair",
+       "n": 1,
+       "who": "random"
+      }
+     ]
+    }
+   ],
+   "deck": "Temple 3A",
+   "flavor": {
+    "en": "There must be a royalist village nearby.",
+    "pl": "W pobliżu musi być wioska rojalistów."
+   }
+  },
+  {
+   "id": "AC0068",
+   "name": {
+    "en": "Transformed Temple",
+    "pl": "Przemieniona Świątynia"
+   },
+   "text": {
+    "en": "The Map Tile you are currently on designates the latitude coordinate of the Acropolis Sepulcher. Note this Tile's number in the Map section of the Argo Sheet.\n\nDiscarding: If you are told to discard this card by the Story 3A effect, discard another card from the Temple deck. Then return this card to the deck.",
+    "pl": "Płytka mapy, na której teraz jesteś, wyznacza szerokość geograficzną Akropolu-Grobowca. Zapisz numer tej płytki w sekcji Mapa na Karcie Argo.\n\nOdrzucanie: jeśli efekt Story 3A każe ci odrzucić tę kartę, odrzuć zamiast niej inną kartę z talii Temple. Potem wtasuj tę kartę z powrotem do talii."
+   },
+   "fx": [
+    {
+     "manual": {
+      "en": "Latitude of the Acropolis Sepulcher = current Map Tile. Note this Tile's number in the Map section of the Argo Sheet",
+      "pl": "Szerokość Akropolu-Grobowca = obecna płytka mapy. Zapisz numer tej płytki w sekcji Mapa na Karcie Argo"
+     }
+    }
+   ],
+   "deck": "Temple 3A",
+   "flavor": {
+    "en": "Someone reshaped the old statue into something otherworldly and sinister. There's a secret chamber here and in it, a partial map to the Sepulcher Acropolis.",
+    "pl": "Ktoś przerobił stary posąg w coś nieziemskiego i złowrogiego. Jest tu ukryta komnata, a w niej fragment mapy do Akropolu-Grobowca."
+   }
+  },
+  {
+   "id": "AC0069",
+   "name": {
+    "en": "Daedalus Safehouse",
+    "pl": "Kryjówka Dedala"
+   },
+   "text": {
+    "en": "The Map Tile you are currently on designates the longitude coordinate of the Acropolis Sepulcher. Note this Tile's number in the Map section of the Argo Sheet.\n\nDiscarding: If you are told to discard this card by the Story 3A effect, discard another card from the Temple deck. Then return this card to the deck.",
+    "pl": "Płytka mapy, na której teraz jesteś, wyznacza długość geograficzną Akropolu-Grobowca. Zapisz numer tej płytki w sekcji Mapa na Karcie Argo.\n\nOdrzucanie: jeśli efekt Story 3A każe ci odrzucić tę kartę, odrzuć zamiast niej inną kartę z talii Temple. Potem wtasuj tę kartę z powrotem do talii."
+   },
+   "fx": [
+    {
+     "manual": {
+      "en": "Longitude of the Acropolis Sepulcher = current Map Tile. Note this Tile's number in the Map section of the Argo Sheet",
+      "pl": "Długość Akropolu-Grobowca = obecna płytka mapy. Zapisz numer tej płytki w sekcji Mapa na Karcie Argo"
+     }
+    }
+   ],
+   "deck": "Temple 3A",
+   "flavor": {
+    "en": "There's a secret chamber here and in it, a partial map to your destination. What business did Daedalus have with the Sepulcher Acropolis?",
+    "pl": "Jest tu ukryta komnata, a w niej fragment mapy do celu waszej podróży. Co Dedal miał wspólnego z Akropolem-Grobowcem?"
+   }
+  },
+  {
+   "id": "AC0070",
+   "name": {
+    "en": "Ruined Minotaur Statue",
+    "pl": "Zrujnowany Posąg Minotaura"
+   },
+   "text": {
+    "en": "No coordinates here! Gain +1 Strangers.",
+    "pl": "Tu nie ma współrzędnych! Zyskaj +1 👤."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "strangers",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "deck": "Temple 3A",
+   "flavor": {
+    "en": "The Hornsworn made short work of this statue.",
+    "pl": "Hornsworn szybko rozprawili się z tym posągiem."
+   }
+  },
+  {
+   "id": "AC0071",
+   "name": {
+    "en": "Forgotten Minotaur Statue",
+    "pl": "Zapomniany Posąg Minotaura"
+   },
+   "text": {
+    "en": "No coordinates here! Gain +1 Argo Knowledge.",
+    "pl": "Tu nie ma współrzędnych! Zyskaj +1 📖."
+   },
+   "fx": [
+    {
+     "do": [
+      {
+       "k": "knowledge",
+       "n": 1
+      }
+     ]
+    }
+   ],
+   "deck": "Temple 3A",
+   "flavor": {
+    "en": "This old statue shows a young Minotaur. The artist rendered him as a beautiful, somewhat effeminate creature.",
+    "pl": "Ten stary posąg przedstawia młodego Minotaura. Artysta ukazał go jako piękną, nieco zniewieściałą istotę."
+   }
+  },
+  {
+   "id": "AC0072",
+   "name": {
+    "en": "Minoan Guide",
+    "pl": "Minojska Przewodniczka"
+   },
+   "text": {
+    "en": "Write 'Acacallis' in the Boons, Afflictions and Notes section of the Argo Sheet. Various effects may instruct you to make tally marks next to her name. If there are 10 or more tally marks besides Acacallis, see 0043. You may dismiss the Princess at the end of any Voyage Phase. If you do, see 0011.",
+    "pl": "Wpisz 'Acacallis' w sekcji Dary, Dolegliwości i Notatki na Karcie Argo. Różne efekty mogą kazać ci stawiać kreski przy jej imieniu. Jeśli przy Acacallis jest 10 lub więcej kresek, zobacz 0043. Na koniec dowolnej Fazy Rejsu możesz odprawić Księżniczkę. Jeśli to zrobisz, zobacz 0011."
+   },
+   "fx": [
+    {
+     "manual": {
+      "en": "Write 'Acacallis' on Argo Sheet; at 10+ tally marks see 0043",
+      "pl": "Wpisz 'Acacallis' na Karcie Argo; przy 10+ kreskach zobacz 0043"
+     }
+    },
+    {
+     "optional": true,
+     "manual": {
+      "en": "End of any Voyage Phase: dismiss the Princess, then see 0011",
+      "pl": "Na koniec dowolnej Fazy Rejsu: odpraw Księżniczkę, potem zobacz 0011"
+     }
+    }
+   ],
+   "deck": "Ally",
+   "flavor": {
+    "en": "Aloof and demanding, the Princess mostly keeps to her quarters.",
+    "pl": "Wyniosła i wymagająca Księżniczka przeważnie nie opuszcza swojej kajuty."
+   }
+  },
+  {
+   "id": "AC0073",
+   "name": {
+    "en": "Old Spinner",
+    "pl": "Stara Prządka"
+   },
+   "text": {
+    "en": "You may dismiss the Old Spinner during the Story Step. If you do, discard this card.",
+    "pl": "Podczas Kroku Fabuły możesz odprawić Starą Prządkę. Jeśli to zrobisz, odrzuć tę kartę."
+   },
+   "fx": [
+    {
+     "optional": true,
+     "manual": {
+      "en": "Story Step: dismiss the Old Spinner and discard this card",
+      "pl": "Krok Fabuły: odpraw Starą Prządkę i odrzuć tę kartę"
+     }
+    }
+   ],
+   "deck": "Ally",
+   "flavor": {
+    "en": "The wizened woman keeps to herself. When she thinks nobody is looking, she fiddles with her fingers, as if she was rolling a ball of yarn.",
+    "pl": "Pomarszczona staruszka trzyma się na uboczu. Gdy myśli, że nikt nie patrzy, porusza palcami, jakby zwijała kłębek przędzy."
+   }
+  },
+  {
+   "id": "AC0074",
+   "name": {
+    "en": "Xenodice Map",
+    "pl": "Mapa Ksenodike"
+   },
+   "text": {
+    "en": "",
+    "pl": ""
+   },
+   "fx": [],
+   "deck": "Xenodice Map",
+   "flavor": {
+    "en": "Was it Daedalus's madness, or Xenodice's?",
+    "pl": "Czy to było szaleństwo Dedala, czy Ksenodike?"
+   },
+   "uncertain": "Deck: back reads \"Xenodice Map\", not one of Clue 2A/Pursuit 2B/Temple 3A/Ally. Card face is a map illustration only (5 Minoan bull-heads marked on it), no rules text."
+  }
+ ]
+}
