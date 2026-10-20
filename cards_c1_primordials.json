@@ -1,0 +1,3095 @@
+{
+ "_about": {
+  "en": "Cycle I battle cards for Labyrinthauros and Alpha Temenos, transcribed from scans in the 'hekaton' format of wzor_format.json. Battle keywords stay in English in 'pl'. [!] = sequence marker, Λ Danger, Ψ Fate, Ω Rage; icons without a legend kept as [name] and listed in 'uncertain'.",
+  "pl": "Karty bitewne Cyklu I: Labyrinthauros i Alpha Temenos, przepisane ze skanów w formacie sekcji 'hekaton' z wzor_format.json. Słowa kluczowe bitwy po angielsku. Ikony bez legendy jako [nazwa] + wpis w 'uncertain'."
+ },
+ "labyrinthauros": {
+  "_uwagi": "Transkrypcja ze skanów Labyrinthaurosa (AI x18 + Signature + Routine + Mnestis Routine, BP x18 + Trap AS0503). Ψ=FATE, Ω=RAGE, Λ=DANGER. Poziomy sprawdzone z rewersami.",
+  "ai_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6
+  },
+  "targety": {
+   "F": "najbliższy Tytan z przodu, w zasięgu",
+   "S": "najbliższy Tytan w polu widzenia",
+   "P": "[Priority Target] Priority Target w zasięgu",
+   "P_any": "[Priority Target] Priority Target",
+   "P_RS": "[Priority Target] Priority Target w zasięgu, w polu widzenia",
+   "C_RS": "najbliższy Tytan w zasięgu, w polu widzenia",
+   "C": "najbliższy Tytan",
+   "FF": "najdalszy Tytan z przodu, w zasięgu",
+   "FFn": "najdalszy Tytan z przodu",
+   "FS": "najdalszy Tytan w polu widzenia, w zasięgu",
+   "FSn": "najdalszy Tytan w polu widzenia",
+   "KD": "najbliższy powalony Tytan w zasięgu",
+   "KDF": "najbliższy powalony Tytan z przodu, w zasięgu",
+   "all adjacent": "wszyscy sąsiadujący Tytani"
+  },
+  "ai": [
+   {
+    "id": "AR0464",
+    "n": "Ram",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "fate_die": 3,
+    "danger": 1,
+    "after": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Ram",
+     "pl": "Taran"
+    },
+    "flavor": {
+     "en": "The mechanical bull charges at you.",
+     "pl": "Mechaniczny byk szarżuje na ciebie."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nTrample. Labyrinth 1."
+    }
+   },
+   {
+    "id": "AR0465",
+    "n": "Ram & Drag",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "danger": 1,
+    "fate_danger": [
+     3,
+     2
+    ],
+    "knockback": 6,
+    "after": "trample",
+    "trample": true,
+    "name": {
+     "en": "Ram & Drag",
+     "pl": "Taran i Wleczenie"
+    },
+    "flavor": {
+     "en": "The Primordial tries to skewer you on one of its bronze horns.",
+     "pl": "Prymordial próbuje nadziać cię na jeden ze swoich brązowych rogów."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 1Λ. [Ψ3+: 2Λ instead]\n[!] Knockback 6.\n[!] After Attack\nTrample.",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 1Λ. [Ψ3+: zamiast tego 2Λ]\n[!] Knockback 6.\n[!] Po Ataku\nTrample."
+    }
+   },
+   {
+    "id": "AR0466",
+    "n": "Stomp",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "KD",
+     "F",
+     "S"
+    ],
+    "danger": 1,
+    "fate_danger": [
+     4,
+     2
+    ],
+    "knockdown": true,
+    "name": {
+     "en": "Stomp",
+     "pl": "Tratowanie"
+    },
+    "flavor": {
+     "en": "The Labyrinthauros rears its bronze hooves.",
+     "pl": "Labyrinthauros wznosi swoje brązowe kopyta."
+    },
+    "text": {
+     "en": "Target: Closest knocked down Titan in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 1Λ. [Ψ4+: 2Λ instead]\n[!] Knockdown.",
+     "pl": "Cel: najbliższy powalony Tytan w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 1Λ. [Ψ4+: zamiast tego 2Λ]\n[!] Knockdown."
+    }
+   },
+   {
+    "id": "AR0467",
+    "n": "Headbutt",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "fate_die": 4,
+    "danger": 2,
+    "after": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Headbutt",
+     "pl": "Byczy Łeb"
+    },
+    "flavor": {
+     "en": "Head to head!",
+     "pl": "Łeb w łeb!"
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ4+: +1 die]\nEach hit deals 2Λ.\n[!] After Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ4+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Po Ataku\nLabyrinth 1."
+    }
+   },
+   {
+    "id": "AR0468",
+    "n": "Tunnel Vision",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "FS",
+     "S"
+    ],
+    "danger": 1,
+    "fate_danger": [
+     3,
+     2
+    ],
+    "after": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Tunnel Vision",
+     "pl": "Widzenie Tunelowe"
+    },
+    "flavor": {
+     "en": "Its lifeless glass eyes are fixed on you.",
+     "pl": "Jego martwe szklane oczy wpatrują się w ciebie."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 1Λ. [Ψ3+: 2Λ instead]\n[!] After Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 1Λ. [Ψ3+: zamiast tego 2Λ]\n[!] Po Ataku\nTrample. Labyrinth 1."
+    }
+   },
+   {
+    "id": "AR0469",
+    "n": "Rampage",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "type": "sequential",
+    "fate_die": 3,
+    "danger": 1,
+    "all_titans_in_path": true,
+    "after_final": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Rampage",
+     "pl": "Szał"
+    },
+    "flavor": {
+     "en": "The mechanical bull gallops forward, striking all in its path.",
+     "pl": "Mechaniczny byk galopuje naprzód, tratując wszystko na swojej drodze."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack All Titans in Path [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Final Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak wszystkich Tytanów na Ścieżce [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ostatnim Ataku\nTrample. Labyrinth 1."
+    },
+    "card_type": "Sequential Attack"
+   },
+   {
+    "id": "AR0470",
+    "n": "Supercharger",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "type": "sequential",
+    "fate_die": 5,
+    "danger": 2,
+    "special": "3Λ zamiast 2Λ, jeśli przeszedł przez ≥1 kafelek Labyrinth",
+    "all_titans_in_path": true,
+    "after_final": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Supercharger",
+     "pl": "Doładowanie"
+    },
+    "flavor": {
+     "en": "The mechanical bull charges at you with unnatural speed.",
+     "pl": "Mechaniczny byk szarżuje na ciebie z nienaturalną prędkością."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack All Titans in Path [Ψ5+: +1 die]\nEach hit deals 2Λ. If the Labyrinthauros moved through at least 1 Labyrinth tile, 3Λ instead.\n[!] After Final Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak wszystkich Tytanów na Ścieżce [Ψ5+: +1 kość]\nKażde trafienie zadaje 2Λ. Jeśli Labyrinthauros przeszedł przez co najmniej 1 kafelek Labyrinth, zamiast tego 3Λ.\n[!] Po Ostatnim Ataku\nTrample. Labyrinth 1."
+    },
+    "card_type": "Sequential Attack"
+   },
+   {
+    "id": "AR0471",
+    "n": "Encasen",
+    "lvl": 2,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "P_RS",
+     "C_RS"
+    ],
+    "no_target": "perform signature",
+    "danger": 1,
+    "fate_danger": [
+     5,
+     2
+    ],
+    "labyrinth": "1 per hit",
+    "fate_bonus": [
+     {
+      "fate": 6,
+      "efekt": "perform signature (po ataku)"
+     }
+    ],
+    "name": {
+     "en": "Encasen",
+     "pl": "Zamknięcie"
+    },
+    "flavor": {
+     "en": "The Maze rises from beneath its hooves, as if on command.",
+     "pl": "Labirynt wyrasta spod jego kopyt, jakby na rozkaz."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range, in sight\nTarget: Closest Titan in range, in sight\nNo Target: Perform Signature\n[!] Move & Attack\nEach hit deals 1Λ. [Ψ5+: 2Λ instead] For each hit, Labyrinth 1 (if possible).\n[!] After Attack [Ψ6+: Perform Signature]",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu, w polu widzenia\nCel: najbliższy Tytan w zasięgu, w polu widzenia\nBrak celu: Perform Signature\n[!] Ruch i Atak\nKażde trafienie zadaje 1Λ. [Ψ5+: zamiast tego 2Λ] Za każde trafienie Labyrinth 1 (jeśli to możliwe).\n[!] Po Ataku [Ψ6+: Perform Signature]"
+    },
+    "uncertain": "Tytuł wydrukowany 'ENCASEN' (możliwa literówka od 'Encase'); przepisano dosłownie."
+   },
+   {
+    "id": "AR0472",
+    "n": "Roundhouse Kick",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "all adjacent"
+    ],
+    "no_target": "perform signature",
+    "type": "simultaneous",
+    "danger": 2,
+    "fate_bonus": [
+     {
+      "fate": 5,
+      "efekt": "knockdown"
+     }
+    ],
+    "after_final": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Roundhouse Kick",
+     "pl": "Kopnięcie z Półobrotu"
+    },
+    "flavor": {
+     "en": "The bull rages, attacking all that got too close.",
+     "pl": "Byk szaleje, atakując wszystko, co podeszło zbyt blisko."
+    },
+    "text": {
+     "en": "Target: All adjacent Titans\nNo Target: Perform Signature\nAttack\nEach hit deals 2Λ.\n[!] [Ψ5+: Knockdown]\n[!] After Final Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: wszyscy sąsiadujący Tytani\nBrak celu: Perform Signature\nAtak\nKażde trafienie zadaje 2Λ.\n[!] [Ψ5+: Knockdown]\n[!] Po Ostatnim Ataku\nTrample. Labyrinth 1."
+    },
+    "card_type": "Simultaneous Attack",
+    "uncertain": "Brak znacznika [!] przed ATTACK na skanie (jak wydrukowano)."
+   },
+   {
+    "id": "AR0473",
+    "n": "Gnaw",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "KDF",
+     "S"
+    ],
+    "danger": 3,
+    "fate_bonus": [
+     {
+      "fate": 6,
+      "efekt": "Grave Trauma zamiast zwykłej Traumy (jeśli nie przekracza progu Obola)"
+     }
+    ],
+    "after": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Gnaw",
+     "pl": "Gryzienie"
+    },
+    "flavor": {
+     "en": "The mechanical jaw snaps shut with an audible smack.",
+     "pl": "Mechaniczna szczęka zatrzaskuje się z głośnym kłapnięciem."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest knocked down Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 3Λ. [Ψ6+: Unless this Attack causes you to go over the Obol threshold, draw a Grave Trauma instead of a regular Trauma Draw.]\n[!] After Attack\nLabyrinth 1.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy powalony Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 3Λ. [Ψ6+: o ile ten Atak nie sprawi, że przekroczysz próg Obola, dobierz Grave Trauma zamiast zwykłego dobrania Traumy.]\n[!] Po Ataku\nLabyrinth 1."
+    }
+   },
+   {
+    "id": "AR0474",
+    "n": "Frequency Charge",
+    "lvl": 2,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "type": "sequential",
+    "danger": 1,
+    "fate_danger": [
+     6,
+     2
+    ],
+    "all_titans_in_path": true,
+    "after_final": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "fate_bonus": [
+     {
+      "fate": 5,
+      "efekt": "labyrinth 2 zamiast 1"
+     }
+    ],
+    "name": {
+     "en": "Frequency Charge",
+     "pl": "Szarża Częstotliwości"
+    },
+    "flavor": {
+     "en": "For a second the bull becomes transparent, then it's upon you.",
+     "pl": "Przez sekundę byk staje się przezroczysty, a potem już jest przy tobie."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\nMove & Attack All Titans in Path\nEach hit deals 1Λ. [Ψ6+: 2Λ instead]\n[!] After Final Attack\nTrample. Labyrinth 1. [Ψ5+: Labyrinth 2 instead]",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\nRuch i Atak wszystkich Tytanów na Ścieżce\nKażde trafienie zadaje 1Λ. [Ψ6+: zamiast tego 2Λ]\n[!] Po Ostatnim Ataku\nTrample. Labyrinth 1. [Ψ5+: zamiast tego Labyrinth 2]"
+    },
+    "card_type": "Sequential Attack",
+    "uncertain": "Brak znacznika [!] przed MOVE & ATTACK na skanie (może być celowe – por. cecha Lightspeeder)."
+   },
+   {
+    "id": "AR0475",
+    "n": "Otherworldly Ram",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "P_any",
+     "FSn"
+    ],
+    "fate_die": 6,
+    "danger": 2,
+    "move_unlimited": true,
+    "after": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "fate_bonus": [
+     {
+      "fate": 6,
+      "efekt": "labyrinth 2 zamiast 1"
+     }
+    ],
+    "name": {
+     "en": "Otherworldly Ram",
+     "pl": "Zaświatowy Taran"
+    },
+    "flavor": {
+     "en": "Labyrinthauros disappears in a tear in spacetime and reappears right beside you.",
+     "pl": "Labyrinthauros znika w rozdarciu czasoprzestrzeni i pojawia się tuż obok ciebie."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target\nTarget: Furthest Titan in sight\n[!] Move Unlimited & Attack [Ψ6+: +1 die]\nEach hit deals 2Λ.\n[!] After Attack\nTrample. Labyrinth 1. [Ψ6+: Labyrinth 2 instead]",
+     "pl": "Cel: [Priority Target] Priority Target\nCel: najdalszy Tytan w polu widzenia\n[!] Ruch bez Limitu i Atak [Ψ6+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Po Ataku\nTrample. Labyrinth 1. [Ψ6+: zamiast tego Labyrinth 2]"
+    }
+   },
+   {
+    "id": "AR0476",
+    "n": "Lightspeed Ram",
+    "lvl": 3,
+    "dice": 4,
+    "diff": 9,
+    "tgt": [
+     "FF",
+     "FS",
+     "S"
+    ],
+    "type": "sequential",
+    "danger": 2,
+    "special": "3Λ zamiast 2Λ, jeśli przeszedł przez ≥1 kafelek Labyrinth",
+    "all_titans_in_path": true,
+    "after_final": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Lightspeed Ram",
+     "pl": "Taran Świetlnej Prędkości"
+    },
+    "flavor": {
+     "en": "Labyrinthauros becomes a blur.",
+     "pl": "Labyrinthauros zmienia się w rozmytą smugę."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\nMove & Attack All Titans in Path\nEach hit deals 2Λ. If the Labyrinthauros moved through at least 1 Labyrinth tile, 3Λ instead.\n[!] After Final Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\nRuch i Atak wszystkich Tytanów na Ścieżce\nKażde trafienie zadaje 2Λ. Jeśli Labyrinthauros przeszedł przez co najmniej 1 kafelek Labyrinth, zamiast tego 3Λ.\n[!] Po Ostatnim Ataku\nTrample. Labyrinth 1."
+    },
+    "card_type": "Sequential Attack"
+   },
+   {
+    "id": "AR0477",
+    "n": "Minotaur Logic",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "danger": 2,
+    "condition": "Fear",
+    "fate_bonus": [
+     {
+      "fate": 7,
+      "efekt": "zyskaj kartę Fated Mnemos"
+     },
+     {
+      "fate": 5,
+      "efekt": "labyrinth 2 zamiast 1"
+     }
+    ],
+    "after": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Minotaur Logic",
+     "pl": "Logika Minotaura"
+    },
+    "flavor": {
+     "en": "There is no escape from the Maze.",
+     "pl": "Z Labiryntu nie ma ucieczki."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ7+: Gain a Fated Mnemos card]\nEach hit deals 2Λ.\n[!] Gain the Fear Condition card.\n[!] After Attack\nTrample. Labyrinth 1. [Ψ5+: Labyrinth 2 instead]",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ7+: zyskaj kartę Fated Mnemos]\nKażde trafienie zadaje 2Λ.\n[!] Zyskaj kartę Stanu Fear.\n[!] Po Ataku\nTrample. Labyrinth 1. [Ψ5+: zamiast tego Labyrinth 2]"
+    }
+   },
+   {
+    "id": "AR0478",
+    "n": "Bow to the Labyrinth",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "judgement",
+    "judge": [
+     "Courage",
+     "Will"
+    ],
+    "danger": 3,
+    "fate_bonus": [
+     {
+      "fate": 7,
+      "efekt": "Argo traci -1 [ikona przekreślona – nieznana]"
+     },
+     {
+      "fate": 5,
+      "efekt": "labyrinth 2 zamiast 1"
+     }
+    ],
+    "after": "knockback 10, labyrinth 1",
+    "knockback": 10,
+    "labyrinth": 1,
+    "name": {
+     "en": "Bow to the Labyrinth",
+     "pl": "Pokłoń się Labiryntowi"
+    },
+    "flavor": {
+     "en": "You feel an existential dread, uncomparable to any other.",
+     "pl": "Czujesz egzystencjalną grozę, nieporównywalną z żadną inną."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\nJudge [Courage] Courage / [Will] Will\nEach hit deals 3Λ.\n[!] [Ψ7+: Argo loses -1[crossed icon]]\n[!] After Attack\nKnockback 10. Labyrinth 1. [Ψ5+: Labyrinth 2 instead]",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\nJudge [Courage] Courage / [Will] Will\nKażde trafienie zadaje 3Λ.\n[!] [Ψ7+: Argo traci -1[przekreślona ikona]]\n[!] Po Ataku\nKnockback 10. Labyrinth 1. [Ψ5+: zamiast tego Labyrinth 2]"
+    },
+    "card_type": "Judgement",
+    "uncertain": "Ikona po 'Argo loses -1' (przekreślony symbol w kształcie X) bez legendy – zapisano [crossed icon]. Brak [!] przed JUDGE. Ikony Courage (skrzydło/miecz) i Will (hełm) odczytane z kontekstu."
+   },
+   {
+    "id": "AR0479",
+    "n": "Home Run",
+    "lvl": 3,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "C"
+    ],
+    "type": "sequential",
+    "danger": 2,
+    "fate_danger": [
+     7,
+     3
+    ],
+    "move_unlimited": true,
+    "after": "powtórz przeciwko nieatakowanemu Tytanowi, dopóki zadawane jest Λ",
+    "name": {
+     "en": "Home Run",
+     "pl": "Home Run"
+    },
+    "flavor": {
+     "en": "Using the unseen paths of the Maze, the Labyrinthauros zigzags between you.",
+     "pl": "Korzystając z niewidzialnych ścieżek Labiryntu, Labyrinthauros kluczy zygzakiem między wami."
+    },
+    "text": {
+     "en": "Target: Closest Titan\n[!] Move Unlimited & Attack\nEach hit deals 2Λ. [Ψ7+: 3Λ instead]\n[!] After Attack\nIf Λ was dealt, repeat Home Run against a Titan that has not been attacked this Round. Repeat until all Titans have been attacked or no Λ was dealt.",
+     "pl": "Cel: najbliższy Tytan\n[!] Ruch bez Limitu i Atak\nKażde trafienie zadaje 2Λ. [Ψ7+: zamiast tego 3Λ]\n[!] Po Ataku\nJeśli zadano Λ, powtórz Home Run przeciwko Tytanowi, który nie był atakowany w tej Rundzie. Powtarzaj, aż wszyscy Tytani zostaną zaatakowani lub nie zostanie zadane Λ."
+    },
+    "card_type": "Sequential Attack"
+   },
+   {
+    "id": "AR0480",
+    "n": "Hone In",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "FFn",
+     "FSn",
+     "S"
+    ],
+    "fate_die": 7,
+    "danger": 3,
+    "move_unlimited": true,
+    "after": "trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 1,
+    "name": {
+     "en": "Hone In",
+     "pl": "Namierzenie"
+    },
+    "flavor": {
+     "en": "For a brief moment there is only you and the creature.",
+     "pl": "Przez krótką chwilę istniejesz tylko ty i ta istota."
+    },
+    "text": {
+     "en": "Target: Furthest Titan in front\nTarget: Furthest Titan in sight\nTarget: Closest Titan in sight\n[!] Move Unlimited & Attack [Ψ7+: +1 die]\nEach hit deals 3Λ.\n[!] After Attack\nTrample. Labyrinth 1.",
+     "pl": "Cel: najdalszy Tytan z przodu\nCel: najdalszy Tytan w polu widzenia\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch bez Limitu i Atak [Ψ7+: +1 kość]\nKażde trafienie zadaje 3Λ.\n[!] Po Ataku\nTrample. Labyrinth 1."
+    }
+   },
+   {
+    "id": "AR0481",
+    "n": "True Horn of the Other Side",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "KDF",
+     "S"
+    ],
+    "danger": 3,
+    "fate_bonus": [
+     {
+      "fate": 7,
+      "efekt": "Obol zamiast zwykłej Traumy"
+     }
+    ],
+    "after": "labyrinth 1; trample, labyrinth 1",
+    "trample": true,
+    "labyrinth": 2,
+    "name": {
+     "en": "True Horn of the Other Side",
+     "pl": "Prawdziwy Róg Drugiej Strony"
+    },
+    "flavor": {
+     "en": "The creature rears its true head, its gaze pierces right through you.",
+     "pl": "Istota unosi swój prawdziwy łeb, a jej spojrzenie przeszywa cię na wskroś."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest knocked down Titan in front, in range\nTarget: Closest Titan in sight\n[!] Move & Attack\nEach hit deals 3Λ. [Ψ7+: Draw an Obol instead of a regular Trauma Draw.]\n[!] After Attack\nLabyrinth 1\n[!] Trample. Labyrinth 1.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy powalony Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak\nKażde trafienie zadaje 3Λ. [Ψ7+: dobierz Obola zamiast zwykłego dobrania Traumy.]\n[!] Po Ataku\nLabyrinth 1\n[!] Trample. Labyrinth 1."
+    },
+    "uncertain": "Po Ataku wydrukowano 'Labyrinth 1' (bez kropki) i osobno '[!] Trample. Labyrinth 1.' – Labyrinth łącznie 2? Przepisano dosłownie, pole labyrinth=2 jako suma."
+   }
+  ],
+  "signature": {
+   "id": "AR0482",
+   "n": "Instinctive Ram",
+   "lvl": "X",
+   "dice": 2,
+   "diff": 10,
+   "tgt": [
+    "FF",
+    "FS",
+    "S"
+   ],
+   "fate_die": 3,
+   "danger": 1,
+   "after": "trample, labyrinth 1",
+   "trample": true,
+   "labyrinth": 1,
+   "name": {
+    "en": "Instinctive Ram",
+    "pl": "Instynktowny Taran"
+   },
+   "flavor": {
+    "en": "The mechanical bull charges at you.",
+    "pl": "Mechaniczny byk szarżuje na ciebie."
+   },
+   "text": {
+    "en": "Target: Furthest Titan in front, in range\nTarget: Furthest Titan in sight, in range\nTarget: Closest Titan in sight\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Attack\nTrample. Labyrinth 1.",
+    "pl": "Cel: najdalszy Tytan z przodu, w zasięgu\nCel: najdalszy Tytan w polu widzenia, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ataku\nTrample. Labyrinth 1."
+   },
+   "card_type": "Signature"
+  },
+  "routine": {
+   "id": "AR0483",
+   "n": "The Call",
+   "efekt": "Argo traci -1 [ikona dwóch skrzyżowanych wioseł]",
+   "name": {
+    "en": "The Call",
+    "pl": "Zew"
+   },
+   "flavor": {
+    "en": "Labyrinthauros pauses to sing the song of surrender. Many listen.",
+    "pl": "Labyrinthauros zatrzymuje się, by zaśpiewać pieśń poddania. Wielu słucha."
+   },
+   "text": {
+    "en": "Argo loses -1[Oars].",
+    "pl": "Argo traci -1[Oars]."
+   },
+   "card_type": "Routine",
+   "lvl": "X",
+   "uncertain": "Ikona po -1 to dwa skrzyżowane wiosła – bez legendy w paczce; zapisano [Oars]."
+  },
+  "mnestis_routine": {
+   "n": "Home Run",
+   "efekt": "cel: najbliższy Tytan (brak celu: losowy Tytan ginie); Ruch bez limitu i atak 3 kości 9+, 2Λ (Ψ7+: 3Λ); powtarzaj na nieatakowanych Tytanach, dopóki zadawane jest Λ. Tylko bitwa Mnestis.",
+   "id": null,
+   "lvl": "X",
+   "dice": 3,
+   "diff": 9,
+   "tgt": [
+    "C"
+   ],
+   "no_target": "random titan dies",
+   "danger": 2,
+   "fate_danger": [
+    7,
+    3
+   ],
+   "move_unlimited": true,
+   "name": {
+    "en": "Home Run",
+    "pl": "Home Run"
+   },
+   "flavor": {
+    "en": "Using the unseen paths of the Maze, the Labyrinthauros zigzags between you.",
+    "pl": "Korzystając z niewidzialnych ścieżek Labiryntu, Labyrinthauros kluczy zygzakiem między wami."
+   },
+   "text": {
+    "en": "Target: Closest Titan\nNo Target: Random Titan dies\n[!] Move Unlimited & Attack\nEach hit deals 2Λ. [Ψ7+: 3Λ instead]\n[!] After Attack\nIf Λ was dealt, repeat Routine against a Titan that has not been attacked this Round. Repeat until all Titans have been attacked or no Λ was dealt.",
+    "pl": "Cel: najbliższy Tytan\nBrak celu: losowy Tytan ginie\n[!] Ruch bez Limitu i Atak\nKażde trafienie zadaje 2Λ. [Ψ7+: zamiast tego 3Λ]\n[!] Po Ataku\nJeśli zadano Λ, powtórz Routine przeciwko Tytanowi, który nie był atakowany w tej Rundzie. Powtarzaj, aż wszyscy Tytani zostaną zaatakowani lub nie zostanie zadane Λ."
+   },
+   "card_type": "Mnestis Routine",
+   "source": "cards/fronts/labyrinthauros_mnestis_home_run.jpg"
+  },
+  "bp_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6
+  },
+  "bp": [
+   {
+    "id": "AS0485",
+    "n": "Eroded Breastplate",
+    "lvl": 1,
+    "at": 4,
+    "wound": "trample",
+    "crit": "dodatkowa pojedyncza Rana; dodaj kartę Gaze of Temenos (AS0503) do talii BP",
+    "trample": true,
+    "name": {
+     "en": "Eroded Breastplate",
+     "pl": "Zerodowany Napierśnik"
+    },
+    "text": {
+     "en": "Wound: [!] Trample.\nCritical: Deal an additional Single Wound! Add the Gaze of Temenos card to the BP deck.",
+     "pl": "Wound: [!] Trample.\nCritical: Zadaj dodatkową Pojedynczą Ranę! Dodaj kartę Gaze of Temenos do talii BP."
+    },
+    "crit_flavor": {
+     "en": "Your weapon penetrates the bronze breastplate and sinks into a fleshy organ.",
+     "pl": "Twoja broń przebija brązowy napierśnik i zagłębia się w mięsisty organ."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0486",
+    "n": "Plated Beasthead",
+    "lvl": 1,
+    "at": 2,
+    "fail": "trample",
+    "crit": "zyskaj żeton Priority Target; możesz wykonać Bonus Attack",
+    "trample": true,
+    "priority": true,
+    "name": {
+     "en": "Plated Beasthead",
+     "pl": "Opancerzony Łeb Bestii"
+    },
+    "text": {
+     "en": "Fail: [!] Trample.\nCritical: Gain the [Priority Target] Priority Target token. You may perform a Bonus Attack!",
+     "pl": "Fail: [!] Trample.\nCritical: Zyskaj żeton [Priority Target] Priority Target. Możesz wykonać Bonus Attack!"
+    },
+    "crit_flavor": {
+     "en": "The bronze head shatters into a thousand tiny pieces, revealing a megalithic skull hidden beneath.",
+     "pl": "Brązowy łeb rozpada się na tysiąc drobnych kawałków, odsłaniając ukrytą pod spodem megalityczną czaszkę."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0487",
+    "n": "Hidemail",
+    "lvl": 1,
+    "at": 4,
+    "wound": "perform signature vs attacker",
+    "crit": "stwórz Vantage Point; jeśli VP już w grze: w 2. oknie zdolności 1 ujemny żeton TO HIT do Puli Kratos",
+    "vantage_point": true,
+    "name": {
+     "en": "Hidemail",
+     "pl": "Skórzana Kolczuga"
+    },
+    "text": {
+     "en": "Wound: [!] Perform Signature against the Attacker.\nCritical: Create a Vantage Point. If the VP is already in play, in the second ability window place 1 negative [To Hit] token in the Kratos Pool.",
+     "pl": "Wound: [!] Perform Signature przeciwko Atakującemu.\nCritical: Stwórz Vantage Point. Jeśli VP jest już w grze, w drugim oknie zdolności połóż 1 ujemny żeton [To Hit] w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "With a screech, you tear a long sheet of the bronze armor, enough to create some footing.",
+     "pl": "Ze zgrzytem odrywasz długi płat brązowego pancerza – wystarczający, by stworzyć oparcie dla stóp."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0488",
+    "n": "Underbelly Seal",
+    "lvl": 1,
+    "at": 2,
+    "fail": "karta Stanu Fear",
+    "crit": "jeden Argonauta może stracić Przypadłość Mazetouched",
+    "condition": "Fear",
+    "name": {
+     "en": "Underbelly Seal",
+     "pl": "Pieczęć Podbrzusza"
+    },
+    "text": {
+     "en": "Fail: Gain the Fear Condition card.\nCritical: One Argonaut may lose the Mazetouched Affliction.",
+     "pl": "Fail: zyskaj kartę Stanu Fear.\nCritical: Jeden Argonauta może stracić Przypadłość Mazetouched."
+    },
+    "crit_flavor": {
+     "en": "You destroy the waxy seal and the air fills with a putrid smell. A black fluid pours out of the opening.",
+     "pl": "Niszczysz woskową pieczęć, a powietrze wypełnia gnilny smród. Z otworu wylewa się czarny płyn."
+    },
+    "res": [
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0489",
+    "n": "Armored Hind Leg",
+    "lvl": 1,
+    "at": 3,
+    "wound": "knockback 5, knockdown",
+    "crit": "do końca bitwy atak z pól W: Labyrinthauros ma -1 TO HIT",
+    "knockback": 5,
+    "knockdown": true,
+    "name": {
+     "en": "Armored Hind Leg",
+     "pl": "Opancerzona Tylna Noga"
+    },
+    "text": {
+     "en": "Wound: Knockback 5. Knockdown.\nCritical: Until the end of Battle, when attacked from any of the [W] spaces, the Labyrinthauros has -1[To Hit].",
+     "pl": "Wound: Knockback 5. Knockdown.\nCritical: Do końca Bitwy, gdy Labyrinthauros jest atakowany z któregokolwiek pola [W], ma -1[To Hit]."
+    },
+    "crit_flavor": {
+     "en": "The armor plate on the hind leg bends and breaks under the strength of your attack.",
+     "pl": "Płyta pancerza na tylnej nodze wygina się i pęka pod siłą twojego ataku."
+    },
+    "res": [
+     "icon_bubbles"
+    ],
+    "uncertain": "Ikona pól w Critical = litera W w ramce (pola W z diagramu Prymordiala); ikona po -1 = glif twarzy/ośmiornicy jak na plakietce BP – odczytana jako To Hit (jak we wzorze)."
+   },
+   {
+    "id": "AS0490",
+    "n": "Armored Front Leg",
+    "lvl": 1,
+    "at": 3,
+    "fail": "knockback 5, knockdown",
+    "crit": "do końca bitwy atak z pól W: Labyrinthauros ma -1 [fist] (statystyka 'pięść' z arkusza)",
+    "knockback": 5,
+    "knockdown": true,
+    "name": {
+     "en": "Armored Front Leg",
+     "pl": "Opancerzona Przednia Noga"
+    },
+    "text": {
+     "en": "Fail: Knockback 5. Knockdown.\nCritical: Until the end of Battle, when attacked from any of the [W] spaces, the Labyrinthauros has -1[fist].",
+     "pl": "Fail: Knockback 5. Knockdown.\nCritical: Do końca Bitwy, gdy Labyrinthauros jest atakowany z któregokolwiek pola [W], ma -1[fist]."
+    },
+    "crit_flavor": {
+     "en": "You dent the armor plate covering a front leg, making it easier to hit the hind one!",
+     "pl": "Wgniatasz płytę pancerza osłaniającą przednią nogę, przez co łatwiej trafić w tylną!"
+    },
+    "res": [
+     "icon_bubbles"
+    ],
+    "uncertain": "Ikona po -1 to PIĘŚĆ (jak pierwsza statystyka arkusza 7+), inna niż na AS0489 – zapisano [fist]."
+   },
+   {
+    "id": "AS0491",
+    "n": "Reinforced Skull",
+    "lvl": 2,
+    "at": 5,
+    "wound": "trample",
+    "crit": "stwórz Vantage Point; jeśli VP już w grze: w 2. oknie zdolności 1 ujemny żeton TO HIT do Puli Kratos",
+    "trample": true,
+    "vantage_point": true,
+    "name": {
+     "en": "Reinforced Skull",
+     "pl": "Wzmocniona Czaszka"
+    },
+    "text": {
+     "en": "Wound: [!] Trample.\nCritical: Create a Vantage Point. If the VP is already in play, in the second ability window place 1 negative [To Hit] token in the Kratos Pool.",
+     "pl": "Wound: [!] Trample.\nCritical: Stwórz Vantage Point. Jeśli VP jest już w grze, w drugim oknie zdolności połóż 1 ujemny żeton [To Hit] w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "You smash the reinforced skull and a snake-like appendage emerges from the gaping hole. This is no automaton.",
+     "pl": "Rozbijasz wzmocnioną czaszkę, a z ziejącej dziury wyłania się wężowaty wyrostek. To nie jest automat."
+    },
+    "res": [
+     "icon_plume"
+    ],
+    "uncertain": "Ikona zasobu (zawijas) przypisana do icon_plume – niepewne."
+   },
+   {
+    "id": "AS0492",
+    "n": "Exposed Mechanism",
+    "lvl": 2,
+    "at": 6,
+    "wound": "obrót do atakującego, labyrinth 1",
+    "crit": "stwórz Vantage Point; jeśli VP już w grze: w 2. oknie zdolności 1 ujemny żeton TO HIT do Puli Kratos",
+    "labyrinth": 1,
+    "vantage_point": true,
+    "name": {
+     "en": "Exposed Mechanism",
+     "pl": "Odsłonięty Mechanizm"
+    },
+    "text": {
+     "en": "Wound: Labyrinthauros turns towards the Attacker. Labyrinth 1.\nCritical: Create a Vantage Point. If the VP is already in play, in the second ability window place 1 negative [To Hit] token in the Kratos Pool.",
+     "pl": "Wound: Labyrinthauros obraca się w stronę Atakującego. Labyrinth 1.\nCritical: Stwórz Vantage Point. Jeśli VP jest już w grze, w drugim oknie zdolności połóż 1 ujemny żeton [To Hit] w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "You destroy part of the hydraulic mechanism that seemingly allows the automaton to move. It doesn't even slow it down... but creates some footing.",
+     "pl": "Niszczysz część mechanizmu hydraulicznego, który pozornie pozwala automatowi się poruszać. Nawet go to nie spowalnia... ale tworzy oparcie dla stóp."
+    },
+    "res": [
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0493",
+    "n": "Servomotors",
+    "lvl": 2,
+    "at": 5,
+    "fail": "+1 DANGER, knockback 10",
+    "crit": "zyskaj kartę Mazemace (Secret Deck 2, karta 12)",
+    "knockback": 10,
+    "name": {
+     "en": "Servomotors",
+     "pl": "Serwomotory"
+    },
+    "text": {
+     "en": "Fail: Gain +1Λ.\n[!] Knockback 10.\nCritical: Gain the Mazemace [weapon] card (Secret Deck 2, card 12), [Labyrinthauros]!",
+     "pl": "Fail: zyskaj +1Λ.\n[!] Knockback 10.\nCritical: Zyskaj kartę Mazemace [weapon] (Talia Sekretna 2, karta 12), [Labyrinthauros]!"
+    },
+    "crit_flavor": {
+     "en": "You rip part of the leg mechanism away and a slimy substance takes its place!",
+     "pl": "Wyrywasz część mechanizmu nogi, a jego miejsce zajmuje oślizgła substancja!"
+    },
+    "res": [
+     "icon_chunk"
+    ],
+    "uncertain": "Ikony w Critical: glif broni po 'Mazemace' i glif łba byka w kółku – bez legendy, zapisano [weapon] i [Labyrinthauros]."
+   },
+   {
+    "id": "AS0494",
+    "n": "Hydraulic Pump",
+    "lvl": 2,
+    "at": 4,
+    "fail": "trample",
+    "crit": "Labyrinthauros: 1 ujemny żeton Speed",
+    "trample": true,
+    "name": {
+     "en": "Hydraulic Pump",
+     "pl": "Pompa Hydrauliczna"
+    },
+    "text": {
+     "en": "Fail: [!] Trample.\nCritical: Labyrinthauros gains 1 negative Speed ([Speed]) token.",
+     "pl": "Fail: [!] Trample.\nCritical: Labyrinthauros zyskuje 1 ujemny żeton Speed ([Speed])."
+    },
+    "crit_flavor": {
+     "en": "You've completely destroyed a vital part of the mechanism.",
+     "pl": "Całkowicie zniszczyłeś kluczową część mechanizmu."
+    },
+    "res": [
+     "icon_plume"
+    ]
+   },
+   {
+    "id": "AS0495",
+    "n": "Maze Fragment",
+    "lvl": 2,
+    "at": 5,
+    "wound": "jeden Argonauta może stracić Mazetouched",
+    "crit": "zasób Maze Fragment; ruch ≥4 pól: k10, 8+ zatrzymuje się po 4",
+    "name": {
+     "en": "Maze Fragment",
+     "pl": "Fragment Labiryntu"
+    },
+    "text": {
+     "en": "Wound: One Argonaut may lose the Mazetouched Affliction.\nCritical: Gain 1 Maze Fragment resource. Each time Labyrinthauros moves 4 or more spaces, roll a d10. On 8+ it stops after 4 spaces.",
+     "pl": "Wound: jeden Argonauta może stracić Przypadłość Mazetouched.\nCritical: Zyskaj 1 zasób Maze Fragment. Za każdym razem, gdy Labyrinthauros porusza się o 4 lub więcej pól, rzuć k10. Przy 8+ zatrzymuje się po 4 polach."
+    },
+    "crit_flavor": {
+     "en": "You've broken the maze fragment that wormed its way among the mechanisms.",
+     "pl": "Rozbiłeś fragment labiryntu, który wpełzł między mechanizmy."
+    },
+    "res": [
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0496",
+    "n": "Peculiar Growth",
+    "lvl": 2,
+    "at": 4,
+    "fail": "perform signature vs attacker",
+    "crit": "zyskaj kartę Glimmer Shroud (Secret Deck 2, karta 13)",
+    "name": {
+     "en": "Peculiar Growth",
+     "pl": "Osobliwa Narośl"
+    },
+    "text": {
+     "en": "Fail: [!] Perform Signature against the Attacker.\nCritical: Gain the Glimmer Shroud [gear] card (Secret Deck 2, card 13), [Labyrinthauros]!",
+     "pl": "Fail: [!] Perform Signature przeciwko Atakującemu.\nCritical: Zyskaj kartę Glimmer Shroud [gear] (Talia Sekretna 2, karta 13), [Labyrinthauros]!"
+    },
+    "crit_flavor": {
+     "en": "You hack at the growth covering the automaton.",
+     "pl": "Rąbiesz narośl pokrywającą automat."
+    },
+    "res": [
+     "icon_plume"
+    ],
+    "uncertain": "Ikony w Critical bez legendy – zapisano [gear] i [Labyrinthauros]."
+   },
+   {
+    "id": "AS0497",
+    "n": "Hammerhead Worm Head",
+    "lvl": 3,
+    "at": 7,
+    "fail": "perform signature vs attacker",
+    "crit": "zyskaj żeton Priority Target; możesz wykonać Bonus Attack",
+    "priority": true,
+    "name": {
+     "en": "Hammerhead Worm Head",
+     "pl": "Głowa Robaka-Młota"
+    },
+    "text": {
+     "en": "Fail: Perform Signature against the Attacker.\nCritical: Gain the [Priority Target] Priority Target token. You may perform a Bonus Attack!",
+     "pl": "Fail: Perform Signature przeciwko Atakującemu.\nCritical: Zyskaj żeton [Priority Target] Priority Target. Możesz wykonać Bonus Attack!"
+    },
+    "crit_flavor": {
+     "en": "You cut the snail head and watch as it wriggles on the ground, convulsing.",
+     "pl": "Odcinasz ślimaczą głowę i patrzysz, jak wije się na ziemi w konwulsjach."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0498",
+    "n": "Will of Temenos",
+    "lvl": 3,
+    "at": 8,
+    "wound": "jeden Argonauta może stracić Mazetouched; dobierz i wykonaj kartę AI przeciwko atakującemu",
+    "crit": "Prymordial ginie",
+    "name": {
+     "en": "Will of Temenos",
+     "pl": "Wola Temenosa"
+    },
+    "text": {
+     "en": "Wound: One Argonaut may lose the Mazetouched Affliction. Draw and perform an AI card against the Attacker.\nCritical: Without it, the Primordial dies.",
+     "pl": "Wound: jeden Argonauta może stracić Przypadłość Mazetouched. Dobierz i wykonaj kartę AI przeciwko Atakującemu.\nCritical: Bez niej Prymordial ginie."
+    },
+    "crit_flavor": {
+     "en": "For a brief moment only fear exists. Then you feel your weapon plunge into something immaterial and you're free. You've severed the link!",
+     "pl": "Przez krótką chwilę istnieje tylko strach. Potem czujesz, jak twoja broń zagłębia się w coś niematerialnego, i jesteś wolny. Przeciąłeś więź!"
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0499",
+    "n": "Shapeless Form",
+    "lvl": 3,
+    "at": 6,
+    "fail": "dobierz Obola",
+    "wound": "jeden Argonauta może stracić Mazetouched",
+    "crit": "stwórz Vantage Point; jeśli VP już w grze: w 2. oknie zdolności 1 ujemny żeton TO HIT do Puli Kratos",
+    "vantage_point": true,
+    "name": {
+     "en": "Shapeless Form",
+     "pl": "Bezkształtna Forma"
+    },
+    "text": {
+     "en": "Fail: Draw an Obol.\nWound: One Argonaut may lose the Mazetouched Affliction.\nCritical: Create a Vantage Point. If the VP is already in play, in the second ability window place 1 negative [To Hit] token in the Kratos Pool.",
+     "pl": "Fail: dobierz Obola.\nWound: jeden Argonauta może stracić Przypadłość Mazetouched.\nCritical: Stwórz Vantage Point. Jeśli VP jest już w grze, w drugim oknie zdolności połóż 1 ujemny żeton [To Hit] w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "The slithery body shudders when you slice it open.",
+     "pl": "Oślizgłe ciało drży, gdy je rozcinasz."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_chunk"
+    ]
+   },
+   {
+    "id": "AS0500",
+    "n": "Restless Tentacles",
+    "lvl": 3,
+    "at": 5,
+    "wound": "perform signature vs attacker",
+    "crit": "zyskaj +1 [odwrócony trójkąt z płomieniem]",
+    "name": {
+     "en": "Restless Tentacles",
+     "pl": "Niespokojne Macki"
+    },
+    "text": {
+     "en": "Wound: [!] Perform Signature against the Attacker.\nCritical: Gain +1[flame triangle].",
+     "pl": "Wound: [!] Perform Signature przeciwko Atakującemu.\nCritical: Zyskaj +1[flame triangle]."
+    },
+    "crit_flavor": {
+     "en": "The slimy sensory tentacles embrace you. Your mind fills with images of dread and the heart of the Maze... only then do you rip them out!",
+     "pl": "Śliskie macki czuciowe oplatają cię. Twój umysł wypełniają obrazy grozy i serca Labiryntu... dopiero wtedy je wyrywasz!"
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_plume"
+    ],
+    "uncertain": "Ikona w Critical (odwrócony trójkąt z płomieniem/kroplą) bez legendy – zapisano [flame triangle]."
+   },
+   {
+    "id": "AS0501",
+    "n": "Otherworldly Whiskers",
+    "lvl": 3,
+    "at": 5,
+    "fail": "trample",
+    "crit": "do końca bitwy możesz ignorować wszystkie Reakcje Prymordiala",
+    "trample": true,
+    "name": {
+     "en": "Otherworldly Whiskers",
+     "pl": "Zaświatowe Wąsy"
+    },
+    "text": {
+     "en": "Fail: Trample.\nCritical: Until the end of Battle you may ignore all Primordial Responses.",
+     "pl": "Fail: Trample.\nCritical: Do końca Bitwy możesz ignorować wszystkie Reakcje Prymordiala."
+    },
+    "crit_flavor": {
+     "en": "These whiskers stretch to places beyond space and time... and yet they are not out of your reach.",
+     "pl": "Te wąsy sięgają miejsc poza przestrzenią i czasem... a jednak nie są poza twoim zasięgiem."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_plume"
+    ]
+   },
+   {
+    "id": "AS0502",
+    "n": "Shard of the Labyrinth",
+    "lvl": 3,
+    "at": 6,
+    "fail": "obrót do atakującego, labyrinth 1",
+    "crit": "wyłącz słowo kluczowe Labyrinth X",
+    "labyrinth": 1,
+    "name": {
+     "en": "Shard of the Labyrinth",
+     "pl": "Odłamek Labiryntu"
+    },
+    "text": {
+     "en": "Fail: Labyrinthauros turns towards the Attacker. Labyrinth 1.\nCritical: Disable the Labyrinth X keyword.",
+     "pl": "Fail: Labyrinthauros obraca się w stronę Atakującego. Labyrinth 1.\nCritical: Wyłącz słowo kluczowe Labyrinth X."
+    },
+    "crit_flavor": {
+     "en": "Deep inside the bronze casing and the fleshly tissue a living shard of the Maze shapechanges constantly. You smash it to pieces!",
+     "pl": "Głęboko w brązowej obudowie i mięsistej tkance żywy odłamek Labiryntu nieustannie zmienia kształt. Rozbijasz go na kawałki!"
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_plume"
+    ]
+   }
+  ],
+  "trap": {
+   "id": "AS0503",
+   "n": "Gaze of Temenos",
+   "lvl": "X",
+   "card_type": "Trap",
+   "added_by": "AS0485",
+   "test": {
+    "stat": "Endurance",
+    "diff": 8
+   },
+   "fail": "+3 DANGER, +3 FATE, karta Stanu Dread; potem usuń tę kartę z talii i dobierz kolejną kartę BP",
+   "condition": "Dread",
+   "name": {
+    "en": "Gaze of Temenos",
+    "pl": "Spojrzenie Temenosa"
+   },
+   "flavor": {
+    "en": "The will beyond wills looks into your heart and finds only fear.",
+    "pl": "Wola ponad wolami zagląda w twoje serce i znajduje tylko strach."
+   },
+   "text": {
+    "en": "Test Endurance (8+).\nFail: Gain +3Λ, +3Ψ and the Dread Condition card.\nThen remove this card from the deck and draw another BP card.",
+    "pl": "Test Endurance (8+).\nFail: zyskaj +3Λ, +3Ψ i kartę Stanu Dread.\nNastępnie usuń tę kartę z talii i dobierz kolejną kartę BP."
+   }
+  },
+  "sheet": {
+   "_legenda": "to_hit = ikona pięści (np. 7+), speed = ikona buta, wounds = ikona serca. mods: burst = [burst] (glif rozbłysku/kwiatu), face = [face] (glif twarzy/ośmiornicy w kółku, ten sam co plakietka BP i żetony 'To Hit' na kartach), die = [die] (romb/kość), danger = Λ; danger_per_hit = '+NΛ for each hit'.",
+   "id": [
+    "AU0448"
+   ],
+   "files": [
+    "cards/primordials/labyrinthauros_a.jpg",
+    "cards/primordials/labyrinthauros_b.jpg"
+   ],
+   "size": {
+    "footprint": "2×2",
+    "diagram": "2 pola R (Rear) nad Prymordialem, pola W po obu bokach, strzałka frontu na dole",
+    "movement_icon": 5,
+    "vp": true
+   },
+   "levels": [
+    {
+     "lvl": "I",
+     "to_hit": "7+",
+     "speed": 6,
+     "wounds": 10,
+     "traits_added": [
+      "Labyrinth X",
+      "Mazesense"
+     ]
+    },
+    {
+     "lvl": "II",
+     "to_hit": "7+",
+     "speed": 6,
+     "wounds": 10,
+     "traits_added": [
+      "Trample"
+     ]
+    },
+    {
+     "lvl": "III",
+     "to_hit": "8+",
+     "speed": 7,
+     "wounds": 10,
+     "mods": {
+      "burst": 1,
+      "danger": 1
+     },
+     "traits_added": [
+      "Mazebuilder"
+     ]
+    },
+    {
+     "lvl": "IV",
+     "to_hit": "8+",
+     "speed": 7,
+     "wounds": 10,
+     "mods": {
+      "burst": 2,
+      "danger": 2,
+      "face": 1
+     },
+     "traits_added": [
+      "Maze Reactive Armor"
+     ]
+    },
+    {
+     "lvl": "V",
+     "to_hit": "9+",
+     "speed": 7,
+     "wounds": 10,
+     "mods": {
+      "burst": 2,
+      "face": 2,
+      "danger_per_hit": 1
+     },
+     "traits_added": [
+      "End of Hope",
+      "Maze Hyperactive Armor",
+      "VP Modification"
+     ]
+    },
+    {
+     "lvl": "VI",
+     "to_hit": "9+",
+     "speed": 8,
+     "wounds": 11,
+     "mods": {
+      "burst": 3,
+      "face": 3,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Lightspeeder"
+     ]
+    },
+    {
+     "lvl": "VII",
+     "to_hit": "10+",
+     "speed": 8,
+     "wounds": 12,
+     "mods": {
+      "burst": 4,
+      "face": 4,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Extradimensional Trample"
+     ]
+    },
+    {
+     "lvl": "VIII",
+     "to_hit": "10+",
+     "speed": 8,
+     "wounds": 13,
+     "mods": {
+      "burst": 4,
+      "face": 5,
+      "die": 1,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Fissurebuilder"
+     ]
+    },
+    {
+     "lvl": "IX",
+     "to_hit": "11+",
+     "speed": 9,
+     "wounds": 14,
+     "mods": {
+      "burst": 5,
+      "face": 6,
+      "die": 2,
+      "danger_per_hit": 3
+     },
+     "traits_added": [
+      "Ruthless",
+      "Beginning of the End"
+     ]
+    }
+   ],
+   "rewards": {
+    "III": "+3 [icon_bubbles]",
+    "IV": "+12 [icon_bubbles]"
+   },
+   "traits": [
+    {
+     "name": {
+      "en": "Labyrinth X",
+      "pl": "Labyrinth X"
+     },
+     "text": {
+      "en": "Additional Setup: Place a Labyrinth token on the topmost space of the Labyrinth track.\nLabyrinth X: Place X Labyrinth Terrain tiles adjacent to and in front of the Primordial. Use the tile shape that corresponds to the token's location on the track, then move the token clockwise to the next space.",
+      "pl": "Dodatkowe Przygotowanie: połóż żeton Labyrinth na najwyższym polu toru Labyrinth.\nLabyrinth X: połóż X kafelków Terenu Labyrinth sąsiadujących z Prymordialem i przed nim. Użyj kształtu kafelka odpowiadającego pozycji żetonu na torze, potem przesuń żeton zgodnie z ruchem wskazówek zegara na następne pole."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "Mazesense",
+      "pl": "Mazesense"
+     },
+     "text": {
+      "en": "Labyrinth tiles do not block Labyrinthauros's Line of Sight. Argonauts with the Mazetouched Affliction must apply all [ΨX+:] effects, regardless of their actual Ψ.",
+      "pl": "Kafelki Labyrinth nie blokują Linii Wzroku Labyrinthaurosa. Argonauci z Przypadłością Mazetouched muszą stosować wszystkie efekty [ΨX+:], niezależnie od swojego faktycznego Ψ."
+     }
+    },
+    {
+     "name": {
+      "en": "Trample",
+      "pl": "Trample"
+     },
+     "text": {
+      "en": "Trample (disabled at level I): Labyrinthauros moves forward in a straight line at full [Speed], then turns to face the most Titans. If it moves through or ends its move on a knocked down Titan, that Titan draws an Obol.",
+      "pl": "Trample (wyłączone na poziomie I): Labyrinthauros porusza się naprzód w linii prostej o pełne [Speed], po czym obraca się przodem do największej liczby Tytanów. Jeśli przejdzie przez powalonego Tytana lub zakończy na nim ruch, ten Tytan dobiera Obola."
+     }
+    },
+    {
+     "name": {
+      "en": "Mazebuilder",
+      "pl": "Mazebuilder"
+     },
+     "text": {
+      "en": "After performing Trample from a Response, immediately perform Labyrinth 1.",
+      "pl": "Po wykonaniu Trample z Reakcji natychmiast wykonaj Labyrinth 1."
+     }
+    },
+    {
+     "name": {
+      "en": "Maze Reactive Armor",
+      "pl": "Maze Reactive Armor"
+     },
+     "text": {
+      "en": "All BP cards without a Fail Response gain: Fail: Gain +1Λ. Labyrinthauros turns towards the Attacker, Labyrinth 1.",
+      "pl": "Wszystkie karty BP bez Reakcji Fail zyskują: Fail: zyskaj +1Λ. Labyrinthauros obraca się w stronę Atakującego, Labyrinth 1."
+     }
+    },
+    {
+     "name": {
+      "en": "Maze Hyperactive Armor",
+      "pl": "Maze Hyperactive Armor"
+     },
+     "text": {
+      "en": "All BP cards without a Wound Response gain: Wound: [!] Trample.",
+      "pl": "Wszystkie karty BP bez Reakcji Wound zyskują: Wound: [!] Trample."
+     }
+    },
+    {
+     "name": {
+      "en": "End of Hope",
+      "pl": "End of Hope"
+     },
+     "text": {
+      "en": "End of Primordial Round: Perform Signature.",
+      "pl": "Koniec Rundy Prymordiala: Perform Signature."
+     }
+    },
+    {
+     "name": {
+      "en": "VP Modification",
+      "pl": "VP Modification"
+     },
+     "text": {
+      "en": "(no separate text; refers to Bull's Back (LVL 5+) section)",
+      "pl": "(brak osobnego tekstu; odnosi się do sekcji Bull's Back (LVL 5+))"
+     }
+    },
+    {
+     "name": {
+      "en": "Lightspeeder",
+      "pl": "Lightspeeder"
+     },
+     "text": {
+      "en": "Ignore [!] preceding MOVE & ATTACK instructions.",
+      "pl": "Ignoruj [!] poprzedzające instrukcje MOVE & ATTACK."
+     }
+    },
+    {
+     "name": {
+      "en": "Extradimensional Trample",
+      "pl": "Extradimensional Trample"
+     },
+     "text": {
+      "en": "Ignore [!] preceding Trample Responses. Treat all Labyrinthauros Movement (regular and Trample) as having the following ability: If the Labyrinthauros moves through a knocked down Titan, it dies.",
+      "pl": "Ignoruj [!] poprzedzające Reakcje Trample. Traktuj każdy Ruch Labyrinthaurosa (zwykły i Trample) tak, jakby miał zdolność: jeśli Labyrinthauros przejdzie przez powalonego Tytana, ten ginie."
+     }
+    },
+    {
+     "name": {
+      "en": "Fissurebuilder",
+      "pl": "Fissurebuilder"
+     },
+     "text": {
+      "en": "Treat all Labyrinth tiles as Maze Fissure tiles.",
+      "pl": "Traktuj wszystkie kafelki Labyrinth jak kafelki Maze Fissure."
+     }
+    },
+    {
+     "name": {
+      "en": "Ruthless",
+      "pl": "Ruthless"
+     },
+     "text": {
+      "en": "Remove all positive Trauma cards from the Trauma decks (except Obols).",
+      "pl": "Usuń wszystkie pozytywne karty Traumy z talii Traumy (oprócz Oboli)."
+     }
+    },
+    {
+     "name": {
+      "en": "Beginning of the End",
+      "pl": "Beginning of the End"
+     },
+     "text": {
+      "en": "End of Primordial Round: Before End of Hope, draw and perform another AI card.",
+      "pl": "Koniec Rundy Prymordiala: przed End of Hope dobierz i wykonaj kolejną kartę AI."
+     }
+    }
+   ],
+   "vantage_point": [
+    {
+     "name": {
+      "en": "Bull's Back",
+      "pl": "Grzbiet Byka"
+     },
+     "lvl": "I-IV",
+     "text": {
+      "en": "Climb: Test Fury (8+).\nHold On – End of Primordial Round: If on the VP, test Endurance (6+). Fail: Displace to a Rear space, Knockdown.\nVP Effects: When on the VP, you gain +1[rune] and ignore Responses other than Critical.",
+      "pl": "Wspinaczka: Test Fury (8+).\nHold On – Koniec Rundy Prymordiala: jeśli jesteś na VP, test Endurance (6+). Fail: przesuń na pole Tylne, Knockdown.\nEfekty VP: gdy jesteś na VP, zyskujesz +1[rune] i ignorujesz Reakcje inne niż Critical."
+     }
+    },
+    {
+     "name": {
+      "en": "Bull's Back (LVL 5+)",
+      "pl": "Grzbiet Byka (POZ 5+)"
+     },
+     "lvl": "V+",
+     "text": {
+      "en": "Climb: Test Fury (9+).\nHold On – End of Primordial Round: If on the VP, test Endurance (7+). Fail: Displace to a Rear space, Knockdown.\nVP Effects: When on the VP, you gain +1[rune]. Ignore normal Primordial Responses, resolve these instead:\nWound: Gain +2Λ, immediately perform a Hold on test.\nFail: Immediately resolve the failed effect of the Hold on test, then perform Signature against the Attacker.",
+      "pl": "Wspinaczka: Test Fury (9+).\nHold On – Koniec Rundy Prymordiala: jeśli jesteś na VP, test Endurance (7+). Fail: przesuń na pole Tylne, Knockdown.\nEfekty VP: gdy jesteś na VP, zyskujesz +1[rune]. Ignoruj zwykłe Reakcje Prymordiala, zamiast nich rozpatrz:\nWound: zyskaj +2Λ, natychmiast wykonaj test Hold On.\nFail: natychmiast rozpatrz efekt nieudanego testu Hold On, potem Perform Signature przeciwko Atakującemu."
+     }
+    }
+   ]
+  }
+ },
+ "alpha_temenos": {
+  "_uwagi": "Transkrypcja ze skanów Alpha Temenosa (AI x18 + Signature + Routine + Mnestis Routine, BP x18). Ψ=FATE, Ω=RAGE, Λ=DANGER. zone_pattern opisuje siatkę strefy słowami. Poziomy sprawdzone z rewersami.",
+  "ai_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6
+  },
+  "targety": {
+   "F": "najbliższy Tytan z przodu, w zasięgu",
+   "S": "najbliższy Tytan w polu widzenia",
+   "P": "[Priority Target] Priority Target w zasięgu",
+   "FNF": "najdalszy Tytan nie z przodu, w zasięgu",
+   "FR": "najdalszy Tytan w zasięgu",
+   "VP": "Tytan na Vantage Point",
+   "all on labyrinth": "wszyscy Tytani na kafelkach Labyrinth",
+   "all not on labyrinth": "wszyscy Tytani nie na kafelkach Labyrinth"
+  },
+  "ai": [
+   {
+    "id": "AR0522",
+    "n": "Right Tentacle Swipe",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 10,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "2 kolumny × 3 rzędy pól bezpośrednio przed Prymordialem (6 pól, pełna szerokość frontu)",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 3,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "knockdown": true,
+    "after_final": "knockback 8 w lewo, labyrinth 1",
+    "knockback": 8,
+    "labyrinth": 1,
+    "name": {
+     "en": "Right Tentacle Swipe",
+     "pl": "Prawe Smagnięcie Macką"
+    },
+    "flavor": {
+     "en": "Temenos swipes at you with one of its innumerable tentacles.",
+     "pl": "Temenos smaga cię jedną ze swoich niezliczonych macek."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ3+: +1 Despair token]\nEach hit deals 2Λ. Knockdown.\n[!] After Final Attack\nKnockback 8 to the left. Labyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ3+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ. Knockdown.\n[!] Po Ostatnim Ataku\nKnockback 8 w lewo. Labyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0523",
+    "n": "Left Tentacle Swipe",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 10,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "2 kolumny × 3 rzędy pól bezpośrednio przed Prymordialem (6 pól, pełna szerokość frontu)",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 3,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "knockdown": true,
+    "after_final": "knockback 8 w prawo, labyrinth 1",
+    "knockback": 8,
+    "labyrinth": 1,
+    "name": {
+     "en": "Left Tentacle Swipe",
+     "pl": "Lewe Smagnięcie Macką"
+    },
+    "flavor": {
+     "en": "Temenos swipes at you with one of its innumerable tentacles.",
+     "pl": "Temenos smaga cię jedną ze swoich niezliczonych macek."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ3+: +1 Despair token]\nEach hit deals 2Λ. Knockdown.\n[!] After Final Attack\nKnockback 8 to the right. Labyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ3+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ. Knockdown.\n[!] Po Ostatnim Ataku\nKnockback 8 w prawo. Labyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0524",
+    "n": "Foretentacle Smash",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "linia 3 pól prosto przed środkiem frontu",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 3,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "knockdown": true,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Foretentacle Smash",
+     "pl": "Uderzenie Przedniej Macki"
+    },
+    "flavor": {
+     "en": "The Primordial attacks you with one of the trunk-like tentacles.",
+     "pl": "Prymordial atakuje cię jedną z macek przypominających trąbę."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ3+: +1 Despair token]\nEach hit deals 2Λ. Knockdown.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ3+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ. Knockdown.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0525",
+    "n": "Tentacle Lash",
+    "lvl": 1,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "VP",
+     "F",
+     "S"
+    ],
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 3,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "after": "knockback 8",
+    "knockback": 8,
+    "name": {
+     "en": "Tentacle Lash",
+     "pl": "Chlaśnięcie Macką"
+    },
+    "flavor": {
+     "en": "Temenos uses one of its springy tentacles as a whip.",
+     "pl": "Temenos używa jednej ze swoich sprężystych macek jak bicza."
+    },
+    "text": {
+     "en": "Target: Titan on Vantage Point\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ3+: +1 Despair token]\nEach hit deals 2Λ.\n[!] After Attack\nKnockback 8.",
+     "pl": "Cel: Tytan na Vantage Point\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ3+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ.\n[!] Po Ataku\nKnockback 8."
+    }
+   },
+   {
+    "id": "AR0526",
+    "n": "Small Pyramid",
+    "lvl": 1,
+    "dice": 4,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "kształt T: 3 pola wzdłuż frontu + 1 pole dalej przed środkowym (4 pola)",
+    "despair": 1,
+    "fate_die": 3,
+    "danger": 1,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Small Pyramid",
+     "pl": "Mała Piramida"
+    },
+    "flavor": {
+     "en": "Temenos strikes the ground with a small maze pyramid.",
+     "pl": "Temenos uderza w ziemię małą labiryntową piramidą."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 1Λ.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 1Λ.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0527",
+    "n": "Maze Breath",
+    "lvl": 1,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "P",
+     "F",
+     "S"
+    ],
+    "despair": 2,
+    "fate_die": 3,
+    "danger": 3,
+    "fate_per_hit": 2,
+    "condition": "Fear",
+    "after": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Maze Breath",
+     "pl": "Oddech Labiryntu"
+    },
+    "flavor": {
+     "en": "The air around you fills with despair.",
+     "pl": "Powietrze wokół ciebie wypełnia się rozpaczą."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 2 Despair tokens.\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 3Λ and 2Ψ.\n[!] Gain the Fear Condition card.\n[!] After Attack\nLabyrinth 1.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 2 żetony Despair.\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 3Λ i 2Ψ.\n[!] Zyskaj kartę Stanu Fear.\n[!] Po Ataku\nLabyrinth 1."
+    }
+   },
+   {
+    "id": "AR0528",
+    "n": "Tentacle Toss",
+    "lvl": 2,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "VP",
+     "P",
+     "F",
+     "S"
+    ],
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 5,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "fate_danger": [
+     4,
+     3
+    ],
+    "after": "knockback 10",
+    "knockback": 10,
+    "name": {
+     "en": "Tentacle Toss",
+     "pl": "Rzut Macką"
+    },
+    "flavor": {
+     "en": "Temenos grabs you with one of its tentacles and throws across the battlefield.",
+     "pl": "Temenos chwyta cię jedną z macek i rzuca przez pole bitwy."
+    },
+    "text": {
+     "en": "Target: Titan on Vantage Point\nTarget: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ5+: +1 Despair token]\nEach hit deals 2Λ. [Ψ4+: 3Λ instead]\n[!] After Attack\nKnockback 10.",
+     "pl": "Cel: Tytan na Vantage Point\nCel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ5+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ. [Ψ4+: zamiast tego 3Λ]\n[!] Po Ataku\nKnockback 10."
+    }
+   },
+   {
+    "id": "AR0529",
+    "n": "Tentacle Strangle",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 8,
+    "tgt": [
+     "VP",
+     "P",
+     "F",
+     "S"
+    ],
+    "despair": 1,
+    "fate_die": 4,
+    "danger": 3,
+    "after": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Tentacle Strangle",
+     "pl": "Duszenie Macką"
+    },
+    "flavor": {
+     "en": "One of the tentacles wraps around you like a giant snake.",
+     "pl": "Jedna z macek owija się wokół ciebie jak olbrzymi wąż."
+    },
+    "text": {
+     "en": "Target: Titan on Vantage Point\nTarget: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ4+: +1 die]\nEach hit deals 3Λ.\n[!] After Attack\nLabyrinth 1.",
+     "pl": "Cel: Tytan na Vantage Point\nCel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ4+: +1 kość]\nKażde trafienie zadaje 3Λ.\n[!] Po Ataku\nLabyrinth 1."
+    }
+   },
+   {
+    "id": "AR0530",
+    "n": "Pyramid",
+    "lvl": 2,
+    "dice": 4,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "blok 2×3 przed frontem + 2 dodatkowe pola przedłużające środkowy rząd (8 pól)",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 5,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Pyramid",
+     "pl": "Piramida"
+    },
+    "flavor": {
+     "en": "Temenos pounds the ground with a maze pyramid.",
+     "pl": "Temenos tłucze w ziemię labiryntową piramidą."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ5+: +1 Despair token]\nEach hit deals 2Λ.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ5+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0531",
+    "n": "Foretentacle Quad",
+    "lvl": 2,
+    "dice": 3,
+    "diff": 9,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "linia 4 pól prosto przed środkiem frontu",
+    "despair": 2,
+    "fate_die": 3,
+    "danger": 2,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Foretentacle Quad",
+     "pl": "Poczwórne Uderzenie Przedniej Macki"
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 2 Despair tokens.\n[!] Move & Attack [Ψ3+: +1 die]\nEach hit deals 2Λ.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 2 żetony Despair.\n[!] Ruch i Atak [Ψ3+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0532",
+    "n": "Submerge",
+    "lvl": 2,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "all on labyrinth"
+    ],
+    "no_target": "perform signature",
+    "type": "ranged simultaneous",
+    "range": "unlimited",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 5,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "fate_danger": [
+     5,
+     3
+    ],
+    "knockdown": true,
+    "after_final": "usuń kafelki Labyrinth spod celów; perform routine; przesuń się obok najdalszego Tytana",
+    "name": {
+     "en": "Submerge",
+     "pl": "Zanurzenie"
+    },
+    "text": {
+     "en": "Target: All Titans on Labyrinth tiles\nNo Target: Perform Signature\n[!] Gain 1 Despair token.\n[!] Range Attack Unlimited [Ψ5+: +1 Despair token]\nEach hit deals 2Λ. [Ψ5+: 3Λ instead]\n[!] Knockdown.\n[!] After Final Attack\nRemove Labyrinth tiles under Targets.\n[!] Perform Routine.\n[!] Move adjacent to the furthest Titan.",
+     "pl": "Cel: wszyscy Tytani na kafelkach Labyrinth\nBrak celu: Perform Signature\n[!] Zyskaj 1 żeton Despair.\n[!] Atak Dystansowy bez Limitu [Ψ5+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ. [Ψ5+: zamiast tego 3Λ]\n[!] Knockdown.\n[!] Po Ostatnim Ataku\nUsuń kafelki Labyrinth spod Celów.\n[!] Perform Routine.\n[!] Przesuń się do pola sąsiadującego z najdalszym Tytanem."
+    },
+    "card_type": "Ranged Simultaneous Attack"
+   },
+   {
+    "id": "AR0533",
+    "n": "Maze Light",
+    "lvl": 2,
+    "dice": 2,
+    "diff": 6,
+    "tgt": [
+     "P",
+     "F"
+    ],
+    "despair": 1,
+    "fate_die": 5,
+    "special": "jeśli trafi: dobierz Obola (brak Λ)",
+    "condition": "Fear",
+    "after": "knockback 10",
+    "knockback": 10,
+    "name": {
+     "en": "Maze Light",
+     "pl": "Światło Labiryntu"
+    },
+    "flavor": {
+     "en": "The giant maw looms over you, its light offers nothing but emptiness.",
+     "pl": "Olbrzymia paszcza wisi nad tobą, a jej światło nie niesie nic poza pustką."
+    },
+    "text": {
+     "en": "Target: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ5+: +1 die]\nIf hit, draw an Obol.\n[!] Gain the Fear Condition card.\n[!] After Attack\nKnockback 10.",
+     "pl": "Cel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ5+: +1 kość]\nJeśli trafi, dobierz Obola.\n[!] Zyskaj kartę Stanu Fear.\n[!] Po Ataku\nKnockback 10."
+    }
+   },
+   {
+    "id": "AR0534",
+    "n": "Starfish Headbutt",
+    "lvl": 3,
+    "dice": 5,
+    "diff": 7,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone_pattern": "blok 3×3 bezpośrednio przed frontem (9 pól)",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 7,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 2,
+    "fate_per_hit": 1,
+    "knockdown": true,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Starfish Headbutt",
+     "pl": "Rozgwiazdowy Cios Głową"
+    },
+    "flavor": {
+     "en": "The creature leans and crushes into you with the entirety of its cephalothorax.",
+     "pl": "Istota pochyla się i miażdży cię całym swoim głowotułowiem."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ7+: +1 Despair token]\nEach hit deals 2Λ and 1Ψ.\n[!] Knockdown.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ7+: +1 żeton Despair]\nKażde trafienie zadaje 2Λ i 1Ψ.\n[!] Knockdown.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0535",
+    "n": "Mazerain",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 10,
+    "tgt": [
+     "all not on labyrinth"
+    ],
+    "no_target": "perform signature",
+    "type": "ranged simultaneous",
+    "range": "unlimited",
+    "despair": 1,
+    "fate_die": 6,
+    "danger": 4,
+    "special": "połóż kafelek Labyrinth pod celem",
+    "after_final": "perform routine",
+    "name": {
+     "en": "Mazerain",
+     "pl": "Deszcz Labiryntu"
+    },
+    "flavor": {
+     "en": "Temenos emerges from the ground with a terrible wail, and the Maze emerges with it.",
+     "pl": "Temenos wyłania się z ziemi z okropnym wyciem, a wraz z nim wyłania się Labirynt."
+    },
+    "text": {
+     "en": "Target: All Titans not on Labyrinth tiles\nNo Target: Perform Signature\n[!] Gain 1 Despair token.\n[!] Range Attack Unlimited [Ψ6+: +1 die]\nEach hit deals 4Λ.\n[!] Place a Labyrinth tile under the Target (for each placement choose a shape currently marked on the Labyrinth track, then move the token to the next space).\n[!] After Final Attack\nPerform Routine.",
+     "pl": "Cel: wszyscy Tytani nie na kafelkach Labyrinth\nBrak celu: Perform Signature\n[!] Zyskaj 1 żeton Despair.\n[!] Atak Dystansowy bez Limitu [Ψ6+: +1 kość]\nKażde trafienie zadaje 4Λ.\n[!] Połóż kafelek Labyrinth pod Celem (przy każdym położeniu wybierz kształt aktualnie zaznaczony na torze Labyrinth, potem przesuń żeton na następne pole).\n[!] Po Ostatnim Ataku\nPerform Routine."
+    },
+    "card_type": "Ranged Simultaneous Attack"
+   },
+   {
+    "id": "AR0536",
+    "n": "Giant Pyramid",
+    "lvl": 3,
+    "dice": 4,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "no_target": "perform signature",
+    "type": "zone",
+    "zone": 3,
+    "zone_pattern": "wszystkie pola do 3 od Prymordiala (siatka 9×9 w pełni zaczerniona wokół podstawy 3×3)",
+    "despair": 1,
+    "fate_bonus": [
+     {
+      "fate": 7,
+      "efekt": "+1 żeton Despair"
+     }
+    ],
+    "danger": 3,
+    "after_final": "labyrinth 1",
+    "labyrinth": 1,
+    "name": {
+     "en": "Giant Pyramid",
+     "pl": "Olbrzymia Piramida"
+    },
+    "flavor": {
+     "en": "Temenos pounds the ground with its main maze pyramid.",
+     "pl": "Temenos tłucze w ziemię swoją główną labiryntową piramidą."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\nNo Target: Perform Signature\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ7+: +1 Despair token]\nEach hit deals 3Λ.\n[!] After Final Attack\nLabyrinth 1.",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\nBrak celu: Perform Signature\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ7+: +1 żeton Despair]\nKażde trafienie zadaje 3Λ.\n[!] Po Ostatnim Ataku\nLabyrinth 1."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0537",
+    "n": "Great Submerge",
+    "lvl": 3,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "all on labyrinth"
+    ],
+    "no_target": "perform signature",
+    "type": "ranged simultaneous",
+    "range": "unlimited",
+    "despair": 1,
+    "special": "jeśli trafi: dobierz Obola; potem +1Λ",
+    "knockdown": true,
+    "after_final": "usuń wszystkie kafelki Labyrinth",
+    "name": {
+     "en": "Great Submerge",
+     "pl": "Wielkie Zanurzenie"
+    },
+    "flavor": {
+     "en": "The earth screams and cracks, Temenos dives into the ground!",
+     "pl": "Ziemia krzyczy i pęka, Temenos nurkuje w grunt!"
+    },
+    "text": {
+     "en": "Target: All Titans on Labyrinth tiles\nNo Target: Perform Signature\n[!] Gain 1 Despair token.\n[!] Range Attack Unlimited\nIf hit, draw an Obol.\n[!] Knockdown.\n[!] Gain +1Λ.\n[!] After Final Attack\nRemove all Labyrinth tiles.",
+     "pl": "Cel: wszyscy Tytani na kafelkach Labyrinth\nBrak celu: Perform Signature\n[!] Zyskaj 1 żeton Despair.\n[!] Atak Dystansowy bez Limitu\nJeśli trafi, dobierz Obola.\n[!] Knockdown.\n[!] Zyskaj +1Λ.\n[!] Po Ostatnim Ataku\nUsuń wszystkie kafelki Labyrinth."
+    },
+    "card_type": "Ranged Simultaneous Attack"
+   },
+   {
+    "id": "AR0538",
+    "n": "Emerge",
+    "lvl": 3,
+    "dice": 3,
+    "diff": 8,
+    "tgt": [
+     "F",
+     "S"
+    ],
+    "type": "zone",
+    "zone": 2,
+    "zone_pattern": "wszystkie pola do 2 od Prymordiala (siatka 9×9, zewnętrzny pierścień pusty)",
+    "despair": 2,
+    "danger": 3,
+    "fate_danger": [
+     6,
+     4
+    ],
+    "after_final": "kafelek Labyrinth pod każdym Tytanem w Strefie 2",
+    "name": {
+     "en": "Emerge",
+     "pl": "Wynurzenie"
+    },
+    "flavor": {
+     "en": "The creature rises from the ground, revealing the true extent of its vast size.",
+     "pl": "Istota wznosi się z ziemi, ukazując prawdziwy ogrom swoich rozmiarów."
+    },
+    "text": {
+     "en": "Target: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 2 Despair tokens.\n[!] Move & Attack\nEach hit deals 3Λ. [Ψ6+: 4Λ instead]\n[!] After Final Attack\nPlace a Labyrinth tile under each Titan in Zone 2 (for each placement choose a shape currently marked on the Labyrinth track, then move the token to the next space).",
+     "pl": "Cel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 2 żetony Despair.\n[!] Ruch i Atak\nKażde trafienie zadaje 3Λ. [Ψ6+: zamiast tego 4Λ]\n[!] Po Ostatnim Ataku\nPołóż kafelek Labyrinth pod każdym Tytanem w Strefie 2 (przy każdym położeniu wybierz kształt aktualnie zaznaczony na torze Labyrinth, potem przesuń żeton na następne pole)."
+    },
+    "card_type": "Zone Attack"
+   },
+   {
+    "id": "AR0539",
+    "n": "Devour",
+    "lvl": 3,
+    "dice": 2,
+    "diff": 9,
+    "tgt": [
+     "VP",
+     "P",
+     "F",
+     "S"
+    ],
+    "despair": 2,
+    "special": "jeśli trafi: Λ do 9 + dobranie Traumy",
+    "fate_bonus": [
+     {
+      "fate": 8,
+      "efekt": "giniesz zamiast tego"
+     }
+    ],
+    "condition": "Fear",
+    "after": "knockback 10",
+    "knockback": 10,
+    "name": {
+     "en": "Devour",
+     "pl": "Pożarcie"
+    },
+    "flavor": {
+     "en": "You are being pulled inside the endless maw, you feel your body dissolve into nothingness.",
+     "pl": "Jesteś wciągany do bezdennej paszczy, czujesz, jak twoje ciało rozpuszcza się w nicość."
+    },
+    "text": {
+     "en": "Target: Titan on Vantage Point\nTarget: [Priority Target] Priority Target in range\nTarget: Closest Titan in front, in range\nTarget: Closest Titan in sight\n[!] Gain 2 Despair tokens.\n[!] Move & Attack\nIf hit, raise Λ to 9 and resolve a Trauma Draw. [Ψ8+: You die instead]\n[!] Gain the Fear Condition card.\n[!] After Attack\nKnockback 10.",
+     "pl": "Cel: Tytan na Vantage Point\nCel: [Priority Target] Priority Target w zasięgu\nCel: najbliższy Tytan z przodu, w zasięgu\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 2 żetony Despair.\n[!] Ruch i Atak\nJeśli trafi, podnieś Λ do 9 i rozpatrz dobranie Traumy. [Ψ8+: zamiast tego giniesz]\n[!] Zyskaj kartę Stanu Fear.\n[!] Po Ataku\nKnockback 10."
+    }
+   }
+  ],
+  "signature": {
+   "id": "AR0540",
+   "n": "Tentacle Strike",
+   "lvl": "X",
+   "dice": 3,
+   "diff": 10,
+   "tgt": [
+    "FNF",
+    "FR",
+    "VP",
+    "S"
+   ],
+   "despair": 1,
+   "fate_die": 4,
+   "danger": 2,
+   "after": "labyrinth 1",
+   "labyrinth": 1,
+   "name": {
+    "en": "Tentacle Strike",
+    "pl": "Uderzenie Macką"
+   },
+   "flavor": {
+    "en": "Temenos strikes you with one of its innumerable tentacles.",
+    "pl": "Temenos uderza cię jedną ze swoich niezliczonych macek."
+   },
+   "text": {
+    "en": "Target: Furthest Titan not in front, in range\nTarget: Furthest Titan in range\nTarget: Titan on Vantage Point\nTarget: Closest Titan in sight\n[!] Gain 1 Despair token.\n[!] Move & Attack [Ψ4+: +1 die]\nEach hit deals 2Λ.\n[!] After Attack\nLabyrinth 1.",
+    "pl": "Cel: najdalszy Tytan nie z przodu, w zasięgu\nCel: najdalszy Tytan w zasięgu\nCel: Tytan na Vantage Point\nCel: najbliższy Tytan w polu widzenia\n[!] Zyskaj 1 żeton Despair.\n[!] Ruch i Atak [Ψ4+: +1 kość]\nKażde trafienie zadaje 2Λ.\n[!] Po Ataku\nLabyrinth 1."
+   },
+   "card_type": "Signature"
+  },
+  "routine": {
+   "id": "AR0541",
+   "n": "Contract",
+   "efekt": "Temenos: 1 dodatni żeton TO HIT, odrzuć po następnym ataku Temenosa",
+   "name": {
+    "en": "Contract",
+    "pl": "Skurcz"
+   },
+   "flavor": {
+    "en": "Temenos's body contracts, becoming an impenetrable shell.",
+    "pl": "Ciało Temenosa kurczy się, stając się nieprzeniknioną skorupą."
+   },
+   "text": {
+    "en": "Temenos gains 1 positive [To Hit] token. Discard this token after the next Temenos Attack.",
+    "pl": "Temenos zyskuje 1 dodatni żeton [To Hit]. Odrzuć ten żeton po następnym Ataku Temenosa."
+   },
+   "card_type": "Routine",
+   "lvl": "X"
+  },
+  "mnestis_routine": {
+   "n": "Contract Will",
+   "efekt": "każdy Tytan +1 żeton Despair; Temenos: 1 dodatni żeton TO HIT do następnego ataku. Tylko bitwa Mnestis.",
+   "id": null,
+   "lvl": "X",
+   "card_type": "Mnestis Routine",
+   "despair": 1,
+   "name": {
+    "en": "Contract Will",
+    "pl": "Wola Skurczu"
+   },
+   "flavor": {
+    "en": "Temenos's body contracts, becoming an impenetrable shell.",
+    "pl": "Ciało Temenosa kurczy się, stając się nieprzeniknioną skorupą."
+   },
+   "text": {
+    "en": "Each Titan gains 1 Despair token. Temenos gains 1 positive [To Hit] token. Discard this token after the next Temenos attack.",
+    "pl": "Każdy Tytan zyskuje 1 żeton Despair. Temenos zyskuje 1 dodatni żeton [To Hit]. Odrzuć ten żeton po następnym ataku Temenosa."
+   },
+   "source": "cards/fronts/temenos_mnestis_contract_will.jpg"
+  },
+  "bp_talia": {
+   "I": 6,
+   "II": 6,
+   "III": 6
+  },
+  "bp": [
+   {
+    "id": "AS0543",
+    "n": "Fleshy Tentacle",
+    "lvl": 1,
+    "at": 4,
+    "fail": "karta Stanu Fear",
+    "wound": "perform signature vs attacker",
+    "crit": "zyskaj żeton Priority Target; możesz wykonać Bonus Attack",
+    "condition": "Fear",
+    "priority": true,
+    "name": {
+     "en": "Fleshy Tentacle",
+     "pl": "Mięsista Macka"
+    },
+    "text": {
+     "en": "Fail: Gain the Fear Condition card.\nWound: Perform Signature against the Attacker.\nCritical: Gain the [Priority Target] Priority Target token. You may perform a Bonus Attack!",
+     "pl": "Fail: zyskaj kartę Stanu Fear.\nWound: Perform Signature przeciwko Atakującemu.\nCritical: Zyskaj żeton [Priority Target] Priority Target. Możesz wykonać Bonus Attack!"
+    },
+    "crit_flavor": {
+     "en": "You cut off one of the long tentacles. As it wiggles on the ground, you are emboldened to push forward.",
+     "pl": "Odcinasz jedną z długich macek. Gdy wije się na ziemi, nabierasz odwagi, by przeć naprzód."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0544",
+    "n": "Meaty Tentacle",
+    "lvl": 1,
+    "at": 4,
+    "instinct": "Strefa 1: +1 DANGER, knockdown",
+    "crit": "dodatkowa pojedyncza Rana",
+    "knockdown": true,
+    "name": {
+     "en": "Meaty Tentacle",
+     "pl": "Mięsna Macka"
+    },
+    "text": {
+     "en": "Instinct: All Titans in Zone 1 gain +1Λ and suffer Knockdown.\nCritical: Deal an additional Single Wound!",
+     "pl": "Instinct: Wszyscy Tytani w Strefie 1 zyskują +1Λ i doznają Knockdown.\nCritical: Zadaj dodatkową Pojedynczą Ranę!"
+    },
+    "crit_flavor": {
+     "en": "The tentacle splits in two, spraying the surrounding area with black ichor.",
+     "pl": "Macka rozszczepia się na dwoje, opryskując okolicę czarną posoką."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0545",
+    "n": "Leg Trunk",
+    "lvl": 1,
+    "at": 5,
+    "fail": "knockdown",
+    "wound": "knockback 7, +1 DANGER",
+    "crit": "w 2. oknie zdolności +2 żetony Opening lub Break do Puli Kratos",
+    "knockdown": true,
+    "knockback": 7,
+    "name": {
+     "en": "Leg Trunk",
+     "pl": "Pień Nogi"
+    },
+    "text": {
+     "en": "Fail: [!] Knockdown.\nWound: Knockback 7. Gain +1Λ.\nCritical: During the second ability window, place 2 additional Opening or Break tokens in the Kratos Pool.",
+     "pl": "Fail: [!] Knockdown.\nWound: Knockback 7. Zyskaj +1Λ.\nCritical: W drugim oknie zdolności połóż 2 dodatkowe żetony Opening lub Break w Puli Kratos."
+    },
+    "crit_flavor": {
+     "en": "You've hacked deep into one of the thick trunks the creature is standing on!",
+     "pl": "Wrąbałeś się głęboko w jeden z grubych pni, na których stoi istota!"
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0546",
+    "n": "Sensory Pyramid",
+    "lvl": 1,
+    "at": 5,
+    "fail": "perform signature vs attacker",
+    "wound": "knockback 7, +1 DANGER",
+    "crit": "odłóż 1 kartę BP; po Eskalacji na wierzch talii BP",
+    "knockback": 7,
+    "name": {
+     "en": "Sensory Pyramid",
+     "pl": "Piramida Zmysłowa"
+    },
+    "text": {
+     "en": "Fail: Perform Signature against the Attacker.\nWound: Knockback 7. Gain +1Λ.\nCritical: Search the BP deck and choose 1 card to set aside. After Escalation, place the set aside card on top of the BP deck.",
+     "pl": "Fail: Perform Signature przeciwko Atakującemu.\nWound: Knockback 7. Zyskaj +1Λ.\nCritical: Przeszukaj talię BP i odłóż na bok 1 wybraną kartę. Po Eskalacji połóż odłożoną kartę na wierzch talii BP."
+    },
+    "crit_flavor": {
+     "en": "The pyramid cracks like an egg. Bodies start falling from its hollowed out insides.",
+     "pl": "Piramida pęka jak jajo. Z jej wydrążonego wnętrza zaczynają wypadać ciała."
+    },
+    "res": [
+     "icon_idol"
+    ]
+   },
+   {
+    "id": "AS0547",
+    "n": "Maze Seed",
+    "lvl": 1,
+    "at": 5,
+    "pre": "Spear: +1 żeton Break do Puli Kratos",
+    "fail": "Przypadłość Mazetouched, perform routine",
+    "wound": "karta Stanu Fear",
+    "crit": "stwórz Vantage Point",
+    "condition": "Fear",
+    "vantage_point": true,
+    "name": {
+     "en": "Maze Seed",
+     "pl": "Nasiono Labiryntu"
+    },
+    "text": {
+     "en": "If your Weapon has the Spear Trait, immediately place 1 Break token in the Kratos Pool.\nFail: Gain the Mazetouched Affliction. Perform Routine.\nWound: Gain the Fear Condition card.\nCritical: Create a Vantage Point.",
+     "pl": "Jeśli twoja Broń ma Cechę Spear, natychmiast połóż 1 żeton Break w Puli Kratos.\nFail: zyskaj Przypadłość Mazetouched. Perform Routine.\nWound: zyskaj kartę Stanu Fear.\nCritical: Stwórz Vantage Point."
+    },
+    "crit_flavor": {
+     "en": "A living shard of the true Labyrinth, once seeded it would grow and consume the world. Not this time.",
+     "pl": "Żywy odłamek prawdziwego Labiryntu – raz zasiany, rósłby i pochłonął świat. Nie tym razem."
+    },
+    "res": [
+     "icon_maze"
+    ]
+   },
+   {
+    "id": "AS0548",
+    "n": "Joint Maze Carapace",
+    "lvl": 1,
+    "at": 6,
+    "fail": "knockback 7",
+    "wound": "perform signature vs attacker",
+    "crit": "podczas Eskalacji wybierz kartę BP II do dodania",
+    "knockback": 7,
+    "name": {
+     "en": "Joint Maze Carapace",
+     "pl": "Stawowy Pancerz Labiryntu"
+    },
+    "text": {
+     "en": "Fail: Knockback 7.\nWound: Perform Signature against the Attacker.\nCritical: During Escalation, choose which BP II card to add to the deck.",
+     "pl": "Fail: Knockback 7.\nWound: Perform Signature przeciwko Atakującemu.\nCritical: Podczas Eskalacji wybierz, którą kartę BP II dodać do talii."
+    },
+    "crit_flavor": {
+     "en": "You shatter a large fragment of the maze carapace, exposing a vital organ.",
+     "pl": "Roztrzaskujesz duży fragment labiryntowego pancerza, odsłaniając ważny organ."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0549",
+    "n": "Maze Plate",
+    "lvl": 2,
+    "at": 7,
+    "fail": "knockdown, perform routine",
+    "wound": "knockback 7, +2 DANGER",
+    "crit": "zyskaj kartę Temenos Scale Shield (Cykl 2)",
+    "knockdown": true,
+    "knockback": 7,
+    "name": {
+     "en": "Maze Plate",
+     "pl": "Płyta Labiryntu"
+    },
+    "text": {
+     "en": "Fail: Knockdown. Perform Routine.\nWound: Knockback 7. Gain +2Λ.\nCritical: Gain the Temenos Scale Shield Cycle 2 [gear] card, [Temenos]!",
+     "pl": "Fail: Knockdown. Perform Routine.\nWound: Knockback 7. Zyskaj +2Λ.\nCritical: Zyskaj kartę Temenos Scale Shield Cyklu 2 [gear], [Temenos]!"
+    },
+    "crit_flavor": {
+     "en": "You crack the giant maze plate and grab a fragment as a trophy!",
+     "pl": "Rozłupujesz olbrzymią płytę labiryntu i chwytasz fragment jako trofeum!"
+    },
+    "res": [
+     "icon_maze"
+    ],
+    "uncertain": "Ikony w Critical (glif ekwipunku po 'Cycle 2' i glif głowy Temenosa w kółku) bez legendy – [gear], [Temenos]."
+   },
+   {
+    "id": "AS0550",
+    "n": "Small Pyramid",
+    "lvl": 2,
+    "at": 6,
+    "pre": "Spear: +1 żeton Break do Puli Kratos",
+    "instinct": "Strefa 1: +1 DANGER, knockdown",
+    "crit": "stwórz Vantage Point",
+    "knockdown": true,
+    "vantage_point": true,
+    "name": {
+     "en": "Small Pyramid",
+     "pl": "Mała Piramida"
+    },
+    "text": {
+     "en": "If your Weapon has the Spear Trait, immediately place 1 Break token in the Kratos Pool.\nInstinct: All Titans in Zone 1 gain +1Λ and suffer Knockdown.\nCritical: Create a Vantage Point.",
+     "pl": "Jeśli twoja Broń ma Cechę Spear, natychmiast połóż 1 żeton Break w Puli Kratos.\nInstinct: Wszyscy Tytani w Strefie 1 zyskują +1Λ i doznają Knockdown.\nCritical: Stwórz Vantage Point."
+    },
+    "crit_flavor": {
+     "en": "You destroy one of the pyramids and Temenos lets out an inhuman wail.",
+     "pl": "Niszczysz jedną z piramid, a Temenos wydaje nieludzkie wycie."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0551",
+    "n": "Hardened Maze Carapace",
+    "lvl": 2,
+    "at": 8,
+    "instinct": "perform signature vs attacker",
+    "crit": "do końca bitwy atak z 3 przednich sąsiednich pól: Temenos -1 TO HIT",
+    "name": {
+     "en": "Hardened Maze Carapace",
+     "pl": "Utwardzony Pancerz Labiryntu"
+    },
+    "text": {
+     "en": "Instinct: Perform Signature against the Attacker.\nCritical: Until the end of Battle, when you attack from the 3 front adjacent spaces, Temenos has -1[To Hit].",
+     "pl": "Instinct: Perform Signature przeciwko Atakującemu.\nCritical: Do końca Bitwy, gdy atakujesz z 3 przednich sąsiadujących pól, Temenos ma -1[To Hit]."
+    },
+    "crit_flavor": {
+     "en": "You hit the carapace with all your might, your hands tremble, your muscles spasm - but the shell has been cracked!",
+     "pl": "Uderzasz w pancerz z całej siły, ręce ci drżą, mięśnie wpadają w skurcz – ale skorupa pękła!"
+    },
+    "res": [
+     "icon_idol",
+     "icon_maze"
+    ]
+   },
+   {
+    "id": "AS0552",
+    "n": "Hind Maze Carapace",
+    "lvl": 2,
+    "at": 8,
+    "fail": "knockback 7",
+    "wound": "perform signature vs attacker",
+    "crit": "odrzuć wszystkie żetony Despair wszystkich Tytanów",
+    "knockback": 7,
+    "name": {
+     "en": "Hind Maze Carapace",
+     "pl": "Tylny Pancerz Labiryntu"
+    },
+    "text": {
+     "en": "Fail: Knockback 7.\nWound: Perform Signature against the Attacker.\nCritical: Discard all Despair tokens from each Titan.",
+     "pl": "Fail: Knockback 7.\nWound: Perform Signature przeciwko Atakującemu.\nCritical: Odrzuć wszystkie żetony Despair każdego Tytana."
+    },
+    "crit_flavor": {
+     "en": "You tear away one of the maze plates on the back and the creature shakes visibly.",
+     "pl": "Odrywasz jedną z labiryntowych płyt na grzbiecie, a istota wyraźnie się wzdryga."
+    },
+    "res": [
+     "icon_idol",
+     "icon_maze"
+    ]
+   },
+   {
+    "id": "AS0553",
+    "n": "Large Pyramid",
+    "lvl": 2,
+    "at": 7,
+    "pre": "Spear: +1 żeton Break do Puli Kratos",
+    "fail": "Strefa 1: +1 DANGER, knockdown",
+    "wound": "perform routine",
+    "crit": "stwórz Vantage Point",
+    "knockdown": true,
+    "vantage_point": true,
+    "name": {
+     "en": "Large Pyramid",
+     "pl": "Duża Piramida"
+    },
+    "text": {
+     "en": "If your Weapon has the Spear Trait, immediately place 1 Break token in the Kratos Pool.\nFail: All Titans in Zone 1 gain +1Λ and suffer Knockdown.\nWound: Perform Routine.\nCritical: Create a Vantage Point.",
+     "pl": "Jeśli twoja Broń ma Cechę Spear, natychmiast połóż 1 żeton Break w Puli Kratos.\nFail: Wszyscy Tytani w Strefie 1 zyskują +1Λ i doznają Knockdown.\nWound: Perform Routine.\nCritical: Stwórz Vantage Point."
+    },
+    "crit_flavor": {
+     "en": "You slice of the pyramid's tip, the giant maze fragment falls to the ground with a defeaning thud.",
+     "pl": "Odcinasz wierzchołek piramidy, olbrzymi fragment labiryntu spada na ziemię z ogłuszającym hukiem."
+    },
+    "res": [
+     "icon_idol"
+    ],
+    "uncertain": "Flavor ma literówki z karty ('slice of', 'defeaning') – przepisano dosłownie."
+   },
+   {
+    "id": "AS0554",
+    "n": "Leading Tentacle",
+    "lvl": 2,
+    "at": 6,
+    "fail": "karta Stanu Dread",
+    "wound": "Tytani na kafelkach Labyrinth +2 FATE",
+    "crit": "usuń 3 kafelki Labyrinth",
+    "condition": "Dread",
+    "name": {
+     "en": "Leading Tentacle",
+     "pl": "Wiodąca Macka"
+    },
+    "text": {
+     "en": "Fail: Gain the Dread Condition card.\nWound: All Titans on Labyrinth tiles gain +2Ψ.\nCritical: Remove 3 Labyrinth tiles from the Board.",
+     "pl": "Fail: zyskaj kartę Stanu Dread.\nWound: wszyscy Tytani na kafelkach Labyrinth zyskują +2Ψ.\nCritical: Usuń 3 kafelki Labyrinth z Planszy."
+    },
+    "crit_flavor": {
+     "en": "You crush one of the leading tentacles with a satisfying smack.",
+     "pl": "Miażdżysz jedną z wiodących macek z satysfakcjonującym plaśnięciem."
+    },
+    "res": [
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0555",
+    "n": "Grand Commisure",
+    "lvl": 3,
+    "at": 8,
+    "instinct": "perform signature vs attacker",
+    "crit": "dodatkowa pojedyncza Rana",
+    "name": {
+     "en": "Grand Commisure",
+     "pl": "Wielkie Spojenie"
+    },
+    "text": {
+     "en": "Instinct: Perform Signature against the Attacker.\nCritical: Deal an additional Single Wound.",
+     "pl": "Instinct: Perform Signature przeciwko Atakującemu.\nCritical: Zadaj dodatkową Pojedynczą Ranę."
+    },
+    "crit_flavor": {
+     "en": "You shatter the grand commisure and the creature almost splits in two!",
+     "pl": "Roztrzaskujesz wielkie spojenie, a istota niemal rozpada się na dwoje!"
+    },
+    "res": [
+     "icon_idol",
+     "icon_bubbles",
+     "icon_bubbles"
+    ],
+    "uncertain": "'Commisure' – pisownia z karty (poprawnie: commissure)."
+   },
+   {
+    "id": "AS0556",
+    "n": "Maw of Madness",
+    "lvl": 3,
+    "at": 10,
+    "pre": "Impossible Logic Boon: automatyczny Crit Chance; możesz zakończyć atak przed Power Roll (czyści Pulę Kratos)",
+    "fail": "dobierz Obola",
+    "crit": "Temenos ginie",
+    "name": {
+     "en": "Maw of Madness",
+     "pl": "Paszcza Szaleństwa"
+    },
+    "text": {
+     "en": "If you have the Impossible Logic Boon, automatically gain a Crit Chance.\nYou may voluntarily end this Attack before performing a Power Roll. If you do, clear the Kratos Pool.\nFail: Draw an Obol.\nCritical: Temenos dies!",
+     "pl": "Jeśli masz Dar Impossible Logic, automatycznie zyskujesz Crit Chance.\nMożesz dobrowolnie zakończyć ten Atak przed wykonaniem Power Roll. Jeśli to zrobisz, wyczyść Pulę Kratos.\nFail: dobierz Obola.\nCritical: Temenos ginie!"
+    },
+    "crit_flavor": {
+     "en": "You've jumped into the endless maw and struck at the heart of hearts.",
+     "pl": "Skoczyłeś w bezdenną paszczę i uderzyłeś w serce serc."
+    },
+    "res": [
+     "icon_idol",
+     "icon_maze"
+    ]
+   },
+   {
+    "id": "AS0557",
+    "n": "Fear Gland",
+    "lvl": 3,
+    "at": 7,
+    "instinct": "karta Stanu Fear",
+    "crit": "Tytani odrzucają negatywne Stany i żetony modyfikatorów; zyskaj Pyramidion (Secret Deck 5, karta 46)",
+    "condition": "Fear",
+    "name": {
+     "en": "Fear Gland",
+     "pl": "Gruczoł Strachu"
+    },
+    "text": {
+     "en": "Instinct: Gain the Fear Condition card.\nCritical: Each Titan discards all negative Condition cards and modifier tokens. Gain the Pyramidion Cycle 2 [gear] card (Secret Deck 5, card 46), [Temenos]!",
+     "pl": "Instinct: zyskaj kartę Stanu Fear.\nCritical: Każdy Tytan odrzuca wszystkie negatywne karty Stanu i żetony modyfikatorów. Zyskaj kartę Pyramidion Cyklu 2 [gear] (Talia Sekretna 5, karta 46), [Temenos]!"
+    },
+    "crit_flavor": {
+     "en": "You look at the miniscule organ that caused so much misery, then crush it like a bug.",
+     "pl": "Patrzysz na maleńki organ, który spowodował tyle nieszczęścia, po czym miażdżysz go jak robaka."
+    },
+    "res": [
+     "icon_maze",
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0558",
+    "n": "Contraction Center",
+    "lvl": 3,
+    "at": 7,
+    "fail": "perform signature vs attacker",
+    "wound": "stwórz Vantage Point",
+    "crit": "Temenos: 1 ujemny żeton TO HIT; wyłącz Routine",
+    "vantage_point": true,
+    "name": {
+     "en": "Contraction Center",
+     "pl": "Ośrodek Skurczu"
+    },
+    "text": {
+     "en": "Fail: Perform Signature against the Attacker.\nWound: Create a Vantage Point.\nCritical: Temenos gains 1 negative [To Hit] token. Disable Routine.",
+     "pl": "Fail: Perform Signature przeciwko Atakującemu.\nWound: stwórz Vantage Point.\nCritical: Temenos zyskuje 1 ujemny żeton [To Hit]. Wyłącz Routine."
+    },
+    "crit_flavor": {
+     "en": "You strike at the gordian knot of tissue, muscles and ligaments reaching far beyond this world and cut it clean.",
+     "pl": "Uderzasz w gordyjski węzeł tkanek, mięśni i więzadeł sięgających daleko poza ten świat i przecinasz go czysto."
+    },
+    "res": [
+     "icon_maze",
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0559",
+    "n": "Eimerian Tentacle Cluster",
+    "lvl": 3,
+    "at": 8,
+    "instinct": "Strefa 2: +1 DANGER, knockdown",
+    "crit": "Temenos: 1 ujemny żeton Precision; do końca bitwy AI celuje w najbliższego Tytana",
+    "knockdown": true,
+    "name": {
+     "en": "Eimerian Tentacle Cluster",
+     "pl": "Eimeryjska Wiązka Macek"
+    },
+    "text": {
+     "en": "Instinct: All Titans in Zone 2 gain +1Λ and suffer Knockdown.\nCritical: Temenos gains 1 negative Precision ([Precision]) token. Until the end of battle, all AI cards target the closest Titan.",
+     "pl": "Instinct: wszyscy Tytani w Strefie 2 zyskują +1Λ i doznają Knockdown.\nCritical: Temenos zyskuje 1 ujemny żeton Precision ([Precision]). Do końca bitwy wszystkie karty AI celują w najbliższego Tytana."
+    },
+    "crit_flavor": {
+     "en": "You sever the link between the cluster and the rest of the body, effectively making the Primordial blind.",
+     "pl": "Przecinasz połączenie między wiązką a resztą ciała, skutecznie oślepiając Prymordiala."
+    },
+    "res": [
+     "icon_idol",
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   },
+   {
+    "id": "AS0560",
+    "n": "Gate Brain",
+    "lvl": 3,
+    "at": 9,
+    "pre": "możesz zakończyć atak przed Power Roll (czyści Pulę Kratos)",
+    "fail": "dobierz kartę Moiros",
+    "crit": "Temenos nie kładzie kafelków Labyrinth; po bitwie Wydarzenie Specjalne The Gate",
+    "name": {
+     "en": "Gate Brain",
+     "pl": "Mózg Bramy"
+    },
+    "text": {
+     "en": "You may voluntarily end this Attack before performing a Power Roll. If you do, clear the Kratos Pool.\nFail: Draw a Moiros card.\nCritical: Temenos cannot place Labyrinth tiles. At the end of Battle resolve the The Gate Special Event.",
+     "pl": "Możesz dobrowolnie zakończyć ten Atak przed wykonaniem Power Roll. Jeśli to zrobisz, wyczyść Pulę Kratos.\nFail: dobierz kartę Moiros.\nCritical: Temenos nie może kłaść kafelków Labyrinth. Na końcu Bitwy rozpatrz Wydarzenie Specjalne The Gate."
+    },
+    "crit_flavor": {
+     "en": "There was a gate here to the other side and you closed it shut! Yet a memory lingers...",
+     "pl": "Była tu brama na drugą stronę, a ty ją zatrzasnąłeś! Ale wspomnienie pozostaje..."
+    },
+    "res": [
+     "icon_idol",
+     "icon_bubbles",
+     "icon_bubbles"
+    ]
+   }
+  ],
+  "sheet": {
+   "_legenda": "to_hit = ikona pięści (np. 7+), speed = ikona buta, wounds = ikona serca. mods: burst = [burst] (glif rozbłysku/kwiatu), face = [face] (glif twarzy/ośmiornicy w kółku, ten sam co plakietka BP i żetony 'To Hit' na kartach), die = [die] (romb/kość), danger = Λ; danger_per_hit = '+NΛ for each hit'.",
+   "id": [
+    "AU0563"
+   ],
+   "files": [
+    "cards/primordials/alpha_temenos_a.jpg",
+    "cards/primordials/alpha_temenos_b.jpg"
+   ],
+   "size": {
+    "footprint": "3×3",
+    "diagram": "3 pola R (Rear) nad Prymordialem, strzałka frontu na dole; na arkuszu B białe pola (Worm of the Labyrinth): lewe-górne pole boczne, prawe-dolne pole boczne i środkowe pole przed frontem",
+    "movement_icon": "8 (arkusz A) / 6 (arkusz B)",
+    "vp": true,
+    "extra_icon": "[cross-flower]"
+   },
+   "levels": [
+    {
+     "lvl": "I",
+     "to_hit": "8+",
+     "speed": 6,
+     "wounds": 10,
+     "traits_added": [
+      "Labyrinth X",
+      "Mazesense",
+      "Maze Reconfiguration",
+      "Ariadne's Logic",
+      "End of Hope"
+     ]
+    },
+    {
+     "lvl": "II",
+     "to_hit": "8+",
+     "speed": 6,
+     "wounds": 10,
+     "traits_added": [
+      "Snail of Nothing"
+     ]
+    },
+    {
+     "lvl": "III",
+     "to_hit": "8+",
+     "speed": 6,
+     "wounds": 11,
+     "mods": {
+      "burst": 1,
+      "face": 1,
+      "danger": 1
+     },
+     "traits_added": [
+      "Worm of the Labyrinth"
+     ]
+    },
+    {
+     "lvl": "IV",
+     "to_hit": "9+",
+     "speed": 7,
+     "wounds": 11,
+     "mods": {
+      "burst": 1,
+      "face": 2,
+      "danger": 1
+     },
+     "traits_added": [
+      "Win Together, Die Alone"
+     ]
+    },
+    {
+     "lvl": "V",
+     "to_hit": "9+",
+     "speed": 7,
+     "wounds": 12,
+     "mods": {
+      "burst": 2,
+      "face": 3,
+      "danger_per_hit": 1
+     },
+     "traits_added": [
+      "Beginning of the End"
+     ]
+    },
+    {
+     "lvl": "VI",
+     "to_hit": "10+",
+     "speed": 7,
+     "wounds": 12,
+     "mods": {
+      "burst": 3,
+      "face": 4,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Song of Hopelessness"
+     ]
+    },
+    {
+     "lvl": "VII",
+     "to_hit": "10+",
+     "speed": 8,
+     "wounds": 13,
+     "mods": {
+      "burst": 3,
+      "face": 5,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Song of Great Fear"
+     ]
+    },
+    {
+     "lvl": "VIII",
+     "to_hit": "11+",
+     "speed": 8,
+     "wounds": 13,
+     "mods": {
+      "burst": 4,
+      "face": 6,
+      "die": 1,
+      "danger_per_hit": 2
+     },
+     "traits_added": [
+      "Doom of the Centimanes"
+     ]
+    },
+    {
+     "lvl": "IX",
+     "to_hit": "11+",
+     "speed": 8,
+     "wounds": 14,
+     "mods": {
+      "burst": 5,
+      "face": 7,
+      "die": 2,
+      "danger_per_hit": 3
+     },
+     "traits_added": [
+      "Symphony of Despair",
+      "Ruthless"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "name": {
+      "en": "Ariadne's Logic",
+      "pl": "Ariadne's Logic"
+     },
+     "text": {
+      "en": "When attacked from a Labyrinth tile, Temenos has -1[To Hit].",
+      "pl": "Gdy jest atakowany z kafelka Labyrinth, Temenos ma -1[To Hit]."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "End of Hope",
+      "pl": "End of Hope"
+     },
+     "text": {
+      "en": "End of Primordial Round: Perform Signature.",
+      "pl": "Koniec Rundy Prymordiala: Perform Signature."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "Mazesense",
+      "pl": "Mazesense"
+     },
+     "text": {
+      "en": "Labyrinth tiles do not block Temenos's Line of Sight. Argonauts with the Mazetouched Affliction must apply all [ΨX+:] effects, regardless of their actual Ψ.",
+      "pl": "Kafelki Labyrinth nie blokują Linii Wzroku Temenosa. Argonauci z Przypadłością Mazetouched muszą stosować wszystkie efekty [ΨX+:], niezależnie od swojego faktycznego Ψ."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "Maze Reconfiguration",
+      "pl": "Maze Reconfiguration"
+     },
+     "text": {
+      "en": "When Temenos is instructed to place a Labyrinth tile under a Titan that is already standing on Labyrinth tile, that Titan draws an Obol instead.",
+      "pl": "Gdy Temenos ma położyć kafelek Labyrinth pod Tytanem, który już stoi na kafelku Labyrinth, ten Tytan zamiast tego dobiera Obola."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "Labyrinth X",
+      "pl": "Labyrinth X"
+     },
+     "text": {
+      "en": "Additional Setup: Place a Labyrinth token on the topmost space of the Labyrinth track.\nLabyrinth X: Place X Labyrinth Terrain tiles adjacent to and in front of the Primordial (see Cycle I Storybook). Use the tile shape that corresponds to the token's location on the track, then move the token clockwise to the next space.",
+      "pl": "Dodatkowe Przygotowanie: połóż żeton Labyrinth na najwyższym polu toru Labyrinth.\nLabyrinth X: połóż X kafelków Terenu Labyrinth sąsiadujących z Prymordialem i przed nim (patrz Księga Opowieści Cyklu I). Użyj kształtu kafelka odpowiadającego pozycji żetonu na torze, potem przesuń żeton zgodnie z ruchem wskazówek zegara na następne pole."
+     },
+     "from_lvl": "I"
+    },
+    {
+     "name": {
+      "en": "Snail of Nothing",
+      "pl": "Snail of Nothing"
+     },
+     "text": {
+      "en": "Each time Temenos gains a Wound, it gains 1 positive [To Hit] token. Next time you resolve an AI card, discard all of the [To Hit] tokens and add that many Λ to the Λ dealt by that Attack.",
+      "pl": "Za każdym razem, gdy Temenos otrzymuje Ranę, zyskuje 1 dodatni żeton [To Hit]. Przy następnym rozpatrywaniu karty AI odrzuć wszystkie żetony [To Hit] i dodaj tyle Λ do Λ zadawanego przez ten Atak."
+     }
+    },
+    {
+     "name": {
+      "en": "Worm of the Labyrinth",
+      "pl": "Worm of the Labyrinth"
+     },
+     "text": {
+      "en": "Temenos can only be attacked from the white spaces (marked on the Primordial diagram).",
+      "pl": "Temenos może być atakowany tylko z białych pól (zaznaczonych na diagramie Prymordiala)."
+     }
+    },
+    {
+     "name": {
+      "en": "Win Together, Die Alone",
+      "pl": "Win Together, Die Alone"
+     },
+     "text": {
+      "en": "Start of Titan turn: If you're not adjacent to another Titan, gain +2Λ and +2Ψ.",
+      "pl": "Początek tury Tytana: jeśli nie sąsiadujesz z innym Tytanem, zyskaj +2Λ i +2Ψ."
+     }
+    },
+    {
+     "name": {
+      "en": "Beginning of the End",
+      "pl": "Beginning of the End"
+     },
+     "text": {
+      "en": "End of Primordial Round: Before End of Hope, draw and perform another AI card.",
+      "pl": "Koniec Rundy Prymordiala: przed End of Hope dobierz i wykonaj kolejną kartę AI."
+     }
+    },
+    {
+     "name": {
+      "en": "Song of Hopelessness",
+      "pl": "Song of Hopelessness"
+     },
+     "text": {
+      "en": "(see card)",
+      "pl": "(patrz karta)"
+     }
+    },
+    {
+     "name": {
+      "en": "Song of Great Fear",
+      "pl": "Song of Great Fear"
+     },
+     "text": {
+      "en": "Each time you gain a Despair token, you also gain the Fear Condition card.",
+      "pl": "Za każdym razem, gdy zyskujesz żeton Despair, zyskujesz też kartę Stanu Fear."
+     }
+    },
+    {
+     "name": {
+      "en": "Doom of the Centimanes",
+      "pl": "Doom of the Centimanes"
+     },
+     "text": {
+      "en": "If you're not adjacent to another Titan, you cannot use Ψ to re-roll your Attack Rolls, Evasion Rolls and Judgement tests. If you're not adjacent to another Titan and you fully miss an Attack, you die.",
+      "pl": "Jeśli nie sąsiadujesz z innym Tytanem, nie możesz używać Ψ do przerzutów Rzutów Ataku, Rzutów Uniku i testów Judgement. Jeśli nie sąsiadujesz z innym Tytanem i całkowicie chybisz Ataku, giniesz."
+     }
+    },
+    {
+     "name": {
+      "en": "Symphony of Despair",
+      "pl": "Symphony of Despair"
+     },
+     "text": {
+      "en": "Start of Titan turn: Gain 1 Despair token.",
+      "pl": "Początek tury Tytana: zyskaj 1 żeton Despair."
+     }
+    },
+    {
+     "name": {
+      "en": "Ruthless",
+      "pl": "Ruthless"
+     },
+     "text": {
+      "en": "Remove all positive Trauma cards from the Trauma decks (except Obols).",
+      "pl": "Usuń wszystkie pozytywne karty Traumy z talii Traumy (oprócz Oboli)."
+     }
+    }
+   ],
+   "vantage_point": [
+    {
+     "name": {
+      "en": "Broken Pyramid",
+      "pl": "Złamana Piramida"
+     },
+     "lvl": "I",
+     "text": {
+      "en": "Climb: Test Fury (6+).\nHold On – End of Primordial Round: If on the VP, test Endurance (5+). Fail: Displace to an adjacent space, Knockdown.\nVP Point Effects: When on the VP, you gain +1[rune], you cannot gain Despair tokens and you ignore Primordial Responses.",
+      "pl": "Wspinaczka: Test Fury (6+).\nHold On – Koniec Rundy Prymordiala: jeśli jesteś na VP, test Endurance (5+). Fail: przesuń na sąsiednie pole, Knockdown.\nEfekty VP: gdy jesteś na VP, zyskujesz +1[rune], nie możesz zyskiwać żetonów Despair i ignorujesz Reakcje Prymordiala."
+     }
+    },
+    {
+     "name": {
+      "en": "Broken Pyramid (LVL 2+)",
+      "pl": "Złamana Piramida (POZ 2+)"
+     },
+     "lvl": "II+",
+     "text": {
+      "en": "Climb: Test Fury (8+).\nHold On – End of Primordial Round: If on the VP, test Endurance (7+). Fail: Displace to a Rear space, Knockdown.\nVP Effects: When on the VP, you gain +1[rune] and cannot gain Despair tokens. Ignore normal Primordial Responses, resolve these instead:\nWound: Gain +2Λ, immediately perform a Hold on test.\nFail: Immediately resolve the failed effect of the Hold on test, then perform Signature against the Attacker.",
+      "pl": "Wspinaczka: Test Fury (8+).\nHold On – Koniec Rundy Prymordiala: jeśli jesteś na VP, test Endurance (7+). Fail: przesuń na pole Tylne, Knockdown.\nEfekty VP: gdy jesteś na VP, zyskujesz +1[rune] i nie możesz zyskiwać żetonów Despair. Ignoruj zwykłe Reakcje Prymordiala, zamiast nich rozpatrz:\nWound: zyskaj +2Λ, natychmiast wykonaj test Hold On.\nFail: natychmiast rozpatrz efekt nieudanego testu Hold On, potem Perform Signature przeciwko Atakującemu."
+     }
+    }
+   ]
+  }
+ },
+ "uncertain": [
+  {
+   "id": "AR0471",
+   "note": "Tytuł wydrukowany 'ENCASEN' (możliwa literówka od 'Encase'); przepisano dosłownie."
+  },
+  {
+   "id": "AR0472",
+   "note": "Brak znacznika [!] przed ATTACK na skanie (jak wydrukowano)."
+  },
+  {
+   "id": "AR0474",
+   "note": "Brak znacznika [!] przed MOVE & ATTACK na skanie (może być celowe – por. cecha Lightspeeder)."
+  },
+  {
+   "id": "AR0478",
+   "note": "Ikona po 'Argo loses -1' (przekreślony symbol w kształcie X) bez legendy – zapisano [crossed icon]. Brak [!] przed JUDGE. Ikony Courage (skrzydło/miecz) i Will (hełm) odczytane z kontekstu."
+  },
+  {
+   "id": "AR0481",
+   "note": "Po Ataku wydrukowano 'Labyrinth 1' (bez kropki) i osobno '[!] Trample. Labyrinth 1.' – Labyrinth łącznie 2? Przepisano dosłownie, pole labyrinth=2 jako suma."
+  },
+  {
+   "id": "AR0483",
+   "note": "Ikona po -1 to dwa skrzyżowane wiosła – bez legendy w paczce; zapisano [Oars]."
+  },
+  {
+   "id": "AS0489",
+   "note": "Ikona pól w Critical = litera W w ramce (pola W z diagramu Prymordiala); ikona po -1 = glif twarzy/ośmiornicy jak na plakietce BP – odczytana jako To Hit (jak we wzorze)."
+  },
+  {
+   "id": "AS0490",
+   "note": "Ikona po -1 to PIĘŚĆ (jak pierwsza statystyka arkusza 7+), inna niż na AS0489 – zapisano [fist]."
+  },
+  {
+   "id": "AS0491",
+   "note": "Ikona zasobu (zawijas) przypisana do icon_plume – niepewne."
+  },
+  {
+   "id": "AS0493",
+   "note": "Ikony w Critical: glif broni po 'Mazemace' i glif łba byka w kółku – bez legendy, zapisano [weapon] i [Labyrinthauros]."
+  },
+  {
+   "id": "AS0496",
+   "note": "Ikony w Critical bez legendy – zapisano [gear] i [Labyrinthauros]."
+  },
+  {
+   "id": "AS0500",
+   "note": "Ikona w Critical (odwrócony trójkąt z płomieniem/kroplą) bez legendy – zapisano [flame triangle]."
+  },
+  {
+   "id": "AS0549",
+   "note": "Ikony w Critical (glif ekwipunku po 'Cycle 2' i glif głowy Temenosa w kółku) bez legendy – [gear], [Temenos]."
+  },
+  {
+   "id": "AS0553",
+   "note": "Flavor ma literówki z karty ('slice of', 'defeaning') – przepisano dosłownie."
+  },
+  {
+   "id": "AS0555",
+   "note": "'Commisure' – pisownia z karty (poprawnie: commissure)."
+  },
+  {
+   "id": "*",
+   "note": "Na kartach AI Alpha Temenos bonus Ψ zapisany jako '+1 ◈' (glif kości/rombu); zapisano '+1 die' / pole fate_die jak we wzorze. Ten sam glif [die] na arkuszach (poz. VIII–IX)."
+  },
+  {
+   "id": "sheet",
+   "note": "Nazwy statystyk arkusza nie są wydrukowane: pięść→to_hit, but→speed, serce→wounds (przyjęte). Glify modyfikatorów [burst] i [face] bez legendy w paczce."
+  },
+  {
+   "id": "sheet:labyrinthauros",
+   "note": "Ikona strzałki z liczbą 5 obok diagramu (ruch/rozmiar?) – zapisana jako movement_icon. Footprint 2×2 odczytany z diagramu – niepewne."
+  },
+  {
+   "id": "sheet:labyrinthauros",
+   "note": "Nagrody '+3' (poz. III) i '+12' (poz. IV) z ikoną bąbelków – zinterpretowane jako zasoby icon_bubbles."
+  },
+  {
+   "id": "sheet:alpha_temenos",
+   "note": "Ikona strzałki: 8 na arkuszu A, 6 na arkuszu B – rozbieżność na skanach, zapisano oba."
+  },
+  {
+   "id": "sheet:alpha_temenos",
+   "note": "Ikona [cross-flower] (rozeta z X) obok diagramu bez legendy. Cecha 'Song of Hopelessness' ma tylko '(see card)' – brak karty w paczce."
+  },
+  {
+   "id": "[rune]",
+   "note": "VP Effects: '+1' z glifem przypominającym runę/ciernie – bez legendy, zapisano [rune]."
+  },
+  {
+   "id": "res",
+   "note": "Ikony zasobów Temenosa: posążek/bożek → icon_idol, glif labiryntu → icon_maze (nowe nazwy). Zawijas na kartach Labyrinthaurosa → icon_plume (niepewne)."
+  },
+  {
+   "id": "AR0479/mnestis",
+   "note": "Home Run występuje jako AI III (AR0479, typ Sequential Attack) i jako Mnestis Routine (bez ID, z 'No Target: Random Titan dies' i 'repeat Routine')."
+  }
+ ]
+}
